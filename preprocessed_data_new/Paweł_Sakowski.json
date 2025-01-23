@@ -1,0 +1,162 @@
+[
+    {
+        "title": "momentum contrarian effect cryptocurrency market",
+        "authors": "Krzysztof Kosc, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2019/6/1",
+        "abstract": "report result investigation momentum contrarian effect cryptocurrency market investigated investment strategy involve 100 amongst 1200 present date nov 2017 cryptocurrencies largest market cap average daily volume exceeding given threshold value investment portfolio constructed using different assumption regarding portfolio reallocation period width ranking window number cryptocurrencies portfolio percent transaction cost performance benchmarked 1 equally weighted 2 weighted investment ranked asset well buy hold strategy based 3 p500 index 4 bitcoin price result show clear significant dominance contrarian momentum benchmark portfolio",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S037843711930216X"
+    },
+    {
+        "title": "estimate class size primary school poland",
+        "authors": "Maciej Jakubowski, Pawel Sakowski",
+        "year": "2006/1/1",
+        "abstract": "paper analyze class size effect case primary school poland use two empirical strategy avoid endogeneity bias first use average class size grade instrumental variable actual class size allows u control within school selection pupil different ability class different size additionally estimate fixed effect school control difference second exploit fact informal maximum class size rule estimate class size enrollment level school decide add new class thus dramatically lower class size enrollment level variance class size mainly exogenous argue allows estimation class size effect case use average class size instrument enrollment key control variable using",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0883035506001261"
+    },
+    {
+        "title": "lstm algorithmic investment strategy btc p500 index",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2022/1/25",
+        "abstract": "use lstm network forecast value btc p500 index using 2013 end 2020 following frequency daily 1 h 15 min introduce innovative loss function improves usefulness forecasting ability lstm algorithmic investment strategy based forecast lstm generate buy sell investment signal employ algorithmic investment strategy create equity line investment purpose use various combination lstm model optimized period tested period using rolling window approach pay special attention preprocessing input layer avoid overfitting estimation optimization process assure correct selection hyperparameters beginning test next stage devoted conjunction signal various frequency one ensemble selection best combination period optimization given criterion similar way portfolio finally perform sensitivity main parameter hyperparameters",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/22/3/917"
+    },
+    {
+        "title": "drgs europe cross country cholecystectomy",
+        "authors": "Gerli Paat‐Ahi, Maria Świderek, Paweł Sakowski, Janek Saluse, Ain Aaviksoo, EuroDRG group",
+        "year": "2012/8",
+        "abstract": "cholecystectomy surgical removal gallbladder common method treating symptomatic gallstone despite existence treatment guideline rate cholecystectomy varies widely across europe analyse patient 10 country undergone surgery treatment symptomatic gallstone test performance three model explaining variation log cost inpatient stay seven country length stay three country first includes group drg variable cholecystectomy patient coded md second us core set patient characteristic explanatory variable mp finally third combine set variable mf country vary number drgs used classify cholecystectomy patient range",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.2833"
+    },
+    {
+        "title": "volatility asset class obvious benefit hidden risk",
+        "authors": "Juliusz Jablecki, Ryszard Kokoszczynski, Pawel Sakowski",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=2365695509980457434&hl=en&oi=scholarr"
+    },
+    {
+        "title": "midquotes transactional comparison black hf",
+        "authors": "Ryszard Kokoszczynski, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2010/9/29",
+        "abstract": "main idea research check efficiency black option pricing basis hf emerging market however liquidity typical feature emerging derivative severe limit conducting reason conducted earlier research midquotes treating potential transactional kokoszczynski et 2010 got intriguing conclusion implementing different volatility process black option nevertheless taking account midquotes proper representation market price probably transactional decide compare paper result research conducted hf transactional midquotes comparison show result differ significantly two approach biv significantly outperform model especially brv latter producing worst result additionally provide discussion liquidity issue context emerging derivative market finally exclusion spurious outlier described detail previous paper observe significant pattern option pricing visible raw",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1832226"
+    },
+    {
+        "title": "energy cost efficiency bitcoin mining endeavor",
+        "authors": "Małgorzata Jabłczyńska, Krzysztof Kosc, Przemysław Ryś, Paweł Sakowski, Robert Ślepaczuk, Grzegorz Zakrzewski",
+        "year": "2023/3/30",
+        "abstract": "main aim analyze btc mining efficiency current market condition december 2021 including soaring energy price produced many different source different geographical location thorough initial assumption concerning 1 price mining machine associated component effective amortization period 2 difficulty hash rate btc network 3 btc transaction fee 4 energy cost various source found currently btc mining profitable except rare case main reason phenomenon fast unpredictable increase difficulty btc network time result decreasing participation already purchased mining machine btc network hash rate research augmented detailed sensitivity mining efficiency initial parameter assumption allows observing condition btc mining efficient profitable challenging",
+        "keywords": null,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283687"
+    },
+    {
+        "title": "option pricing model hf comparative property black different volatility measure",
+        "authors": "Ryszard Kokoszczyński, Natalia Nehrebecka, Paweł Sakowski, Paweł Strawiński, Robert Ślepaczuk",
+        "year": "2010",
+        "abstract": "paper compare option pricing model based black notion black 1976 especially focusing volatility model implied process pricing calculated black historical bhv implied biv several different type realized brv volatility additionally searching optimal interval δ parameter memory process main intention find best ie predicts actual market price minimum error focused hf bidask quote instead transactional order omit problem trading additionally increase significance research numerous observation calculation several error statistic rmse hmae hrmse additionally percent price overpredictions result confirmed initial intuition biv best bhv second best least efficient division database different class moneyness ratio ttm enabled u observe distinct difference compared pricing model additionally focusing pricing different volatility process result conclusion averaged process rv main reason high error instability valuation high volatility environment finally able detect spurious outlier explain reason owing comparison pricing error statistic",
+        "keywords": null,
+        "url": "https://www.academia.edu/download/31113179/79e4151029388bdbc1.pdf"
+    },
+    {
+        "title": "model produce robustresults econometric diagnostic issue equity risk premia",
+        "authors": "Paweł Sakowski, Robert Ślepaczuk, Mateusz Wywiał",
+        "year": "2016",
+        "abstract": "recent decade numerous study verified empirical validity capm many showed capm alone able explain variation stock return researcher revealed various risk factor explained outperformance given group stock proposed modification existing model surprisingly hardly find discussion financial literature potential drawback applying standard ols method estimate parameter model yet question robustness ols result invalid assumption ignored article aim address diagnostic econometric issue influence result multifactor based preliminary result 81 emerging developed equity index sakowski ślepaczuk wywiał 2016a obtained ols check robustness result popular violation ols assumption find autocorrelation error term heteroscedasticity arch effect 81 regression apply using mle remove also identify outlier diagnose collinearity problem additionally apply gmm avoid strong assumption iid error term finally present comparison parameter estimate rsquared value obtained three different method estimation ols mle gmm find result differ substantially three method allow draw conclusion investigated",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/585858.pdf"
+    },
+    {
+        "title": "investment strategy beat market squeeze market",
+        "authors": "Robert Ślepaczuk, Paweł Sakowski, Grzegorz Zakrzewski",
+        "year": "2018/10/1",
+        "abstract": "paper present new approach optimizing automatic transactional system propose technique enables u find investment strategy beafing market additionally new measure combined risk return applied process optimization moreover define new element risk control system based volatility measure consecutive signal confirmation result formulate three complex investment system maximize return simultaneously minimize risk comparison alternative investment 2",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/fiqf-2018-0026"
+    },
+    {
+        "title": "measurement modeling literature review",
+        "authors": "Juliusz Jabłecki, Ryszard Kokoszczyński, Paweł Sakowski, Robert Ślepaczuk, Piotr Wójcik",
+        "year": "2012",
+        "abstract": "paper present overview literature volatility measurment modeling forecasting perspective option pricing following conclusion drawn first efficiency volatility estimation utilizes intraday measurmes realized volatility sum squared return calculated short g time interval realized range second volatility lends least forecasting efficient forecast extracted option price quoted marked square basic theory forecasting market expectation based broader set information time series forecast third althought opinion pricing theory derived assumption constant volatility approach fairly easily generalised cover case time demendent time asset price dependent even stochastic volatility model allows capture key element empirically observed pattern market return allows constructing hedged option position lead differential equation determining option price specified boundry condition although always closed form",
+        "keywords": null,
+        "url": "https://www.infona.pl/resource/bwmeta1.element.desklight-c87429dd-2bbf-4f95-8d8e-929e69bc2a70"
+    },
+    {
+        "title": "investing vix future based rolling garch model forecast",
+        "authors": "Oleh Bilyk, Pawel Sakowski, Robert Ślepaczuk",
+        "year": "2020",
+        "abstract": "aim work compare performance vix future trading strategy built across different garch volatility forecasting technique long short signal vix future produced comparing ahead volatility forecast current historical volatility found using daily period strategy based specification outperformed garch egarch model performed slightly p 500 strategy base garch training window size type gave stable result whereas performance across refit frequency conditional distribution return historical volatility estimator varies significantly despite investment strategy space improvement presented strategy show potential competing equity volatility benchmark",
+        "keywords": null,
+        "url": "https://econpapers.repec.org/paper/warwpaper/2020-10.htm"
+    },
+    {
+        "title": "invest mining endeavour efficiency btc mining current market condition",
+        "authors": "Małgorzata Jabłczyńska, Krzysztof Kosc, Przemysław Ryś, Robert Ślepaczuk, Paweł Sakowski, Grzegorz Zakrzewski",
+        "year": "2018",
+        "abstract": "main aim paper analyse efficiency btc mining current market condition thorough initial assumption concerning 1 price mining machine effective amortization period 2 difficulty hash rate btc network 3 btc transaction fee 4 energy cost found currently btc mining profitable except rare case main reason phenomenon fast unpredictable increase difficulty btc network time result decreasing participation mining machine btc network hash rate research augmented detailed sensitivity mining efficiency initial parameter assumption allows observe condition btc mining efficient profitable challenging meet",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2018-18.html"
+    },
+    {
+        "title": "invest based equity risk premia risk factor model",
+        "authors": "Paweł Sakowski, Robert Ślepaczuk, Mateusz Wywiał",
+        "year": "2016",
+        "abstract": "find detailed model make possible propose investment strategy based equity risk premium disequlibrium examine two investment algorithm built weekly world equity index emerging developed country period create seven risk factor using additional market capitalisation book value country gdp beta equity index first strategy utilises theoretical value equity risk premium variable common country variable specific country compare theoretical realised equity risk premium given index undertake decision second algorithm work eight risk factor applies input variable markowitz model alternative optimisation criterion target risk target return maximum sharpe ratio minimum variance equally weighted asset finally notice impact risk factor final result investment strategy much important selection particular econometric order correctly evaluate equity risk premium",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2016-09.html"
+    },
+    {
+        "title": "return diverse portfolio equity index risk premia embedded",
+        "authors": "Paweł Sakowski, Robert Ślepaczuk, Mateusz Wywiał",
+        "year": "2015/6/30",
+        "abstract": "main purpose article extend evaluation classic carhart global equity index intend check robustness model result used wide set equity index instead single stock given country modification enables u estimate equity risk premium single country however requires several amendment proposed methodology single stock empirical evidence reveals important difference conventional model estimated single stock either international model incorporating whole market novel approach show divergence index developed country emerging market still persistent additionally research weekly equity index present rationale explanation equity risk premia difference variously sorted portfolio",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=472922"
+    },
+    {
+        "title": "historical vix term structure contain valuable information predicting vix future",
+        "authors": "Juliusz Jabłecki, Ryszard Kokoszczyński, Paweł Sakowski, Robert Ślepaczuk, Piotr Wójcik",
+        "year": "2014",
+        "abstract": "suggest term structure vix future show clear pattern dependence current level vix index low level vix 20 term structure highly upward sloping high vix level 30 strongly downward sloping use feature predict future vix future price precisely begin introducing quantitative measure volatility term structure vt volatility risk premium vrp use estimate distance actual value fair value vt find distance significant predictive power volatility future index future use feature design simple strategy invest vix future",
+        "keywords": null,
+        "url": "https://apcz.umk.pl/DEM/article/view/DEM.2014.001"
+    },
+    {
+        "title": "investment strategy beating market squeeze market",
+        "authors": "Robert Ślepaczuk, Grzegorz Zakrzewski, Paweł Sakowski",
+        "year": "2012",
+        "abstract": "paper present new approach optimizing automatic transactional system propose technique enables u find investment strategy beating market additionally new measure combined risk return applied process optimization moreover define new element risk control system based volatility measure consecutive signal confirmation result formulate three complex investment system maximize return simultaneously minimize risk comparison alternative investment 2 maximum drawdown 21 maximum loss year based historical daily period index commodity future afterwards system reoptimized reallocated half year order include recent financial finally show result joint consisting three system",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2508647"
+    },
+    {
+        "title": "mean absolute directional loss new loss function machine learning problem algorithmic investment strategy",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2024/9/1",
+        "abstract": "paper investigates issue adequate loss function optimization machine learning model used forecasting financial time series purpose algorithmic investment strategy ai construction propose mean absolute directional loss madl function solving important problem classical forecast error function extracting information forecast create efficient signal algorithmic investment strategy madl place appropriate emphasis quality point forecast also impact rate achievement investment system based introduction detailed description theoretical property new madl loss function main contribution literature empirical part based two different asset class cryptocurrencies bitcoin commodity crude oil",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877750324001686"
+    },
+    {
+        "title": "systemic risk indicator based implied realized volatility",
+        "authors": "Paweł Sakowski, Rafał Sieradzki, Robert Ślepaczuk",
+        "year": "2023/7/10",
+        "abstract": "propose new measure systemic risk analyze impact major financial market turmoil stock market 2000 2023 usa europe brazil japan implied volatility realized volatility systemic risk indicator ivrvsri show reaction stock market varies across different geographical location persistence shock depends historical volatility average volatility level given market methodology applied based logic simpler always better complex lead result approach significantly limit risk substantially decrease computational burden robustness check show ivrvsri precise valid measure current systemic risk stock market moreover used type asset forecasting ability various sris including catfin cis ivrvsri srisk cleveland fed regard weekly return p 500 index evaluated based simple linear quantile regression show ivrvsri strongest predicting power among",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2307.05719"
+    },
+    {
+        "title": "verification investment opportunity cryptocurrency market within markowitz framework",
+        "authors": "Paweł Sakowski, Anna Turovtseva",
+        "year": "2020",
+        "abstract": "aim paper reveal classical approach asset allocation reflected innovative market cryptocurrencies markowitz rebalanced portfolio technique employed purpose filtering coin optimization done whole scope cryptocurrencies available time horizon 52 coin get portfolio least four primary strategy produced within set assumed optimization parameter together four benchmark benchmark bitcoin p500 equally weighted portfolio portfolio weighted market capitalization looking performance measure concluded markowitz strategy outperform benchmark every set parameter result sensitivity suggest big potential finding profitable strategy investment cryptocurrencies change parameter period rebalancing window transaction cost well optimization objective impact strategy performance significantly eventually appear strategy sensitivity performs better primary one due prolonged parameter period rebalancing window",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2020-41.html"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Momentum and contrarian effects on the cryptocurrency market",
+        "authors": "Krzysztof Kosc, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2019/6/1",
+        "abstract": "We report the results of investigation of the momentum and contrarian effects on cryptocurrency markets. The investigated investment strategies involve 100 (amongst over 1200 present as of date Nov 2017) cryptocurrencies with the largest market cap and average 14-day daily volume exceeding a given threshold value. Investment portfolios are constructed using different assumptions regarding the portfolio reallocation period, width of the ranking window, the number of cryptocurrencies in the portfolio, and the percent transaction costs. The performance is benchmarked against: (1) equally weighted and (2) market-cap weighted investments in all of the ranked assets, as well as against the buy and hold strategies based on (3) S&P500 index, and (4) Bitcoin price. Our results show a clear and significant dominance of the short-term contrarian effect over both momentum effect and the benchmark portfolios. The …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S037843711930216X"
+    },
+    {
+        "title": "Quasi-experimental estimates of class size effect in primary schools in Poland",
+        "authors": "Maciej Jakubowski, Pawel Sakowski",
+        "year": "2006/1/1",
+        "abstract": "In this paper we analyze class size effects in the case of primary schools in Poland. We use two empirical strategies to avoid endogeneity bias. First, we use average class size in a grade as an instrumental variable for actual class size. This allows us to control for within school selection of pupils with different abilities to classes of different sizes. Additionally, we estimate fixed effects for schools to control for differences between them. Second, we exploit the fact that there is an informal maximum class size rule. We estimate class size effect only for those enrollment levels where some schools decide to add a new class and thus dramatically lower class sizes. For such enrollment levels variance of class size is mainly exogenous and we argue that this allows estimation of quasi-experimental class size effects. In this case we again use average class size as an instrument with enrollment as a key control variable. Using …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0883035506001261"
+    },
+    {
+        "title": "LSTM in algorithmic investment strategies on BTC and S&P500 index",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2022/1/25",
+        "abstract": "We use LSTM networks to forecast the value of the BTC and S&P500 index, using data from 2013 to the end of 2020, with the following frequencies: daily, 1 h, and 15 min data. We introduce our innovative loss function, which improves the usefulness of the forecasting ability of the LSTM model in algorithmic investment strategies. Based on the forecasts from the LSTM model we generate buy and sell investment signals, employ them in algorithmic investment strategies and create equity lines for our investment. For this purpose we use various combinations of LSTM models, optimized on in-sample period and tested on out-of-sample period, using rolling window approach. We pay special attention to data preprocessing in the input layer, to avoid overfitting in the estimation and optimization process, and assure correct selection of hyperparameters at the beginning of our tests. The next stage is devoted to the conjunction of signals from various frequencies into one ensemble model, and the selection of best combinations for the out-of-sample period, through optimization of the given criterion in a similar way as in the portfolio analysis. Finally, we perform a sensitivity analysis of the main parameters and hyperparameters of the model.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/22/3/917"
+    },
+    {
+        "title": "DRGs in Europe: a cross country analysis for cholecystectomy",
+        "authors": "Gerli Paat‐Ahi, Maria Świderek, Paweł Sakowski, Janek Saluse, Ain Aaviksoo, EuroDRG group",
+        "year": "2012/8",
+        "abstract": "Cholecystectomy is the surgical removal of the gallbladder. It is the most common method for treating symptomatic gallstones. Despite the existence of well‐established treatment guidelines, the rate of cholecystectomy varies widely across Europe. We analyse patients in 10 countries that had undergone surgery for the treatment of symptomatic gallstones. We test the performance of three models in explaining variation in the (log of) cost of the inpatient stay (seven countries) or length of stay (three countries). The first model includes only the diagnosis‐related group (DRG) variables to which cholecystectomy patients were coded (MD), the second uses a core set of patient characteristics and episode‐specific explanatory variables (MP), and finally, the third model combines both sets of variables (MF). Countries vary both in the number of DRGs used to classify cholecystectomy patients (range: 2–8), and in the …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.2833"
+    },
+    {
+        "title": "Volatility as an asset class: Obvious benefits and hidden risks",
+        "authors": "Juliusz Jablecki, Ryszard Kokoszczynski, Pawel Sakowski",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=2365695509980457434&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Midquotes or Transactional Data? The Comparison of Black Model on HF Data",
+        "authors": "Ryszard Kokoszczynski, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2010/9/29",
+        "abstract": "The main idea of this research is to check the efficiency of the Black option pricing model on the basis of HF emerging market data. However, liquidity constraints-a typical feature of an emerging derivatives market-put severe limits for conducting such a study. That is the reason why we have conducted our earlier research on midquotes data treating them as potential transactional data (Kokoszczynski et al., 2010). We have got some intriguing conclusions about implementing different volatility processes into the Black option model. Nevertheless, taking into account that midquotes do not have to be the proper representation of market prices as probably transactional data do, we decide to compare in this paper our results of the research conducted on HF transactional and midquotes data. This comparison shows that the results do not differ significantly between these two approaches and that BIV model significantly outperform other models, especially BRV model with the latter producing the worst results. Additionally, we provide the discussion of liquidity issue in the context of emerging derivatives market. Finally, after exclusion of spurious outlier described in details in the previous paper we observe significant patterns in option pricing which are not visible on the raw data.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1832226"
+    },
+    {
+        "title": "Energy and cost efficiency of Bitcoin mining endeavor",
+        "authors": "Małgorzata Jabłczyńska, Krzysztof Kosc, Przemysław Ryś, Paweł Sakowski, Robert Ślepaczuk, Grzegorz Zakrzewski",
+        "year": "2023/3/30",
+        "abstract": "The main aim of the study is to analyze BTC mining’s efficiency under current market conditions (December 2021), including soaring energy prices produced from many different sources in different geographical locations. After a thorough analysis of initial assumptions concerning the (1) price of mining machine with associated components and its effective amortization period, (2) difficulty and the hash rate of the BTC network, (3) BTC transaction fees, and (4) energy costs from various sources, we have found that currently, BTC mining is not profitable, except for some rare cases. The main reason for this phenomenon is the fast and unpredictable increase of difficulty of the BTC network over time which results in decreasing participation of already purchased mining machines in the BTC network hash rate. The research is augmented with a detailed sensitivity analysis of mining efficiency to initial parameters assumptions, which allows observing that the conditions for BTC mining to be efficient and profitable are very challenging.",
+        "keywords": null,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283687"
+    },
+    {
+        "title": "Option Pricing Models with HF Data–a Comparative Study. The Properties of Black Model with Different Volatility Measures",
+        "authors": "Ryszard Kokoszczyński, Natalia Nehrebecka, Paweł Sakowski, Paweł Strawiński, Robert Ślepaczuk",
+        "year": "2010",
+        "abstract": "This paper compares option pricing models, based on Black model notion (Black, 1976), especially focusing on the volatility models implied in the process of pricing. We calculated the Black model with historical (BHV), implied (BIV) and several different types of realized (BRV) volatility (additionally searching for the optimal interval Δ, and parameter n-the memory of the process). Our main intention was to find the best model, ie which predicts the actual market price with minimum error. We focused on the HF data and bidask quotes (instead of transactional data) in order to omit the problem of non-synchronous trading and additionally to increase the significance of our research through numerous observations. After calculation of several error statistics (RMSE, HMAE and HRMSE) and additionally the percent of price overpredictions, the results confirmed our initial intuition that that BIV is the best model, BHV being the second best, and BRV–the least efficient of them. The division of our database into different classes of moneyness ratio and TTM enabled us to observe the distinct differences between compared pricing models. Additionally, focusing on the same pricing model with different volatility processes results in the conclusion that point-estimate, not averaged process of RV is the main reason of high errors and instability of valuation in high volatility environment. Finally, we have been able to detect “spurious outliers” and explain their effect and the reason for them owing to the multi-dimensional comparison of the pricing error statistics.",
+        "keywords": null,
+        "url": "https://www.academia.edu/download/31113179/79e4151029388bdbc1.pdf"
+    },
+    {
+        "title": "Do multi-factor models produce robustresults? Econometric and diagnostic issues in equity risk premia study",
+        "authors": "Paweł Sakowski, Robert Ślepaczuk, Mateusz Wywiał",
+        "year": "2016",
+        "abstract": "In recent decades numerous studies verified empirical validity of the CAPM model. Many of them showed that CAPM alone is not able to explain cross-sectional variation of stock returns. Researchers revealed various risk factors which explained outperformance of given groups of stocks or proposed modifications to existing multi-factor models. Surprisingly, we hardly find any discussion in financial literature about potential drawbacks of applying standard OLS method to estimate parameters of such models. Yet, the question of robustness of OLS results to invalid assumptions shouldn't be ignored. This article aims to address diagnostic and econometric issues which can influence results of a time-series multifactor model. Based on the preliminary results of a five-factor model for 81 emerging and developed equity indices [Sakowski, Ślepaczuk and Wywiał, 2016a] obtained with OLS we check the robustness of these results to popular violations of OLS assumptions. We find autocorrelation of error term, heteroscedasticity and ARCH effects for most of 81 regressions and apply an AR-GARCH model using MLE to remove them. We also identify outliers and diagnose collinearity problems. Additionally, we apply GMM to avoid strong assumption of IID error term. Finally, we present comparison of parameters estimates and Rsquared values obtained by three different methods of estimation: OLS, MLE and GMM. We find that results do not differ substantially between these three methods and allow to draw the same conclusions from the investigated five-factor model.",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/585858.pdf"
+    },
+    {
+        "title": "Investment Strategies that Beat the Market. What Can We Squeeze from the Market?",
+        "authors": "Robert Ślepaczuk, Paweł Sakowski, Grzegorz Zakrzewski",
+        "year": "2018/10/1",
+        "abstract": "The paper presents a new approach to optimizing automatic transactional systems. We propose a multi-stage technique which enables us to find investment strategies beafing the market. Additionally, new measures of combined risk and returns are applied in the process of optimization. Moreover, we define new elements of a risk control system based on volatility measures and consecutive signal confirmation. As a result, we formulate three complex investment systems which maximize returns and simultaneously minimize risk in comparison to all other alternative investments (IR= 2,",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/fiqf-2018-0026"
+    },
+    {
+        "title": "Pomiar i modelowanie zmienności—przegląd literatury",
+        "authors": "Juliusz Jabłecki, Ryszard Kokoszczyński, Paweł Sakowski, Robert Ślepaczuk, Piotr Wójcik",
+        "year": "2012",
+        "abstract": "The paper presents an overview of the literature on volatility measurment, modeling and forecasting, from the perspective of option pricing. The following conclusion are drawn. First, efficiency volatility estimation utilizes intraday data and measurmes such as realized volatility (i.e. sum of squared returns calculated over short, e. g 5-minute, time intervals) or realized range. Second, volatility lends itself- at least to some extent- to forecasting, where by the most efficient forecasts are those extracted from option prices quoted on the marked, which squares with the basic theory of forecasting as market expectations are based on broader set of information than backward-looking time series forecasts. Third, althought Black-Scholes opinion pricing theory was derived under the assumption of constant volatility, the approach can be fairly easily generalised to cover cases of time demendent, time and asset price dependent, and even stochastic volatility. Each of those models allows to capture some key element of the empirically observed pattern of market returns and each allows constructing a hedged option position that leads to a differential equation determining the option price (under specified boundry conditions), although not always in closed form.",
+        "keywords": null,
+        "url": "https://www.infona.pl/resource/bwmeta1.element.desklight-c87429dd-2bbf-4f95-8d8e-929e69bc2a70"
+    },
+    {
+        "title": "Investing in VIX futures based on rolling GARCH models forecasts",
+        "authors": "Oleh Bilyk, Pawel Sakowski, Robert Ślepaczuk",
+        "year": "2020",
+        "abstract": "The aim of this work is to compare the performance of VIX futures trading strategies built across different GARCH model volatility forecasting techniques. Long and short signals for VIX futures are produced by comparing one-day ahead volatility forecasts with current historical volatility. We found out that using the daily data over the seven-year period (2013-2019), strategy based on the fGARCH-TGARCH and GJR-GARCH specifications outperformed those of the GARCH and EGARCH models, and performed slightly below the “buy-and-hold” S&P 500 strategy. For the base GARCH(1,1) model, the training window size and the type gave stable results, whereas the performance across refit frequency, conditional distribution of returns, and historical volatility estimators varies significantly. Despite non-robustness of some investment strategies and some space for improvements, the presented strategies show their potential in competing with the equity and volatility benchmarks.",
+        "keywords": null,
+        "url": "https://econpapers.repec.org/paper/warwpaper/2020-10.htm"
+    },
+    {
+        "title": "Why you should not invest in mining endeavour? The efficiency of BTC mining under current market conditions",
+        "authors": "Małgorzata Jabłczyńska, Krzysztof Kosc, Przemysław Ryś, Robert Ślepaczuk, Paweł Sakowski, Grzegorz Zakrzewski",
+        "year": "2018",
+        "abstract": "The main aim of this paper is to analyse the efficiency of BTC mining under current market conditions. After thorough analysis of initial assumptions concerning the (1) price of mining machine and its effective amortization period, (2) difficulty and hash rate of BTC network, (3) BTC transaction fees and (4) energy costs, we have found that currently BTC mining is not profitable, except for some rare cases. The main reason of this phenomenon is the fast and unpredictable increase of difficulty of BTC network over time which results in decreasing participation of our mining machines in BTC network hash rate. The research is augmented with detailed sensitivity analysis of mining efficiency to initial parameters assumptions, which allows to observe that the conditions for BTC mining to be efficient and profitable are very challenging to meet.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2018-18.html"
+    },
+    {
+        "title": "Can We Invest Based on Equity Risk Premia and Risk Factors from Multi-Factor Models?",
+        "authors": "Paweł Sakowski, Robert Ślepaczuk, Mateusz Wywiał",
+        "year": "2016",
+        "abstract": "We find that detailed analysis of multi-factor models makes it possible to propose investment strategies based on equity risk premium disequlibrium. We examine two investment algorithms built on weekly data of world equity indices for emerging and developed countries in the period of 2000-2015. We create seven risk factors using additional data about market capitalisation, book value, country GDP and betas of equity indices. The first strategy utilises theoretical value of equity risk premium from seven-factor Markov-switching model with variables common for all countries and variables specific to developed/emerging countries. We compare theoretical with realised equity risk premium for a given index to undertake the buy/sell decisions. The second algorithm works only on eight risk factors and applies them as input variables to Markowitz models with alternative optimisation criteria (target risk, target return, maximum Sharpe ratio, minimum variance and equally weighted assets). Finally, we notice that the impact of risk factors on final results of investment strategy is much more important than the selection of a particular econometric model in order to correctly evaluate equity risk premium.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2016-09.html"
+    },
+    {
+        "title": "CROSS-SECTIONAL RETURNS FROM DIVERSE PORTFOLIO OF EQUITY INDICES WITH RISK PREMIA EMBEDDED.",
+        "authors": "Paweł Sakowski, Robert Ślepaczuk, Mateusz Wywiał",
+        "year": "2015/6/30",
+        "abstract": "The main purpose of this article is to extend evaluation of classic Fama-French and Carhart model for global equity indices. We intend to check the robustness of models results when used for a wide set of equity indices instead of single stocks for the given country. Such modification enables us to estimate equity risk premium for a single country. However, it requires several amendments to the proposed methodology for single stocks. Our empirical evidence reveals important differences between the conventional models estimated on single stocks, either international or US- only, and models incorporating whole markets. Our novel approach shows that the divergence between indices of the developed countries and those of emerging markets is still persistent. Additionally, research on weekly data for equity indices presents rationale for explanation of equity risk premia differences between variously sorted portfolios.",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=472922"
+    },
+    {
+        "title": "Does historical VIX term structure contain valuable information for predicting VIX futures?",
+        "authors": "Juliusz Jabłecki, Ryszard Kokoszczyński, Paweł Sakowski, Robert Ślepaczuk, Piotr Wójcik",
+        "year": "2014",
+        "abstract": "We suggest that the term structure of VIX futures shows a clear pattern of dependence on the current level of VIX index. At the low levels of VIX (below 20), the term structure is highly upward sloping, while at the high VIX levels (over 30) it is strongly downward sloping. We use these features to predict future VIX futures prices more precisely. We begin by introducing some quantitative measures of volatility term structure (VTS) and volatility risk premium (VRP). We use them further to estimate the distance between the actual value and the fair (model) value of the VTS. We find that this distance has significant predictive power for volatility futures and index futures and we use this feature to design simple strategies to invest in VIX futures.",
+        "keywords": null,
+        "url": "https://apcz.umk.pl/DEM/article/view/DEM.2014.001"
+    },
+    {
+        "title": "Investment Strategies Beating the Market: What Can We Squeeze from the Market?",
+        "authors": "Robert Ślepaczuk, Grzegorz Zakrzewski, Paweł Sakowski",
+        "year": "2012",
+        "abstract": "The paper presents the new approach to optimizing automatic transactional systems. We propose the multi-stage technique which enables us to find investment strategies beating the market. Additionally, new measures of combined risk and returns are applied in the process of optimization. Moreover, we define new elements of risk control system based on volatility measures and consecutive signals confirmation. As the result, we formulate three complex investment systems, which maximize returns and simultaneously minimize risk in comparison to all other alternative investments (IR= 2, Maximum Drawdown< 21%, Maximum Loss Duration= 0.75 year). Our analysis is based on historical daily data (1998-2010, in-and out-of-sample period) for index and commodity futures. Afterwards, systems are reoptimized and reallocated each half a year in order to include the most recent financial data. Finally, we show the results for joint model consisting of our three systems.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2508647"
+    },
+    {
+        "title": "Mean Absolute Directional Loss as a new loss function for machine learning problems in algorithmic investment strategies",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2024/9/1",
+        "abstract": "This paper investigates the issue of an adequate loss function in the optimization of machine learning models used in the forecasting of financial time series for the purpose of algorithmic investment strategies (AIS) construction. We propose the Mean Absolute Directional Loss (MADL) function, solving important problems of classical forecast error functions in extracting information from forecasts to create efficient buy/sell signals in algorithmic investment strategies. MADL places appropriate emphasis not only on the quality of the point forecast but also on its impact on the rate of achievement by the investment system based on it. The introduction and detailed description of the theoretical properties of this new MADL loss function are our main contributions to the literature. In the empirical part of the study, based on the data from two different asset classes (cryptocurrencies: Bitcoin and commodities: Crude Oil), we …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877750324001686"
+    },
+    {
+        "title": "Systemic risk indicator based on implied and realized volatility",
+        "authors": "Paweł Sakowski, Rafał Sieradzki, Robert Ślepaczuk",
+        "year": "2023/7/10",
+        "abstract": "We propose a new measure of systemic risk to analyze the impact of the major financial market turmoils in the stock markets from 2000 to 2023 in the USA, Europe, Brazil, and Japan. Our Implied Volatility Realized Volatility Systemic Risk Indicator (IVRVSRI) shows that the reaction of stock markets varies across different geographical locations and the persistence of the shocks depends on the historical volatility and long-term average volatility level in a given market. The methodology applied is based on the logic that the simpler is always better than the more complex if it leads to the same results. Such an approach significantly limits model risk and substantially decreases computational burden. Robustness checks show that IVRVSRI is a precise and valid measure of the current systemic risk in the stock markets. Moreover, it can be used for other types of assets and high-frequency data. The forecasting ability of various SRIs (including CATFIN, CISS, IVRVSRI, SRISK, and Cleveland FED) with regard to weekly returns of S&P 500 index is evaluated based on the simple linear, quasi-quantile, and quantile regressions. We show that IVRVSRI has the strongest predicting power among them.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2307.05719"
+    },
+    {
+        "title": "Verification of Investment Opportunities on the Cryptocurrency Market within the Markowitz Framework",
+        "authors": "Paweł Sakowski, Anna Turovtseva",
+        "year": "2020",
+        "abstract": "The aim of the paper is to reveal if the classical approach for asset allocation can be reflected on an innovative market of cryptocurrencies. Markowitz rebalanced portfolio technique is employed for this purpose. The filtering of coins for optimization is done on the whole scope of cryptocurrencies available for the time horizon of the study and only 52 coins get into the portfolio at least once. There are four primary strategies produced within a set of assumed optimization parameters together with four benchmarks for each. The benchmarks are Bitcoin buy-and-hold, S&P500 buy-and-hold, equally weighted portfolio and portfolio weighted by market capitalization. While looking at the performance measures, it is concluded that Markowitz strategies outperform their benchmarks for every set of parameters. The results of the sensitivity analysis suggest that there is a big potential in finding profitable strategy of investment on cryptocurrencies. The change of parameters: look-back period, rebalancing window, transaction cost as well as optimization objective impact the strategies performance significantly. Eventually, there appear a strategy in the sensitivity analysis, which performs better than the primary ones due to the prolonged parameters of look-back period and rebalancing window.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2020-41.html"
+    }
+]

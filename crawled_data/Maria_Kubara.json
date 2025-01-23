@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Applied spatial statistics and econometrics: data analysis in R",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2020/11/25",
+        "abstract": "This textbook is a comprehensive introduction to applied spatial data analysis using R. Each chapter walks the reader through a different method, explaining how to interpret the results and what conclusions can be drawn. The author team showcases key topics, including unsupervised learning, causal inference, spatial weight matrices, spatial econometrics, heterogeneity and bootstrapping. It is accompanied by a suite of data and R code on Github to help readers practise techniques via replication and exercises. This text will be a valuable resource for advanced students of econometrics, spatial planning and regional science. It will also be suitable for researchers and data scientists working with spatial data.",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=hDv_DwAAQBAJ&oi=fnd&pg=PT21&dq=info:NoGxFgNshAYJ:scholar.google.com&ots=cTQqTG1Kg8&sig=S_726Edk5loTLUHRW475-X2wInw"
+    },
+    {
+        "title": "Akaike information criterion in choosing the optimal k-nearest neighbours of the spatial weight matrix",
+        "authors": "Maria Kubara, Katarzyna Kopczewska",
+        "year": "2023/2/28",
+        "abstract": "We use the Akaike information criterion (AIC) to assess the quality of non-nested spatial econometric models with a different number of nearest neighbours (knn) included in the spatial weight matrix W. This is of particular importance in two cases: when estimating the model on geolocated point data without explicit guidance on the optimal value of knn; and when dealing with different spatial patterns and a unique W generalizes diverse spatial structures. By minimizing AIC for a set of competing models, one can find the optimal knn that guarantees the best fit. We show through simulation and empirical analysis that AIC is a non-linear function of knn and reaches its minimum for a given knn. We provide practical evidence that misspecified W may result in a 20% bias of model parameters.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/17421772.2023.2176539"
+    },
+    {
+        "title": "Przestrzenne metody ilościowe w R: statystyka, ekonometria, uczenie maszynowe, analiza danych",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2023",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=16252493746283172944&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Spatial weights matrix, distance measurement, tessellation, spatial statistics",
+        "authors": "Katarzyna Kopczewska, Maria Kubara",
+        "year": "2020/11/25",
+        "abstract": "Chapter 4 is a summary of the most important methods for spatial statistics. It shows how to build and edit the spatial weights matrix W under different criteria, such as contiguity, k nearest neighbours, neighbours in a d-km radius, inverse distance or inverse squared distance. It also discusses various theoretical and applied aspects of spatial weights matrix selection. It presents available distance metrics and methods of computation distance between points and vectors. It introduces tessellation with methods of dealing with this kind of objects. Finally, it describes spatial statistics in a theoretical and applied way: global ones such as Moran, Geary or join-count and local ones such as LISA, Geary, Getis-Ord or LOSH. It also shows the spatial cross-correlations between two variables and correlograms. This chapter is fundamental for spatial data analysis and detecting and understanding spatial patterns, which is the …",
+        "keywords": null,
+        "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003033219-4/spatial-weights-matrix-distance-measurement-tessellation-spatial-statistics-katarzyna-kopczewska-maria-kubara"
+    },
+    {
+        "title": "Spatiotemporal localisation patterns of technological startups: the case for recurrent neural networks in predicting urban startup clusters",
+        "authors": "Maria Kubara",
+        "year": "2024/3",
+        "abstract": "More attention should be dedicated to intra-urban localisation decisions of technological startups. While the general trend of innovative companies being attracted to metropolitan areas is well-known and thoroughly researched, much less is understood about the micro-geographical patterns emerging within cities. Considering the growing number of papers mentioning that agglomeration externalities attenuate sharply with distance, such an analysis of micro-scale localisation patterns is crucial for understanding whether these effects are of importance for technological startups. Using a sample of startups from the up-and-coming market in Central-East Europe in Warsaw, Poland, their spatial organisation across the years will be tracked to investigate whether there is a defined pattern consistent with highly localised externalities operating within cities and how this pattern evolves over time. Additionally, the paper will …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00168-023-01220-7"
+    },
+    {
+        "title": "Zasięg dyfuzji bodźców gospodarczych-testowanie modelu rdzeń-peryferia w odniesieniu do kohezyjnej polityki regionalnej i lokalnej",
+        "authors": "Maria Kubara (Mikos)",
+        "year": "2019",
+        "abstract": "Dążenie do spójności stanowi podstawę polityki regionalnej Unii Europejskiej. Kolejne edycje strategii rozwojowych różnią się jednak między sobą obszarami koncentracji inwestycji. W pracy dokonano przeglądu teoretycznych modeli polityki regionalnej oraz określono główne obszary zainteresowania kolejnych strategii spójnościowych na przykładzie Polski. Za pomocą ekonometrycznego modelu interakcji przestrzennych wyznaczono przestrzenny zasięg dyfuzji bodźców rozwojowych z centrów na peryferia. Dynamiczna analiza danych dla lat 1996–2017 pozwoliła na empiryczną ocenę realizacji strategii rozwojowych w Polsce, a jej wyniki potwierdziła analiza L-momentów rozkładu przedsiębiorczości. Wyznaczono okres najwyższej skuteczności polityki spójności. Podjęto również próbę wytypowania obszarów odpowiedzialnych za brak skuteczności polityki opartej na metodologii smart.",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=802038"
+    },
+    {
+        "title": "Population density as the attractor of business to the place",
+        "authors": "Katarzyna Kopczewska, Maria Kubara, Mateusz Kopyt",
+        "year": "2024/9/27",
+        "abstract": "Firm location studies traditionally assume that this is business that attracts other business to a given location. They focus on knowledge transfers between the most productive and innovative firms and analyse agglomeration economies arising from matching, learning and sharing mechanisms. We argue that the population density also attracts firms to the place. Therefore, we extend this stream of research by using the concept of economies of density to discuss the effects of the attraction of firms by population. Our study explores the existence of the hierarchical causal mechanism that occurs when 2nd line firms understood as non-innovative, less productive retail and service businesses together with human settlement create an environment that attracts 1st line firms - the most innovative and productive businesses. We show that population density and business agglomeration jointly affect the location of firms in …",
+        "keywords": null,
+        "url": "https://www.nature.com/articles/s41598-024-73341-8"
+    },
+    {
+        "title": "What are the impacts of Cohesion Policy on the trade-off between employment and productivity?",
+        "authors": "Sebastien Bourdin, Sergio Destefanis, Gianluigi Coppola, Maria Kubara",
+        "year": "2024/9/3",
+        "abstract": "This paper examines the heterogeneous effectiveness of European Union (EU) Cohesion Policy in fostering regional growth, considering the potential trade-off between productivity improvement and job creation. By analysing the impact of European Structural and Investment Funds on regional development at the NUTS-2 level, the study contributes to the literature on productivity and employment trade-offs at the regional level. A novel empirical approach, based on a multi-input multi-output transformation function, is employed to explore the differing impacts of EU Cohesion Policy on gross domestic product (GDP) per employee and employment rate. The findings suggest that there exists heterogeneity (across different funds and regions) in the effects of Cohesion Policy on the trade-off between employment and productivity. Striking a balance between productivity-boosting investments and job creation is crucial in …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/00343404.2024.2379444"
+    },
+    {
+        "title": "Macierze wag przestrzennych, pomiar odległości, teselacja, statystyka przestrzenna",
+        "authors": "Maria Kubara, Katarzyna Kopczewska",
+        "year": "2020",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://repozytorium.uw.edu.pl/items/83a6d687-fbac-49fa-a7ae-3f63688e7e12"
+    },
+    {
+        "title": "Spatial range of the diffusion of economic incentives: testing the corepheriphery model in reference to the regional and local cohesion policy/Zasieg dyfuzji bodzcow …",
+        "authors": "Maria Kubara (Mikos)",
+        "year": "2019/6/1",
+        "abstract": "Dqzenie do sp6jnosci stanowi podstawe polityki regionalnej Unii Europejskiej. Kolejne edycje strategii rozwojowych r6zniq sie jednak miedzy sobq obszarami koncentracji inwestycji. W pracy dokonano przeglqdu teoretycznych modeli polityki regionalnej oraz okreslono gl6wne obszary zainteresowania kolejnych strategii sp6jnosciowych na przykladzie Polski. Za pomocq ekonometrycznego modelu interakcji przestrzennych wyznaczono przestrzenny zasieg dyfuzji bodic6w rozwojowych z centr6w na peryferia. Dynamiczna analiza danych dla lat 1996-2017 pozwolila na empirycznq ocene realiza-cji strategii rozwojowych w Polsce, a jej wyniki potwierdzila analiza L-moment6w rozkladu przedsiebiorczosci. Wyznaczono okres najwyzszej skutecznosci polityki sp6jnosci. Podjeto r6wniez pr6be wytypowania obszar6w odpowiedzialnych za brak skutecznosci polityki opartej na metodologii smart.",
+        "keywords": null,
+        "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/pbcpcyss6&section=15"
+    }
+]

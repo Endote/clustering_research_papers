@@ -1,0 +1,162 @@
+[
+    {
+        "title": "breaking cloud parameterization deadlock",
+        "authors": "David Randall, Marat Khairoutdinov, Akio Arakawa, Wojciech Grabowski",
+        "year": "2003/11",
+        "abstract": "key factor limiting reliability simulation anthropogenic climate change inability accurately represent various effect cloud climate despite best effort community problem resisted solution several decade reason briefly reviewed argued many decade problem solved approach cloud parameterization used alternative approach called superparameterization outlined cloud model csrms used place conventional cloud parameterizations test performed community atmosphere show superparameterizations give realistic simulation current climate including greatly improved simulation oscillation tropical wave disturbance",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/bams/84/11/bams-84-11-1547.xml"
+    },
+    {
+        "title": "coupling cloud process dynamic using convection parameterization crcp",
+        "authors": "Wojciech W Grabowski",
+        "year": "2001/5/1",
+        "abstract": "wd hall 1998 cloud resolving modeling tropical cloud system phase iii gate part ii effect resolution third spatial dimension atmos 55",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/58/9/1520-0469_2001_058_0978_ccpwtl_2.0.co_2.xml?tab_body=pdf"
+    },
+    {
+        "title": "growth cloud droplet turbulent environment",
+        "authors": "Wojciech W Grabowski, Lian-Ping Wang",
+        "year": "2013/1/3",
+        "abstract": "motivated need resolve bottleneck warm rain formation significant number study emerged past 15 year concerning growth cloud droplet diffusion turbulent environment regard condensation recent study suggest turbulence alone produce significant broadening spectrum smearing fluctuation rapid turbulent gravitational mixing however different history associated hopping could lead significant spectral broadening contrast turbulence cumulus cloud make significant contribution droplet enhancing collection kernel factor 5 especially droplet pair low gravitational collision rate",
+        "keywords": null,
+        "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-011212-140750"
+    },
+    {
+        "title": "multidimensional positive definite advection transport algorithm nonoscillatory option",
+        "authors": "Piotr K Smolarkiewicz, Wojciech W Grabowski",
+        "year": "1990/2/1",
+        "abstract": "paper present nonoscillatory option free dispersive ripple advection algorithm described previously comput phys 54 1984 325 67 1986 396 approach adopted merges transport methodology iterative formalism algorithm discussion algorithm accuracy included theoretical consideration illustrated numerical test example application atmospheric fluid dynamic problem",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/002199919090105A"
+    },
+    {
+        "title": "confronting challenge modeling cloud precipitation microphysics",
+        "authors": "Hugh Morrison, Marcus van Lier‐Walqui, Ann M Fridlind, Wojciech W Grabowski, Jerry Y Harrington, Corinna Hoose, Alexei Korolev, Matthew R Kumjian, Jason A Milbrandt, Hanna Pawlowska, Derek J Posselt, Olivier P Prat, Karly J Reimel, Shin‐Ichiro Shima, Bastiaan van Diedenhoven, Lulin Xue",
+        "year": "2020/8",
+        "abstract": "atmosphere microphysics refers microscale process affect cloud precipitation particle key linkage among various component earth atmospheric water energy cycle representation microphysical process model continues pose major challenge leading uncertainty numerical weather forecast climate simulation paper problem treating microphysics model divided two part represent population cloud precipitation particle given impossibility simulating particle individually within cloud ii uncertainty microphysical process rate owing fundamental gap knowledge cloud physic recently developed lagrangian method advocated way address several conceptual practical challenge representing particle population using traditional",
+        "keywords": null,
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019ms001689"
+    },
+    {
+        "title": "crcp cloud resolving convection parameterization modeling tropical convecting atmosphere",
+        "authors": "Wojciech W Grabowski, Piotr K Smolarkiewicz",
+        "year": "1999/9/10",
+        "abstract": "new computational approach crcp proposed l tropical dynamic c dynamic captured explicitly leading idea represent subgrid scale l imbedding 2d c column 3d l approach tailored distributed memory architecture overall philosophy underlying crcp reinvestment effort simulation elaborate yet embarrassingly parallel turbulence model similar traditional convection parameterization l provides ambient forcings c imbedded inside l column c feed back convective response every column l furthermore availability allows explicit coupling moist convection radiative surface process following experience cloud",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167278999001049"
+    },
+    {
+        "title": "droplet growth warm turbulent cloud",
+        "authors": "BJ Devenish, Peter Bartello, J‐L Brenguier, LR Collins, Wojciech W Grabowski, RHA IJzermans, Szymon P Malinowski, MW Reeks, JC Vassilicos, L‐P Wang, Z Warhaft",
+        "year": "2012/7",
+        "abstract": "survey consider impact turbulence cloud formation cloud scale droplet scale assess progress understanding turbulence condensational collisional growth droplet entrainment mixing droplet spectrum increasing power computer better experimental observational technique allow much detailed process hitherto possible however much research necessarily remains idealized argue study include fundamental characteristic cloud droplet sedimentation latent heating relevant cloud nevertheless large body research last decade beginning allow tentative conclusion made example unlikely turbulent eddy eddy",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.1897"
+    },
+    {
+        "title": "modelling diurnal cycle deep precipitating convection land model model",
+        "authors": "F Guichard, JC Petch, J‐L Redelsperger, P Bechtold, J‐P Chaboureau, S Cheinet, W Grabowski, H Grenier, CG Jones, M Köhler, J‐M Piriou, R Tailleux, M Tomasini",
+        "year": "2004/10",
+        "abstract": "idealized designed investigate modelling diurnal cycle deep precipitating convection land simulation case performed seven model scms three model crms within framework quick onset convective rainfall found scms consistent result model contrast crms predict rainfall noon joint result provided type indicates convection occurs early scms due crude triggering criterion quick onset convective precipitation crms first cloud appear noon surface rainfall delayed hour several hour intermediate stage missing scms except one characterized gradual moistening free troposphere increase height",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/qj.03.145"
+    },
+    {
+        "title": "modeling tropical cloud system phase iii gate part experiment",
+        "authors": "Wojciech W Grabowski, Xiaoqing Wu, Mitchell W Moncrieff",
+        "year": "1996/12/15",
+        "abstract": "formal framework established way numerical model used investigate role precipitating cloud system climate weather forecasting model emphasis model periodic lateral boundary condition eliminate unrealistic numerically generated circulation caused open boundary condition simulation defined formalism concept forcing interaction consistent periodic boundary condition",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/53/24/1520-0469_1996_053_3684_crmotc_2_0_co_2.xml?tab_body=fulltext-display"
+    },
+    {
+        "title": "toward cloud resolving modeling tropical circulation simple cloud microphysics parameterization",
+        "authors": "Wojciech W Grabowski",
+        "year": "1998/11/1",
+        "abstract": "wd hall 1998 modeling tropical cloud system phase iii gate part ii effect resolution third spatial dimension atmos 55",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/55/21/1520-0469_1998_055_3283_tcrmol_2.0.co_2.xml?tab_body=fulltext-display"
+    },
+    {
+        "title": "modeling cloud system phase iii gate part ii effect resolution third spatial dimension",
+        "authors": "Wojciech W Grabowski, Xiaoqing Wu, Mitchell W Moncrieff, William D Hall",
+        "year": "1998/11/1",
+        "abstract": "cheng yanai 1989 effect downdraft mesoscale convective organization heat moisture budget tropical cloud cluster part iii effect mesoscale convective organization atmos 46",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/55/21/1520-0469_1998_055_3264_crmocs_2.0.co_2.xml?tab_body=pdf"
+    },
+    {
+        "title": "daytime convective development land intercomparison based lba observation",
+        "authors": "WW Grabowski, P Bechtold, A Cheng, R Forbes, C Halliwell, M Khairoutdinov, S Lang, T Nasuno, J Petch, W‐K Tao, R Wong, X Wu, K‐M Xu",
+        "year": "2006/1",
+        "abstract": "paper investigates daytime convective development land representation model scms model crms intercomparison case developed based observation diurnal cycle convection rainy season amazonia focus 6 h period sunrise early afternoon identified previous study critical diurnal cycle summertime continent numerical weather prediction climate model period characterized formation growth convective boundary layer early morning temperature moisture profile surface flux increase sunrise proceeds formation shallow convective cloud convective boundary layer deepens lead eventual transition shallow deep",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/qj.04.147"
+    },
+    {
+        "title": "intercomparison model atmospheric radiation measurement summer 1997 intensive observation period",
+        "authors": "Kuan‐Man Xu, Richard T Cederwall, Leo J Donner, Wojciech W Grabowski, Françoise Guichard, Daniel E Johnson, Marat Khairoutdinov, Steven K Krueger, Jon C Petch, David A Randall, Charles J Seman, Wei‐Kuo Tao, Donghai Wang, Shao Cheng Xie, J John Yio, Ming‐Hua Zhang",
+        "year": "2002/1",
+        "abstract": "paper report intercomparison midlatitude continental cumulus convection simulated eight two model crms driven observed advective temperature moisture tendency surface turbulent flux profile three summer 1997 intensive observation period u department energy atmospheric radiation measurement arm program includes two three precipitation event various intensity span 4 5 day result summarized follows crms reasonably simulate midlatitude continental summer convection observed arm cloud radiation testbed site term intensity convective activity temperature evolution delayed occurrence initial precipitation",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/003590002321042117"
+    },
+    {
+        "title": "effect turbulence geometric collision rate sedimenting droplet part result direct numerical simulation",
+        "authors": "Orlando Ayala, Bogdan Rosa, Lian-Ping Wang, Wojciech W Grabowski",
+        "year": "2008/7/31",
+        "abstract": "relatively study turbulent collision rate sedimenting droplet context cloud physic gravitational settling inertial effect must simultaneously considered direct numerical simulation dns used geometric collision rate cloud droplet stokes drag law nonlinear drag law considered local aerodynamic interaction included typical droplet turbulence parameter convective cloud used determine flow dissipation rate epsilon characteristic stokes number nondimensional terminal velocity dns result large number run covering epsilon range 10 400 cm 2 3 droplet size 10 60 μm radius presented result show air turbulence increase geometric collision kernel 47 relative",
+        "keywords": null,
+        "url": "https://iopscience.iop.org/article/10.1088/1367-2630/10/7/075015/meta"
+    },
+    {
+        "title": "comparison bulk bin microphysics model using kinematic framework",
+        "authors": "Hugh Morrison, Wojciech W Grabowski",
+        "year": "2007/8/1",
+        "abstract": "paper discusses development testing bulk microphysics capable addressing impact atmospheric aerosol cloud similarly previous bulk scheme predicts mixing ratio number concentration cloud droplet key element relatively sophisticated cloud droplet activation scheme comprehensive treatment mechanism latter three previously published scheme selected tested detailed bin microphysics providing benchmark unique aspect test performed using kinematic framework advective transport gravitational sedimentation included two test case used first mimicking single large eddy",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/64/8/jas3980.xml?tab_body=fulltext-display"
+    },
+    {
+        "title": "modeling supersaturation mixing bulk warm microphysics",
+        "authors": "Hugh Morrison, Wojciech W Grabowski",
+        "year": "2008/3/1",
+        "abstract": "baker mb rg corbin latham 1980 influence entrainment evolution cloud droplet spectrum inhomogeneous mixing quart roy meteor 106",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/65/3/2007jas2374.1.xml?tab_body=abstract-display"
+    },
+    {
+        "title": "coherent structure sensitivity simulation using convection parameterization crcp",
+        "authors": "Wojciech W Grabowski",
+        "year": "2003/3/1",
+        "abstract": "flatau pj flatau phoebus pp niiler 1997 feedback equatorial convection local radiative evaporative process implication intraseasonal oscillation atmos 54",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/60/6/1520-0469_2003_060_0847_mlcsss_2.0.co_2.xml?tab_body=abstract-display"
+    },
+    {
+        "title": "feedback tropic",
+        "authors": "Wojciech W Grabowski, MW Moncrieff",
+        "year": "2004/10",
+        "abstract": "paper discusses feedback tropic spatial fluctuation deep convection cause perturbation moisture turn affect spatial distribution deep convection simple heuristic argument using timescale humidity change explains feedback particularly relevant tropical intraseasonal oscillation dynamical context feedback investigated idealized rotating tropic everywhere aquaplanet using convection parametrization crcp traditional convective parametrization emanuel scheme organization convection within equatorial waveguide take form oscillation coherent structure first",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/qj.03.135"
+    },
+    {
+        "title": "interface instability rising thermal calculation two spatial dimension",
+        "authors": "Wojciech W Grabowski, Terry L Clark",
+        "year": "1991/2/15",
+        "abstract": "high resolution numerical experiment rising thermal stably stratified environment performed cloud boundary instability unstable mode develop leading edge rising thermal driven buoyant production vorticity lead type entraining eddy thought responsible observed dilution convective cloud instability develop complex evolving base state characterized nonparallel flow near interface contractional component across interface stretching component along analytical presented describes temporal evolution shear layer prior onset instability shown flow pattern associated thermal rise lead exponential increase shear normal interface exponential decrease shear",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/48/4/1520-0469_1991_048_0527_ciirtc_2_0_co_2.xml"
+    },
+    {
+        "title": "novel approach representing ice microphysics model description test using kinematic framework",
+        "authors": "Hugh Morrison, Wojciech W Grabowski",
+        "year": "2008/5/1",
+        "abstract": "borys rd dh lowenthal sa cohn woj brown 2003 mountaintop radar measurement anthropogenic aerosol effect snow growth snowfall rate geophys re 30 1538 doi",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/65/5/2007jas2491.1.xml?tab_body=fulltext-display"
+    }
+]

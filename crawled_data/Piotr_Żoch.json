@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Some unpleasant markup arithmetic: Production function elasticities and their estimation from production data",
+        "authors": "Steve Bond, Arshia Hashemi, Greg Kaplan, Piotr Zoch",
+        "year": "2021/7/1",
+        "abstract": "The ratio estimator of the markup is the ratio of the output elasticity for a flexible input to that input’s cost share in total revenue. We highlight identification and estimation issues pertaining to this ratio estimator, when firm-level output prices are not observed. If the revenue elasticity for a flexible input is used in place of the output elasticity, then profit maximization implies that the ratio estimator is identically equal to one, and thus is uninformative about markups. Concerning estimation of output elasticities: with only revenue data, profit maximization also implies that the output elasticity is not identified non-parametrically from estimation of the revenue production function, if firms have market power. Even with separate output price and quantity data, it is challenging to estimate the output elasticity consistently if there are non-linear productivity dynamics and firms face heterogeneous demand schedules, with unobserved …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304393221000544"
+    },
+    {
+        "title": "Markups, labor market inequality and the nature of work",
+        "authors": "Greg Kaplan, Piotr Zoch",
+        "year": "2020/3/2",
+        "abstract": "We demonstrate the importance of distinguishing between the traditional use of labor for production, versus alternative uses of labor for overhead, marketing and other expansionary activities, for studying the distribution of both factor income and labor income. We use our framework to assess the impact of changes in markups on the overall labor share and on labor income inequality across occupations. We identify the production and expansionary content of different occupations from the co-movement of occupational income shares with markup-induced changes in the labor share. We find that around one-fifth of US labor income compensates expansionary activities, and that occupations with larger expansionary content have experienced the fastest wage and employment growth since 1980. Our framework can rationalize a countercyclical labor share in the presence of sticky prices and can be used to study the distributional effects of demand shocks, monetary policy and secular changes in competition.",
+        "keywords": null,
+        "url": "https://www.nber.org/papers/w26800"
+    },
+    {
+        "title": "Financial Intermediation and Aggregate Demand: A Sufficient Statistics Approach",
+        "authors": "Yu-Ting Chiang, Piotr Zoch",
+        "year": "2022",
+        "abstract": "We show the financial sector’s asset supply elasticities are sufficient statistics summarizing its macroeconomic effects for a large class of financial frictions. We demonstrate their usefulness for quantitative macroeconomic analysis in the context of models with household heterogeneity and illiquidity. They are crucial for policy questions ranging from the size of fiscal multipliers to the effectiveness of targeting the financial sector vs. households. Workhorse models imply different values of these elasticities, generating output responses to policies that can differ by orders of magnitude. We show how to construct empirical measures of these elasticities.",
+        "keywords": null,
+        "url": "https://www.ecb.europa.eu/press/conferences/shared/pdf/20241007_monpolconf/Zoch_paper.pdf"
+    },
+    {
+        "title": "Macroprudential and monetary policy rules in a model with collateral constraints",
+        "authors": "Piotr Żoch",
+        "year": "2020",
+        "abstract": "We compare the welfare and macroeconomic effects of monetary policy and macroprudential policy, in particular one targeting the loan-to-value (LTV) ratio. We develop a dynamic stochastic general equilibrium (DSGE) model with collateral constraints and two types of agents. In this set-up, we study seven potential policy rules responding to credit growth and fluctuations in the prices of collateral. We show that monetary policy responding to deviations in collateral prices from their steady-state value results in the highest level of social welfare. It is also useful in stabilising output and inflation. A macroprudential policy using the LTV ratio as the instrument is dominated in terms of output and inflation stability by interest rate rules. If interest rate rules are not available, the LTV ratio can be used to improve welfare, but the gains are small.",
+        "keywords": null,
+        "url": "https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.doi-10_33119_GN_120623"
+    }
+]

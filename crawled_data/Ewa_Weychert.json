@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Financial development and income inequality",
+        "authors": "Ewa Weychert",
+        "year": "2020",
+        "abstract": "This paper analyses the influence of financial development on income inequality. Throughout this work, one may find the overview of theoretical and empirical literature as well as the empirical model using fixed panel data method. This research paper tries to disentangle the opposing views on the relationship between finance and income distribution, by evaluating the impact of the different dimensions of financial development on the level of income inequality. The important added value of this research is the usage of quintiles of income distribution as a dependent variable that may help to recognise the effect of financial development on the poorest and richest. Another novelty of the paper is the consideration of the effects of financial variables on Gini coefficient in the long and short run. The main results of the analysis using dataset from 2003 to 2014 indicate that financial access decreases income inequality.",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=973418"
+    },
+    {
+        "title": "The causal effect of catastrophic health expenditure on poverty in Poland",
+        "authors": "Aleksandra Kolasa, Ewa Weychert",
+        "year": "2024/3",
+        "abstract": "Introduction\nOut-of-pocket medical expenses are a crucial source of health care financing in a number of countries. With the ongoing population aging, health care costs are likely to increase. Therefore, disentangling the relationship between health care spending and monetary poverty is becoming increasingly important. Although there is extensive literature on the impoverishment effect of out-of-pocket medical payments, it lacks empirical studies on a causal relationship between catastrophic health expenditure and poverty. In our paper, we try to fill this gap.\nMethods\nWe estimate recursive bivariate probit models using Polish Household Budget Survey data covering years from 2010 to 2013 and from 2016 to 2018. The model controls for a wide range of factors and endogeneity between poverty and catastrophic health expenditure.\nResults\nWe show that the causal relationship between catastrophic health expenditure …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s10198-023-01579-6"
+    }
+]

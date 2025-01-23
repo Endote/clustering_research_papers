@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Breaking the cloud parameterization deadlock",
+        "authors": "David Randall, Marat Khairoutdinov, Akio Arakawa, Wojciech Grabowski",
+        "year": "2003/11",
+        "abstract": "A key factor limiting the reliability of simulations of anthropogenic climate change is the inability to accurately represent the various effects of clouds on climate. Despite the best efforts of the community, the problem has resisted solution for several decades. The reasons for this are briefly reviewed and it is argued that it will be many more decades before the problem can be solved through the approaches to cloud parameterization that have been used up to now. An alternative approach, called superparameterization, is then outlined, in which high-resolution cloud system-resolving models (CSRMs) are used in place of the conventional cloud parameterizations. Tests performed with the Community Atmosphere Model show that superparameterizations can give more realistic simulations of the current climate, including greatly improved simulations of the Madden–Julian oscillation and other tropical wave disturbances …",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/bams/84/11/bams-84-11-1547.xml"
+    },
+    {
+        "title": "Coupling cloud processes with the large-scale dynamics using the cloud-resolving convection parameterization (CRCP)",
+        "authors": "Wojciech W Grabowski",
+        "year": "2001/5/1",
+        "abstract": "——,——,——, and WD Hall, 1998: Cloud resolving modeling of tropical cloud systems during Phase III of GATE. Part II: Effects of resolution and the third spatial dimension. J. Atmos. Sci., 55, 3264–3282.",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/58/9/1520-0469_2001_058_0978_ccpwtl_2.0.co_2.xml?tab_body=pdf"
+    },
+    {
+        "title": "Growth of cloud droplets in a turbulent environment",
+        "authors": "Wojciech W Grabowski, Lian-Ping Wang",
+        "year": "2013/1/3",
+        "abstract": "Motivated by the need to resolve the condensation-coalescence bottleneck in warm rain formation, a significant number of studies have emerged in the past 15 years concerning the growth of cloud droplets by water-vapor diffusion and by collision-coalescence in a turbulent environment. With regard to condensation, recent studies suggest that small-scale turbulence alone does not produce a significant broadening of the cloud-droplet spectrum because of the smearing of droplet-scale fluctuations by rapid turbulent and gravitational mixing. However, different diffusional-growth histories associated with large-eddy hopping could lead to a significant spectral broadening. In contrast, small-scale turbulence in cumulus clouds makes a significant contribution to the collision-coalescence of droplets, enhancing the collection kernel up to a factor of 5, especially for droplet pairs with a low gravitational collision rate. This …",
+        "keywords": null,
+        "url": "https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-011212-140750"
+    },
+    {
+        "title": "The multidimensional positive definite advection transport algorithm: Nonoscillatory option",
+        "authors": "Piotr K Smolarkiewicz, Wojciech W Grabowski",
+        "year": "1990/2/1",
+        "abstract": "This paper presents a nonoscillatory option (i.e., free of dispersive ripples) of the advection algorithm described previously in J. Comput. Phys. (54 (1984), 325; 67 (1986), 396). The approach adopted merges the flux-corrected transport methodology with the iterative formalism of the algorithm. Further discussion of the algorithm's accuracy is included. Theoretical considerations are illustrated through numerical tests and examples of applications to atmospheric fluid dynamics problems.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/002199919090105A"
+    },
+    {
+        "title": "Confronting the challenge of modeling cloud and precipitation microphysics",
+        "authors": "Hugh Morrison, Marcus van Lier‐Walqui, Ann M Fridlind, Wojciech W Grabowski, Jerry Y Harrington, Corinna Hoose, Alexei Korolev, Matthew R Kumjian, Jason A Milbrandt, Hanna Pawlowska, Derek J Posselt, Olivier P Prat, Karly J Reimel, Shin‐Ichiro Shima, Bastiaan van Diedenhoven, Lulin Xue",
+        "year": "2020/8",
+        "abstract": "In the atmosphere, microphysics refers to the microscale processes that affect cloud and precipitation particles and is a key linkage among the various components of Earth's atmospheric water and energy cycles. The representation of microphysical processes in models continues to pose a major challenge leading to uncertainty in numerical weather forecasts and climate simulations. In this paper, the problem of treating microphysics in models is divided into two parts: (i) how to represent the population of cloud and precipitation particles, given the impossibility of simulating all particles individually within a cloud, and (ii) uncertainties in the microphysical process rates owing to fundamental gaps in knowledge of cloud physics. The recently developed Lagrangian particle‐based method is advocated as a way to address several conceptual and practical challenges of representing particle populations using traditional …",
+        "keywords": null,
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019ms001689"
+    },
+    {
+        "title": "CRCP: A cloud resolving convection parameterization for modeling the tropical convecting atmosphere",
+        "authors": "Wojciech W Grabowski, Piotr K Smolarkiewicz",
+        "year": "1999/9/10",
+        "abstract": "A new computational approach, CRCP, is proposed in which both the large-scale (LS) tropical dynamics and cloud-scale (CS) dynamics are captured explicitly. The leading idea is to represent subgrid scales of the LS model by imbedding a 2D CS model in each column of the 3D LS model – the approach tailored for distributed memory architectures. The overall philosophy underlying CRCP is the reinvestment of efforts from large-eddy simulation to elaborate yet ‘embarrassingly parallel’ turbulence models. Similar as in the traditional ‘convection parameterization’, the LS model provides ‘ambient forcings’ for the CS model imbedded inside each LS column, and the CS model feeds back a ‘convective response’ for every column of the LS model. Furthermore, availability of the cloud-scale data allows for explicit coupling of moist convection with radiative and surface processes. Following our experience with cloud …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167278999001049"
+    },
+    {
+        "title": "Droplet growth in warm turbulent clouds",
+        "authors": "BJ Devenish, Peter Bartello, J‐L Brenguier, LR Collins, Wojciech W Grabowski, RHA IJzermans, Szymon P Malinowski, MW Reeks, JC Vassilicos, L‐P Wang, Z Warhaft",
+        "year": "2012/7",
+        "abstract": "In this survey we consider the impact of turbulence on cloud formation from the cloud scale to the droplet scale. We assess progress in understanding the effect of turbulence on the condensational and collisional growth of droplets and the effect of entrainment and mixing on the droplet spectrum. The increasing power of computers and better experimental and observational techniques allow for a much more detailed study of these processes than was hitherto possible. However, much of the research necessarily remains idealized and we argue that it is those studies which include such fundamental characteristics of clouds as droplet sedimentation and latent heating that are most relevant to clouds. Nevertheless, the large body of research over the last decade is beginning to allow tentative conclusions to be made. For example, it is unlikely that small‐scale turbulent eddies (i.e. not the energy‐containing eddies …",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.1897"
+    },
+    {
+        "title": "Modelling the diurnal cycle of deep precipitating convection over land with cloud‐resolving models and single‐column models",
+        "authors": "F Guichard, JC Petch, J‐L Redelsperger, P Bechtold, J‐P Chaboureau, S Cheinet, W Grabowski, H Grenier, CG Jones, M Köhler, J‐M Piriou, R Tailleux, M Tomasini",
+        "year": "2004/10",
+        "abstract": "An idealized case‐study has been designed to investigate the modelling of the diurnal cycle of deep precipitating convection over land. A simulation of this case was performed by seven single‐column models (SCMs) and three cloud‐resolving models (CRMs). Within this framework, a quick onset of convective rainfall is found in most SCMs, consistent with the results from general‐circulation models. In contrast, CRMs do not predict rainfall before noon. A joint analysis of the results provided by both types of model indicates that convection occurs too early in most SCMs, due to crude triggering criteria and quick onsets of convective precipitation. In the CRMs, the first clouds appear before noon, but surface rainfall is delayed by a few hours to several hours. This intermediate stage, missing in all SCMs except for one, is characterized by a gradual moistening of the free troposphere and an increase of cloud‐top height …",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/qj.03.145"
+    },
+    {
+        "title": "Cloud-resolving modeling of tropical cloud systems during Phase III of GATE. Part I: Two-dimensional experiments",
+        "authors": "Wojciech W Grabowski, Xiaoqing Wu, Mitchell W Moncrieff",
+        "year": "1996/12/15",
+        "abstract": "A formal framework is established for the way in which cloud-resolving numerical models are used to investigate the role of precipitating cloud systems in climate and weather forecasting models. Emphasis is on models with periodic lateral boundary conditions that eliminate unrealistic numerically generated circulations caused by open boundary conditions in long-term simulations. Defined in this formalism is the concept of large-scale forcing and the cloud-environment interactions that are consistent with the periodic boundary conditions.",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/53/24/1520-0469_1996_053_3684_crmotc_2_0_co_2.xml?tab_body=fulltext-display"
+    },
+    {
+        "title": "Toward cloud resolving modeling of large-scale tropical circulations: A simple cloud microphysics parameterization",
+        "authors": "Wojciech W Grabowski",
+        "year": "1998/11/1",
+        "abstract": "——,——,——, and WD Hall, 1998: Cloud-resolving modeling of tropical cloud systems during Phase III of GATE. Part II: Effects of resolution and the third spatial dimension. J. Atmos. Sci., 55, 3264–3282.",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/55/21/1520-0469_1998_055_3283_tcrmol_2.0.co_2.xml?tab_body=fulltext-display"
+    },
+    {
+        "title": "Cloud-resolving modeling of cloud systems during Phase III of GATE. Part II: Effects of resolution and the third spatial dimension",
+        "authors": "Wojciech W Grabowski, Xiaoqing Wu, Mitchell W Moncrieff, William D Hall",
+        "year": "1998/11/1",
+        "abstract": "Cheng, M.-D., and M. Yanai, 1989: Effects of downdrafts and mesoscale convective organization on the heat and moisture budgets of tropical cloud clusters. Part III: Effects of mesoscale convective organization. J. Atmos. Sci., 46, 1566–1588.",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/55/21/1520-0469_1998_055_3264_crmocs_2.0.co_2.xml?tab_body=pdf"
+    },
+    {
+        "title": "Daytime convective development over land: A model intercomparison based on LBA observations",
+        "authors": "WW Grabowski, P Bechtold, A Cheng, R Forbes, C Halliwell, M Khairoutdinov, S Lang, T Nasuno, J Petch, W‐K Tao, R Wong, X Wu, K‐M Xu",
+        "year": "2006/1",
+        "abstract": "This paper investigates daytime convective development over land and its representation in single‐column models (SCMs) and cloud‐resolving models (CRMs). A model intercomparison case is developed based on observations of the diurnal cycle and convection during the rainy season in Amazonia. The focus is on the 6 h period between sunrise and early afternoon which was identified in previous studies as critical for the diurnal cycle over summertime continents in numerical weather prediction and climate models. This period is characterized by the formation and growth of a well‐mixed convective boundary layer from the early morning temperature and moisture profiles as the surface sensible‐ and latent‐heat fluxes increase after sunrise. It proceeds with the formation of shallow convective clouds as the convective boundary layer deepens, and leads to the eventual transition from shallow to deep …",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/qj.04.147"
+    },
+    {
+        "title": "An intercomparison of cloud‐resolving models with the atmospheric radiation measurement summer 1997 intensive observation period data",
+        "authors": "Kuan‐Man Xu, Richard T Cederwall, Leo J Donner, Wojciech W Grabowski, Françoise Guichard, Daniel E Johnson, Marat Khairoutdinov, Steven K Krueger, Jon C Petch, David A Randall, Charles J Seman, Wei‐Kuo Tao, Donghai Wang, Shao Cheng Xie, J John Yio, Ming‐Hua Zhang",
+        "year": "2002/1",
+        "abstract": "This paper reports an intercomparison study of midlatitude continental cumulus convection simulated by eight two‐dimensional and two three‐dimensional cloud‐resolving models (CRMs), driven by observed large‐scale advective temperature and moisture tendencies, surface turbulent fluxes, and radiative‐heating profiles during three sub‐periods of the summer 1997 Intensive Observation Period of the US Department of Energy's Atmospheric Radiation Measurement (ARM) program. Each sub‐period includes two or three precipitation events of various intensities over a span of 4 or 5 days. The results can be summarized as follows.\nCRMs can reasonably simulate midlatitude continental summer convection observed at the ARM Cloud and Radiation Testbed site in terms of the intensity of convective activity, and the temperature and specific‐humidity evolution. Delayed occurrences of the initial precipitation …",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/003590002321042117"
+    },
+    {
+        "title": "Effects of turbulence on the geometric collision rate of sedimenting droplets. Part 1. Results from direct numerical simulation",
+        "authors": "Orlando Ayala, Bogdan Rosa, Lian-Ping Wang, Wojciech W Grabowski",
+        "year": "2008/7/31",
+        "abstract": "There have been relatively few studies of turbulent collision rate of sedimenting droplets in the context of cloud physics, for which both the gravitational settling and inertial effects must be simultaneously considered. In this study, direct numerical simulations (DNS) were used to study the geometric collision rates of cloud droplets. Both Stokes drag law and a nonlinear drag law were considered, but the droplet–droplet local aerodynamic interactions were not included. Typical droplet and turbulence parameters of convective clouds were used to determine the flow dissipation rate epsilon, characteristic Stokes numbers, and the nondimensional terminal velocities. DNS results from a large number of runs covering the epsilon range from 10 to 400 cm 2 s− 3 and droplet sizes from 10 to 60 μm in radius are presented. These results show that air turbulence can increase the geometric collision kernel by up to 47%, relative …",
+        "keywords": null,
+        "url": "https://iopscience.iop.org/article/10.1088/1367-2630/10/7/075015/meta"
+    },
+    {
+        "title": "Comparison of bulk and bin warm-rain microphysics models using a kinematic framework",
+        "authors": "Hugh Morrison, Wojciech W Grabowski",
+        "year": "2007/8/1",
+        "abstract": "This paper discusses the development and testing of a bulk warm-rain microphysics model that is capable of addressing the impact of atmospheric aerosols on ice-free clouds. Similarly to previous two-moment bulk schemes, this model predicts the mixing ratios and number concentrations of cloud droplets and drizzle/raindrops. The key elements of the model are the relatively sophisticated cloud droplet activation scheme and a comprehensive treatment of the collision–coalescence mechanism. For the latter, three previously published schemes are selected and tested, with a detailed (bin) microphysics model providing the benchmark. The unique aspect of these tests is that they are performed using a two-dimensional prescribed-flow (kinematic) framework, where both advective transport and gravitational sedimentation are included. Two quasi-idealized test cases are used, the first mimicking a single large eddy in …",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/64/8/jas3980.xml?tab_body=fulltext-display"
+    },
+    {
+        "title": "Modeling supersaturation and subgrid-scale mixing with two-moment bulk warm microphysics",
+        "authors": "Hugh Morrison, Wojciech W Grabowski",
+        "year": "2008/3/1",
+        "abstract": "Baker, MB, RG Corbin, and J. Latham, 1980: The influence of entrainment on the evolution of cloud droplet spectra: I. A model of inhomogeneous mixing. Quart. J. Roy. Meteor. Soc., 106, 581–598.",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/65/3/2007jas2374.1.xml?tab_body=abstract-display"
+    },
+    {
+        "title": "MJO-like coherent structures: Sensitivity simulations using the cloud-resolving convection parameterization (CRCP)",
+        "authors": "Wojciech W Grabowski",
+        "year": "2003/3/1",
+        "abstract": "Flatau, M., PJ Flatau, P. Phoebus, and PP Niiler, 1997: The feedback between equatorial convection and local radiative and evaporative processes: The implications for intraseasonal oscillations. J. Atmos. Sci., 54, 2373–2386.",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/60/6/1520-0469_2003_060_0847_mlcsss_2.0.co_2.xml?tab_body=abstract-display"
+    },
+    {
+        "title": "Moisture–convection feedback in the tropics",
+        "authors": "Wojciech W Grabowski, MW Moncrieff",
+        "year": "2004/10",
+        "abstract": "This paper discusses the large‐scale moisture–convection feedback in the tropics, where spatial fluctuations of deep convection cause perturbations of free‐tropospheric moisture which, in turn, affect the spatial distribution of deep convection. A simple heuristic argument using the timescale of free‐tropospheric humidity change explains why moisture–convection feedback is particularly relevant for tropical intraseasonal oscillations.\nThe large‐scale dynamical context for moisture–convection feedback is investigated in idealized rotating constant‐sea‐surface‐temperature (‘tropics everywhere’) aquaplanet using cloud‐resolving convection parametrization (CRCP; super‐parametrization) and a traditional convective parametrization (the Emanuel scheme). The large‐scale organization of convection within the equatorial waveguide takes the form of MJO‐like (Madden–Julian Oscillation) coherent structures. First …",
+        "keywords": null,
+        "url": "https://rmets.onlinelibrary.wiley.com/doi/abs/10.1256/qj.03.135"
+    },
+    {
+        "title": "Cloud–environment interface instability: Rising thermal calculations in two spatial dimensions",
+        "authors": "Wojciech W Grabowski, Terry L Clark",
+        "year": "1991/2/15",
+        "abstract": "High resolution two-dimensional numerical experiments of rising thermals in a stably stratified environment were performed to study the cloud boundary instability. Unstable modes develop on the leading edge of the rising thermal, which are driven by the buoyant production of vorticity and lead to the type of entraining eddies that are thought to be responsible for observed dilution of convective clouds. These instabilities develop on the complex and evolving base state characterized by a nonparallel flow near the interface with a contractional component across the interface and a stretching component along it.\nAn analytical model is presented which describes the temporal evolution of the shear layer prior to the onset of the instability. It is shown that the flow pattern associated with the thermal rise leads to an exponential increase of the shear normal to the interface and exponential decrease of the shear …",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/48/4/1520-0469_1991_048_0527_ciirtc_2_0_co_2.xml"
+    },
+    {
+        "title": "A novel approach for representing ice microphysics in models: Description and tests using a kinematic framework",
+        "authors": "Hugh Morrison, Wojciech W Grabowski",
+        "year": "2008/5/1",
+        "abstract": "Borys, RD, DH Lowenthal, SA Cohn, and WOJ Brown, 2003: Mountaintop and radar measurements of anthropogenic aerosol effects on snow growth and snowfall rate. Geophys. Res. Lett., 30. 1538, doi: 10.1029/2002GL016855.",
+        "keywords": null,
+        "url": "https://journals.ametsoc.org/view/journals/atsc/65/5/2007jas2491.1.xml?tab_body=fulltext-display"
+    }
+]

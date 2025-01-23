@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Ekonometria i statystyka przestrzenna z wykorzystaniem programu R CRAN",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2006",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=iTq62wYAAAAJ&citation_for_view=iTq62wYAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+        "title": "Metody ilościowe w R: aplikacje ekonomiczne i finansowe",
+        "authors": "Katarzyna Kopczewska, Tomasz Kopczewski, Piotr Wójcik",
+        "year": "2009",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=7844225602861626689&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Customer churn in retail e-commerce business: Spatial and machine learning approach",
+        "authors": "Kamil Matuszelański, Katarzyna Kopczewska",
+        "year": "2022/1/15",
+        "abstract": "This study is a comprehensive and modern approach to predict customer churn in the example of an e-commerce retail store operating in Brazil. Our approach consists of three stages in which we combine and use three different datasets: numerical data on orders, textual after-purchase reviews and socio-geo-demographic data from the census. At the pre-processing stage, we find topics from text reviews using Latent Dirichlet Allocation, Dirichlet Multinomial Mixture and Gibbs sampling. In the spatial analysis, we apply DBSCAN to get rural/urban locations and analyse neighbourhoods of customers located with zip codes. At the modelling stage, we apply machine learning extreme gradient boosting and logistic regression. The quality of models is verified with area-under-curve and lift metrics. Explainable artificial intelligence represented with a permutation-based variable importance and a partial dependence profile help to discover the determinants of churn. We show that customers’ propensity to churn depends on: (i) payment value for the first order, number of items bought and shipping cost; (ii) categories of the products bought; (iii) demographic environment of the customer; and (iv) customer location. At the same time, customers’ propensity to churn is not influenced by: (i) population density in the customer’s area and division into rural and urban areas; (ii) quantitative review of the first purchase; and (iii) qualitative review summarised as a topic.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/0718-1876/17/1/9"
+    },
+    {
+        "title": "Strategy of spatial panel estimation: Spatial spillovers between taxation and economic growth",
+        "authors": "Walczyk Konrad Kopczewska Katarzyna, Kudła Janusz",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=iTq62wYAAAAJ&citation_for_view=iTq62wYAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+        "title": "Measuring regional specialisation: A new approach",
+        "authors": "Katarzyna Kopczewska, Paweł Churski, Artur Ochojski, Adam Polko",
+        "year": "2017/8/31",
+        "abstract": "This book explores statistical models in regional specialization, presenting a brand new measure. It begins by reviewing existing indicators and models of regional specialization before outlining a newly created, spatially embedded model of specialization based on the spatial distribution of firms. It addresses the various applications of the model, and how the model can be used in regional policy.",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=Q7szDwAAQBAJ&oi=fnd&pg=PR6&dq=info:hEO3kOOCtJkJ:scholar.google.com&ots=5xJScxAq4d&sig=phtbb1Ntx_u79ec49xEh4ecU4tk"
+    },
+    {
+        "title": "Renta geograficzna a rozwój społeczno-gospodarczy",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2008",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=11174307847449385447&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Spatial machine learning: new opportunities for regional science",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2022/6",
+        "abstract": "This paper is a methodological guide to using machine learning in the spatial context. It provides an overview of the existing spatial toolbox proposed in the literature: unsupervised learning, which deals with clustering of spatial data, and supervised learning, which displaces classical spatial econometrics. It shows the potential of using this developing methodology, as well as its pitfalls. It catalogues and comments on the usage of spatial clustering methods (for locations and values, both separately and jointly) for mapping, bootstrapping, cross-validation, GWR modelling and density indicators. It provides details of spatial machine learning models, which are combined with spatial data integration, modelling, model fine-tuning and predictions to deal with spatial autocorrelation and big data. The paper delineates “already available” and “forthcoming” methods and gives inspiration for transplanting modern …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00168-021-01101-x"
+    },
+    {
+        "title": "Applied spatial statistics and econometrics: data analysis in R",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2020/11/25",
+        "abstract": "This textbook is a comprehensive introduction to applied spatial data analysis using R. Each chapter walks the reader through a different method, explaining how to interpret the results and what conclusions can be drawn. The author team showcases key topics, including unsupervised learning, causal inference, spatial weight matrices, spatial econometrics, heterogeneity and bootstrapping. It is accompanied by a suite of data and R code on Github to help readers practise techniques via replication and exercises. This text will be a valuable resource for advanced students of econometrics, spatial planning and regional science. It will also be suitable for researchers and data scientists working with spatial data.",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=hDv_DwAAQBAJ&oi=fnd&pg=PT21&dq=info:NoGxFgNshAYJ:scholar.google.com&ots=cTQqTG-I70&sig=NZBfXgKjzD4fctLpzPJDSY76itg"
+    },
+    {
+        "title": "Spatio-temporal stability of housing submarkets. Tracking spatial location of clusters of geographically weighted regression estimates of price determinants",
+        "authors": "Katarzyna Kopczewska, Piotr Ćwiakowski",
+        "year": "2021/4/1",
+        "abstract": "This paper fills the gap in rich housing literature by testing the spatio-temporal stability of real estate submarkets. We start with standard Geographically Weighted Regression (GWR) estimation of the hedonic model on point data, and we cluster model coefficients to detect housing submarkets. We check spatio-temporal stability - we add novelty by comparing if clusters move over space or stay in the same place. We rasterise surface and apply the Rand Index and Jaccard Similarity to check if clusters assigned to raster cells yield stable spatial structure. This approach allows for quantitative assessments of how much determinants of price are stable over time and space. The same mechanism applied to standard errors of GWR coefficients is a good test of the spatio-temporal stability of local heteroscedasticity. A Case study of apartments' transactions in Warsaw-Poland for the 2006–2015 period, evidences relatively …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0264837721000156"
+    },
+    {
+        "title": "The spatial range of local governments: does geographical distance affect governance and public service?",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2013/12",
+        "abstract": "Does space matter for local governments in the implementation of development policies? Geographical distance is believed to weaken the transmission of the socioeconomic development policy. Peripherally located local governments may be weaker than those centrally located local governments. Polish local governments from 1995–2007 were assessed based on performance indicators. The results show that the effective range of regional centres is limited to adjacent municipalities within a distance of 25 km and other local governments should be considered as having peripheral significance.",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00168-013-0567-z"
+    },
+    {
+        "title": "Akaike information criterion in choosing the optimal k-nearest neighbours of the spatial weight matrix",
+        "authors": "Maria Kubara, Katarzyna Kopczewska",
+        "year": "2023/2/28",
+        "abstract": "We use the Akaike information criterion (AIC) to assess the quality of non-nested spatial econometric models with a different number of nearest neighbours (knn) included in the spatial weight matrix W. This is of particular importance in two cases: when estimating the model on geolocated point data without explicit guidance on the optimal value of knn; and when dealing with different spatial patterns and a unique W generalizes diverse spatial structures. By minimizing AIC for a set of competing models, one can find the optimal knn that guarantees the best fit. We show through simulation and empirical analysis that AIC is a non-linear function of knn and reaches its minimum for a given knn. We provide practical evidence that misspecified W may result in a 20% bias of model parameters.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/17421772.2023.2176539"
+    },
+    {
+        "title": "Spatial prediction models for real estate market analysis",
+        "authors": "Krzysztof Chrostek, Katarzyna Kopczewska",
+        "year": "2013",
+        "abstract": "The econometric modeling of real estate prices is an important step in their valuation. As shown in the theory and practice of valuation, the most important determinant of these prices is location. Therefore, models comprising the spatial components give better estimates than a-spatial models. The purpose of this paper is to compare the quality of prediction for several models: a classical linear model estimated with OLS, linear OLS model including geographical coordinates, Spatial Expansion model, spatial lag and spatial error models, and geographically weighted regression. The evaluation will be based on the calibrated models for the real estate market data in Wroclaw in 2011. The study confirms that the inclusion of the spatial aspect of the analysis may result in improvement in the quality of models. Best fit to the data among the presented methods has proved a geographically weighted regression.",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=416795"
+    },
+    {
+        "title": "SPAG: Index of spatial agglomeration",
+        "authors": "Katarzyna Kopczewska, Paweł Churski, Artur Ochojski, Adam Polko",
+        "year": "2019",
+        "abstract": "The paper develops a spatial agglomeration index (SPAG) of the economic activity for the point geo‐localizations of firms. It includes the effects of location, the distance between firms and the overlapping impact of the firms' size. The SPAG builds a new class of measures of the spatial density of the economic activity inside the region, based on the geometrical representation of firms with circles, without referring to the commonly used Ripley's K function. The SPAG measures the degree of divergence from the benchmark distribution, what detects different spatial distributions as clusters or borderline dispersion. We test SPAG with real point data.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1056819023013532"
+    },
+    {
+        "title": "Cluster-based measures of regional concentration. Critical overview",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2018/10/1",
+        "abstract": "This paper provides an overview of the available cluster-based measures of geographical and sectoral concentration (often referred to as specialisation) and tests their statistical behaviour using the Monte Carlo simulation. The study proves that the degree of the aggregation of the dataset matters in the result and that this sensitivity to the Modifiable Areal Unit Problem is inherited in most of the measures. Gini, Krugmann, Theil’s H, and Ogive together with other analysed indices are proved to be non-absolute measures that are dependent on the values in the surroundings. Two regions with the same internal industrial (sectoral) structure but with a different share in the overall volume will have a different sectoral concentration index, which limits the inter-regional comparability of these measures. The results also indicate that the information capacity of the measures could be the same, mainly due to the construction of …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S2211675317302956"
+    },
+    {
+        "title": "The price for subway access: spatial econometric modelling of office rental rates in London",
+        "authors": "Katarzyna Kopczewska, Anna Lewandowska",
+        "year": "2018/11/26",
+        "abstract": "The relative location of commercial properties as the distance to the metro station as well as its absolute location as the address in the Central Business District (CBD) is expected to influence its valuation. We apply the advanced spatial econometric methodology, based on micro geo-located data, to the office rental transaction data from London in 2015. We use different spatial information on the local and global neighbourhood in order to estimate the spatial hedonic valuation model and test the strength of spatial spillovers and location effects on office fees. For offices in London in 2015, geographical factors may raise the price by 50%, as every next 100 m to the metro cost an additional 0.7 ₤ per ft2 per year and the CBD location raises the cost for ca. 20 ₤ per ft2 per year.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/02723638.2018.1481601"
+    },
+    {
+        "title": "Spillover effects of taxes on government debt: A spatial panel approach",
+        "authors": "Katarzyna Kopczewska, Janusz Kudła, Konrad Walczyk, Robert Kruszewski, Agata Kocia",
+        "year": "2016/5/3",
+        "abstract": "It is claimed that tax policy is neither time- nor space-independent due to cross-border tax base mobility, which induces spillovers. Specifically, fiscal shocks in one country are supposed to have an impact on fiscal policies in other countries. Different types of taxes influence economies differently. This paper addresses the question of their impact on government debt. Within a framework of spatial econometric modeling, we evaluate the impact of capital, labor and consumption taxes on public debt in 34 European countries in 2002–2011, and find strong spatial spillovers. We show that a consumption tax and, to a lesser degree, a capital tax significantly affect the sovereign debt, and that the global relations play a leading role (i.e. dominate the local ones) in shaping fiscal policy.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/01442872.2016.1146246"
+    },
+    {
+        "title": "Handbook on Entropy, Complexity and Spatial Dynamics: A Rebirth of Theory?",
+        "authors": "Aura Reggiani, Laurie A Schintler, Danny Czamanski, Roberto Patuelli",
+        "year": "2021/12/14",
+        "abstract": "This ground-breaking Handbook presents a state-of-the-art exploration of entropy, complexity and spatial dynamics from fundamental theoretical, empirical and methodological perspectives. It considers how foundational theories can contribute to new advances, including novel modeling and empirical insights at different sectoral, spatial and temporal scales.",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=iDhUEAAAQBAJ&oi=fnd&pg=PR1&dq=info:AzewnakQ3xkJ:scholar.google.com&ots=VNUSVXZOKQ&sig=pGUaPoJJRhemNjHTgbtlTZYKiGI"
+    },
+    {
+        "title": "Towards policy–place-based policy and smart specialisation",
+        "authors": "Katarzyna Kopczewska, Paweł Churski, Artur Ochojski, Adam Polko, Paweł Churski, Dagmara Kociuba, Artur Ochojski, Adam Polko",
+        "year": "2017",
+        "abstract": "The chapter offers a critical revision of smart specialisation and place-based policy concepts. Focusing on empirically strengthened measurement of agglomeration and concentration in regions, the chapter also draws attention to the deficits of investigating regional specialisation and uses a broad perspective to facilitate a better understanding of its use towards smart specialisation and place-based policy. The chapter explores the methodological implications of a new approach to thinking about regional policy in the perspective of European Union’s future.",
+        "keywords": null,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-51505-2_5"
+    },
+    {
+        "title": "Modele zmian stopy bezrobocia w ujęciu przestrzennym",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2010",
+        "abstract": "Obserwowany w ostatnich miesiącach globalny kryzys gospodarczy wpłynął na polski rynek pracy, czego wyrazem był nagły wzrost stopy bezrobocia. Pojawia się pytanie, na ile zmiany na lokalnych, powiatowych rynkach pracy były wzajemnie, w szczególności przestrzennie, powiązane. Wykorzystanie ilościowych metod przestrzennych pozwala wykryć przestrzenno-czasowe wzorce zmian oraz określić, czy miała miejsce dyfuzja fali bezrobocia.",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=949057"
+    },
+    {
+        "title": "Spatial and machine learning approach to model childhood stunting in Pakistan: role of socio-economic and environmental factors",
+        "authors": "Muhammad Usman, Katarzyna Kopczewska",
+        "year": "2022/9/2",
+        "abstract": "This study presents the determinants of childhood stunting as the consequence of child malnutrition. We checked two groups of factors—the socio-economic situation and climate vulnerability—using disaggregated sub-regional data in the spatial context. Data related to the percentage of stunted children in Pakistan for 2017 were retrieved from MICS 2017-18 along with other features. We used three quantitative models: ordinary least squares regression (OLS) to examine the linear relationships among the selected features, spatial regression (SDEM) to identify and capture the spatial spillover effect, and the Extreme Gradient Boosting machine learning algorithm (XGBoost) to analyse the importance of spatial lag and generate predictions. The results showed a high degree of spatial clustering in childhood stunting at the sub-regional level. We found that a 1 percentage point (p.p.) increase in multi-dimensional poverty may translate into a 0.18 p.p. increase in childhood stunting. Furthermore, high climate vulnerability and common marriages before age 15 each exacerbated childhood stunting by another 1 p.p. On the contrary, high female literacy and their high exposure to mass media, together with low climate vulnerability, may reduce childhood stunting. Model diagnostics showed that the SDEM outperformed the OLS model, as AICOLS = 766 > AICSDEM = 760. Furthermore, XGBoost generated the most accurate predictions in comparison to OLS and SDEM, having the lowest root-mean-square error (RMSE).",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1660-4601/19/17/10967"
+    }
+]

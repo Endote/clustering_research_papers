@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Momentum and contrarian effects on the cryptocurrency market",
+        "authors": "Krzysztof Kosc, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2019/6/1",
+        "abstract": "We report the results of investigation of the momentum and contrarian effects on cryptocurrency markets. The investigated investment strategies involve 100 (amongst over 1200 present as of date Nov 2017) cryptocurrencies with the largest market cap and average 14-day daily volume exceeding a given threshold value. Investment portfolios are constructed using different assumptions regarding the portfolio reallocation period, width of the ranking window, the number of cryptocurrencies in the portfolio, and the percent transaction costs. The performance is benchmarked against: (1) equally weighted and (2) market-cap weighted investments in all of the ranked assets, as well as against the buy and hold strategies based on (3) S&P500 index, and (4) Bitcoin price. Our results show a clear and significant dominance of the short-term contrarian effect over both momentum effect and the benchmark portfolios. The …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S037843711930216X"
+    },
+    {
+        "title": "Applying Hurst Exponent in pair trading strategies on Nasdaq 100 index",
+        "authors": "Quynh Bui, Robert Ślepaczuk",
+        "year": "2022/4/15",
+        "abstract": "This research aims to seek an alternative approach to stock selection for algorithmic investment strategy. We try to build an effective pair trading strategy based on 103 stocks listed in the NASDAQ 100 index. The dataset has a daily frequency and covers the period from 01/01/2000 to 31/12/2018, and to 01/07/2021 as an additional out-of-time data set. In this study, Generalized Hurst Exponent, Correlation, and Cointegration methods are employed to detect the mean-reverting pattern in the time series of a linear combination of each pair of stock. The result shows that the Hurst method cannot outperform the benchmark, which implies that the market is efficient. These results are quite sensitive to varying number of pairs traded and rebalancing period but they are less sensitive to financial leverage degree. Moreover, the Hurst method is better than the cointegration method but is not superior as compared to the …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S037843712100964X"
+    },
+    {
+        "title": "Applying hybrid ARIMA-SGARCH in algorithmic investment strategies on S&P500 index",
+        "authors": "Nguyen Vo, Robert Ślepaczuk",
+        "year": "2022/1/20",
+        "abstract": "This research aims to compare the performance of ARIMA as a linear model with that of the combination of ARIMA and GARCH family models to forecast S&P500 log returns in order to construct algorithmic investment strategies on this index. We used the data collected from Yahoo Finance with daily frequency for the period from 1 January 2000 to 31 December 2019. By using a rolling window approach, we compared ARIMA with the hybrid models to examine whether hybrid ARIMA-SGARCH and ARIMA-EGARCH can really reflect the specific time-series characteristics and have better predictive power than the simple ARIMA model. In order to assess the precision and quality of these models in forecasting, we compared their equity lines, their forecasting error metrics (MAE, MAPE, RMSE, MAPE), and their performance metrics (annualized return compounded, annualized standard deviation, maximum drawdown, information ratio, and adjusted information ratio). The main contribution of this research is to show that the hybrid models outperform ARIMA and the benchmark (Buy&Hold strategy on S&P500 index) over the long term. These results are not sensitive to varying window sizes, the type of distribution, and the type of the GARCH model.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1099-4300/24/2/158"
+    },
+    {
+        "title": "LSTM in algorithmic investment strategies on BTC and S&P500 index",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2022/1/25",
+        "abstract": "We use LSTM networks to forecast the value of the BTC and S&P500 index, using data from 2013 to the end of 2020, with the following frequencies: daily, 1 h, and 15 min data. We introduce our innovative loss function, which improves the usefulness of the forecasting ability of the LSTM model in algorithmic investment strategies. Based on the forecasts from the LSTM model we generate buy and sell investment signals, employ them in algorithmic investment strategies and create equity lines for our investment. For this purpose we use various combinations of LSTM models, optimized on in-sample period and tested on out-of-sample period, using rolling window approach. We pay special attention to data preprocessing in the input layer, to avoid overfitting in the estimation and optimization process, and assure correct selection of hyperparameters at the beginning of our tests. The next stage is devoted to the conjunction of signals from various frequencies into one ensemble model, and the selection of best combinations for the out-of-sample period, through optimization of the given criterion in a similar way as in the portfolio analysis. Finally, we perform a sensitivity analysis of the main parameters and hyperparameters of the model.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/22/3/917"
+    },
+    {
+        "title": "Application of machine learning in algorithmic investment strategies on global stock markets",
+        "authors": "Jan Grudniewicz, Robert Ślepaczuk",
+        "year": "2023/10/1",
+        "abstract": "The research undertakes the subject of machine learning based algorithmic investment strategies. Several technical analysis indicators were employed as inputs to machine learning models such as Neural Networks, K Nearest Neighbor, Regression Trees, Random Forests, Naïve Bayes classifiers, Bayesian Generalized Linear Models, and Support Vector Machines. Models were used to generate trading signals on WIG20, DAX, S&P500, and selected CEE indices in the period between 2002-01–01 and 2023–03–31. Strategies were compared with each other and with the benchmark buy-and-hold strategy in terms of achieved levels of risk and return. Sensitivity analysis was used to assess the quality of the estimation on independent subsets. The findings of the study showed that algorithmic strategies outperformed passive strategies in terms of risk-adjusted returns and that for the analyzed indices, Linear …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0275531923001782"
+    },
+    {
+        "title": "„Analysis of high frequency data on the Warsaw Stock Exchange in the context of efficient market hypothesis”",
+        "authors": "Paweł Strawiński, Robert Ślepaczuk",
+        "year": "2008",
+        "abstract": "This paper focuses on one of the heavily tested issue in the contemporary finance, i.e. efficient market hypothesis (EMH). However, we try to find the answers to some fundamental questions basing on the analysis of high frequency (HF) data from the Warsaw Stock Exchange (WSE). We estimate model on daily and 5-minute data for WIG20 index futures trying to verify daily and hourly effects. After implementing the base methodology for such testing, additionally we take into account the results of regression with weights, i.e. robust regression is used that assigns the higher weight the better behaved observations. Our results indicate that we observe the day of the week effect and hour of the day effect in polish data. What is more important is the existence of strong open jump effect for all days except Wednesday and positive day effect for Monday. Considering the hour of the day effect we observe positive, persistent …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=172335"
+    },
+    {
+        "title": "Predicting prices of S&P 500 index using classical methods and recurrent neural networks",
+        "authors": "Mateusz Kijewski, Robert Ślepaczuk, Maciej Wysocki",
+        "year": "2024",
+        "abstract": "This study implements algorithmic investment strategies based on classical methods and a recurrent neural network model. The research compares the performance of investment algorithms on time series of the S&P 500 Index covering 20 years of data from 2000 to 2020. We present an approach for the dynamic optimization of parameters during the backtesting process by using a rolling training-testing window. Each method was tested in terms of robustness to changes in parameters and evaluated by appropriate performance statistics, such as the Information Ratio and Maximum Drawdown. The combination of signals from different methods was stable and outperformed the benchmark of the Buy&Hold strategy, doubling its returns while maintaining the same level of risk. Detailed sensitivity analysis revealed that classical methods utilizing a rolling training-testing window were significantly more robust to changes in parameters than the LSTM model.",
+        "keywords": null,
+        "url": "https://aisel.aisnet.org/isd2014/proceedings2024/datascience/34/"
+    },
+    {
+        "title": "Robustness of support vector machines in algorithmic trading on cryptocurrency market",
+        "authors": "Robert Ślepaczuk, Maryna Zenkova",
+        "year": "2018",
+        "abstract": "This study investigates the profitability of an algorithmic trading strategy based on training SVM model to identify cryptocurrencies with high or low predicted returns. A tail set is defined to be a group of coins whose volatility-adjusted returns are in the highest or the lowest quintile. Each cryptocurrency is represented by a set of six technical features. SVM is trained on historical tail sets and tested on the current data. The classifier is chosen to be a nonlinear support vector machine. The portfolio is formed by ranking coins using the SVM output. The highest ranked coins are used for long positions to be included in the portfolio for one reallocation period. The following metrics were used to estimate the portfolio profitability:% ARC (the annualized rate of change),% ASD (the annualized standard deviation of daily returns), MDD (the maximum drawdown coefficient), IR1, IR2 (the information ratio coefficients). The performance of the SVM portfolio is compared to the performance of the four benchmark strategies based on the values of the information ratio coefficient IR1, which quantifies the risk-weighted gain. The question of how sensitive the portfolio performance is to the parameters set in the SVM model is also addressed in this study.",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.1515/ceej-2018-0022"
+    },
+    {
+        "title": "High-frequency and model-free volatility estimators",
+        "authors": "Robert Ślepaczuk, Grzegorz Zakrzewski",
+        "year": "2009/10/19",
+        "abstract": "This paper focuses on volatility of financial markets, which is one of the most important issues in finance, especially with regard to modeling high-frequency data. Risk management, asset pricing and option valuation techniques are the areas where the concept of volatility estimators (consistent, unbiased and the most efficient) is of crucial concern. Our intention was to find the best estimator of true volatility taking into account the latest investigations in finance literature. Basing on the methodology presented in Parkinson (1980), Garman and Klass (1980), Rogers and Satchell (1991), Yang and Zhang (2000), Andersen et al.(1997, 1998, 1999a, 199b), Hansen and Lunde (2005, 2006b) and Martens (2007), we computed the various model-free volatility estimators and compared them with classical volatility estimator, most often used in financial models. In order to reveal the information set hidden in high-frequency data, we utilized the concept of realized volatility and realized range. Calculating our estimator, we carefully focused on Ä (the interval used in calculation), n (the memory of the process) and q (scaling factor for scaled estimators). Our results revealed that the appropriate selection of Ä and n plays a crucial role when we try to answer the question concerning the estimator efficiency, as well as its accuracy. Having nine estimators of volatility, we found that for optimal n (measured in days) and Ä (in minutes) we obtain the most efficient estimator. Our findings confirmed that the best estimator should include information contained not only in closing prices but in the price range as well (range estimators). What is more important, we focused on …",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2508648"
+    },
+    {
+        "title": "Anomalie rynku kapitałowego w świetle hipotezy efektywności rynku",
+        "authors": "Robert Ślepaczuk",
+        "year": "2006",
+        "abstract": "W niniejszym artykule zostanie zaprezentowana tematyka efektywności rynku, ze szczególnym uwzględnieniem odstepstw od obowiazującego podejścia, które w teorii finansów określane są mianem anomalii rynku kapitałowego. Praca koncentruje się na kluczowym aspekcie współczesnych finansów, jakim niewątpliwie są rozważania na temat hipotezy efektywności rynku. Tematyka efektywności rynku jest zagadnieniem często poruszanym przez teoretyków finansów, chcących odpowiedzieć na pytanie, czy możliwe jest stworzenie strategii inwestycyjnej, przynoszącej ponadprzeciętne zyski na podstawie danego zbioru informacji Φt. Jeśli rynki kapitałowe są efektywne, to akcje i inne instrumenty finansowe są wyceniane prawidłowo oraz odpowiednio odzwierciedlają wartość aktywów im odpowiadających. Opozycyjna koncepcja głosi, że wycena instrumentów finansowych zawiera systematyczne i wykrywalne błędy, a inwestor potrafiący zaobserwować te odchylenia może osiągnąć ponadprzeciętne zyski. Powyższe stanowisko jest bezpośrednio związane z hipotezą efektywności rynku w sensie informacyjnym, występującą w trzech formach, w zależności od dostępnego zbioru informacji Φt w chwili t. Efektywność rynków kapitałowych w sensie informacyjnym jest także powiązana z efektywnością alokacyjną tych rynków. Rynek kapitałowy stanowi miejsce, gdzie jego uczestnicy odzwierciedlają swoje opinie na temat przyszłości, np. tego, jakie projekty zostaną zrealizowane, jakie nowe technologie mają szanse się rozwinąć lub jakie produkty będą kupować konsumenci i jak firma będzie rozwijała się w przyszłości. Jeśli ceny aktywów …",
+        "keywords": null,
+        "url": "https://finquarterly.com/archives/?page=wpabstracts&tab=attachments&task=download&type=attachment&id=771"
+    },
+    {
+        "title": "Artificial Neural Networks Performance in WIG20 Index Options Pricing",
+        "authors": "Maciej Wysocki, Robert Ślepaczuk",
+        "year": "2021/12/24",
+        "abstract": "In this paper, the performance of artificial neural networks in option pricing was analyzed and compared with the results obtained from the Black–Scholes–Merton model, based on the historical volatility. The results were compared based on various error metrics calculated separately between three moneyness ratios. The market data-driven approach was taken to train and test the neural network on the real-world options data from 2009 to 2019, quoted on the Warsaw Stock Exchange. The artificial neural network did not provide more accurate option prices, even though its hyperparameters were properly tuned. The Black–Scholes–Merton model turned out to be more precise and robust to various market conditions. In addition, the bias of the forecasts obtained from the neural network differed significantly between moneyness states. This study provides an initial insight into the application of deep learning methods to pricing options in emerging markets with low liquidity and high volatility.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1099-4300/24/1/35"
+    },
+    {
+        "title": "Volatility as an Asset Class, Obvious Beneﬁts and Hidden Risks.",
+        "authors": "P. Jabłecki, J., Kokoszczynski, R., Sakowski P., Ślepaczuk, R., Wójcik",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=9hDUxqwAAAAJ&citation_for_view=9hDUxqwAAAAJ:HDshCWvjkbEC"
+    },
+    {
+        "title": "A comparison of LSTM and GRU architectures with novel walk-forward approach to algorithmic investment strategy",
+        "authors": "I. Baranochnikov, R. Ślepaczuk",
+        "year": "2022",
+        "abstract": "1 Fama (1970), in his study, explore the efficient-market hypothesis from the empirical point of view, dividing it into three forms: weak, semi-strong and strong. 2 Adebiyi et al.(2014) present a study where they compare the effectiveness of the ARIMA and Artificial Neural Network (ANN) models in forecasting the daily closing prices of NYSE stocks.",
+        "keywords": null,
+        "url": "http://qfrg.wne.uw.edu.pl/wp-content/uploads/2022/11/QFRG_DSlab_mm_IBRS__2022-11-07.pdf"
+    },
+    {
+        "title": "Midquotes or transactional prices? Evaluation of Black model on high-frequency data",
+        "authors": "Ryszard Kokoszczyński, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2018",
+        "abstract": "The main idea of this research is to check the efficiency of the Black option pricing model on the basis of high frequency emerging market data. However, liquidity constraints – a typical feature of an emerging derivatives market – put severe limits for conducting such a study [Kokoszczyński et al., 2010]. This is the reason we focus on midquotes instead of transactional data being aware that midquotes might not be a proper representation of market prices as probably transactional data are. We compare in this paper our results with the research conducted on high-frequency transactional and midquotes data. This comparison shows that the results do not differ significantly between these two approaches and that Black model with implied volatility (BIV) significantly outperforms other models, especially the Black model with realized volatility (BRV) with the latter producing the worst results.",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/589413.pdf"
+    },
+    {
+        "title": "High-frequency and model-free volatility estimators, University of Warsaw, Faculty of Economic Sciences",
+        "authors": "R Ślepaczuk, G Zakrzewski",
+        "year": "2009",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=2031125424116029239&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Energy and cost efficiency of Bitcoin mining endeavor",
+        "authors": "Małgorzata Jabłczyńska, Krzysztof Kosc, Przemysław Ryś, Paweł Sakowski, Robert Ślepaczuk, Grzegorz Zakrzewski",
+        "year": "2023/3/30",
+        "abstract": "The main aim of the study is to analyze BTC mining’s efficiency under current market conditions (December 2021), including soaring energy prices produced from many different sources in different geographical locations. After a thorough analysis of initial assumptions concerning the (1) price of mining machine with associated components and its effective amortization period, (2) difficulty and the hash rate of the BTC network, (3) BTC transaction fees, and (4) energy costs from various sources, we have found that currently, BTC mining is not profitable, except for some rare cases. The main reason for this phenomenon is the fast and unpredictable increase of difficulty of the BTC network over time which results in decreasing participation of already purchased mining machines in the BTC network hash rate. The research is augmented with a detailed sensitivity analysis of mining efficiency to initial parameters assumptions, which allows observing that the conditions for BTC mining to be efficient and profitable are very challenging.",
+        "keywords": null,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283687"
+    },
+    {
+        "title": "Does the inclusion of exposure to volatility into diversified portfolio improve the investment results? Portfolio construction from the perspective of a Polish investor",
+        "authors": "Michał Latoszek, Robert Ślepaczuk",
+        "year": "2020/3/30",
+        "abstract": "The main goal of this research is to analyse the investment benefits from an incorporation of the volatility exposure to the diversified portfolio from the perspective of a Polish investor. Volatility, treated as a new asset class, may improve the performance of the portfolio due to its negative correlation with most types of assets. This topic has been widely investigated for the United States and Europe whereas the Polish market appears to be not heavily researched and this study may fill this gap. The research covers the period from October 2010 to July 2018 and is performed on daily close prices. To construct the portfolios the analysis uses the mean-variance framework and the naïve diversification approach. The comparison of risk-adjusted returns between investments with and without volatility exposure enables an answer to the research question about an improvement of the results by the addition of a non-standard asset to the diversified portfolios. The VXX is considered as the proxy for volatility as it is the most popular ETN which follows the volatility index derivatives with the given maturity. To test the robustness of the results the portfolios are constructed with a broad range of different parameters and assumptions imposed on the optimization procedure.",
+        "keywords": null,
+        "url": "https://sciendo.com/pdf/10.18559/ebr.2020.1.3"
+    },
+    {
+        "title": "Machine Learning Methods in Algorithmic Trading Strategy Optimization–Design and Time Efficiency",
+        "authors": "Przemysław Ryś, Robert Ślepaczuk",
+        "year": "2018",
+        "abstract": "The main aim of this paper was to formulate and analyse the machine learning methods, fitted to the strategy parameters optimization specificity. The most important problems are the sensitivity of a strategy performance to little parameter changes and numerous local extrema distributed over the solution space in an irregular way. The methods were designed for the purpose of significant shortening of the computation time, without a substantial loss of strategy quality. The efficiency of methods was compared for three different pairs of assets in case of moving averages crossover system. The problem was presented for three sets of two assets’ portfolios. In the first case, a strategy was trading on the SPX and DAX index futures; in the second, on the AAPL and MSFT stocks; and finally, in the third case, on the HGF and CBF commodities futures. The methods operated on the in-sample data, containing 16 years of daily prices between 1998 and 2013 and was validated on the out-of-sample period between 2014 and 2017. The major hypothesis verified in this paper is that machine learning methods select strategies with evaluation criterion near the highest one, but in significantly lower execution time than the brute force method (Exhaustive Search).",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.1515/ceej-2018-0021"
+    },
+    {
+        "title": "Option pricing models with HF data: An application of the Black model to the WIG20 index",
+        "authors": "Ryszard Kokoszczynski, Pawel Sakowski, Robert Slepaczuk",
+        "year": "2012/3/8",
+        "abstract": "In this paper, we compared several Black option pricing models by applying different measures of volatility and examined the Black model with historical (BHV), implied (BIV), and several different types of realized (BRV) volatility. The main objective of the study was to find the best model; that is, the model that predicts the actual market price with the minimum error. The high frequency (HF) data and bid-ask quotes (instead of transactional data) for the Warsaw Stock Exchange (WSE) were used to omit the problem of nonsynchronous trading and to increase the number of observations. Several error statistics and the percentage of price overpredictions (OP) showed the results that confirmed the initial intuition that the BIV model is the best model, the BHV model is the second best, and the BRV is the least efficient among the models studied.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2018420"
+    },
+    {
+        "title": "Anomalie rynku kapitałowego w świetle hipotezy efektywności rynku,“e‑Finanse”, no. 1",
+        "authors": "R Ślepaczuk",
+        "year": "2006",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=10133054519637686322&hl=en&oi=scholarr"
+    }
+]

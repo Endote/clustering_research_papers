@@ -1,0 +1,122 @@
+[
+    {
+        "title": "LSTM in algorithmic investment strategies on BTC and S&P500 index",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2022/1/25",
+        "abstract": "We use LSTM networks to forecast the value of the BTC and S&P500 index, using data from 2013 to the end of 2020, with the following frequencies: daily, 1 h, and 15 min data. We introduce our innovative loss function, which improves the usefulness of the forecasting ability of the LSTM model in algorithmic investment strategies. Based on the forecasts from the LSTM model we generate buy and sell investment signals, employ them in algorithmic investment strategies and create equity lines for our investment. For this purpose we use various combinations of LSTM models, optimized on in-sample period and tested on out-of-sample period, using rolling window approach. We pay special attention to data preprocessing in the input layer, to avoid overfitting in the estimation and optimization process, and assure correct selection of hyperparameters at the beginning of our tests. The next stage is devoted to the conjunction of signals from various frequencies into one ensemble model, and the selection of best combinations for the out-of-sample period, through optimization of the given criterion in a similar way as in the portfolio analysis. Finally, we perform a sensitivity analysis of the main parameters and hyperparameters of the model.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/22/3/917"
+    },
+    {
+        "title": "Mean Absolute Directional Loss as a new loss function for machine learning problems in algorithmic investment strategies",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2024/9/1",
+        "abstract": "This paper investigates the issue of an adequate loss function in the optimization of machine learning models used in the forecasting of financial time series for the purpose of algorithmic investment strategies (AIS) construction. We propose the Mean Absolute Directional Loss (MADL) function, solving important problems of classical forecast error functions in extracting information from forecasts to create efficient buy/sell signals in algorithmic investment strategies. MADL places appropriate emphasis not only on the quality of the point forecast but also on its impact on the rate of achievement by the investment system based on it. The introduction and detailed description of the theoretical properties of this new MADL loss function are our main contributions to the literature. In the empirical part of the study, based on the data from two different asset classes (cryptocurrencies: Bitcoin and commodities: Crude Oil), we …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877750324001686"
+    },
+    {
+        "title": "Combining Deep Learning and GARCH Models for Financial Volatility and Risk Forecasting",
+        "authors": "Jakub Michańków, Łukasz Kwiatkowski, Janusz Morajda",
+        "year": "2023/10/2",
+        "abstract": "In this paper, we develop a hybrid approach to forecasting the volatility and risk of financial instruments by combining common econometric GARCH time series models with deep learning neural networks. For the latter, we employ Gated Recurrent Unit (GRU) networks, whereas four different specifications are used as the GARCH component: standard GARCH, EGARCH, GJR-GARCH and APARCH. Models are tested using daily logarithmic returns on the S&P 500 index as well as gold price Bitcoin prices, with the three assets representing quite distinct volatility dynamics. As the main volatility estimator, also underlying the target function of our hybrid models, we use the price-range-based Garman-Klass estimator, modified to incorporate the opening and closing prices. Volatility forecasts resulting from the hybrid models are employed to evaluate the assets' risk using the Value-at-Risk (VaR) and Expected Shortfall (ES) at two different tolerance levels of 5% and 1%. Gains from combining the GARCH and GRU approaches are discussed in the contexts of both the volatility and risk forecasts. In general, it can be concluded that the hybrid solutions produce more accurate point volatility forecasts, although it does not necessarily translate into superior VaR and ES forecasts.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2310.01063"
+    },
+    {
+        "title": "Narzędzia analityczne w naukach ekonomicznych–teoria i zastosowania",
+        "authors": "Artur Prędki",
+        "year": "2020/8/5",
+        "abstract": "Niniejsza monografia jest owocem dziewiątej edycji konferencji „Narzędzia Analityczne w Naukach Ekonomicznych”(www. nawne. uek. krakow. pl) organizowanej corocznie przez Koło Naukowe Analizy Danych, działające na Uniwersytecie Ekonomicznym w Krakowie. Koło Naukowe Analizy Danych działa od 2009 roku, przy Katedrze Ekonometrii i Badań Operacyjnych oraz Katedrze Statystyki UEK. Od dwóch lat działalność Koła wspiera również Katedra Analizy Rynku i Badań Marketingowych. Wspomniana konferencja organizowana jest pod stałym patronatem honorowym Rektora UEK i Polskiego Towarzystwa Statystycznego. Od czterech lat jest ona również objęta patronatem honorowym Ministerstwa Nauki i Szkolnictwa Wyższego. W bieżącym roku do grona patronów honoroych dołączyło Polskie Towarzystwo Ekonomiczne. Sponsorem głównym konferencji była po raz kolejny firma State Street. Ponadto, wsparcia finansowego udzielił Parlament Studencki UEK, który, razem z Squash4you i Akademickim Centrum Kariery UEK, pełnił rolę partnera wspierającego. Odpowiednią promocję konferencji zapewnili liczni partnerzy medialni.",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=AX71DwAAQBAJ&oi=fnd&pg=PP1&dq=info:yti7WPJZ1cAJ:scholar.google.com&ots=RU_us2Rg7h&sig=sfmZpUm6v7tP3RVXiq4JBpcX_qA"
+    },
+    {
+        "title": "Hedging Properties of Algorithmic Investment Strategies using Long Short-Term Memory and Time Series models for Equity Indices",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2023/9/27",
+        "abstract": "This paper proposes a novel approach to hedging portfolios of risky assets when financial markets are affected by financial turmoils. We introduce a completely novel approach to diversification activity not on the level of single assets but on the level of ensemble algorithmic investment strategies (AIS) built based on the prices of these assets. We employ four types of diverse theoretical models (LSTM - Long Short-Term Memory, ARIMA-GARCH - Autoregressive Integrated Moving Average - Generalized Autoregressive Conditional Heteroskedasticity, momentum, and contrarian) to generate price forecasts, which are then used to produce investment signals in single and complex AIS. In such a way, we are able to verify the diversification potential of different types of investment strategies consisting of various assets (energy commodities, precious metals, cryptocurrencies, or soft commodities) in hedging ensemble AIS built for equity indices (S&P 500 index). Empirical data used in this study cover the period between 2004 and 2022. Our main conclusion is that LSTM-based strategies outperform the other models and that the best diversifier for the AIS built for the S&P 500 index is the AIS built for Bitcoin. Finally, we test the LSTM model for a higher frequency of data (1 hour). We conclude that it outperforms the results obtained using daily data.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2309.15640"
+    },
+    {
+        "title": "Generalized Mean Absolute Directional Loss as a Solution to Overfitting and High Transaction Costs in Machine Learning Models Used in High-Frequency Algorithmic Investment …",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2024/12/24",
+        "abstract": "Regardless of the selected asset class and the level of model complexity (Transformer versus LSTM versus Perceptron/RNN), the GMADL loss function produces superior results than standard MSE-type loss functions and has better numerical properties in the context of optimization than MADL. Better results mean the possibility of achieving a higher risk-weighted return based on buy and sell signals built on forecasts generated by a given theoretical model estimated using the GMADL versus MSE or MADL function. In practice, GMADL solves the problem of selecting the most preferable feature in both classification and regression problems, improving the performance of each estimation. What is important is that, through additional parameterization, GMADL also solves the problem of optimizing investment systems on high-frequency data in such a way that they focus on strategy variants that contain fewer transactions so that transaction costs do not reduce the effectiveness of a given strategy to zero. Moreover, the implementation leverages state-of-the-art machine learning tools, including frameworks for hyperparameter tuning, architecture testing, and walk-forward optimization, ensuring robust and scalable solutions for real-world algorithmic trading.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2412.18405"
+    },
+    {
+        "title": "Metody uczenia głębokiego w prognozowaniu finansowych szeregów czasowych",
+        "authors": "Jakub Michańków",
+        "year": "2022/2/20",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:WF5omc3nYNoC"
+    },
+    {
+        "title": "Forecasting accuracy evaluation of deep recurrent networks",
+        "authors": "Jakub Michańków",
+        "year": "2021/9/22",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "Prognozowanie wartości zagrożonej VaR z wykorzystaniem modeli klasy GARCH",
+        "authors": "Jakub Michańków",
+        "year": "2021/5",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Modelling univariate time series with one-dimensional convolutional neural networks",
+        "authors": "Jakub Michańków",
+        "year": "2021/4",
+        "abstract": "The goal of this article is to present theoretical concepts and applications of one-dimensional convolutional neural networks in univariate time series data modeling and prediction. While highly popular, CNNs are mostly used for working with two-dimensional image data. This work shows that they can also be successfully applied for modeling time series time series data. The methodology used in this research is computer simulation. A model based on one-dimensional convolutional network is programmed to train on two different time series data sets-daily temperature data and Tesla stock prices. Root-mean-square error (RMSE) and Mean absolute percentage error (MAPE) measures were used to evaluate model performance. In both cases, the model performs quite well, although the results obtained on the stock prices data are slightly better. The work also indicates the possibilities of improving and streamlining the models based on the described methods.",
+        "keywords": null,
+        "url": "https://promovendi.pl/wp-content/uploads/2021/05/The-Book-of-Articles-National-Scientific-Conferences-ISBN-978-83-961157-0-6-version-2.pdf#page=98"
+    },
+    {
+        "title": "Modele klasy GARCH w prognozowaniu zmienności instrumentów finansowych",
+        "authors": "Jakub Michańków",
+        "year": "2021",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "Przegląd modeli hybrydowych ANN-GARCH w prognozowaniu zmienności finansowych szeregów czasowych",
+        "authors": "Jakub Michańków",
+        "year": "2021",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "Investment Strategies with New Classes of Assets 2400-EN3SL301B",
+        "authors": "Jakub Michańków, Paweł Sakowski",
+        "year": null,
+        "abstract": "The aim of this seminar is not only to help students in writing very good bachelor thesis dissertation but presenting all the practical applications for financial theories and models used in the process of its preparing.",
+        "keywords": null,
+        "url": "https://informatorects.uw.edu.pl/en/courses/view?prz_kod=2400-EN3SL301A"
+    },
+    {
+        "title": "Investment Strategies with New Classes of Assets 2400-ENSM100A",
+        "authors": "Jakub Michańków, Paweł Sakowski",
+        "year": null,
+        "abstract": "Limit zapisów na seminarium celowo został ustalony na poziomie 0, choć de facto jest od niego wyższy. Zapisy na seminarium są możliwe jedynie po uprzednim kontakcie z prowadzącymi seminarium: p. sakowski@ uw. edu. pl i j. michankow@ uw. edu. pl",
+        "keywords": null,
+        "url": "http://informatorects.uw.edu.pl/pl/courses/view?prz_kod=2400-ENSM100A"
+    },
+    {
+        "title": "KNOWLEDGE–ECONOMY–SOCIETY",
+        "authors": "Janusz Nesterak, Bernard Ziębicki",
+        "year": null,
+        "abstract": "It is extremely important to assess clearly the costs and benefits in a business run. In order to increase productivity, a better understanding of cost structure must be obtained. Most of traditional reporting systems, especially in manufacturing enterprises, reveal a quantifiably weak correlation between the proposed or introduced improvements and the benefits that these improvements can bring. The concept of cost deployment is an example of a rational and systematic tool supporting the optimization of improvements in a manufacturing company. The results obtained as the outcome of the cost deployment process may constitute the basis for making subsequent management decisions. They can not only support a cost reduction plan but also provide information about root causes of existing inefficiencies.",
+        "keywords": null,
+        "url": "https://www.researchgate.net/profile/Janusz-Nesterak/publication/356064897_The_Cost_Deployment_concept_-_a_methological_outline/links/618a8eec07be5f31b75c9fc9/The-Cost-Deployment-concept-a-methological-outline.pdf"
+    }
+]

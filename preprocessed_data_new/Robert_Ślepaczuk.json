@@ -1,0 +1,162 @@
+[
+    {
+        "title": "momentum contrarian effect cryptocurrency market",
+        "authors": "Krzysztof Kosc, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2019/6/1",
+        "abstract": "report result investigation momentum contrarian effect cryptocurrency market investigated investment strategy involve 100 amongst 1200 present date nov 2017 cryptocurrencies largest market cap average daily volume exceeding given threshold value investment portfolio constructed using different assumption regarding portfolio reallocation period width ranking window number cryptocurrencies portfolio percent transaction cost performance benchmarked 1 equally weighted 2 weighted investment ranked asset well buy hold strategy based 3 p500 index 4 bitcoin price result show clear significant dominance contrarian momentum benchmark portfolio",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S037843711930216X"
+    },
+    {
+        "title": "applying hurst exponent pair trading strategy nasdaq 100 index",
+        "authors": "Quynh Bui, Robert Ślepaczuk",
+        "year": "2022/4/15",
+        "abstract": "research aim seek alternative approach stock selection algorithmic investment strategy try build effective pair trading strategy based 103 stock listed nasdaq 100 index dataset daily frequency cover period additional set generalized hurst exponent correlation cointegration method employed detect pattern time series linear combination pair stock result show hurst method outperform benchmark implies market efficient result quite sensitive varying number pair traded rebalancing period less sensitive financial leverage degree moreover hurst method better cointegration method superior compared",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S037843712100964X"
+    },
+    {
+        "title": "applying hybrid algorithmic investment strategy p500 index",
+        "authors": "Nguyen Vo, Robert Ślepaczuk",
+        "year": "2022/1/20",
+        "abstract": "research aim compare performance arima linear combination arima garch family model forecast p500 log return order construct algorithmic investment strategy index used collected yahoo finance daily frequency period 1 january 2000 31 december using rolling window approach compared arima hybrid model examine whether hybrid really reflect specific characteristic better predictive power simple arima order assess precision quality model forecasting compared equity line forecasting error metric mae mape rmse mape performance metric annualized return compounded annualized standard deviation maximum drawdown information ratio adjusted information ratio main contribution research show hybrid model outperform arima benchmark buy hold strategy p500 index long term result sensitive varying window size type distribution type garch",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1099-4300/24/2/158"
+    },
+    {
+        "title": "lstm algorithmic investment strategy btc p500 index",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2022/1/25",
+        "abstract": "use lstm network forecast value btc p500 index using 2013 end 2020 following frequency daily 1 h 15 min introduce innovative loss function improves usefulness forecasting ability lstm algorithmic investment strategy based forecast lstm generate buy sell investment signal employ algorithmic investment strategy create equity line investment purpose use various combination lstm model optimized period tested period using rolling window approach pay special attention preprocessing input layer avoid overfitting estimation optimization process assure correct selection hyperparameters beginning test next stage devoted conjunction signal various frequency one ensemble selection best combination period optimization given criterion similar way portfolio finally perform sensitivity main parameter hyperparameters",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/22/3/917"
+    },
+    {
+        "title": "application machine learning algorithmic investment strategy global stock market",
+        "authors": "Jan Grudniewicz, Robert Ślepaczuk",
+        "year": "2023/10/1",
+        "abstract": "research undertakes subject machine learning based algorithmic investment strategy several technical indicator employed input machine learning model neural network k nearest neighbor regression tree random forest naïve bayes classifier bayesian generalized linear model support vector machine model used generate trading signal wig20 dax p500 selected cee index period strategy compared benchmark strategy term achieved level risk return sensitivity used assess quality estimation independent subset finding showed algorithmic strategy outperformed passive strategy term return analyzed index linear",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0275531923001782"
+    },
+    {
+        "title": "high frequency warsaw stock exchange context efficient market hypothesis",
+        "authors": "Paweł Strawiński, Robert Ślepaczuk",
+        "year": "2008",
+        "abstract": "paper focus one heavily tested issue contemporary finance efficient market hypothesis emh however try find answer fundamental question basing high frequency hf warsaw stock exchange wse estimate daily wig20 index future trying verify daily hourly effect implementing base methodology testing additionally take account result regression weight robust regression used assigns higher weight better behaved observation result indicate observe day week hour day polish important existence strong open jump day except wednesday positive day monday considering hour day observe positive persistent",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=172335"
+    },
+    {
+        "title": "predicting price p 500 index using classical method recurrent neural network",
+        "authors": "Mateusz Kijewski, Robert Ślepaczuk, Maciej Wysocki",
+        "year": "2024",
+        "abstract": "implement algorithmic investment strategy based classical method recurrent neural network research compare performance investment algorithm time series p 500 index covering 20 year 2000 present approach dynamic optimization parameter backtesting process using rolling window method tested term robustness change parameter evaluated appropriate performance statistic information ratio maximum drawdown combination signal different method stable outperformed benchmark buy hold strategy doubling return maintaining level risk detailed sensitivity revealed classical method utilizing rolling window significantly robust change parameter lstm",
+        "keywords": null,
+        "url": "https://aisel.aisnet.org/isd2014/proceedings2024/datascience/34/"
+    },
+    {
+        "title": "robustness support vector machine algorithmic trading cryptocurrency market",
+        "authors": "Robert Ślepaczuk, Maryna Zenkova",
+        "year": "2018",
+        "abstract": "investigates profitability algorithmic trading strategy based training svm identify cryptocurrencies high low predicted return tail set defined group coin whose return highest lowest quintile cryptocurrency represented set six technical feature svm trained historical tail set tested current classifier chosen nonlinear support vector machine portfolio formed ranking coin using svm output highest ranked coin used long position included portfolio one reallocation period following metric used estimate portfolio profitability arc annualized rate change asd annualized standard deviation daily return mdd maximum drawdown coefficient ir1 ir2 information ratio coefficient performance svm portfolio compared performance four benchmark strategy based value information ratio coefficient ir1 quantifies gain question sensitive portfolio performance parameter set svm also addressed",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.1515/ceej-2018-0022"
+    },
+    {
+        "title": "volatility estimator",
+        "authors": "Robert Ślepaczuk, Grzegorz Zakrzewski",
+        "year": "2009/10/19",
+        "abstract": "paper focus volatility financial market one important issue finance especially regard modeling risk management asset pricing option valuation technique area concept volatility estimator consistent unbiased efficient crucial concern intention find best estimator true volatility taking account latest investigation finance literature basing methodology presented parkinson 1980 garman klass 1980 rogers satchell 1991 yang zhang 2000 andersen et al 1997 1998 1999a 199b hansen lunde 2005 2006b marten 2007 computed various volatility estimator compared classical volatility estimator often used financial model order reveal information set hidden utilized concept realized volatility realized range calculating estimator carefully focused ä interval used calculation n memory process q scaling factor scaled estimator result revealed appropriate selection ä n play crucial role try answer question concerning estimator efficiency well accuracy nine estimator volatility found optimal n measured day ä minute obtain efficient estimator finding confirmed best estimator include information contained closing price price range well range estimator important focused",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2508648"
+    },
+    {
+        "title": "anomaly capital market light efficient market hypothesis",
+        "authors": "Robert Ślepaczuk",
+        "year": "2006",
+        "abstract": "article present topic market efficiency particular emphasis deviation prevailing approach financial theory referred capital market anomaly work focus key aspect modern finance undoubtedly includes consideration market efficiency hypothesis topic market efficiency frequently discussed issue financial theorist want answer question whether possible create investment strategy yield return based given set information φt capital market efficient stock financial instrument correctly priced appropriately reflect value asset correspond opposing concept state valuation financial instrument contains systematic detectable error investor observe deviation achieve return position directly related market efficiency hypothesis informational sense occurs three form depending available set information φt time informational efficiency capital market also linked allocative efficiency market capital market place participant reflect opinion future project implemented new technology potential develop product consumer buy company develop future asset price",
+        "keywords": null,
+        "url": "https://finquarterly.com/archives/?page=wpabstracts&tab=attachments&task=download&type=attachment&id=771"
+    },
+    {
+        "title": "artificial neural network performance wig20 index option pricing",
+        "authors": "Maciej Wysocki, Robert Ślepaczuk",
+        "year": "2021/12/24",
+        "abstract": "paper performance artificial neural network option pricing analyzed compared result obtained based historical volatility result compared based various error metric calculated separately three moneyness ratio market approach taken train test neural network option 2009 2019 quoted warsaw stock exchange artificial neural network provide accurate option price even though hyperparameters properly tuned turned precise robust various market condition addition bias forecast obtained neural network differed significantly moneyness state provides initial insight application deep learning method pricing option emerging market low liquidity high volatility",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1099-4300/24/1/35"
+    },
+    {
+        "title": "volatility asset class obvious beneﬁts hidden risk",
+        "authors": "P. Jabłecki, J., Kokoszczynski, R., Sakowski P., Ślepaczuk, R., Wójcik",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=9hDUxqwAAAAJ&citation_for_view=9hDUxqwAAAAJ:HDshCWvjkbEC"
+    },
+    {
+        "title": "comparison lstm gru architecture novel approach algorithmic investment strategy",
+        "authors": "I. Baranochnikov, R. Ślepaczuk",
+        "year": "2022",
+        "abstract": "1 fama 1970 explore hypothesis empirical point view dividing three form weak strong 2 adebiyi et al 2014 present compare effectiveness arima artificial neural network ann model forecasting daily closing price nyse stock",
+        "keywords": null,
+        "url": "http://qfrg.wne.uw.edu.pl/wp-content/uploads/2022/11/QFRG_DSlab_mm_IBRS__2022-11-07.pdf"
+    },
+    {
+        "title": "midquotes transactional price evaluation black",
+        "authors": "Ryszard Kokoszczyński, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2018",
+        "abstract": "main idea research check efficiency black option pricing basis high frequency emerging market however liquidity constraint typical feature emerging derivative market put severe limit conducting kokoszczyński et 2010 reason focus midquotes instead transactional aware midquotes might proper representation market price probably transactional compare paper result research conducted transactional midquotes comparison show result differ significantly two approach black implied volatility biv significantly outperforms model especially black realized volatility brv latter producing worst result",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/589413.pdf"
+    },
+    {
+        "title": "volatility estimator university warsaw faculty economic science",
+        "authors": "R Ślepaczuk, G Zakrzewski",
+        "year": "2009",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=2031125424116029239&hl=en&oi=scholarr"
+    },
+    {
+        "title": "energy cost efficiency bitcoin mining endeavor",
+        "authors": "Małgorzata Jabłczyńska, Krzysztof Kosc, Przemysław Ryś, Paweł Sakowski, Robert Ślepaczuk, Grzegorz Zakrzewski",
+        "year": "2023/3/30",
+        "abstract": "main aim analyze btc mining efficiency current market condition december 2021 including soaring energy price produced many different source different geographical location thorough initial assumption concerning 1 price mining machine associated component effective amortization period 2 difficulty hash rate btc network 3 btc transaction fee 4 energy cost various source found currently btc mining profitable except rare case main reason phenomenon fast unpredictable increase difficulty btc network time result decreasing participation already purchased mining machine btc network hash rate research augmented detailed sensitivity mining efficiency initial parameter assumption allows observing condition btc mining efficient profitable challenging",
+        "keywords": null,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283687"
+    },
+    {
+        "title": "inclusion exposure volatility diversified portfolio improve investment result portfolio construction perspective polish investor",
+        "authors": "Michał Latoszek, Robert Ślepaczuk",
+        "year": "2020/3/30",
+        "abstract": "main goal research analyse investment benefit incorporation volatility exposure diversified portfolio perspective polish investor volatility treated new asset class may improve performance portfolio due negative correlation type asset topic widely investigated united state europe whereas polish market appears heavily researched may fill gap research cover period october 2010 july 2018 performed daily close price construct portfolio us framework naïve diversification approach comparison return investment without volatility exposure enables answer research question improvement result addition asset diversified portfolio vxx considered proxy volatility popular etn follows volatility index derivative given maturity test robustness result portfolio constructed broad range different parameter assumption imposed optimization procedure",
+        "keywords": null,
+        "url": "https://sciendo.com/pdf/10.18559/ebr.2020.1.3"
+    },
+    {
+        "title": "machine learning method algorithmic trading strategy time efficiency",
+        "authors": "Przemysław Ryś, Robert Ślepaczuk",
+        "year": "2018",
+        "abstract": "main aim paper formulate analyse machine learning method fitted strategy parameter optimization specificity important problem sensitivity strategy performance little parameter change numerous local extremum distributed solution space irregular way method designed purpose significant shortening computation time without substantial loss strategy quality efficiency method compared three different pair asset case moving average crossover system problem presented three set two asset portfolio first case strategy trading spx dax index future second aapl msft stock finally third case hgf cbf commodity future method operated containing 16 year daily price 1998 2013 validated period 2014 major hypothesis verified paper machine learning method select strategy evaluation criterion near highest one significantly lower execution time brute force method exhaustive search",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.1515/ceej-2018-0021"
+    },
+    {
+        "title": "option pricing model hf application black wig20 index",
+        "authors": "Ryszard Kokoszczynski, Pawel Sakowski, Robert Slepaczuk",
+        "year": "2012/3/8",
+        "abstract": "paper compared several black option pricing model applying different measure volatility examined black historical bhv implied biv several different type realized brv volatility main objective find best predicts actual market price minimum error high frequency hf quote instead transactional warsaw stock exchange wse used omit problem nonsynchronous trading increase number observation several error statistic percentage price overpredictions op showed result confirmed initial intuition biv best bhv second best brv least efficient among model studied",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2018420"
+    },
+    {
+        "title": "anomaly capital market light market efficiency hypothesis 1",
+        "authors": "R Ślepaczuk",
+        "year": "2006",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=10133054519637686322&hl=en&oi=scholarr"
+    }
+]

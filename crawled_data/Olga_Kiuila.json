@@ -1,0 +1,162 @@
+[
+    {
+        "title": "The cost of reducing CO2 emissions: Integrating abatement technologies into economic modeling",
+        "authors": "Olga Kiuila, Thomas F Rutherford",
+        "year": "2013/3/1",
+        "abstract": "We explore two methods of incorporating bottom-up abatement cost estimates into top-down modeling: an economy-wide method and a sector-specific method. Carbon emissions generally depend on technology and scale. Given the technology options, abatement is possible without a substantial reduction in scale. Otherwise the change must come purely through a reduction in demand. Our analysis shows that the cost of environmental policy is considerably overestimated by top-down models if a bottom-up abatement cost curve is not included. Using the data for the Swiss economy, we demonstrate two techniques of representing an abatement function explicitly in a computable general equilibrium model: a traditional and a hybrid (discrete technology modeling) approach. The results suggest that the current climate policy in Switzerland will not be able to move the economy towards the required 10% CO2 …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0921800912004892"
+    },
+    {
+        "title": "The effects of income, education and age on health",
+        "authors": "Olga Kiuila, Peter Mieszkowski",
+        "year": "2007/8",
+        "abstract": "We use the core interviews of the US Health Interview Survey for the years 1987–1994, to study the effects of socioeconomic status (SES) on mortality and self‐reported health. We find, consistent with previous studies, that the relationship between mortality and indicators such as education and income diminishes with age. We consider new explanations for this result and conclude that general biological deterioration at old age is probably the principal one. One important piece of evidence for this conclusion is the finding that there is no relationship at all between mortality and SES for people whose self‐reported health status at baseline is either fair or poor. Copyright © 2007 John Wiley & Sons, Ltd.",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.1203"
+    },
+    {
+        "title": "Decarbonisation perspectives for the Polish economy",
+        "authors": "Olga Kiuila",
+        "year": "2018/7/1",
+        "abstract": "In the coming decades the energy sector in Poland will undergo a substantial transition towards low carbon usage, which will have a predominant impact on the economy. Several modernization scenarios for energy policy are currently being discussed by the government and not yet concluded. The main objective of this paper is to provide a tool that allows to simulate such scenarios and to show the impact of decarbonisation on the whole economy. We propose an intertemporal hybrid general equilibrium modeling that incorporates energy technologies (bottom-up approach) directly into a macroeconomic structure (top-down approach). By accounting for wide adjustments in the economy, while controlling for all major constraints, the model gives a unique and detailed insight into the future shape of the energy sector and prospects of low carbon economy in Poland. Our simulation results suggest that there are no …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0301421518301824"
+    },
+    {
+        "title": "Expected effects of the ecological tax reform for the Polish economy",
+        "authors": "Olga Kiuila, Jerzy Sleszynski",
+        "year": "2003/8/1",
+        "abstract": "This study presents an assessment of possible consequences of ecological tax reform for the Polish economy. Computable general equilibrium model has been used. The model calibrated for the base year 1995 provides results for the year 2005. Six different scenarios have been considered. Final results confirm both theoretical and practical implications of the ecological tax reforms experiences in Western European countries. The reform is the most favorable when it is based on the concept of shifting tax burden from labor force or households’ income to environmental pollution. Long-run effects of the proposed tax reform in Poland would not slow down the economic growth. The reform, however, has to be implemented as a package of changes in the entire tax system. Such comprehensive reform could even contribute to economic growth of the Polish economy.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0921800903001241"
+    },
+    {
+        "title": "Piecewise smooth approximation of bottom–up abatement cost curves",
+        "authors": "Olga Kiuila, Thomas F Rutherford",
+        "year": "2013/11/1",
+        "abstract": "Top–down models usually include piecewise-smooth functions to describe marginal cost curves, while bottom–up models use step function curves. When a bottom–up cost curve is available, we can explicitly represent this curve with a top–down model in order to replicate its shape instead of using arbitrary assumptions. We propose several methods to approximate a piecewise function from a step function using constant elasticity of substitution technologies. Specifically, we consider a pollution abatement sector and calibrate the parameters of the abatement function in order to allow proper assessment of the economic effects of an environmental policy. Our methodology can be applied to any sector characterized by decreasing returns to scale technologies. We conclude that the elasticities of substitution need not be estimated only on the basis of historical data, but can be precisely calibrated on the basis of …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0140988313001618"
+    },
+    {
+        "title": "CGE model PLACE",
+        "authors": "Michał Antoszewski, Jakub Boratyński, Magdalena Zachłod-Jelec, Krzysztof Wójtowicz, Maciej Cygler, Robert Jeszke, Maciej Pyrka, Przemysław Sikora, Jan Gąska, Erika Jorgensen, Leszek Kąsek, Ryszard Malarski, Wojciech Rabiega",
+        "year": "2015",
+        "abstract": "PLACE is a static multi-region, multi-sector computable general equilibrium (CGE) model designed to assess the economic impact of energy and climate policies. Policies are typically analyzed using a comparative static approach, in which a situation with policy interference is compared to a situation without policy interference (often termed \"baseline\" or \"business-as-usual\"). Based on general equilibrium theory, PLACE incorporates micro-economic mechanisms within a comprehensive macro-economic framework, which distinguishes it from other large-scale economic models such as multivariate econometric models and input output analysis. The particular strengths of the CGE approach is the scope for quantifying distributional impacts of policies and the ability to reflect complex sectoral adjustments. This document constitutes technical documentation of the PLACE model and aims to present the underlying algebra and data sources that were used at different stages during the model's development.",
+        "keywords": null,
+        "url": "https://cor.sgh.waw.pl/handle/20.500.12182/409"
+    },
+    {
+        "title": "Can transition economies implement a carbon tax and hope for a double dividend? The case of Estonia",
+        "authors": "Olga Kiuila, Anil Markandya",
+        "year": "2009/4/22",
+        "abstract": "This article presents a simulation of the impact of the carbon tax reform on the Estonian economy using a computable general equilibrium model. Nine different scenarios have been considered. The long-term results of the proposed tax reform should not hamper the country's economic development, provided that the appropriate tax option is used. The reform has to be implemented as a package of changes in the entire tax system.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/13504850701221816"
+    },
+    {
+        "title": "Economic and environmental effects of unilateral climate actions",
+        "authors": "Olga Kiuila, Krzysztof Wójtowicz, Tomasz Żylicz, Leszek Kasek",
+        "year": "2016/2",
+        "abstract": "Unilateral climate policy can be detrimental to global climate protection. Our objective is to provide insight into such a policy, to quantify the risk of carbon leakage, and to investigate the effects related to potential anti-leakage measures. We analyze existing definitions of carbon leakage and propose an alternative, rigorous one, which is different in three respects. The definition is then tested using computable general equilibrium analysis of the global economy and decomposition analysis. We identify a list of parameters that affect not only the magnitude but also the sign of the carbon leakage rate. Manipulating elasticities of substitution suggests that carbon leakage can be either positive or negative. Computable general equilibrium models, which are widely applied, including by the European Commission in this area, should be transparent, and their assumptions call for careful validation. We find that …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s11027-014-9597-9"
+    },
+    {
+        "title": "Taxing air pollutants and carbon individually or jointly: results from a CGE model enriched by an emission abatement sector",
+        "authors": "Olga Kiuila, Anil Markandya, Milan Ščasný",
+        "year": "2019/1/2",
+        "abstract": "We analyse the separate and collective impacts of emissions taxation to understand the internalisation effects of externalities. The analysis is carried out using a static computable general equilibrium model, with unemployment, bottom-up abatement technologies represented by a step function, and detailed emission coefficients. Environmental and health external costs are quantified using the ExternE’s Impact Pathway Approach. Emissions, as a result of environmental taxation, fall through reduced output, production factor substitution, and increased end of pipe abatement activity. The analysis shows that a full internalisation of environmental externalities can result in modest overall economic and environmental welfare gains. There are, however, differences in terms of employment and output, depending on what combination of taxes are applied, which sectors are covered, and how fiscal revenues are …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/09535314.2018.1508000"
+    },
+    {
+        "title": "Sectoral and macroeconomic impacts of the large combustion plants in Poland: A general equilibrium analysis",
+        "authors": "Olga Kiuila, Grzegorz Peszko",
+        "year": "2006/5/1",
+        "abstract": "This paper analyses the final incidence of direct costs of implementation of the EU Directive on SO2 and NOx emission limits for large combustion plants in Poland. First, we simulate a model from a power-sector perspective, where compliance with the Directive appears to be associated only with direct costs. Second, a more realistic, market-wide perspective is modeled, where abatement costs borne by the power sector become the revenues of the sectors supplying abatement technologies and services. Simulations indicate that if environmental benefits of implementation are unaccounted for, the Directive would seem to cause a deadweight loss in the economy. The overall impact, however, is likely to be less negative than what the interest groups claim.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0140988306000314"
+    },
+    {
+        "title": "Interactions between trade and environmental policies in the Czech Republic",
+        "authors": "Olga Kiuila",
+        "year": "2015/10/3",
+        "abstract": "The Czech Republic is obliged to implement pollution charges in accordance with the EU environmental policy. The charges may affect international competitiveness of the country, since they are applied to the domestically produced, but not to the imported commodities. We investigate how such environmental taxation of six main pollutants affects the Czech competitiveness. Using computable general equilibrium modeling with bottom-up approach, we consider a small-open economy with endogenous unemployment and ten types of taxes. A distinction between taxes on products and taxes on production is essential for analysis of a fiscal policy. Emissions reduction is possible in our model either through substitution with less polluting inputs, or a reduction of output, or through technical abatement. The last channel for emission reduction is ignored by other studies. The results show that the imports should not be …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/09638199.2014.995208"
+    },
+    {
+        "title": "Calibration of abatement cost function using CES technology",
+        "authors": "Olga Kiuila, Thomas Rutherford",
+        "year": "2010/9/12",
+        "abstract": "Bottom-up estimates of abatement cost impact public perceptions regarding the feasibility of greenhouse gas abatement; yet these estimates are narrowly defined on a partial equilibrium basis. This paper explores the extent to which policy conclusions depend on how bottom-up assessments of greenhouse gas abatement options are integrated into top-down analyses of economic cost. We investigate several methods for this purpose: a choice-theoretic perspective, an economy-wide approach, and a sector-specific approach. In each case we compare smooth approximation of abatement functions with activity analysis methods. In these frameworks, we focus on the scope of abatement options with light duty vehicles using a computable general equilibrium model for Switzerland. We find that when pollution abatement options are represented in the aggregate through either activity analysis or smooth approximation …",
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=5805085740906440456&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Economic repercussions of sulfur regulations in Poland",
+        "authors": "Olga Kiuila",
+        "year": "2003/6/1",
+        "abstract": "Using applied general equilibrium techniques, it is possible to compute alternative equilibria for different policy regimes and to assess impacts of the changes. We have used these techniques to verify economy-wide effects of SO2 emission reduction in Poland according to international sulfur agreement. Simulation results suggest that future emission reduction may have a positive effect on Polish economic indicators. We should not be afraid of a slump in emitting sectors. Some sectors may increase their SO2 emission and abate it afterwards, rather than decrease their emission at once. The poor households may even gain because their welfare effect will be positive.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0161893803000085"
+    },
+    {
+        "title": "Badanie Kosztow Dostosowywania Polskiej Gospodarki do Drugiego Protokolu Siarkowego",
+        "authors": "O Kiuila",
+        "year": "2000",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=7035294800592343751&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Economic modeling approaches: optimization versus equilibrium",
+        "authors": "Olga Kiuila, Thomas F Rutherford",
+        "year": "2014",
+        "abstract": "The paper discusses three general classes of nonlinear programming models. Our objective is to show how to represent optimization problem, such as nonlinear programs, in a compact format using extended mathematical programming. This is a useful tool, especially in cases when complementarity representation, such as mixed complementarity problems, could be difficult to apply. We reflect on the special features of the abstract neoclassical growth model with infinite horizon and illustrate four distinct approaches to computing equilibrium transition paths. The relationship between optimization and equilibrium modeling is explored. We conclude with a test of a new model representation (extended mathematical programming) using two common general equilibrium studies in the literature: Ramsey and Negishi. The new framework allows to define complementarity problems for a model formulated as an optimization problem, thus the resulting model becomes in fact a complementarity problem.",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/inf/wyd/WP/WNE_WP121.pdf"
+    },
+    {
+        "title": "Abatement options and the economy-wide impact of climate policy",
+        "authors": "Olga Kiuila, Thomas F Rutherford",
+        "year": "2010/6/21",
+        "abstract": "Bottom-up estimates of abatement cost impact public perceptions regarding the feasibility of greenhouse gas abatement; yet these estimates are narrowly defined on a partial equilibrium basis. This paper explores the extent to which policy conclusions depend on how bottom-up assessments of greenhouse gas abatement options are integrated into top-down analyses of economic cost. We investigate several methods for this purpose: a choice-theoretic perspective, an economy-wide approach, and a sector-specific approach. In each case we compare smooth approximation of abatement functions with activity analysis methods. In these frameworks, we focus on the scope of abatement options with light duty vehicles using a computable general equilibrium model for Switzerland. We find that when pollution abatement options are represented in the aggregate through either activity analysis or smooth approximation …",
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=2971823734344059939&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Koncepcja podatków ekologicznych w Polsce",
+        "authors": "Olga Kiuila, Jerzy Śleszyński",
+        "year": "2003",
+        "abstract": "Artykuł zawiera wstępną ocenę potencjalnych skutków proekologicznej reformy podatków na gospodarkę Polską. Analizę przeprowadzono na modelu równowagi ogólnej, z prognozą na rok 2005. Przedstawiono sześć różnych scenariuszy gospodarczych zawierających porównania przed i po wprowadzeniu reformy. Uzyskane rezultaty są zgodne z wnioskami teoretycznymi i praktycznymi jakie można było uzyskać na bazie doświadczeń krajów Europy Zachodniej, które taką reformę podatków wdrożyły wcześniej.",
+        "keywords": null,
+        "url": "http://bazekon.icm.edu.pl/bazekon/element/bwmeta1.element.ekon-element-000000117678"
+    },
+    {
+        "title": "Approximation of marginal abatement cost curve",
+        "authors": "Olga Kiuila, Thomas F Rutherford",
+        "year": "2014/7",
+        "abstract": "Top-down models usually include piecewise-smooth functions to describe marginal cost curves, while bottom-up models describe those curves with a step function. When a bottomup cost curve is available, we can explicitly represent this curve with a top-down model in order to replicate its shape instead of arbitrary assumptions. We propose methods to approximate a piecewise function from a step function using constant elasticity of substitution technologies. Specifically, we consider a pollution abatement sector and calibrate the parameters of the abatement function in order to be able properly to assess the economic effects of an environmental policy. Our methodology can be applied to any sector characterized by decreasing returns to scale technologies. We conclude that the elasticities of substitution need not be estimated only on the basis of historical data, but can be precisely calibrated on the basis of engineering estimates of technology potential.",
+        "keywords": null,
+        "url": "https://www.academia.edu/download/66541290/Approximation_of_Marginal_Abatement_Cost20210422-27438-8o2ciw.pdf"
+    },
+    {
+        "title": "Economic modelling of sulphur regulations in Poland",
+        "authors": "Olga Kiuila",
+        "year": "2003/1/1",
+        "abstract": "This study presents an assessment of the possible consequences of reducing the emission of sulphur dioxide in Poland according to international sulphur agreement. A computable general equilibrium model was used for this purpose. The model, calibrated for 1995, provides results for year 2010 which suggest that future emission reductions may have positive effects on Polish economic indicators. We should not fear an economic slump in the emitting sectors. Some sectors may increase their sulphur dioxide emissions initially and abate them later, rather than decrease their emissions at once. Poor households may gain, because the welfare effect on them will be positive.",
+        "keywords": null,
+        "url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJEP.2003.004310"
+    },
+    {
+        "title": "Economic Dynamic Modelling of Climate Policy in Poland",
+        "authors": "Olga Kiuila, Emilia Lewczuk",
+        "year": "2021/8/20",
+        "abstract": "Poland is responsible for 9% of CO2 emission in the European Union (EU), making it the fifth biggest emitter in the region. The energy sector is dominated by electricity produced from coal (around 70%). The country currently uses massive subsidies to boost the coal sector. We propose a dynamic intertemporal hybrid general equilibrium model to simulate the economic effects of sector regulations and new policy targets within environmental taxation scenarios, by accounting for a complex set of linkages between the energy sector and other components of the economy. Our simulation results suggest that positive economic growth is possible with a realistic energy mix, but it will not offer considerable emission reduction, as required by the European Commission. In the short-time horizon, the best choice is renewable energy sources indicated by less capital-intensive technologies (such as biomass). In the long-time horizon, more capital-intensive technologies (such as wind turbines) will be a better choice for economic growth. Carbon tax plays a crucial role in optimal energy mix targets, since its elimination ceteris paribus implies negative economic growth.",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/ceej-2021-0018"
+    }
+]
