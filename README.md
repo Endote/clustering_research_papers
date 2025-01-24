@@ -3,7 +3,7 @@
 The general goal of this research was to find out which topics are the area of research by each member of the University of Warsaw Faculty of Economic Sciences academia.
 
 
-This code aims to provide a scraper in order to conduct semantic clustering on research papers from available supervisors on UW's Faculty of Economic Sciences.
+This code aims to provide a scraper in order to conduct semantic clustering on research paper abstracts from available supervisors on UW's Faculty of Economic Sciences.
 
 ## The Scraper
 
