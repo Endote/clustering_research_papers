@@ -337,8 +337,7 @@ Stanisław Cichocki:<br/>
   Cluster 13: 2 papers<br/>
 
 # Conclusions
-
-Based on the results of this clustering and dimension reduction we can clearly see some patters in topics of different members of the Academia on the Faculty of Economics in University of Warsaw.<br/>
+This report detailed the process and results of an unsupervised learning clustering analysis conducted on research paper abstracts from faculty members of the University of Warsaw's Faculty of Economic Sciences.  By employing web scraping, text preprocessing, TF-IDF vectorization, dimensionality reduction with UMAP, and HDBSCAN clustering, we successfully identified distinct research topics within the members of the Academia on the Faculty of Economics in University of Warsaw.<br/>
 
 There is some solid proof of success for this clustering, for example the papers of<br/> 
 https://www.wne.uw.edu.pl/members/profile/view/41 <br/>
@@ -349,7 +348,7 @@ Robert Ślepaczuk:<br/>
 
 These results give us a general insight into what topics are interesting for which members of the academia. This could help potential students to pursue their desired scientific goal under proper supervisory of an adequate teacher.
 
-
+Further research could explore alternative clustering algorithms or preprocessing techniques to refine the results and potentially uncover more nuanced thematic distinctions.
 
 ### Appendix
 List of authors whose research papers were used in this text-topic analysis:<br/> 
