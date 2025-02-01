@@ -1,16 +1,16 @@
-# Unsupervised Learning Clustering on Reasearch Papers from University of Warsaw Faculty of Economic Sciences
+# Unsupervised Learning Clustering and Dimension Reduction on Reasearch Papers from University of Warsaw Faculty of Economic Sciences
 
 The general goal of this research was to find out which topics are the area of research by each member of the University of Warsaw Faculty of Economic Sciences academia.
 
 
 This code aims to provide a scraper in order to conduct semantic clustering on research paper abstracts from available supervisors on UW's Faculty of Economic Sciences.
 
-## The Scraper
+# The Scraper
 
 The scraper is crawling through the Google Scholar pages for provided authors in the list.txt file gathering all of the papers' details.
 I am using Selenium, because of the easy session and multiple-tab handling. 
 
-## Clustering Methodology
+# Analysis Methodology
 
 ### Preprocessing
 
@@ -32,13 +32,13 @@ In order to properly cluster our data we need to reduce the number of features i
 To enchance it we reduce the number of manifolds, so that it is more managable by DBSCAN.
 
 
-### Clustering proper - HDBSCAN
+### Clustering with HDBSCAN
 
 The algorithm I decided to use was DBSCAN, with some reading I found out that HDBSCAN ( Hierarchical DBSCAN ) is a much better choice as it seems to handle the noise even smoother, which I expected to be high in text data.
 One other advantage is that the radius is not necessary to be set as it is determined based on hierarchical distances. 
 
 
-## Results
+# Results
 
 ![clustering TSNE](https://github.com/user-attachments/assets/5d5678fb-107d-4c7d-b827-4a2c72bbda08)
 
@@ -335,3 +335,79 @@ Stanisław Cichocki:<br/>
   Cluster 9: 2 papers<br/>
   Cluster 11: 1 papers<br/>
   Cluster 13: 2 papers<br/>
+
+# Conclusions
+
+Based on the results of this clustering and dimension reduction we can clearly see some patters in topics of different members of the Academia on the Faculty of Economics in University of Warsaw.<br/>
+
+There is some solid proof of success for this clustering, for example the papers of<br/> 
+https://www.wne.uw.edu.pl/members/profile/view/41 <br/>
+Robert Ślepaczuk:<br/>
+  Cluster 6: 36 papers<br/>
+
+  Cluster 6: volatility, strategy, market, investment, model, forecast, risk, portfolio, price, stock<br/>
+
+These results give us a general insight into what topics are interesting for which members of the academia. This could help potential students to pursue their desired scientific goal under proper supervisory of an adequate teacher.
+
+
+
+### Appendix
+List of authors whose research papers were used in this text-topic analysis:<br/> 
+https://scholar.google.com/citations?hl=pl&user=XSzsEtwAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=i7awptIAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=Mg7Z2qoAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=q9zFJHkAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=tRjklFQAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=c_OKnLEAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=PhNAgr0AAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=ZGV1xWQAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=iTq62wYAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=C8aGtDsAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=J9nzkEUAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=8-4v8SMAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=Yah04gwAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=N-ihQMoAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=vwmdy4EAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=hXO5VfYAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=Vg4noNIAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=UCuM1lwAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=zIMX4HEAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=mIcMty8AAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=uzVDnVsAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=vgzkd9IAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=SzMb1DUAAAAJ <br/>  
+https://scholar.google.com/citations?hl=pl&user=sj_axrYAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=LBovu9gAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=rQh_QU0AAAAJ <br/>  
+https://scholar.google.com/citations?hl=pl&user=VMDN_VgAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=s9ocZnkAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=9hDUxqwAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=evkeykQAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=L2Y9PJcAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=BgbTaQkAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=SBxcIDgAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=WVjmW3wAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=_XLs52sAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=iJGLqokAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=dwY3t_MAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=gD5nAgQAAAAJ <br/> 
+https://scholar.google.com/citations?hl=pl&user=vqCpol8AAAAJ <br/> 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
