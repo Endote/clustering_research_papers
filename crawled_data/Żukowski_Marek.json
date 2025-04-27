@@ -1,0 +1,162 @@
+[
+    {
+        "title": "‘‘Event-ready-detectors’’Bell experiment via entanglement swapping",
+        "authors": "Marek Żukowski, Anton Zeilinger, Michael A Horne, Artur K Ekert",
+        "year": "1993/12/27",
+        "abstract": "Using independent sources one can realize an \"event-ready\" Bell-Einstein-Podolsky-Rosen experiment in which one can measure directly the probabilities of the various outcomes including nondetection of both particles. Our proposal involves two parametric down-converters. Subcoherence-time monitoring of the idlers provides a noninteractive quantum measurement entangling and preselecting the independent signals without touching them. We give the conditions for high fringe visibility and particle collection efficiency as required for a Bell test. © 1993 The American Physical Society.",
+        "keywords": null,
+        "url": "https://ora.ox.ac.uk/objects/uuid:c9eed79b-4854-4c00-a725-ae2ec2cf317d"
+    },
+    {
+        "title": "Multiphoton entanglement and interferometry",
+        "authors": "Jian-Wei Pan, Zeng-Bing Chen, Chao-Yang Lu, Harald Weinfurter, Anton Zeilinger, Marek Żukowski",
+        "year": "2012/4/1",
+        "abstract": "Multiphoton interference reveals strictly nonclassical phenomena. Its applications range from fundamental tests of quantum mechanics to photonic quantum information processing, where a significant fraction of key experiments achieved so far comes from multiphoton state manipulation. The progress, both theoretical and experimental, of this rapidly advancing research is reviewed. The emphasis is given to the creation of photonic entanglement of various forms, tests of the completeness of quantum mechanics (in particular, violations of local realism), quantum information protocols for quantum communication (e.g., quantum teleportation, entanglement purification, and quantum repeater), and quantum computation with linear optics. The scope of the review is limited to “few-photon” phenomena involving measurements of discrete observables.",
+        "keywords": null,
+        "url": "https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.84.777"
+    },
+    {
+        "title": "Information causality as a physical principle",
+        "authors": "Pawlowski, Marcin, Paterek, T , Kaszlikowski, D",
+        "year": "2009/10/22",
+        "abstract": "Quantum physics has remarkable distinguishing characteristics. For example, it gives only probabilistic predictions (non-determinism) and does not allow copying of unknown states (no-cloning). Quantum correlations may be stronger than any classical ones, but information cannot be transmitted faster than light (no-signalling). However, these features do not uniquely define quantum physics. A broad class of theories exist that share such traits and allow even stronger (than quantum) correlations. Here we introduce the principle of ‘information causality’ and show that it is respected by classical and quantum physics but violated by all no-signalling theories with stronger than (the strongest) quantum correlations. The principle relates to the amount of information that an observer (Bob) can gain about a data set belonging to another observer (Alice), the contents of which are completely unknown to him. Using all his …",
+        "keywords": null,
+        "url": "https://www.nature.com/articles/nature08400"
+    },
+    {
+        "title": "An experimental test of non-local realism",
+        "authors": "Simon Gröblacher, Tomasz Paterek, Rainer Kaltenbaek, Caslav Brukner, Marek Zukowski, Markus Aspelmeyer, Anton Zeilinger",
+        "year": "2007",
+        "abstract": "Most working scientists hold fast to the concept of ‘realism’—a viewpoint according to which an external reality exists independent of observation. But quantum physics has shattered some of our cornerstone beliefs. According to Bell’s theorem, any theory that is based on the joint assumption of realism and locality (meaning that local events cannot be affected by actions in space-like separated regions) is at variance with certain quantum predictions. Experiments with entangled pairs of particles have amply confirmed these quantum predictions, thus rendering local realistic theories untenable. Maintaining realism as a fundamental concept would therefore necessitate the introduction of ‘spooky’ actions that defy locality. Here we show by both theory and experiment that a broad and rather reasonable class of such non-local realistic theories is incompatible with experimentally observable quantum correlations. In the …",
+        "keywords": null,
+        "url": "https://www.nature.com/articles/nature05677"
+    },
+    {
+        "title": "Violations of local realism by two entangled N-dimensional systems are stronger than for two qubits",
+        "authors": "Dagomir Kaszlikowski, Piotr Gnaciński, Marek Żukowski, Wieslaw Miklaszewski, Anton Zeilinger",
+        "year": "2000/11/20",
+        "abstract": "Tests of local realism versus quantum mechanics based on Bell's inequality employ two entangled qubits. We investigate the general case of two entangled quantum systems defined in N-dimensional Hilbert spaces, or “qu N its.” Via a numerical linear optimization method we show that violations of local realism are stronger for two maximally entangled qu N its (3≤ N≤ 9) than for two qubits and that they increase with N. The two qu N it measurements can be experimentally realized using entangled photons and unbiased multiport beam splitters.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.85.4418"
+    },
+    {
+        "title": "Bell’s theorem for general N-qubit states",
+        "authors": "Marek Żukowski, Časlav Brukner",
+        "year": "2002/5/9",
+        "abstract": "We derive a single general Bell inequality which is a sufficient and necessary condition for the correlation function for N particles to be describable in a local and realistic picture, for the case in which measurements on each particle can be chosen between two arbitrary dichotomic observables. We also derive a necessary and sufficient condition for an arbitrary N-qubit mixed state to violate this inequality. This condition is a generalization and reformulation of the Horodecki family condition for two qubits.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.88.210401"
+    },
+    {
+        "title": "Three-Particle Entanglements from Two Entangled Pairs",
+        "authors": "Anton Zeilinger, Michael A Horne, Harald Weinfurter, Marek Zukowski",
+        "year": "1997/4/21",
+        "abstract": "When a single particle from two independent entangled pairs is detected in a manner such that it is impossible to determine from which pair the single particle came, the remaining three particles become entangled in a GHZ state. This procedure can be realized with existing sources of entangled photons and with future sources of entangled atoms.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.78.3031"
+    },
+    {
+        "title": "Realizable higher-dimensional two-particle entanglements via multiport beam splitters",
+        "authors": "Marek Zukowski, Anton Zeilinger, Michael A Horne",
+        "year": "1997/4/1",
+        "abstract": "Multiport beam splitters are shown to be applicable in feasible optical realizations of higher-dimensional EPR correlations, and of tests of local realism involving measurements of nondichotomic variables. These multiports permit optical realizations of any unitary operator in Hilbert spaces of arbitrary finite dimension. Thus it is shown that one is by no means constrained to entangled spin systems, and to Stern-Gerlach apparatuses. In the analysis the concept of generalized Bell numbers is employed, which is more suitable than the standard set of spin eigenvalues. The results presented here move the discussion on entangled higher-than-spin systems from the realm of gedanken experiments to real experiments.",
+        "keywords": null,
+        "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.55.2564"
+    },
+    {
+        "title": "Security of quantum key distribution with entangled qutrits",
+        "authors": "Thomas Durt, Nicolas Cerf, Nicolas Gisin, M Zukowski",
+        "year": "2003",
+        "abstract": "The study of quantum cryptography and quantum entanglement have traditionally been based on two-level quantum systems (qubits). In this paper, we consider a generalization of Ekert’s entanglement-based quantum cryptographic protocol where qubits are replaced by three-level systems (qutrits). In order to investigate the security against the optimal individual attack, we derive the information gained by a potential eavesdropper applying a cloning-based attack. We exhibit the explicit form of this cloner, which is distinct from the previously known cloners, and conclude that the protocol is more robust than those based on entangled qubits as well as unentangled qutrits.",
+        "keywords": null,
+        "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.67.012311"
+    },
+    {
+        "title": "Bell’s inequalities and quantum communication complexity",
+        "authors": "Časlav Brukner, Marek Żukowski, Jian-Wei Pan, Anton Zeilinger",
+        "year": "2004/3/26",
+        "abstract": "We prove that for every Bell’s inequality, including those which are not yet known, there always exists a communication complexity problem, for which a protocol assisted by states which violate the inequality is more efficient than any classical protocol. Violation of Bell’s inequalities is the necessary and sufficient condition for quantum protocol to beat the classical ones.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.92.127901"
+    },
+    {
+        "title": "Entangling photons radiated by independent pulsed sources",
+        "authors": "Marek Zukowski, Anton Zeilinger, Harald Weinfurter",
+        "year": "1995/4",
+        "abstract": "By pumping two or more downconversion crystals with a pulsed laser, it is experimentally feasible to obtain with nonnegligible probability one photon pair from each crystal within a pulse. Then, by registering the idlers in such a way that this does not provide path information, we observe that the signal photons emitted together with the idlers are projected onto the desired entangled state. The necessary condition for erasure of idler path information is that the idler filter bandwidth results in an idler coherence time that significantly exceeds the pump pulse length. We show the importance of this technique for photon correlation schemes that would permit one to perform “event-ready’’two-photon Bell tests, entanglement swapping, and quantum teleportation and to obtain GHZ states. Entanglement is at the source of a number of pure quantum phenomena, such as the correlations violating Bell’s inequalities,’quantum …",
+        "keywords": null,
+        "url": "https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1749-6632.1995.tb38959.x"
+    },
+    {
+        "title": "Experimental interference of independent photons",
+        "authors": "Rainer Kaltenbaek, Bibiane Blauensteiner, Marek Żukowski, Markus Aspelmeyer, Anton Zeilinger",
+        "year": "2006/6/23",
+        "abstract": "Interference of photons emerging from independent sources is essential for modern quantum-information processing schemes, above all quantum repeaters and linear-optics quantum computers. We report an observation of nonclassical interference of two single photons originating from two independent, separated sources, which were actively synchronized with a rms timing jitter of 260 fs. The resulting (two-photon) interference visibility was ()%.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.96.240502"
+    },
+    {
+        "title": "Experimental single qubit quantum secret sharing",
+        "authors": "Christian Schmid, Pavel Trojek, Mohamed Bourennane, Christian Kurtsiefer, Marek Żukowski, Harald Weinfurter",
+        "year": "2005/12/2",
+        "abstract": "We present a simple and practical protocol for the solution of a secure multiparty communication task, the secret sharing, and its proof-of-principle experimental realization. In this protocol, a secret is split among several parties in a way that its reconstruction requires the collaboration of the participating parties. In our scheme the parties solve the problem by sequential transformations on a single qubit. In contrast with recently proposed schemes involving multiparticle Greenberger-Horne-Zeilinger states, the approach demonstrated here is much easier to realize and scalable in practical applications.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.230505"
+    },
+    {
+        "title": "Four-photon entanglement from down-conversion",
+        "authors": "Harald Weinfurter, Marek Żukowski",
+        "year": "2001/6/7",
+        "abstract": "Double-pair emission from type-II parametric down-conversion results in a highly entangled four-photon state. Due to interference, which is similar to bunching from thermal emission, this state is not simply a product of two pairs. The observation of this state can be achieved by splitting the two emission modes at beam splitters and subsequent detection of a photon in each output. Here we describe the features of this state and construct a Bell-type inequality, which gives a necessary and sufficient condition for a four-photon test of local realistic hidden variable theories.",
+        "keywords": null,
+        "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.64.010102"
+    },
+    {
+        "title": "Experimental Violation of Local Realism by Four-Photon<? format?> Greenberger-Horne-Zeilinger Entanglement",
+        "authors": "Zhi Zhao, Tao Yang, Yu-Ao Chen, An-Ning Zhang, Marek Żukowski, Jian-Wei Pan",
+        "year": "2003/10/31",
+        "abstract": "We report the first experimental violation of local realism by four-photon Greenberger-Horne-Zeilinger (GHZ) entanglement. In the experiment, the nonstatistical GHZ conflicts between quantum mechanics and local realism are confirmed, within the experimental accuracy, by four specific measurements of polarization correlations between four photons. In addition, our experimental results also demonstrate a strong violation of Mermin-Ardehali-Belinskii-Klyshko inequality by 76 standard deviations. Such a violation can only be attributed to genuine four-photon entanglement.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.91.180401"
+    },
+    {
+        "title": "Experimental observation of four-photon entanglement from parametric down-conversion",
+        "authors": "Manfred Eibl, Sascha Gaertner, Mohamed Bourennane, Christian Kurtsiefer, <? format?> Marek Żukowski, Harald Weinfurter",
+        "year": "2003/5/23",
+        "abstract": "We observe polarization entanglement between four photons produced from a single down-<?format ?>conversion source. The nonclassical correlations between the measurement results violate a generalized Bell inequality for four qubits. The characteristic properties and its easy generation with high interferometric contrast make the observed four-photon state well suited for implementing advanced quantum communication schemes such as multiparty quantum key distribution, secret sharing, and telecloning.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.90.200403"
+    },
+    {
+        "title": "Quantum communication complexity protocol with two entangled qutrits",
+        "authors": "Časlav Brukner, Marek Żukowski, Anton Zeilinger",
+        "year": "2002/11/4",
+        "abstract": "We formulate a two-party communication complexity problem and present its quantum solution that exploits the entanglement between two qutrits. We prove that for a broad class of protocols the entangled state can enhance the efficiency of solving the problem in the quantum protocol over any classical one if and only if the state violates Bell’s inequality for two qutrits.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.197901"
+    },
+    {
+        "title": "Clauser-Horne inequality for three-state systems",
+        "authors": "Dagomir Kaszlikowski, Leong Chuan Kwek, Jing-Ling Chen, Marek Żukowski, Choo Hiap Oh",
+        "year": "2002/2/26",
+        "abstract": "We show a new Bell-Clauser-Horne inequality for two entangled three-dimensional quantum systems (so-called qutrits). This inequality is not violated by a maximally entangled state of two qutrits observed through a symmetric three-input-and three-output-port beam splitter only if the amount of noise in the system is greater than (11− 6 3)/2≈ 0.308. This result is in a perfect agreement with the previous numerical calculations presented in Kaszlikowski et al.[Phys. Rev. Lett. 85, 4418 (2000)]. Moreover, we prove that for noiseless case, the necessary and sufficient condition for the threshold quantum efficiency of detectors below which there is no violation of local realism for the optimal choice of observables is equal to 6 (1 5− 4 3)/59≈ 0.821. This efficiency result again agrees with the numerical predictions.",
+        "keywords": null,
+        "url": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.65.032118"
+    },
+    {
+        "title": "Experimental test of nonlocal realistic theories without the rotational symmetry assumption",
+        "authors": "Tomasz Paterek, Alessandro Fedrizzi, Simon Gröblacher, Thomas Jennewein, Marek Żukowski, Markus Aspelmeyer, Anton Zeilinger",
+        "year": "2007/11/23",
+        "abstract": "We analyze the class of nonlocal realistic theories that was originally considered by Leggett [Found. Phys. 33, 1469 (2003)FNDPA40015-901810.1023/A:1026096313729] and tested by us in a recent experiment [Nature (London) 446, 871 (2007)NATUAS0028-083610.1038/nature05677]. We derive an incompatibility theorem that works for finite numbers of polarizer settings and that does not require the previously assumed rotational symmetry of the two-particle correlation functions. The experimentally measured case involves seven different measurement settings. Using polarization-entangled photon pairs, we exclude this broader class of nonlocal realistic models by experimentally violating a new Leggett-type inequality by 80 standard deviations.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.99.210406"
+    },
+    {
+        "title": "Experiments towards falsification of noncontextual hidden variable theories",
+        "authors": "Markus Michler, Harald Weinfurter, Marek Żukowski",
+        "year": "2000/6/12",
+        "abstract": "We present two experiments testing the hypothesis of noncontextual hidden variables. The first one is based on observation of two-photon pseudo-Greenberger-Horne-Zeilinger correlations, with two of the originally three particles mimicked by the polarization degree of freedom and the spatial degree of freedom of a single photon. The second one, a single-photon experiment, utilizes the same trick to emulate two particle correlations, and is an “event ready” test of a Bell-like inequality, derived from the noncontextuality assumption. Modulo fair sampling, the data falsify noncontextual hidden variables.",
+        "keywords": null,
+        "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.84.5457"
+    }
+]

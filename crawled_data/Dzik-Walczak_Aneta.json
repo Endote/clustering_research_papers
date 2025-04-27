@@ -1,0 +1,162 @@
+[
+    {
+        "title": "An implementation of ensemble methods, logistic regression, and neural network for default prediction in Peer-to-Peer lending",
+        "authors": "Aneta Dzik-Walczak, Mateusz Heba",
+        "year": "2021/6/30",
+        "abstract": "Credit scoring has become an important issue because competition among financial institutions is intense and even a small improvement in predictive accuracy can result in significant savings. Financial institutions are looking for optimal strategies using credit scoring models. Therefore, credit scoring tools are extensively studied. As a result, various parametric statistical methods, non-parametric statistical tools and soft computing approaches have been developed to improve the accuracy of credit scoring models. In this paper, different approaches are used to classify customers into those who repay the loan and those who default on a loan. The purpose of this study is to investigate the performance of two credit scoring techniques, the logistic regression model estimated on categorized variables modified with the use of WOE (Weight of Evidence) transformation, and neural networks. We also combine multiple classifiers and test whether ensemble learning has better performance. To evaluate the feasibility and effectiveness of these methods, the analysis is performed on Lending Club data. In addition, we investigate Peer-to-peer lending, also called social lending. From the results, it can be concluded that the logistic regression model can provide better performance than neural networks. The proposed ensemble model (a combination of logistic regression and neural network by averaging the probabilities obtained from both models) has higher AUC, Gini coefficient and Kolmogorov-Smirnov statistics compared to other models. Therefore, we can conclude that the ensemble model allows to successfully reduce the potential risks of losses due to …",
+        "keywords": null,
+        "url": "https://hrcak.srce.hr/259598"
+    },
+    {
+        "title": "The dynamic model of partial adjustment of the capital structure. Meta-analysis and a case of Polish enterprises",
+        "authors": "Natalia Nehrebecka, Aneta Dzik-Walczak",
+        "year": "2018",
+        "abstract": "The impact of company characteristics on bank debt financing has always been a field of conflicts among economists (eg trade-off theory vs. pecking order theory). The aim of this study is to investigate the adjustment speed of the capital structure to the optimal one. It has been verified how both company characteristics and macroeconomic factors affect adjustments toward a leverage target. This study provides a systematic analysis of the empirical literature on the leverage by conducting a meta-analysis. In particular, the problem of publication selection bias is discussed. Our results indicate that there is an evidence of such publication selection. For Polish case, we have found that the estimation of coefficient for lagged leverage is equal to 58.45%. It means that companies adjust its current level of leverage to the optimal value at a rate of 41.55% per year, so they need 1.3 years to reduce half of the distance to the optimum leverage. In comparison with results obtained by other researchers, it is relatively high rate of adjustment.",
+        "keywords": null,
+        "url": "https://core.ac.uk/download/pdf/212470092.pdf"
+    },
+    {
+        "title": "Źródła finansowania przedsiębiorstw. Stan badań i ich metaanaliza",
+        "authors": "Aneta Dzik-Walczak, Anna Białek-Jaworska, Natalia Nehrebecka",
+        "year": "2016",
+        "abstract": "Książka stanowi niezwykle obszerny i merytorycznie kompetentny przegląd badań empirycznych i teorii finansów przedsiębiorstw, ukazujący współczesny stan badań w dziedzinie finansów przedsiębiorstw, główne linie rozwojowe metodologii badań oraz kierunki ewolucji problemów badawczych, które przyciągają uwagę międzynarodowego środowiska naukowego. Autorki koncentrują się na dorobku badaczy zajmujących się kwestiami związanymi ze strukturą kapitałową, relacją kapitału własnego i zewnętrznego, mechanizmu dźwigni finansowej, determinantami decyzji przedsiębiorstw dotyczącymi wyboru źródeł finansowania zewnętrznego, w tym kredytu bankowego, kredytu handlowego oraz leasingu operacyjnego i finansowego.",
+        "keywords": null,
+        "url": "https://open.icm.edu.pl/handle/123456789/10347"
+    },
+    {
+        "title": "Determinanty finansowania działalności przedsiębiorstw kredytem bankowym: meta-analiza",
+        "authors": "Anna Białek-Jaworska, Aneta Dzik-Walczak, Natalia Nehrebecka",
+        "year": "2015",
+        "abstract": "Celem opracowania jest przeprowadzenie metaanalizy badań wrażliwości finansowania kredytem bankowym na zmienne wynikające z teorii ekonomii. Uwzględniono w nim kierunki wpływu i statystyczną istotność zmiennych stosowanych w badaniach, w tym rentowność, strukturę aktywów oraz wielkość przedsiębiorstwa. Wykorzystano model logitowy w celu określenia cech modeli wpływających na istotność determinant finansowania kredytem bankowym. Wskazano, że liczba obserwacji oraz długość próby mają znaczenie przy szacowaniu wpływu rentowności na finansowanie kredytem bankowym. Im więcej obserwacji i im nowsze wyniki badań, tym większe prawdopodobieństwo, że zostanie uchwycony wpływ rentowności aktywów. Przy ocenie rentowności wielkość kredytu ma mniejsze znaczenie niż prawdopodobieństwo finansowania przez bank. Zaobserwowano ponadto dodatni wpływ roku publikacji oraz liczby obserwacji. W odniesieniu do wielkości przedsiębiorstwa istotny okazał się poziom rozwoju krajów objętych badaniem. W analizie krajów rozwiniętych bardziej prawdopodobne jest stwierdzenie istotnej zależności między wielkością firmy a jej finansowaniem się kredytem bankowym.",
+        "keywords": null,
+        "url": "http://www.bankikredyt.nbp.pl/content/2015/03/bik_03_2015_04_art.pdf"
+    },
+    {
+        "title": "Construction measures of bankruptcy: case study of Polish enterprises",
+        "authors": "Natalia Nehrebecka, Aneta Dzik-Walczak",
+        "year": "2016",
+        "abstract": "The paper presents a model assigning a bankruptcy probability to a company, developed on the basis of individual data from balance sheets and income statements of Polish companies in the 2001-2010 period. The research was based on a logistic regression performed on categorised variables transformed using a weight of evidence approach. In the forecasting model of a possible bankruptcy in a year's horizon the highest weight was assigned to the indicator for the ability to cover financial costs which explained the company's ability to meet the interest payments and capital costs. In the more generalised model which accounts for the macroeconomic situation the most important was the indicator for the ability to pay off debt. In the model forecasting bankruptcies three-years in advance - the early warning model - no dominant indicator was found.",
+        "keywords": null,
+        "url": "https://www.inderscienceonline.com/doi/abs/10.1504/GBER.2016.076234"
+    },
+    {
+        "title": "Kiedy firmy sięgają po leasing?",
+        "authors": "Anna Białek-Jaworska, Aneta Dzik-Walczak, Natalia Nehrebecka",
+        "year": "2015/4/30",
+        "abstract": "Celem artykułu jest znalezienie przyczyn zróżnicowania istotności zadłużenia, rentowności, płynności, wielkości przedsiębiorstwa i obciążeń podatkowych w badaniach determinant finansowania przedsiębiorstw leasingiem. Aby osiągnąć ten cel, przeprowadzono ilościowy przegląd literatury (meta-analizę) przy wykorzystaniu procedury vote-counting, pozwalającej na usystematyzowanie wiedzy zgromadzonej w niezależnych badaniach na temat wpływu zmiennych objaśniających na finansowanie leasingiem. Z przeglądu ponad 130 artykułów empirycznych dotyczących źródeł finansowania działalności firmy, 27 opracowań dotyczyło determinant finansowania firm leasingiem, dla których zmienne objaśniane zostały zbudowane w porównywalny sposób. Na ich podstawie przeanalizowano 254 oszacowane modele ekonometryczne determinant finansowania leasingiem pod kątem głównych grup zmiennych objaśniających. Oszacowano modele logitowe pozwalające określić czynniki determinujące istotność poszczególnych predykatorów. Zauważono, że cechy badania takie jak rok publikacji, okres jakiego dotyczą dane i wielkość próby istotnie wpływają na wyniki dotyczące zależności między zadłużeniem firmy a finansowaniem leasingiem. Dla istotności płynności jako determinanty finansowania przedsiębiorstw leasingiem znaczenie ma, czy badanie przeprowadzono dla spółek giełdowych. Zaobserwowano, że zmienną determinującą istotność wyników dla relacji między rentownością a wykorzystaniem leasingu jest liczba obserwacji na jakiej przeprowadzono badanie oraz, że rok publikacji, liczba obserwacji i długość próby w latach mają …",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/574117.pdf"
+    },
+    {
+        "title": "Transakcyjne i finansowe motywy wykorzystania kredytu handlowego: meta-analiza",
+        "authors": "A Białek-Jaworska, A Dzik-Walczak, N Nehrebecka",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=6340992772177981741&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Determinanty finansowania leasingiem inwestycji rzeczowych przedsiębiorstw",
+        "authors": "Anna Białek-Jaworska, Aneta Dzik-Walczak, Natalia Nehrebecka",
+        "year": "2014",
+        "abstract": "Celem podjętego badania była identyfikacja determinant finansowania leasingiem (finansowym i operacyjnym) inwestycji rzeczowych przedsiębiorstw w Polsce. Analizę empiryczną przeprowadzono na podstawie jednostkowych danych panelowych ze sprawozdań GUS: rocznych F-02 (dla analizy leasingu finansowego) za lata 1995− 2011 (około 50 tys. przedsiębiorstw rocznie) oraz półrocznych F-01/I-01 za lata 2007− 2011 (dla leasingu operacyjnego). Do oszacowania parametrów wykorzystano systemowy estymator GMM. Wykazano, że przedsiębiorstwa płacące wyższe podatki mają większą skłonność do finansowania się leasingiem operacyjnym ze względu na możliwość obniżenia podstawy opodatkowania o opłatę wstępną i raty leasingowe. Średnie i duże przedsiębiorstwa częściej korzystają z leasingu finansowego niż małe firmy. Częstsze finansowanie się długoterminowym kredytem bankowym zmniejsza wykorzystanie leasingu finansowego, co wskazuje na ich substytucyjność. Wyniki uzyskane na podstawie modelu wskazują na substytucyjność leasingu operacyjnego i kredytu krótkoterminowego.",
+        "keywords": null,
+        "url": "http://www.bik.nbp.pl/content/2014/06/bik_06_2014_04_art.pdf"
+    },
+    {
+        "title": "Tempo konwergencji cenowej w krajach Unii Europejskiej",
+        "authors": "Aneta Dzik-Walczak",
+        "year": "2014",
+        "abstract": "W niniejszym badaniu podjęto tematykę konwergencji cenowej w państwach członkowskich Unii Europejskiej w latach 1995-2011. Na badany okres przypada czas szczególnie intensywnych działań ukierunkowanych na integrację Wspólnoty. Zgodnie z teorią ekonomii oczekuje się, że procesy te sprzyjają wyrównywaniu się cen i dążeniu w kierunku spełnienia prawa jednej ceny. W badaniu weryfikowano proces konwergencji cenowej typu sigma i beta. Uwzględniono podział dóbr na handlowe i niehandlowe. Wyróżniono kraje strefy euro oraz tak zwane stare i nowe kraje członkowskie w celu przeprowadzenia analizy porównawczej. W obliczu światowego kryzysu finansowego i kryzysu krajów Unii Europejskiej analizę przeprowadzono na odpowiednich podokresach. Zbadano również zróżnicowanie cen w Unii Europejskiej w odniesieniu do zróżnicowania na rynkach wewnątrzkrajowych. Analizę …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=415759"
+    },
+    {
+        "title": "Modelling cross-sectional tabular data using convolutional neural networks: Prediction of corporate bankruptcy in Poland",
+        "authors": "Aneta Dzik-Walczak, Maciej Odziemczyk",
+        "year": "2021",
+        "abstract": "The paper deals with the topic of modelling the probability of bankruptcy of Polish enterprises using convolutional neural networks. Convolutional networks take images as input, so it was thus necessary to apply the method of converting the observation vector to a matrix. Benchmarks for convolutional networks were logit models, random forests, XGBoost, and dense neural networks. Hyperparameters and model architecture were selected based on a random search and analysis of learning curves and experiments in folded, stratified cross-validation. In addition, the sensitivity of the results to data preprocessing was investigated. It was found that convolutional neural networks can be used to analyze cross-sectional tabular data, especially for the problem of modelling the probability of corporate bankruptcy. In order to achieve good results with models based on parameters updated by a gradient (neural networks and logit), it is necessary to use appropriate preprocessing techniques. Models based on decision trees have been shown to be insensitive to the data transformations used.",
+        "keywords": null,
+        "url": "https://sciendo.com/pdf/10.2478/ceej-2021-0024"
+    },
+    {
+        "title": "Badania źródeł finansowania działalności przedsiębiorstw–efekt selekcji publikacji. Analiza metaregresyjna",
+        "authors": "Natalia Nehrebecka, Aneta Dzik-Walczak",
+        "year": "2015",
+        "abstract": "W artykule skoncentrowano się na weryfikacji efektu publikacji w badaniach poświęconych źródłom finansowania działalności przedsiębiorstw. Istnieje prawdopodobieństwo, że prezentowane w literaturze wyniki mogą być obarczone problemem selekcji statystycznej istotności. Prace, których wyniki pokazują słabą zależność bądź brak istotności, są mniej atrakcyjne i rzadziej publikowane, gdyż są postrzegane jako mało wnoszące do dorobku naukowego i nietłumaczące badanego zjawiska. W publikacjach dotyczących kredytu bankowego występowanie efektu selekcji publikacji stwierdzono dla struktury aktywów i wielkości przedsiębiorstwa, w przypadku kredytu handlowego–dla zadłużenia, rentowności, wielkości przedsiębiorstwa, możliwości wzrostu oraz zapasów, natomiast w badaniach leasingu–dla zadłużenia, rentowności oraz wielkości przedsiębiorstwa.",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=304319"
+    },
+    {
+        "title": "The Attention Economy: How Influencers are Redefining Marketing Engagement",
+        "authors": "Aneta Dzik-Walczak, Marianna Czaja, Tomasz Kopczewski, Bartosz Urban",
+        "year": "2024",
+        "abstract": "Our article is part of the ongoing discussion on influencer marketing. There seems to have been a shift, social media marketing is bigger than ever. Social media outlets constitute excellent vehicles for fostering relationships with customers. Consumers can be vulnerable to advertising so companies have started to pay for posts on user profiles to generate popularity amongst products. How this affects the buying behavior of consumers is interesting to find out. We point Herbert Simon's economics of attention as an adequate theory to describe the reality of the Internet. Based on unique survey data, the methods of econometrics and supervised and unsupervised machine learning are applied to identify the main groups with different characteristics of engagement and sensitivity to influencer activities. We determine possible drivers for purchase intention. This set of findings demonstrates that we gain insight into informational preferences by recognizing how social media influencer may attract attention.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855562"
+    },
+    {
+        "title": "Publication selection bias in the sources of financing the enterprises research? A meta-regression analysis",
+        "authors": "Natalia Nehrebecka, Aneta Dzik-Walczak",
+        "year": "2016",
+        "abstract": "This article discusses the verification of the effect of publication in the studies regarding the sources of financing business operations. The studies related to the determinants of the use of bank loans, trade credits and lease were analysed. There is a probability that the results presented in literature may be encumbered by the problem of statistical significance selection (so-called: publication selection bias). The works which show a weaker correlation or a lack of significance are less attractive and are seldom published – they are viewed as not providing enough contribution to science and not explaining the studied phenomena.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2016-02.html"
+    },
+    {
+        "title": "Why Do Firms Turn to Leasing?",
+        "authors": "Anna Białek-Jaworska, Aneta Dzik-Walczak, Natalia Nehrebecka",
+        "year": "2015/4/30",
+        "abstract": "The paper seeks to establish why companies use all kinds of leasing programs to finance their operations. The authors analyze determinants such as debt level, profitability, liquidity, company size, and tax incentives. They conduct a quantitative literature review (meta-analysis) using vote-counting procedures in order to systematize findings on why companies decide to finance their operations through leasing. The authors have reviewed more than 130 studies on how businesses finance their operations. Of this, 27 studies focused on leasing programs. The authors analyzed a total of 254 econometric models focusing on the determinants of financing business operations with leasing programs. While conducting their meta-analysis, Białek-Jaworska, Dzik-Walczak and Nehrebecka estimated special logit models to identify specific factors determining the significance of the predictors used. The authors found that …",
+        "keywords": null,
+        "url": "https://gnpje.sgh.waw.pl/Kiedy-firmy-siegaja-po-leasing-,100836,0,2.html"
+    },
+    {
+        "title": "Metaanaliza transakcyjnych i finansowych możliwości wykorzystania kredytu handlowego",
+        "authors": "Natalia Nehrebecka, Anna Białek-Jaworska, Aneta Dzik-Walczak",
+        "year": "2015",
+        "abstract": "W artykule przeprowadzono metaanalizę wyników niezależnych badań determinant finansowania przedsiębiorstw kredytem handlowym, wyróżniając główne grupy czynników uwzględnianych w badaniach empirycznych: zadłużenie, płynność, wielkość firmy, rentowność, zapasy i możliwości wzrostu. Prezentowane przez badaczy wyniki nie są zgodne co do charakteru zależności między kredytem handlowym i bankowym. W przypadku polskich przedsiębiorstw Zawadzka (2009) wskazała na komplementarność wspomnianych źródeł finansowania w Polsce, natomiast Marzec i Pawłowska (2011)—na ich substytucyjność. Couppey-Soubeyran i Hericourt (2011) stwierdzili istnienie ujemnego związku między wartością kredytu bankowego i kupieckiego na Bliskim Wschodzie i Afryce Północnej, który nasila się przy utrudnionym dostępie do funduszy z instytucji finansowych. W przypadku Japonii Ono (2001) wskazał …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=898692"
+    },
+    {
+        "title": "Formy integracji rynku a konwergencja cenowa w krajach Unii Europejskiej",
+        "authors": "Aneta Dzik-Walczak",
+        "year": "2013/9/13",
+        "abstract": "Proces integracji ekonomicznej niesie ze sobą przemiany na rynkach krajowych i międzynarodowych związane z usuwaniem barier handlowych, harmonizacją systemów podatkowych, wzrostem transparentności cen, a w związku z utworzeniem Unii Monetarnej, redukcję ryzyka kursowego. W procesie integracji ekonomicznej wyróżnia się strefę handlu preferencyjnego, strefę wolnego handlu, unię celną, wspólny rynek, unię gospodarczą i walutową oraz pełną integrację ekonomiczną cechująca się zharmonizowanymi politykami. Na podstawie teorii ekonomii można oczekiwać, że osiąganie kolejnych stopni integracji ekonomicznej wpływa na wyrównywanie się cen na rynku. Zróżnicowanie cen związane z różnicami w stawkach podatkowych oraz w polityce handlowej powinno zanikać w związku z harmonizacją tych obszarów na rynku Unii Europejskiej. Nacisk kładziony na redukcję regionalnych nierówności …",
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=13588259010665295255&hl=en&oi=scholarr"
+    },
+    {
+        "title": "The Attention Economy: How Social Media Influencers Are Redefining Marketing Engagement",
+        "authors": "Marianna Czaja, Aneta Dzik-Walczak, Tomasz Kopczewski, Bartosz Urban",
+        "year": "2024",
+        "abstract": "Our study is part of the ongoing discussion concerning influencer marketing as there seems to have been a shift and social media marketing is bigger than ever. Social media outlets are excellent vehicles for fostering relationships with consumers who can be susceptible to influencer advertising. Therefore, companies now pay for posts on users’ profiles to generate popularity for products. How this approach affects consumers’ buying behavior is an interesting research question. We reference Herbert Simon’s economics of attention as an appropriate theoretical construct for describing the reality of the internet. Based on unique survey data from 513 Polish respondents, the study applies econometric methods and supervised and unsupervised machine learning techniques to identify the primary consumer groups with different characteristics of engagement and sensitivity to influencer activities, revealing the possible drivers of purchase intent. The findings provide valuable insights into consumers’ informational preferences, demonstrating how social media influencers may attract attention and drive sales.",
+        "keywords": null,
+        "url": "https://www.preprints.org/frontend/manuscript/f065a714b000cd4bd76e65e228929df3/download_pub"
+    },
+    {
+        "title": "The Impact of Covid-19 on Polish Stock Market: A Dynamic Conditional Correlation Modelling and Wavelet Coherence Analysis",
+        "authors": "Aneta Dzik-Walczak, Anna Gaweł",
+        "year": "2023/5/24",
+        "abstract": "This paper makes the comparative assessment of the impacts of the first, second, third and fourth waves of the COVID-19 pandemic on the stock market in Poland and on the link between the WIG20 index and the S&P500 index. The Polish stock was chosen as not analyzed enough in terms of the impact of COVID-19 infections, deaths and vaccination program. We examine the co-movement of WIG20 index and pandemic variables based on Dynamic Conditional Correlation models and wavelet coherence analysis. The sample used covers the period from 02.01. 2019 to 04.04. 2022. Our findings reveal a signifficant impact of pandemic variables on stock market. This evidence is more pronounced in the first and second wave of infections. For the third and fourth waves vaccination program occurred of more importance.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445945"
+    },
+    {
+        "title": "Do the financially constrained firms lease the asset? Evidence from Polish listed enterprises",
+        "authors": "Aneta Dzik-Walczak, Monika Kubiak",
+        "year": "2021/12/30",
+        "abstract": "Lease is an example of asset-based financing. When thinking about the attractive features of leasing the following issues are mentioned: more flexible way to finance than traditional lending because of customer-adjustment in a number of ways, a higher approval rate for leases than for bank loans, sales-tax deferral1. Leasing has also some characteristics that are unappealing, for instance purchasing allows the flexibility to sell the asset when it is no longer needed, whereas a lease may be binding until expiration2. In addition, interest expenses are typically higher in leasing than traditional bank lending, but on the other hand transaction costs can be lower. The literature offers different explanations of firms’ decisions to lease. The determinants which drive enterprises’ capital structure decisions constitute the base of corporate finance research. However, it seems that there still remains a gap between empirical evidence and its theoretical counterpart.\nOur research adds to a still quite small but growing literature on the firms’ capital structure in Poland, where the existing elaborations on financing decisions of listed firms tends to be more descriptive in focus. The applicability of financial theories developed to explain capital structure can be questioned when considering the influence of institutional settings. Thus capital structure",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/2084917.pdf"
+    },
+    {
+        "title": "Primjena ansambl metoda, logističke regresije i neuronske mreže na mogućnost predviđanja Peer-to-Peer pozajmljivanja",
+        "authors": "Aneta Dzik-Walczak, Mateusz Heba",
+        "year": "2021/6/30",
+        "abstract": "Procjena kreditne sposobnosti postaje izuzetno važna s obzirom na sve intenzivniju konkurenciju među financijskim institucijama tako da čak i neznatno unapređivanje točnosti predviđanja može rezultirati značajnom uštedom. Financijske institucije traže optimalne strategije pomoću modela procjene kreditne sposobnosti. Stoga je proučavanje alata za procjenu kreditne sposobnosti široko rasprostranjeno. Kao rezultat toga, razvijene su različite parametarske statističke metode, ne-parametarski statistički alati i pristupi programskom računanju kako bi se povećala točnost modela procjene kreditne sposobnosti. U ovom radu primjenjuju se različiti pristupi za klasifikaciju kupaca, kao onih koji vraćaju zajam i onih koji ne mogu podmirivati svoje obveze. Svrha ove studije je istražiti uspješnost dviju tehnika vrednovanja kreditne sposobnosti, modela logističke regresije, procijenjene na temelju kategorizirane varijable modificirane pomoću WOE (Weight of Evidence) transformacije, i neuronskih mreža. Nadalje, istražuje se da li kombiniranje više klasifikatora i testiranje prikupljenih informacija ansambl metodom doprinosi boljim rezultatima. Da bi se procijenila izvedivost i učinkovitost ovih metoda, provodi se analiza podataka Lending Cluba. Istražuje se P2P pozajmljivanje, odnosno uzajamno pozajmljivanje bez posredovanja financijskih institucija, koje se još naziva i socijalno pozajmljivanje. Na temelju provedenog istraživanja, može se zaključiti da model logističke regresije daje bolje rezultate od neuronskih mreža. Izgleda da je predloženi ansambl model (kombinirajući logističku regresiju i neuronsku mrežu s prosjekom vjerojatnosti dobivenih iz …",
+        "keywords": null,
+        "url": "https://hrcak.srce.hr/clanak/377564"
+    }
+]

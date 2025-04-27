@@ -1,0 +1,82 @@
+[
+    {
+        "title": "The Influence of Macro-and Socio-Economic Factors on the Consumption of Music throughout the Year",
+        "authors": "Michał Woźniak, Maciej Wysocki, Szymon Lis, Mateusz Kijewski",
+        "year": "2023/3/30",
+        "abstract": "Popular research methods in assessing the impact of macroeconomic and environmental variables on music preferences were psychological experiments and surveys with small groups or analyzing the effect of one or two variables in the whole population. Instead inspired by the article of The Economist about February being the gloomiest month in terms of music listened to, we have created a dataset with many variables. We used Spotify API to create a dataset with average valence for 26 countries for the period from January 1, 2018, to December 1, 2019. Then we applied the regression and machine learning models to them. Our study confirmed the effects of summer, December, and the number of Saturdays in a month and contradicted the February effect. The influence of GDP per capita on the valence was confirmed, while the impact of the happiness index was disproved. All models partially confirmed the influence of the music genre on the valence. Among the weather variables, two models confirmed the significance of the temperature variable. Macroeconomic variables turned out to have non-linear relationships that made interpretations difficult, while the environmental ones clearly indicated a linear relationship with valence.",
+        "keywords": null,
+        "url": "https://qme.sggw.edu.pl/article/view/4560"
+    },
+    {
+        "title": "Investor Sentiment in Asset Pricing Models: A Review of Empirical Evidence",
+        "authors": "Szymon Lis",
+        "year": "2024/11/20",
+        "abstract": "This study conducted a comprehensive review of 71 papers published between 2000 and 2021 that employed various measures of investor sentiment to model returns. The analysis indicates that higher complexity of sentiment measures and models improves the coefficient of determination. However, there was insufficient evidence to support that models incorporating more complex sentiment measures have better predictive power than those employing simpler proxies. Additionally, the significance of sentiment varies based on the asset and time period being analyzed, suggesting that the consensus relying on the BW index as a sentiment measure may be subject to change.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2411.13180"
+    },
+    {
+        "title": "Analyzing credit risk model problems through natural language processing-based clustering and machine learning: insights from validation reports",
+        "authors": "Szymon Lis, Mariusz Kubkowski, Olimpia Borkowska",
+        "year": "2024/9/26",
+        "abstract": "This paper employs clustering and machine learning techniques to analyze validation reports. It provides insights into issues related to credit risk model development, implementation and maintenance. Natural language processing is used in the study to classify issues based on findings raised in validation reports. A total of 657 findings, which are raised for selected credit risk models in a large banking institution between 2019 and 2022, are grouped into nine categories representing different validation dimensions. Next, sentence embedding generation from titles and descriptions of findings is used to create predictors in classification models of the validation dimensions. Several clustering methods are compared in order to group similar findings, effectively identifying common issues in each category with an accuracy level of more than 60%. Further, machine learning algorithms, such as logistic regression and extreme gradient boosting (XGB oost), are employed to forecast the finding’s category, with XGB oost achieving 80% accuracy. The top 10 predictive words for each category are also determined.",
+        "keywords": null,
+        "url": "https://www.risk.net/journal-of-risk-model-validation/7960013/analyzing-credit-risk-model-problems-through-natural-language-processing-based-clustering-and-machine-learning-insights-from-validation-reports"
+    },
+    {
+        "title": "Explaining and Forecasting Abnormal Returns and Volume by Investor Sentiment Indicators",
+        "authors": "Szymon Lis, Robert Ślepaczuk, Paweł Sakowski",
+        "year": "2024/7/11",
+        "abstract": "This study investigates the impact of investor sentiment on stock returns and trading volume, challenging the efficient market hypothesis. Using CRSP data from May 1998 to March 2022, methods like Fama-MacBeth and quantile regression were applied to analyze sentiment indicators such as the VIX, AAII Investor Sentiment Survey, Consumer Confidence, and Baker-Wurgler Index. The findings reveal that investor sentiment significantly influences stock returns and trading volume, especially during uncertain times. Sentiment also affects financial metrics like SMB, HML, RMW, and CMA uniquely. This research provides new insights and practical implications for investors and analysts, emphasizing the importance of considering sentiment in investment strategies to better anticipate market movements and manage risks.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891627"
+    },
+    {
+        "title": "This study investigates the impact of investor sentiment on stock returns and trading volume, challenging the efficient market hypothesis. Using CRSP data from May 1998 to …",
+        "authors": "Szymon Lis, Robert Slepaczuk, Paweł Sakowski",
+        "year": "2024",
+        "abstract": "This study investigates the impact of investor sentiment on stock returns and trading volume, challenging the efficient market hypothesis. Using CRSP data from May 1998 to March 2022, methods like Fama-MacBeth and quantile regression were applied to analyze sentiment indicators such as the VIX, AAII Investor Sentiment Survey, Consumer Confidence, and Baker-Wurgler Index. The findings reveal that investor sentiment significantly influences stock returns and trading volume, especially during uncertain times. Sentiment also affects financial metrics like SMB, HML, RMW, and CMA uniquely. This research provides new insights and practical implications for investors and analysts, emphasizing the importance of considering sentiment in investment strategies to better anticipate market movements and manage risks IDEAS home Advanced search Economic literature: papers, articles, software, chapters, books. …",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2024-18.html"
+    },
+    {
+        "title": "Combining forecasts? Keep it simple",
+        "authors": "Szymon Lis, Marcin Chlebus",
+        "year": "2023/10/31",
+        "abstract": "This study contrasts GARCH models with diverse combined forecast techniques for Commodities Value at Risk (VaR)modeling, aiming to enhance accuracy and provide novel insights. Employing daily returns data from 2000 to 2020 forgold, silver, oil, gas, and copper, various combination methods are evaluated using the Model Confidence Set (MCS)procedure.Results show individual models excel in forecasting VaR at a 0.975 confidence level, while combined methodsoutperform at 0.99 confidence. Especially during high uncertainty, as during COVID-19, combined forecasts prove moreeffective. Surprisingly, simple methods such as mean or lowest VaR yield optimal results, highlighting their efficacy.This study contributes by offering a broad comparison of forecasting methods, covering a substantial period, anddissecting crisis and prosperity phases. This advances understanding in financial forecasting …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=1192628"
+    },
+    {
+        "title": "Analyzing Credit Risk Model Problems through NLP-Based Clustering and Machine Learning: Insights from Validation Reports",
+        "authors": "Szymon Lis, Mariusz Kubkowski, Olimpia Borkowska, Dobromił Serwa, Jarosław Kurpanik",
+        "year": "2023/6/2",
+        "abstract": "This paper explores the use of clustering methods and machine learning algorithms, including Natural Language Processing (NLP), to identify and classify problems identified in credit risk models through textual information contained in validation reports. Using a unique dataset of 657 findings raised by validation teams in a large international banking group between January 2019 and December 2022. The findings are classified into nine validation dimensions and assigned a severity level by validators using their expert knowledge. The authors use embedding generation for the findings' titles and observations using four different pre-trained models, including \"module\\_url\" from TensorFlow Hub and three models from the SentenceTransformer library, namely \"all-mpnet-base-v2\", \"all-MiniLM-L6-v2\", and \"paraphrase-mpnet-base-v2\". The paper uses and compares various clustering methods in grouping findings with similar characteristics, enabling the identification of common problems within each validation dimension and severity. The results of the study show that clustering is an effective approach for identifying and classifying credit risk model problems with accuracy higher than 60\\%. The authors also employ machine learning algorithms, including logistic regression and XGBoost, to predict the validation dimension and its severity, achieving an accuracy of 80\\% for XGBoost algorithm. Furthermore, the study identifies the top 10 words that predict a validation dimension and severity. Overall, this paper makes a contribution by demonstrating the usefulness of clustering and machine learning for analyzing textual information in validation …",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2306.01618"
+    },
+    {
+        "title": "The Influence of Macro-and Socio-Economic Factors on the Consumption of Music throughout the Year",
+        "authors": "Szymon Lis, Mateusz Kijewski, Michal Wozniak, Maciej Wysocki",
+        "year": "2023",
+        "abstract": "Popular research methods in assessing the impact of macroeconomic and environmental variables on music preferences were psychological experiments and surveys with small groups or analyzing the effect of one or two variables in the whole population. Instead inspired by the article of The Economist about February being the gloomiest month in terms of music listened to, we have created a dataset with many variables. We used Spotify API to create a dataset with average valence for 26 countries for the period from January 1, 2018, to December 1, 2019. Then we applied the regression and machine learning models to them. Our study confirmed the effects of summer, December, and the number of Saturdays in a month and contradicted the February effect. The influence of GDP per capita on the valence was confirmed, while the impact of the happiness index was disproved. All models partially confirmed the …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=1175685"
+    },
+    {
+        "title": "Investor Sentiment in Asset Pricing Models: A Review",
+        "authors": "Szymon Lis",
+        "year": "2022",
+        "abstract": "Despite the number of works on investor sentiment in asset pricing models the results did not allow to obtain a coherent knowledge about this sentiment. Most of the researchers used different measures and various models to study the impact of sentiment on stocks returns. However, the empirical relationship between investor sentiment and stock market behavior remains unclear. This study focuses on reviewing the methodologies and empirical findings of 71 papers published between 2000 and 2021 that apply different investor sentiment measures for modeling returns. The research confirmed two out of the three research hypotheses that the investor sentiment proxies and higher complexity of the model with the investor sentiment indicator improve the coefficient of determination. The second one was rejected, however, this may be due to too small a sample. For the hypothesis that models with more complex sentiment have better predictive power than those with simpler proxies, the number of studies was insufficient to refer strongly to the hypothesis.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2022-14.html"
+    },
+    {
+        "title": "Comparison of the accuracy in VaR forecasting for commodities using different methods of combining forecasts",
+        "authors": "Szymon Lis, Marcin Chlebus",
+        "year": "2021",
+        "abstract": "No model dominates existing VaR forecasting comparisons. This problem may be solved by combine forecasts. This study investigates the daily volatility forecasting for commodities (gold, silver, oil, gas, copper) from 2000-2020 and identifies the source of performance improvements between individual GARCH models and combining forecasts methods (mean, the lowest, the highest, CQOM, quantile regression with the elastic net or LASSO regularization, random forests, gradient boosting, neural network) through the MCS. Results indicate that individual models achieve more accurate VaR forecasts for the confidence level of 0.975, but combined forecasts are more precise for 0.99. In most cases simple combining methods (mean or the lowest VaR) are the best. Such evidence demonstrates that combining forecasts is important to get better results from the existing models. The study shows that combining the forecasts allows for more accurate VaR forecasting, although it’s difficult to find accurate, complex methods.",
+        "keywords": null,
+        "url": "http://wp.lancs.ac.uk/finec2023/files/2023/01/FEC-2023-039-Szymon-Lis.pdf"
+    }
+]

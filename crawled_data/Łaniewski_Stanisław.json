@@ -1,0 +1,10 @@
+[
+    {
+        "title": "MAIR: Framework for mining relationships between research articles, strategies, and regulations in the field of explainable artificial intelligence",
+        "authors": "Stanisław Gizinski, Michał Kuzba, Bartosz Pielinski, Julian Sienkiewicz, Stanisław Łaniewski, Przemysław Biecek",
+        "year": "2021/7/29",
+        "abstract": "The growing number of AI applications, also for high-stake decisions, increases the interest in Explainable and Interpretable Machine Learning (XI-ML). This trend can be seen both in the increasing number of regulations and strategies for developing trustworthy AI and the growing number of scientific papers dedicated to this topic. To ensure the sustainable development of AI, it is essential to understand the dynamics of the impact of regulation on research papers as well as the impact of scientific discourse on AI-related policies. This paper introduces a novel framework for joint analysis of AI-related policy documents and eXplainable Artificial Intelligence (XAI) research papers. The collected documents are enriched with metadata and interconnections, using various NLP methods combined with a methodology inspired by Institutional Grammar. Based on the information extracted from collected documents, we showcase a series of analyses that help understand interactions, similarities, and differences between documents at different stages of institutionalization. To the best of our knowledge, this is the first work to use automatic language analysis tools to understand the dynamics between XI-ML methods and regulations. We believe that such a system contributes to better cooperation between XAI researchers and AI policymakers.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2108.06216"
+    }
+]

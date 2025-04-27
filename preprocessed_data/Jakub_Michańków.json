@@ -1,0 +1,122 @@
+[
+    {
+        "title": "lstm algorithmic investment strategy btc p500 index",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2022/1/25",
+        "abstract": "use lstm network forecast value btc p500 index using data 2013 end 2020 following frequency daily 1 h 15 min data introduce innovative loss function improves usefulness forecasting ability lstm model algorithmic investment strategy based forecast lstm model generate buy sell investment signal employ algorithmic investment strategy create equity line investment purpose use various combination lstm model optimized period tested period using rolling window approach pay special attention data preprocessing input layer avoid overfitting estimation optimization process assure correct selection hyperparameters beginning test next stage devoted conjunction signal various frequency one ensemble model selection best combination period optimization given criterion similar way portfolio analysis finally perform sensitivity analysis main parameter hyperparameters model",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/22/3/917"
+    },
+    {
+        "title": "mean absolute directional loss new loss function machine learning problem algorithmic investment strategy",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2024/9/1",
+        "abstract": "paper investigates issue adequate loss function optimization machine learning model used forecasting financial time series purpose algorithmic investment strategy ai construction propose mean absolute directional loss madl function solving important problem classical forecast error function extracting information forecast create efficient signal algorithmic investment strategy madl place appropriate emphasis quality point forecast also impact rate achievement investment system based introduction detailed description theoretical property new madl loss function main contribution literature empirical part study based data two different asset class cryptocurrencies bitcoin commodity crude oil",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1877750324001686"
+    },
+    {
+        "title": "combining deep learning garch model financial volatility risk forecasting",
+        "authors": "Jakub Michańków, Łukasz Kwiatkowski, Janusz Morajda",
+        "year": "2023/10/2",
+        "abstract": "paper develop hybrid approach forecasting volatility risk financial instrument combining common econometric garch time series model deep learning neural network latter employ gated recurrent unit gru network whereas four different specification used garch component standard garch egarch aparch model tested using daily logarithmic return p 500 index well gold price bitcoin price three asset representing quite distinct volatility dynamic main volatility estimator also underlying target function hybrid model use estimator modified incorporate opening closing price volatility forecast resulting hybrid model employed evaluate asset risk using var expected shortfall e two different tolerance level 5 1 gain combining garch gru approach discussed context volatility risk forecast general concluded hybrid solution produce accurate point volatility forecast although necessarily translate superior var e forecast",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2310.01063"
+    },
+    {
+        "title": "analytical tool economic application",
+        "authors": "Artur Prędki",
+        "year": "2020/8/5",
+        "abstract": "monograph result ninth edition conference analytical tool economic science organized annually data analysis scientific circle operating cracow university economics data analysis scientific circle active since 2009 department econometrics operation research department statistic uek past two year department market analysis marketing research also supported circle activity mentioned conference organized constant honorary patronage rector uek polish statistical association four year also honorary patronage ministry science higher education year polish economic society joined group honorary patron main sponsor conference state street additionally financial support provided uek student parliament together squash4you uek academic career center served supporting partner conference appropriately promoted numerous medium partner",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=AX71DwAAQBAJ&oi=fnd&pg=PP1&dq=info:yti7WPJZ1cAJ:scholar.google.com&ots=RU_us2Rg7h&sig=sfmZpUm6v7tP3RVXiq4JBpcX_qA"
+    },
+    {
+        "title": "hedging property algorithmic investment strategy using long memory time series model equity index",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2023/9/27",
+        "abstract": "paper proposes novel approach hedging portfolio risky asset financial market affected financial turmoil introduce completely novel approach diversification activity level single asset level ensemble algorithmic investment strategy ai built based price asset employ four type diverse theoretical model lstm long memory autoregressive integrated moving average generalized autoregressive conditional heteroskedasticity momentum contrarian generate price forecast used produce investment signal single complex ai way able verify diversification potential different type investment strategy consisting various asset energy commodity precious metal cryptocurrencies soft commodity hedging ensemble ai built equity index p 500 index empirical data used study cover period 2004 main conclusion strategy outperform model best diversifier ai built p 500 index ai built bitcoin finally test lstm model higher frequency data 1 hour conclude outperforms result obtained using daily data",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2309.15640"
+    },
+    {
+        "title": "generalized mean absolute directional loss solution overfitting high transaction cost machine learning model used algorithmic investment",
+        "authors": "Jakub Michańków, Paweł Sakowski, Robert Ślepaczuk",
+        "year": "2024/12/24",
+        "abstract": "regardless selected asset class level model complexity transformer versus lstm versus gmadl loss function produce superior result standard loss function better numerical property context optimization madl better result mean possibility achieving higher return based buy sell signal built forecast generated given theoretical model estimated using gmadl versus mse madl function practice gmadl solves problem selecting preferable feature classification regression problem improving performance estimation important additional parameterization gmadl also solves problem optimizing investment system data way focus strategy variant contain fewer transaction transaction cost reduce effectiveness given strategy zero moreover implementation leverage machine learning tool including framework hyperparameter tuning architecture testing optimization ensuring robust scalable solution algorithmic trading",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2412.18405"
+    },
+    {
+        "title": "deep learning method forecasting financial time series",
+        "authors": "Jakub Michańków",
+        "year": "2022/2/20",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:WF5omc3nYNoC"
+    },
+    {
+        "title": "forecasting accuracy evaluation deep recurrent network",
+        "authors": "Jakub Michańków",
+        "year": "2021/9/22",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:qjMakFHDy7sC"
+    },
+    {
+        "title": "forecasting value risk var using garch model",
+        "authors": "Jakub Michańków",
+        "year": "2021/5",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "modelling univariate time series convolutional neural network",
+        "authors": "Jakub Michańków",
+        "year": "2021/4",
+        "abstract": "goal article present theoretical concept application convolutional neural network univariate time series data modeling prediction highly popular cnns mostly used working image data work show also successfully applied modeling time series time series data methodology used research computer simulation model based convolutional network programmed train two different time series data temperature data tesla stock price error rmse mean absolute percentage error mape measure used evaluate model performance case model performs quite well although result obtained stock price data slightly better work also indicates possibility improving streamlining model based described method",
+        "keywords": null,
+        "url": "https://promovendi.pl/wp-content/uploads/2021/05/The-Book-of-Articles-National-Scientific-Conferences-ISBN-978-83-961157-0-6-version-2.pdf#page=98"
+    },
+    {
+        "title": "garch class model forecasting volatility financial instrument",
+        "authors": "Jakub Michańków",
+        "year": "2021",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+        "title": "overview hybrid model forecasting volatility financial time series",
+        "authors": "Jakub Michańków",
+        "year": "2021",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=LBovu9gAAAAJ&citation_for_view=LBovu9gAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "investment strategy new class asset",
+        "authors": "Jakub Michańków, Paweł Sakowski",
+        "year": null,
+        "abstract": "aim seminar help student writing good bachelor thesis dissertation presenting practical application financial theory model used process preparing",
+        "keywords": null,
+        "url": "https://informatorects.uw.edu.pl/en/courses/view?prz_kod=2400-EN3SL301A"
+    },
+    {
+        "title": "investment strategy new class asset",
+        "authors": "Jakub Michańków, Paweł Sakowski",
+        "year": null,
+        "abstract": "registration limit seminar intentionally set 0 although fact higher registration seminar possible prior contact seminar leader sakowski michankow",
+        "keywords": null,
+        "url": "http://informatorects.uw.edu.pl/pl/courses/view?prz_kod=2400-ENSM100A"
+    },
+    {
+        "title": "",
+        "authors": "Janusz Nesterak, Bernard Ziębicki",
+        "year": null,
+        "abstract": "extremely important assess clearly cost benefit business run order increase productivity better understanding cost structure must obtained traditional reporting system especially manufacturing enterprise reveal quantifiably weak correlation proposed introduced improvement benefit improvement bring concept cost deployment example rational systematic tool supporting optimization improvement manufacturing company result obtained outcome cost deployment process may constitute basis making subsequent management decision support cost reduction plan also provide information root cause existing inefficiency",
+        "keywords": null,
+        "url": "https://www.researchgate.net/profile/Janusz-Nesterak/publication/356064897_The_Cost_Deployment_concept_-_a_methological_outline/links/618a8eec07be5f31b75c9fc9/The-Cost-Deployment-concept-a-methological-outline.pdf"
+    }
+]

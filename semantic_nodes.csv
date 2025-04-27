@@ -1,0 +1,785 @@
+﻿Id,Label,SemanticCluster,ClusterTerms,TotalPapers,TopClusterCount
+Richard C torrisi,Richard C torrisi,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",1,1
+Katarzyna Kopczewska,Katarzyna Kopczewska,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",25,11
+Janusz Kudla,Janusz Kudla,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",6,6
+Konrad Walczyk,Konrad Walczyk,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",6,6
+Robert Kruszewski,Robert Kruszewski,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",6,6
+Agata Kocia,Agata Kocia,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",20,10
+Krzysztof Opolski,Krzysztof Opolski,Noise,,3,2
+Piotr Modzelewski,Piotr Modzelewski,Noise,,2,1
+Torrisi Richard c,Torrisi Richard c,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,1
+Christian J delaunay,Christian J delaunay,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,1
+Marta Lubieniecka,Marta Lubieniecka,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,1
+Anna Zurawiecka,Anna Zurawiecka,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Grazyna Szymanska,Grazyna Szymanska,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Marzena Maselewska,Marzena Maselewska,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",2,2
+Natalia Nehrebecka,Natalia Nehrebecka,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",3,1
+Anna Bartczak,Anna Bartczak,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",3,1
+Agnieszka Kopanska,Agnieszka Kopanska,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",8,6
+Jan Raczka,Jan Raczka,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Roman Asinski,Roman Asinski,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Tony Levitas,Tony Levitas,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Roman Dolata,Roman Dolata,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",2,1
+Michal Sitek,Michal Sitek,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Kopanska Agnieszka,Kopanska Agnieszka,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Kula Grzegorz,Kula Grzegorz,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Siwinska-gorzelak Joanna,Siwinska-gorzelak Joanna,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Bukowska Grazyna,Bukowska Grazyna,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Mlochowska Magdalena,Mlochowska Magdalena,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Urszula Sztanderska,Urszula Sztanderska,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Andrzej Cieslik,Andrzej Cieslik,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",55,20
+Lukasz Goczek,Lukasz Goczek,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",16,4
+Magdalena Kaniewska,Magdalena Kaniewska,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Michael Ryan,Michael Ryan,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",2,1
+Arjun S bedi,Arjun S bedi,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Andrzej Cielik,Andrzej Cielik,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Jan Hagemejer,Jan Hagemejer,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",21,7
+Giang Hien tran,Giang Hien tran,Noise,,1,1
+Ugochukwu Michael anyanwu,Ugochukwu Michael anyanwu,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Amarachukwu Anthony anyanwu,Amarachukwu Anthony anyanwu,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Jan Michalek,Jan Michalek,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",6,4
+Anna Michalek,Anna Michalek,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",6,6
+Jan Jakub michalek,Jan Jakub michalek,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",21,14
+Jerzy Mycielski,Jerzy Mycielski,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",24,11
+Aleksandra Parteka,Aleksandra Parteka,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Jan J michalek,Jan J michalek,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",3,3
+Lucia Banci,Lucia Banci,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Ivano Bertini,Ivano Bertini,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Simone Ciofi-baffoni,Simone Ciofi-baffoni,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Anna Janicka,Anna Janicka,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",13,7
+Manuele Martinelli,Manuele Martinelli,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Henryk Kozlowski,Henryk Kozlowski,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",4,1
+Peep Palumaa,Peep Palumaa,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Francesco Berti,Francesco Berti,Noise,,1,1
+Elena Gaggelli,Elena Gaggelli,Noise,,2,1
+Remo Guerrini,Remo Guerrini,Noise,,2,1
+Anna Legowska,Anna Legowska,Noise,,1,1
+Hanna Miecznikowska,Hanna Miecznikowska,Noise,,1,1
+Caterina Migliorini,Caterina Migliorini,Noise,,1,1
+Rebecca Pogni,Rebecca Pogni,Noise,,1,1
+Maurizio Remelli,Maurizio Remelli,Noise,,2,1
+Krzysztof Rolka,Krzysztof Rolka,Noise,,1,1
+Daniela Valensin,Daniela Valensin,Noise,,2,1
+Gianni Valensin,Gianni Valensin,Noise,,2,1
+Agnieszka Sobianowska-turek,Agnieszka Sobianowska-turek,Noise,,2,1
+Weronika Urbanska,Weronika Urbanska,Noise,,1,1
+Maciej Zawislak,Maciej Zawislak,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",5,4
+Jedrzej Matla,Jedrzej Matla,Noise,,1,1
+Francesca Maria mancini,Francesca Maria mancini,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Marek Luczkowski,Marek Luczkowski,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Kornelia Wisniewska,Kornelia Wisniewska,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Leszek Lankiewicz,Leszek Lankiewicz,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Bartosz Gawron,Bartosz Gawron,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",5,5
+Tomasz Bialecki,Tomasz Bialecki,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",4,4
+Tomasz Suchocki,Tomasz Suchocki,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",2,2
+Aleksander Gorniak,Aleksander Gorniak,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",3,3
+Pawel Kazimierski,Pawel Kazimierski,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Piotr Lampart,Piotr Lampart,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Katarzyna Januszewicz,Katarzyna Januszewicz,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Bialecki T,Bialecki T,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Janicka A,Janicka A,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",5,4
+Martina Donatoni,Martina Donatoni,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Pierluigi Pretegiani,Pierluigi Pretegiani,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Ewa Zaczynska,Ewa Zaczynska,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Anna Czarny,Anna Czarny,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Anna Barbara janicka,Anna Barbara janicka,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Marek Reksa,Marek Reksa,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Aleksandra Banasiewicz,Aleksandra Banasiewicz,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Anna Michalak,Anna Michalak,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Radoslaw Wlostowski,Radoslaw Wlostowski,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",2,2
+Aleksandra Keska,Aleksandra Keska,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",2,2
+Justyna Molska,Justyna Molska,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Adriana Wloka,Adriana Wloka,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Joanna Swiesciak,Joanna Swiesciak,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Kacper Ostrowski,Kacper Ostrowski,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Zawislak M,Zawislak M,Noise,,1,1
+Zaczynska E,Zaczynska E,Noise,,1,1
+Czarny A,Czarny A,Noise,,1,1
+Walkowiak W,Walkowiak W,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Keska A,Keska A,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Agnieszka Fihel,Agnieszka Fihel,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",7,3
+Malgorzata Kalbarczyk,Malgorzata Kalbarczyk,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",5,3
+Anna Nicinska,Anna Nicinska,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",19,5
+Anita Abramowska-kmon,Anita Abramowska-kmon,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Malgorzata Bala,Malgorzata Bala,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Agnieszka Chlon-dominczak,Agnieszka Chlon-dominczak,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Dorota Holzer-zelazewska,Dorota Holzer-zelazewska,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Malgorzata Kalbarczyk-steclik,Malgorzata Kalbarczyk-steclik,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",3,3
+Irena E kotowska,Irena E kotowska,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Anna Maliszewka,Anna Maliszewka,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Magdalena Michalejko,Magdalena Michalejko,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Michal Myck,Michal Myck,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,1
+Mateusz Najsztub,Mateusz Najsztub,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Monika Oczkowska,Monika Oczkowska,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Wojciech Paczynski,Wojciech Paczynski,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Marta Palczynska,Marta Palczynska,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Maja Rynko,Maja Rynko,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Roman Topor-madry,Roman Topor-madry,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Joan Costa-font,Joan Costa-font,Noise,,6,2
+Jorge Garcia-hombrados,Jorge Garcia-hombrados,Noise,,4,2
+Shahriar Akhavan,Shahriar Akhavan,Noise,,2,2
+Maciej Grzenda,Maciej Grzenda,Noise,,2,2
+Joanna Rachubik,Joanna Rachubik,Noise,,2,2
+Satia Rozynek,Satia Rozynek,Noise,,2,2
+Jakub Zawieska,Jakub Zawieska,Noise,,2,2
+Grzegorz Kula,Grzegorz Kula,Noise,,14,4
+Agata Miazga,Agata Miazga,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Bartlomiej Rokicki,Bartlomiej Rokicki,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",18,16
+Marcin Stepniak,Marcin Stepniak,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",2,2
+Mark Horridge,Mark Horridge,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Geoffrey Jd hewings,Geoffrey Jd hewings,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",3,3
+Badi H baltagi,Badi H baltagi,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",2,2
+Eduardo A haddad,Eduardo A haddad,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Jonathan M horridge,Jonathan M horridge,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",2,2
+Lukasz Arendt,Lukasz Arendt,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Agnieszka Hryniewicka,Agnieszka Hryniewicka,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Iwona Kukulak-dolata,Iwona Kukulak-dolata,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Oliver Fritz,Oliver Fritz,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Kenia Barreiro de souza,Kenia Barreiro de souza,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Krzysztof Ostaszewski,Krzysztof Ostaszewski,Noise,,1,1
+Mieczyslaw W socha,Mieczyslaw W socha,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Eva M sierminska,Eva M sierminska,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",2,2
+Joachim R frick,Joachim R frick,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",2,1
+Markus M grabka,Markus M grabka,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",3,2
+Eva Sierminska,Eva Sierminska,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",14,9
+Andrea Brandolini,Andrea Brandolini,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",2,2
+Timothy M smeeding,Timothy M smeeding,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",2,2
+Jan Marcus,Jan Marcus,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",1,1
+Timothy Smeeding,Timothy Smeeding,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",2,2
+Markus Jantti,Markus Jantti,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",3,3
+Tim Smeeding,Tim Smeeding,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",2,2
+Janet C gornick,Janet C gornick,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",1,1
+Yelena Takhtamanova,Yelena Takhtamanova,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",3,2
+Karina Doorley,Karina Doorley,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Philippe Van kerm,Philippe Van kerm,Cluster 10,"wealth, household, income, distribution, net, project, difference, inequality, country, consumption",1,1
+Olympia Bover,Olympia Bover,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Jose Maria casado,Jose Maria casado,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Sonia Costa,Sonia Costa,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Philip Du caju,Philip Du caju,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Yvonne Mccarthy,Yvonne Mccarthy,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Panagiota Tzamourani,Panagiota Tzamourani,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Ernesto Villanueva,Ernesto Villanueva,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Tibor Zavadil,Tibor Zavadil,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Bover O,Bover O,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Casado Jm,Casado Jm,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Costa S,Costa S,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Caju Pd,Caju Pd,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Mccarthy Y,Mccarthy Y,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Sierminska E,Sierminska E,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Tzamourani P,Tzamourani P,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Villanueva E,Villanueva E,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Zavadil T,Zavadil T,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Ewa Aksman,Ewa Aksman,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",17,13
+Ewa Askman,Ewa Askman,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Ewa Weychert,Ewa Weychert,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,1
+Aleksandra Kolasa,Aleksandra Kolasa,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Monika Koppl turyna,Monika Koppl turyna,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",2,2
+Agata Balmas,Agata Balmas,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",2,2
+Kamila Waclawska,Kamila Waclawska,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",2,2
+Grazyna Bukowska,Grazyna Bukowska,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Leszek Morawski,Leszek Morawski,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,1
+Barbara Karbownik,Barbara Karbownik,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Marek Gora,Marek Gora,Noise,,1,1
+Kula Gj,Kula Gj,Noise,,1,1
+Magdalena Rokicka,Magdalena Rokicka,Noise,,1,1
+Oleksandr Rohozynsky,Oleksandr Rohozynsky,Noise,,1,1
+Anna Ruzik,Anna Ruzik,Noise,,1,1
+Anna Ruzik-sierdzinska,Anna Ruzik-sierdzinska,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Aleksandra Wasowicz,Aleksandra Wasowicz,Noise,,1,1
+Piotr Wojcik,Piotr Wojcik,Noise,,4,2
+Piotr Tadeusz wojcik,Piotr Tadeusz wojcik,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Marcin Kolasa,Marcin Kolasa,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",11,8
+Grzegorz Wesolowski,Grzegorz Wesolowski,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",20,15
+Michal Brzoza-brzezina,Michal Brzoza-brzezina,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",10,7
+Krzysztof Makarski,Krzysztof Makarski,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",10,8
+Magda Cizkowicz-pekala,Magda Cizkowicz-pekala,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",3,3
+Witold Grostal,Witold Grostal,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",4,4
+Joanna Niedzwiedzinska,Joanna Niedzwiedzinska,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",3,3
+Elzbieta Skrzeszewska-paczek,Elzbieta Skrzeszewska-paczek,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",4,4
+Ewa Stawasz-grabowska,Ewa Stawasz-grabowska,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Piotr Zuk,Piotr Zuk,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",5,4
+Magda Cizkowicz,Magda Cizkowicz,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Malgorzata Walerych,Malgorzata Walerych,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Juliusz Jablecki,Juliusz Jablecki,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",20,8
+Andrzej Raczko,Andrzej Raczko,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",2,2
+Patrycja Beniak,Patrycja Beniak,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",2,2
+Roland Beck,Roland Beck,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Beatrice Scheubel,Beatrice Scheubel,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Axel Bruggemann,Axel Bruggemann,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Isabella Moder,Isabella Moder,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Alberto Fuentes,Alberto Fuentes,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Joel Graca alves,Joel Graca alves,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Lilian Kreitz,Lilian Kreitz,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Luis Molina sanchez,Luis Molina sanchez,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Floriane Van den,Floriane Van den,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Carlijn Eijking,Carlijn Eijking,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Markus Eller,Markus Eller,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Clement Marsilli,Clement Marsilli,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Alain Naef,Alain Naef,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Valerio Nispi landi,Valerio Nispi landi,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Anastasia Theofilakou,Anastasia Theofilakou,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Juan Carlos berganza,Juan Carlos berganza,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Rafael Cezar,Rafael Cezar,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Jacek Kotlowski,Jacek Kotlowski,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",2,1
+Michal Greszta,Michal Greszta,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Marcin Humanicki,Marcin Humanicki,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Mariusz Kapuscinski,Mariusz Kapuscinski,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Tomasz Kleszcz,Tomasz Kleszcz,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Andrzej Kociecki,Andrzej Kociecki,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",2,2
+Michal Ledochowski,Michal Ledochowski,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Michal Lesyk,Michal Lesyk,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Tomasz Lyziak,Tomasz Lyziak,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Mateusz Pipien,Mateusz Pipien,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Piotr Popowski,Piotr Popowski,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",2,1
+Ewa Stanislawska,Ewa Stanislawska,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Karol Szafranek,Karol Szafranek,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Grzegorz Szafranski,Grzegorz Szafranski,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",2,2
+Dorota Scibisz,Dorota Scibisz,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Ewa Wrobel,Ewa Wrobel,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Oliver De groot,Oliver De groot,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Jacek Lewkowicz,Jacek Lewkowicz,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",22,8
+Michal Wozniak,Michal Wozniak,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",2,1
+Michal Wrzesinski,Michal Wrzesinski,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Jerg Gutmann,Jerg Gutmann,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",3,3
+Anna Lewczuk,Anna Lewczuk,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",6,4
+Stefan Voigt,Stefan Voigt,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",3,3
+Katarzyna Metelska-szaniawska,Katarzyna Metelska-szaniawska,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",17,8
+Jan Falkowski,Jan Falkowski,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",6,4
+Krzysztof Szczygielski,Krzysztof Szczygielski,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",18,12
+Tomasz Kopczewski,Tomasz Kopczewski,Noise,,17,7
+Rafal Wozniak,Rafal Wozniak,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",1,1
+Mateusz Marcol,Mateusz Marcol,Cluster 7,"constitutional, political, rule, country, society, gap, economic, period, empirical, country period",1,1
+Jakub Michankow,Jakub Michankow,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",11,9
+Pawel Sakowski,Pawel Sakowski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",32,26
+Robert Slepaczuk,Robert Slepaczuk,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",37,35
+Lukasz Kwiatkowski,Lukasz Kwiatkowski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Janusz Morajda,Janusz Morajda,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Artur Predki,Artur Predki,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Janusz Nesterak,Janusz Nesterak,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Bernard Ziebicki,Bernard Ziebicki,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Jakub Muck,Jakub Muck,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Michal Gradzewicz,Michal Gradzewicz,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",2,2
+Jakub Growiec,Jakub Growiec,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Marcin Bielecki,Marcin Bielecki,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",22,9
+Karolina Goraus,Karolina Goraus,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",5,5
+Joanna Tyrowicz,Joanna Tyrowicz,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",16,11
+Mahdi Ghodsi,Mahdi Ghodsi,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Compnet Task force,Compnet Task force,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Paloma Lopez-garcia,Paloma Lopez-garcia,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Filippo Di mauro,Filippo Di mauro,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Michal Brzozowski,Michal Brzozowski,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",18,5
+Michalek J,Michalek J,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",2,2
+Jarko Fidrmuc,Jarko Fidrmuc,Noise,,1,1
+Peter Huber,Peter Huber,Noise,,1,1
+Andrzej Cieoelik,Andrzej Cieoelik,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Jan Micha3ek,Jan Micha3ek,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Anna Micha3ek,Anna Micha3ek,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Victoria Roshal,Victoria Roshal,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Jacek Rothert,Jacek Rothert,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Alfred Tovias,Alfred Tovias,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Agnieszka Pugacewicz,Agnieszka Pugacewicz,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Mark Vancauteren,Mark Vancauteren,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Mahdi Ghodsi ghodsi,Mahdi Ghodsi ghodsi,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Oded Stark,Oded Stark,Noise,,4,2
+Maja Micevska,Maja Micevska,Noise,,1,1
+Cieslik Andrzej,Cieslik Andrzej,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Michalek Jj,Michalek Jj,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Mycielski Jerzy,Mycielski Jerzy,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Yohanes E riyanto,Yohanes E riyanto,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Filip Wuyts,Filip Wuyts,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Krzysztof Bartosik,Krzysztof Bartosik,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Michal Kurcewicz,Michal Kurcewicz,Cluster 15,"gas, engine, emission, method, human, tested, presented, concentration, source, standard",1,1
+Medica Minerva edizioni,Medica Minerva edizioni,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",1,1
+Piotr Tederko,Piotr Tederko,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+James Middleton,James Middleton,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Conran Joseph,Conran Joseph,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Maria Cristina pagliacci,Maria Cristina pagliacci,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Christina-anastasia Rapidi,Christina-anastasia Rapidi,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Beata Tarnacka,Beata Tarnacka,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,1
+Jolanta Kujawa,Jolanta Kujawa,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Pawel Turczyn,Pawel Turczyn,Noise,,1,1
+Tomasz Gajderowicz,Tomasz Gajderowicz,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",3,2
+Gabriela Grotkowska,Gabriela Grotkowska,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Leszek Wincenciak,Leszek Wincenciak,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Ulrich Bindseil,Ulrich Bindseil,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",3,3
+Mateusz Machaj,Mateusz Machaj,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Dariusz Gatarek,Dariusz Gatarek,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",4,2
+Ryszard Kokoszczynski,Ryszard Kokoszczynski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",8,6
+Jablecki Juliusz,Jablecki Juliusz,Noise,,1,1
+Kamil Matuszelanski,Kamil Matuszelanski,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Pawel Churski,Pawel Churski,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",4,3
+Artur Ochojski,Artur Ochojski,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",4,3
+Adam Polko,Adam Polko,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",4,3
+Piotr Cwiakowski,Piotr Cwiakowski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Maria Kubara,Maria Kubara,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",6,3
+Krzysztof Chrostek,Krzysztof Chrostek,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Anna Lewandowska,Anna Lewandowska,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Aura Reggiani,Aura Reggiani,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Laurie A schintler,Laurie A schintler,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Danny Czamanski,Danny Czamanski,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Roberto Patuelli,Roberto Patuelli,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Dagmara Kociuba,Dagmara Kociuba,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Muhammad Usman,Muhammad Usman,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",4,1
+Jaroslaw Beldowski,Jaroslaw Beldowski,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Dominika Milczarek,Dominika Milczarek,Noise,,1,1
+Przemyslaw Banasik,Przemyslaw Banasik,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Malgorzata Godlewska,Malgorzata Godlewska,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Sylwia Morawska,Sylwia Morawska,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Vedat Sinan szczygielski,Vedat Sinan szczygielski,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Krzysztof & grabowski,Krzysztof & grabowski,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Wojciech & pamukcu,Wojciech & pamukcu,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Mehmet Teoman & tandogan,Mehmet Teoman & tandogan,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Krzysztof Cieslik,Krzysztof Cieslik,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Michalek And andrzej,Michalek And andrzej,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Jan Jakub and szczygielski,Jan Jakub and szczygielski,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+And Richard woodward krzysztof szczygielski,And Richard woodward krzysztof szczygielski,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Wojciech Grabowski,Wojciech Grabowski,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",5,4
+Teoman Pamukcu,Teoman Pamukcu,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Sinan Tandogan,Sinan Tandogan,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Iga Magda,Iga Magda,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Szczygielski K,Szczygielski K,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Marcin Jakubek,Marcin Jakubek,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,1
+Ewa Zawojska,Ewa Zawojska,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",3,2
+Wilhelm Kohler,Wilhelm Kohler,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Krzysztof Marczewski,Krzysztof Marczewski,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Maciej Jakubowski,Maciej Jakubowski,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",18,11
+Harry A patrinos,Harry A patrinos,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Emilio Ernesto porta,Emilio Ernesto porta,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",2,2
+Jerzy Wisniewski,Jerzy Wisniewski,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",3,3
+Artur Pokropek,Artur Pokropek,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",3,1
+Francesca Borgonovi,Francesca Borgonovi,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Harry Anthony patrinos,Harry Anthony patrinos,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",2,2
+Ireneusz Bialecki,Ireneusz Bialecki,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Ralph Hippe,Ralph Hippe,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",2,1
+Luisa Araujo,Luisa Araujo,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Harry Patrinos,Harry Patrinos,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Pawel Strawinski,Pawel Strawinski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",3,2
+Claus Brand,Claus Brand,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Adrian Penalver,Adrian Penalver,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Nikolai Stahler,Nikolai Stahler,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,1
+Marcin Waniek,Marcin Waniek,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,2
+Aneta Blazejowska,Aneta Blazejowska,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Kamila Kuziemska-pawlak,Kamila Kuziemska-pawlak,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Maciej Osiewicz,Maciej Osiewicz,Noise,,1,1
+Slawomir Cieslak,Slawomir Cieslak,Noise,,1,1
+Ewa Chlebus,Ewa Chlebus,Noise,,2,2
+Marcin Chlebus,Marcin Chlebus,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",19,7
+Magdalena Walicka,Magdalena Walicka,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",4,3
+Melania Brzozowska,Melania Brzozowska,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",4,3
+Andrzej Sliwczynski,Andrzej Sliwczynski,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",4,3
+Tadeusz Jedrzejczyk,Tadeusz Jedrzejczyk,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Lidia Kania,Lidia Kania,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,2
+Monika Puzianowska-kuznicka,Monika Puzianowska-kuznicka,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",4,3
+Edward Franek,Edward Franek,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",4,3
+Przemyslaw Biecek,Przemyslaw Biecek,Noise,,1,1
+Janusz Gajda,Janusz Gajda,Noise,,2,2
+Alicja Gosiewska,Alicja Gosiewska,Noise,,1,1
+Anna Kozak,Anna Kozak,Noise,,1,1
+Dominik Ogonowski,Dominik Ogonowski,Noise,,1,1
+Jakub Sztachelski,Jakub Sztachelski,Noise,,1,1
+Piotr Wojewnik,Piotr Wojewnik,Noise,,1,1
+Buczynski M chlebus m,Buczynski M chlebus m,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Filip Szubzda,Filip Szubzda,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Marta Klosok,Marta Klosok,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Filip A dabrowski,Filip A dabrowski,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",3,2
+Anna Burdzinska,Anna Burdzinska,Noise,,1,1
+Agnieszka Kulesza,Agnieszka Kulesza,Noise,,1,1
+Beata Kaleta,Beata Kaleta,Noise,,1,1
+Jan Borysowski,Jan Borysowski,Noise,,1,1
+Aleksandra Zolocinska,Aleksandra Zolocinska,Noise,,1,1
+Leszek Paczek,Leszek Paczek,Noise,,1,1
+Miroslaw Wielgos,Miroslaw Wielgos,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",3,2
+Agnieszka Tuszynska,Agnieszka Tuszynska,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,1
+Yaroslav Sanchak,Yaroslav Sanchak,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Daniel Rutkowski,Daniel Rutkowski,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",3,2
+Piotr Borowski,Piotr Borowski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Marcin Czech,Marcin Czech,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,1
+Andrzej Jacyna,Andrzej Jacyna,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",2,1
+Monika Serafin,Monika Serafin,Noise,,1,1
+Barbara Grzechocinska,Barbara Grzechocinska,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",2,2
+Agata Gondek,Agata Gondek,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Katarzyna Czarzasta,Katarzyna Czarzasta,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Lukasz Michalowski,Lukasz Michalowski,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",2,2
+Agnieszka Cudnoch-jedrzejewska,Agnieszka Cudnoch-jedrzejewska,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Michal Dyczko,Michal Dyczko,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Grzegorz Wieczorek,Grzegorz Wieczorek,Noise,,1,1
+Katarzyna Chyrowicz,Katarzyna Chyrowicz,Noise,,1,1
+Kamila Kontna,Kamila Kontna,Noise,,1,1
+Michal Korycki,Michal Korycki,Noise,,1,1
+Albina Jegorowa,Albina Jegorowa,Noise,,1,1
+Michal Kruk,Michal Kruk,Noise,,1,1
+Illya Barziy,Illya Barziy,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Anna Cyganek,Anna Cyganek,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Christopher Kobierzycki,Christopher Kobierzycki,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Barbara Gornicka,Barbara Gornicka,Cluster 3,"growth, cycle, business, expenditure, concentration, effect, country, result, economy, period",1,1
+Stefan Cylwik,Stefan Cylwik,Noise,,1,1
+Renata Gabryelczyk,Renata Gabryelczyk,Noise,,1,1
+Mateusz Buczynski,Mateusz Buczynski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Katarzyna Dabrowska,Katarzyna Dabrowska,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",5,2
+Marcin Gruszczynski,Marcin Gruszczynski,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",18,8
+Andrzej Wieczorkiewicz,Andrzej Wieczorkiewicz,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",2,1
+Maciej Stoklosa,Maciej Stoklosa,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Katarzyna Dabrowska-gruszczynska,Katarzyna Dabrowska-gruszczynska,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",7,6
+Pawel Majczak,Pawel Majczak,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Maria Kubara (mikos),Maria Kubara (mikos),Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",2,2
+Mateusz Kopyt,Mateusz Kopyt,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Sebastien Bourdin,Sebastien Bourdin,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Sergio Destefanis,Sergio Destefanis,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Gianluigi Coppola,Gianluigi Coppola,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Mehmet Burak turgut,Mehmet Burak turgut,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",4,2
+Pintus P,Pintus P,Noise,,2,2
+Jacek Suda,Jacek Suda,Noise,,3,3
+Turgut B,Turgut B,Noise,,2,2
+Tomasz Tratkiewicz,Tomasz Tratkiewicz,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Patrick Pintus,Patrick Pintus,Noise,,1,1
+Burak Turgut,Burak Turgut,Noise,,1,1
+Joanna Siwinska-gorzelak,Joanna Siwinska-gorzelak,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",4,2
+Grzegorz Tchorek,Grzegorz Tchorek,Noise,,3,2
+Pawel Sliwinski,Pawel Sliwinski,Noise,,1,1
+Katarzyna Dziewanowska,Katarzyna Dziewanowska,Noise,,1,1
+Agnieszka Allen,Agnieszka Allen,Noise,,1,1
+Waldemar Koziol,Waldemar Koziol,Noise,,1,1
+Michal Kurtyka,Michal Kurtyka,Noise,,1,1
+Filip Targowski,Filip Targowski,Noise,,1,1
+Sadananda Prusty,Sadananda Prusty,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Anna Bialek-jaworska,Anna Bialek-jaworska,Noise,,1,1
+Thorsten Bh reusch,Thorsten Bh reusch,Noise,,1,1
+Jan Dierking,Jan Dierking,Noise,,1,1
+Helen C andersson,Helen C andersson,Noise,,1,1
+Erik Bonsdorff,Erik Bonsdorff,Noise,,1,1
+Jacob Carstensen,Jacob Carstensen,Noise,,1,1
+Michele Casini,Michele Casini,Noise,,1,1
+Mikolaj Czajkowski,Mikolaj Czajkowski,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",18,10
+Berit Hasler,Berit Hasler,Noise,,2,1
+Klaus Hinsby,Klaus Hinsby,Noise,,1,1
+Kari Hyytiainen,Kari Hyytiainen,Noise,,2,1
+Kerstin Johannesson,Kerstin Johannesson,Noise,,1,1
+Seifeddine Jomaa,Seifeddine Jomaa,Noise,,1,1
+Veijo Jormalainen,Veijo Jormalainen,Noise,,1,1
+Harri Kuosa,Harri Kuosa,Noise,,1,1
+Sara Kurland,Sara Kurland,Noise,,1,1
+Linda Laikre,Linda Laikre,Noise,,1,1
+Brian R mackenzie,Brian R mackenzie,Noise,,1,1
+Piotr Margonski,Piotr Margonski,Noise,,1,1
+Frank Melzner,Frank Melzner,Noise,,1,1
+Daniel Oesterwind,Daniel Oesterwind,Noise,,1,1
+Henn Ojaveer,Henn Ojaveer,Noise,,1,1
+Jens Christian refsgaard,Jens Christian refsgaard,Noise,,1,1
+Annica Sandstrom,Annica Sandstrom,Noise,,1,1
+Gerald Schwarz,Gerald Schwarz,Noise,,1,1
+Karin Tonderski,Karin Tonderski,Noise,,1,1
+Monika Winder,Monika Winder,Noise,,1,1
+Marianne Zandersen,Marianne Zandersen,Noise,,1,1
+Petr Mariel,Petr Mariel,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+David Hoyos,David Hoyos,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Jurgen Meyerhoff,Jurgen Meyerhoff,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",2,1
+Thijs Dekker,Thijs Dekker,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Klaus Glenk,Klaus Glenk,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",2,2
+Jette Bredahl jacobsen,Jette Bredahl jacobsen,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Ulf Liebe,Ulf Liebe,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Soren Boye olsen,Soren Boye olsen,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Julian Sagebiel,Julian Sagebiel,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Mara Thiene,Mara Thiene,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Michela Faccioli,Michela Faccioli,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Julia Martin-ortega,Julia Martin-ortega,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Nick Hanley,Nick Hanley,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",9,5
+Karine Nyborg,Karine Nyborg,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Richard T carson,Richard T carson,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",2,1
+Miko_aj Czajkowski,Miko_aj Czajkowski,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Desaigues B,Desaigues B,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Ami D,Ami D,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Bartczak A,Bartczak A,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Braun-kohlova M,Braun-kohlova M,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Chilton S,Chilton S,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Czajkowski M,Czajkowski M,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Farreras V,Farreras V,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Alistair Hunt,Alistair Hunt,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Hutchison M,Hutchison M,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Jeanrenaud C,Jeanrenaud C,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Kaderjak P,Kaderjak P,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Maca V,Maca V,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Markiewicz O,Markiewicz O,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Markowska A,Markowska A,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Metcalf H,Metcalf H,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Navrud S,Navrud S,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Nielsen Seested j,Nielsen Seested j,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Ortiz R,Ortiz R,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Pellegrini S,Pellegrini S,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Rabl A,Rabl A,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Riera R,Riera R,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Scasny M,Scasny M,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Stoeckel M-e,Stoeckel M-e,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Szanto R,Szanto R,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Urban J,Urban J,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Tadeusz Kadziela,Tadeusz Kadziela,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Jacob Lariviere,Jacob Lariviere,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",2,1
+Margrethe Aanesen,Margrethe Aanesen,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",2,1
+Jannike Falk-petersen,Jannike Falk-petersen,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",2,1
+Dugald Tinch,Dugald Tinch,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Malgorzata Buszko-briggs,Malgorzata Buszko-briggs,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Marek Giergiczny,Marek Giergiczny,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",3,1
+Tomasz Zylicz,Tomasz Zylicz,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",2,1
+Per Angelstam,Per Angelstam,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Wiktor Budzinski,Wiktor Budzinski,Noise,,2,1
+Danny Campbell,Danny Campbell,Noise,,1,1
+William H greene,William H greene,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Heini Ahtiainen,Heini Ahtiainen,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Janne Artell,Janne Artell,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Linus Hasselstrom,Linus Hasselstrom,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Anni Huhtala,Anni Huhtala,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+James Cr smart,James Cr smart,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Tore Soderqvist,Tore Soderqvist,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Mohammed H alemu,Mohammed H alemu,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Daija Angeli,Daija Angeli,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Kim Dahlbo,Kim Dahlbo,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Vivi Fleming-lehtinen,Vivi Fleming-lehtinen,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Aljona Karloseva,Aljona Karloseva,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Yulia Khaleeva,Yulia Khaleeva,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Marie Maar,Marie Maar,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Louise Martinsen,Louise Martinsen,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Tea Nommann,Tea Nommann,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Kristine Pakalniete,Kristine Pakalniete,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Ieva Oskolokaite,Ieva Oskolokaite,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Daiva Semeniene,Daiva Semeniene,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Claire Armstrong,Claire Armstrong,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Stale Navrud,Stale Navrud,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Christian A vossler,Christian A vossler,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Aleksandra Wisniewska,Aleksandra Wisniewska,Cluster 6,"preference, choice, support, respondent, service, valuation, environmental, survey, increase, experiment",1,1
+Katarzyna Zagorska,Katarzyna Zagorska,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",1,1
+Olga Kiuila,Olga Kiuila,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",18,13
+Thomas F rutherford,Thomas F rutherford,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",5,4
+Peter Mieszkowski,Peter Mieszkowski,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Jerzy Sleszynski,Jerzy Sleszynski,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,2
+Michal Antoszewski,Michal Antoszewski,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Jakub Boratynski,Jakub Boratynski,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Magdalena Zachlod-jelec,Magdalena Zachlod-jelec,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Krzysztof Wojtowicz,Krzysztof Wojtowicz,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",2,2
+Maciej Cygler,Maciej Cygler,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Robert Jeszke,Robert Jeszke,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Maciej Pyrka,Maciej Pyrka,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Przemyslaw Sikora,Przemyslaw Sikora,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Jan Gaska,Jan Gaska,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Erika Jorgensen,Erika Jorgensen,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Leszek Kasek,Leszek Kasek,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",2,2
+Ryszard Malarski,Ryszard Malarski,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Wojciech Rabiega,Wojciech Rabiega,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Anil Markandya,Anil Markandya,Cluster 11,"tax, income, household, redistributive, benefit, inequality, country, debt, social, fiscal",2,1
+Milan Scasny,Milan Scasny,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Grzegorz Peszko,Grzegorz Peszko,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Thomas Rutherford,Thomas Rutherford,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Emilia Lewczuk,Emilia Lewczuk,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Pawel Kaczmarczyk,Pawel Kaczmarczyk,Noise,,16,9
+Marek Okolski,Marek Okolski,Noise,,6,4
+Agata Gorny,Agata Gorny,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",4,3
+Michal Boni,Michal Boni,Noise,,1,1
+Maciej Duszczyk,Maciej Duszczyk,Noise,,2,1
+Renata Stefanska,Renata Stefanska,Noise,,1,1
+Andrzej Kubisiak,Andrzej Kubisiak,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Anne White,Anne White,Noise,,1,1
+Izabela Grabowska,Izabela Grabowska,Noise,,1,1
+Krystyna Slany,Krystyna Slany,Noise,,1,1
+Monika Szulecka,Monika Szulecka,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Maciej Bitner,Maciej Bitner,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Urszula Siedlecka,Urszula Siedlecka,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Aneta Stefanczyk,Aneta Stefanczyk,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Mikkel Barslund,Mikkel Barslund,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Matthias Busse,Matthias Busse,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Carlos Vargas-silva,Carlos Vargas-silva,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Timo Baas,Timo Baas,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Mario Izquierdo peinado,Mario Izquierdo peinado,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Juan F jimeno,Juan F jimeno,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Aitor Lacuesta,Aitor Lacuesta,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Bela Galgoczi,Bela Galgoczi,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Janine Leschke,Janine Leschke,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Joanna Nestorowicz,Joanna Nestorowicz,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Krzysztof Kosc,Krzysztof Kosc,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",5,5
+Gerli Paat-ahi,Gerli Paat-ahi,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Maria Swiderek,Maria Swiderek,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Janek Saluse,Janek Saluse,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Ain Aaviksoo,Ain Aaviksoo,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Group Eurodrg,Group Eurodrg,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Malgorzata Jablczynska,Malgorzata Jablczynska,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",3,3
+Przemyslaw Rys,Przemyslaw Rys,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",4,4
+Grzegorz Zakrzewski,Grzegorz Zakrzewski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",6,6
+Mateusz Wywial,Mateusz Wywial,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",3,3
+Oleh Bilyk,Oleh Bilyk,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Rafal Sieradzki,Rafal Sieradzki,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Anna Turovtseva,Anna Turovtseva,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Piotr Boguszewski,Piotr Boguszewski,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",15,10
+Maria Lissowska,Maria Lissowska,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Departament Stabilnosci finansowej,Departament Stabilnosci finansowej,Noise,,3,2
+Dorota Mirowska-wierzbicka,Dorota Mirowska-wierzbicka,Noise,,1,1
+Katarzyna Puchalska,Katarzyna Puchalska,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",4,4
+Malgorzata Markiewicz,Malgorzata Markiewicz,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Jacek Kocerka,Jacek Kocerka,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Marcin Sienicki,Marcin Sienicki,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Steve Bond,Steve Bond,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Arshia Hashemi,Arshia Hashemi,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Greg Kaplan,Greg Kaplan,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",2,1
+Piotr Zoch,Piotr Zoch,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",4,3
+Yu-ting Chiang,Yu-ting Chiang,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Quynh Bui,Quynh Bui,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Nguyen Vo,Nguyen Vo,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Jan Grudniewicz,Jan Grudniewicz,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Mateusz Kijewski,Mateusz Kijewski,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Maciej Wysocki,Maciej Wysocki,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",2,2
+Maryna Zenkova,Maryna Zenkova,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Baranochnikov I.,Baranochnikov I.,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Slepaczuk R.,Slepaczuk R.,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Michal Latoszek,Michal Latoszek,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Stanislaw Cichocki,Stanislaw Cichocki,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",12,5
+Klarita Gerxhani,Klarita Gerxhani,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Piotr Bieniek,Piotr Bieniek,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",1,1
+Maria Szczepaniec,Maria Szczepaniec,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",1,1
+Josip Franic,Josip Franic,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Velde Der van lucas,Velde Der van lucas,Cluster 2,"regional, wage, region, employment, poland, market, labor, worker, labour, policy",1,1
+Aleksandra Naganska,Aleksandra Naganska,Noise,,1,1
+Maciej Sobolewski,Maciej Sobolewski,Noise,,2,1
+Ireneusz Miernik,Ireneusz Miernik,Noise,,1,1
+Marcin Malawski,Marcin Malawski,Noise,,1,1
+Adele Ossareh,Adele Ossareh,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Mohammad Saeed pourjafar,Mohammad Saeed pourjafar,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Pawel Kowal,Pawel Kowal,Noise,,1,1
+Robert Borowski,Robert Borowski,Noise,,2,1
+Iana Okhrimenko,Iana Okhrimenko,Noise,,2,1
+Wojciech Rogowski,Wojciech Rogowski,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",2,2
+Malgorzata Pawlowska,Malgorzata Pawlowska,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Jacek Socha,Jacek Socha,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Maciej Pogorzelski,Maciej Pogorzelski,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Przemyslaw Kusztelak,Przemyslaw Kusztelak,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Sobolewski Maciej,Sobolewski Maciej,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Miernik Ireneusz,Miernik Ireneusz,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Kopczewski Tomasz,Kopczewski Tomasz,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Muhammad Saeed ashraf,Muhammad Saeed ashraf,Noise,,5,1
+Fujun Hou,Fujun Hou,Noise,,6,2
+Woo Gon kim,Woo Gon kim,Noise,,1,1
+Wasim Ahmad,Wasim Ahmad,Noise,,4,2
+Rana Umair ashraf,Rana Umair ashraf,Noise,,19,4
+Syed Anees haider zaidi,Syed Anees haider zaidi,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",7,2
+Faisal Mehmood mirza,Faisal Mehmood mirza,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Zhiqiang Ma,Zhiqiang Ma,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Muhammad Wasif zafar,Muhammad Wasif zafar,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Abdul Haseeb,Abdul Haseeb,Cluster 5,"health, pension, age, population, people, defined, welfare, care, contribution, increasing",1,1
+Ali Hashemizadeh,Ali Hashemizadeh,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Irfan Khan,Irfan Khan,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",3,2
+Syed Ali ashiq kirmani,Syed Ali ashiq kirmani,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",3,1
+Muhammad Ilyas,Muhammad Ilyas,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",2,1
+Hafiz Muhammad arshad,Hafiz Muhammad arshad,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Raja Irfan sabir,Raja Irfan sabir,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Muhammad Sohail,Muhammad Sohail,Noise,,1,1
+Liangmin Wang,Liangmin Wang,Noise,,1,1
+Shunrong Jiang,Shunrong Jiang,Noise,,1,1
+Samar Zaineldeen,Samar Zaineldeen,Noise,,1,1
+Ijaz Hussain shah,Ijaz Hussain shah,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Shahid Mohammad khan ghauri,Shahid Mohammad khan ghauri,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Ibne Hassan,Ibne Hassan,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",1,1
+Naeem Akhtar,Naeem Akhtar,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",1,1
+Muhammad Junaid,Muhammad Junaid,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",1,1
+Li Mingxing,Li Mingxing,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Ma Zhiqiang,Ma Zhiqiang,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Rashid Saeed,Rashid Saeed,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",2,1
+Rab Nawaz lodhi,Rab Nawaz lodhi,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Usama Awan,Usama Awan,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Qamar Uz zaman malik,Qamar Uz zaman malik,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Muhammad Fahad anwar,Muhammad Fahad anwar,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Qamar Uz zaman,Qamar Uz zaman,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Syed Iftikhar ul hassan,Syed Iftikhar ul hassan,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Khurram Abbas,Khurram Abbas,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Kateryna Boichenko,Kateryna Boichenko,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Mario Nuno mata,Mario Nuno mata,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Stefan Cristian gherghina,Stefan Cristian gherghina,Cluster 1,"trade, gravity, country, variable, eu, eurozone, cee, cee country, agreement, human",1,1
+Shufang Xiao,Shufang Xiao,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Fenni Lian,Fenni Lian,Cluster 4,"firm, innovation, export, country, productivity, foreign, performance, exporting, empirical, productive",1,1
+Mingxing Li,Mingxing Li,Cluster 16,"cost, emission, energy, curve, equilibrium, general equilibrium, sector, environmental, technology, general",1,1
+Liangze Ma,Liangze Ma,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Muhammad Ahtisham ul haq,Muhammad Ahtisham ul haq,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Xianhua Fan,Xianhua Fan,Cluster 18,"public, local, government, sector, spending, limit, expenditure, higher, private, influence",1,1
+Amber Iqbal,Amber Iqbal,Noise,,1,1
+Ayesha Riaz,Ayesha Riaz,Noise,,1,1
+David Randall,David Randall,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Marat Khairoutdinov,Marat Khairoutdinov,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",2,2
+Akio Arakawa,Akio Arakawa,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Wojciech W grabowski,Wojciech W grabowski,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",17,12
+Lian-ping Wang,Lian-ping Wang,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",2,2
+Piotr K smolarkiewicz,Piotr K smolarkiewicz,Cluster 14,"volatility, strategy, investment, market, model, forecast, stock, portfolio, price, index",2,1
+Hugh Morrison,Hugh Morrison,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",4,3
+Lier-walqui Van marcus,Lier-walqui Van marcus,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Ann M fridlind,Ann M fridlind,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Jerry Y harrington,Jerry Y harrington,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Corinna Hoose,Corinna Hoose,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Alexei Korolev,Alexei Korolev,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Matthew R kumjian,Matthew R kumjian,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Jason A milbrandt,Jason A milbrandt,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Hanna Pawlowska,Hanna Pawlowska,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Derek J posselt,Derek J posselt,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Olivier P prat,Olivier P prat,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Karly J reimel,Karly J reimel,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Shin-ichiro Shima,Shin-ichiro Shima,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Diedenhoven Van bastiaan,Diedenhoven Van bastiaan,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Lulin Xue,Lulin Xue,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Devenish Bj,Devenish Bj,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Peter Bartello,Peter Bartello,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Brenguier J-l,Brenguier J-l,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Collins Lr,Collins Lr,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Ijzermans Rha,Ijzermans Rha,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Szymon P malinowski,Szymon P malinowski,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Reeks Mw,Reeks Mw,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Vassilicos Jc,Vassilicos Jc,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Wang L-p,Wang L-p,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Warhaft Z,Warhaft Z,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Guichard F,Guichard F,Noise,,1,1
+Petch Jc,Petch Jc,Noise,,1,1
+Redelsperger J-l,Redelsperger J-l,Noise,,1,1
+Bechtold P,Bechtold P,Noise,,2,1
+Chaboureau J-p,Chaboureau J-p,Noise,,1,1
+Cheinet S,Cheinet S,Noise,,1,1
+Grabowski W,Grabowski W,Noise,,1,1
+Grenier H,Grenier H,Noise,,1,1
+Jones Cg,Jones Cg,Noise,,1,1
+Kohler M,Kohler M,Noise,,1,1
+Piriou J-m,Piriou J-m,Noise,,1,1
+Tailleux R,Tailleux R,Noise,,1,1
+Tomasini M,Tomasini M,Noise,,1,1
+Xiaoqing Wu,Xiaoqing Wu,Noise,,2,1
+Mitchell W moncrieff,Mitchell W moncrieff,Noise,,2,1
+William D hall,William D hall,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Grabowski Ww,Grabowski Ww,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Cheng A,Cheng A,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Forbes R,Forbes R,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Halliwell C,Halliwell C,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Khairoutdinov M,Khairoutdinov M,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Lang S,Lang S,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Nasuno T,Nasuno T,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Petch J,Petch J,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Tao W-k,Tao W-k,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Wong R,Wong R,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Wu X,Wu X,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Xu K-m,Xu K-m,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Kuan-man Xu,Kuan-man Xu,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Richard T cederwall,Richard T cederwall,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Leo J donner,Leo J donner,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Francoise Guichard,Francoise Guichard,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Daniel E johnson,Daniel E johnson,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Steven K krueger,Steven K krueger,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Jon C petch,Jon C petch,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+David A randall,David A randall,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Charles J seman,Charles J seman,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Wei-kuo Tao,Wei-kuo Tao,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Donghai Wang,Donghai Wang,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Shao Cheng xie,Shao Cheng xie,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Yio John j,Yio John j,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Ming-hua Zhang,Ming-hua Zhang,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Orlando Ayala,Orlando Ayala,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Bogdan Rosa,Bogdan Rosa,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Moncrieff Mw,Moncrieff Mw,Cluster 8,"spatial, model, location, simple, different, learning, distance, point, market, prediction",1,1
+Terry L clark,Terry L clark,Cluster 9,"cloud, ii, effect, evolution, significant, simulation, dimension, budget, modeling, model",1,1
+Ewa Witkowska,Ewa Witkowska,Cluster 12,"school, student, education, reform, test, international, estimate, year, loss, significant",1,1
+Bartosz Witkowski,Bartosz Witkowski,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",3,2
+Ivan Skliarov,Ivan Skliarov,Noise,,1,1
+Lucas Goczek,Lucas Goczek,Cluster 17,"article, research, determinant, includes, europe, objective, goal, development, theory, identify",1,1
+Dagmara Mycielska,Dagmara Mycielska,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",3,3
+Karol J partyka,Karol J partyka,Cluster 0,"monetary, rate, policy, exchange, exchange rate, monetary policy, inflation, euro, economy, strategy",1,1
+Natasha Malyarenko,Natasha Malyarenko,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",1,1
+Lukasz Matuszak,Lukasz Matuszak,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",14,12
+Ewa Rozanska,Ewa Rozanska,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",8,8
+Malgorzata Macuda,Malgorzata Macuda,Cluster 13,"bank, financial, crisis, reporting, central bank, central, banking, economic, law, company",2,2

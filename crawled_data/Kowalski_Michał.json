@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Vulnerability of the accessibility to grocery shopping in the event of flooding",
+        "authors": "Szymon Wiśniewski, Marta Borowska-Stefańska, Michał Kowalski, Paulina Sapińska",
+        "year": "2020/10/1",
+        "abstract": "The main purpose of the article was to determine how vulnerable the accessibility to grocery shops is in the event of non-typical occurrences (floods) which impact the regular functioning of the road transport system. In order to accomplish this goal, a number of research methods were applied, including techniques for the identification of closures within the road network, the determination of the catchment area, and modelling the distribution of traffic flows. The proposed methods can be applied in modelling and simulating traffic both in regular conditions and in the event of a non-typical occurrence as the study involved integrated methods of combined probability theory of spatial integration and the determination of the catchment market area, the application of which would not be possible without access to and availability of a wide spectrum of sources. The study showed that non-typical events have a statistically …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1361920920306970"
+    },
+    {
+        "title": "Emergency management of self-evacuation from flood hazard areas in Poland",
+        "authors": "Marta Borowska-Stefańska, Lenka Balážovičová, Krzysztof Goniewicz, Michał Kowalski, Paulina Kurzyk, Matej Masný, Szymon Wiśniewski, Michaela Žoncová, Amir Khorram-Manesh",
+        "year": "2022/6/1",
+        "abstract": "This paper analyses the effectiveness of self-evacuation activities of population by private vehicle transport from flood hazard areas, aimed at minimising the negative effects of flooding.. The paper relies on a four-step traffic model which is based, inter alia, on the results of questionnaire studies. Moreover, the model takes into account the entirety of national traffic, which allows the methodological problems related to the border effect to be overcome. As shown in the study, the shortest or the fastest routes achievable in the pre-flood period are not always most optimal when the flood has already occurred. In such a case, evacuation planning will increase the efficiency of the process. Thus, inadequate designation of evacuation routes may adversely affect the process of relocating people to places of safety. Therefore, it is important to create plans that provide information on evacuation zones, routes and destinations.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1361920922001353"
+    },
+    {
+        "title": "Optimisation patterns for the process of a planned evacuation in the event of a flood",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Filip Turoboś, Szymon Wiśniewski",
+        "year": "2019",
+        "abstract": "The main purpose of the article is to develop an optimisation pattern for the process of a preventive evacuation of people from flood-risk areas (at the first sign of a flood), aimed at mitigating the negative effects of the flood performed through the application of modern computer tools. It has been assumed that the use of both GIS tools and apps for vehicle traffic modelling (the research includes the use of a method developed by the authors) in emergency procedures implemented in response to a flood may increase the efficiency of the anti-flood campaign (here: the evacuation of residents from flooded areas), and thus, it may also minimise the negative effects of the flooding itself. The article distinguishes 14 stages of research, which were chiefly completed by means of the following methods: distance-based accessibility, cumulative accessibility, the Enhanced Two-Step Floating Catchment Area Method (E2SFCA …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/17477891.2019.1593816"
+    },
+    {
+        "title": "The impact of self-evacuation from flood hazard areas on the equilibrium of the road transport",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Szymon Wiśniewski, Maxim A Dulebenets",
+        "year": "2023/1/1",
+        "abstract": "The main purpose of this article is to identify the local determinants for self-evacuation during a flooding event and the impact that the changes related to its individual stages and forms exert on the operational efficiency of the regional transport system. The authors conducted a questionnaire survey, the results of which were used to perform a series of traffic simulations. Six scenarios were analysed, each exemplifying various stages and forms of self-evacuation. Base volumes of traffic flows, speeds within the congested network, and travel times between individual transport regions were determined on the basis of a multi-modal and multi-motivational model of the area which takes into account the following types of traffic: internal, source-external, source–destination, and transit. The study showed that the evacuation from flood hazard areas following non-typical disruptions has a considerable impact on changes in …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0925753522002739"
+    },
+    {
+        "title": "The Measurement of Mobility-Based Accessibility—The Impact of Floods on Trips of Various Length and Motivation",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Szymon Wiśniewski",
+        "year": "2019",
+        "abstract": "The main purpose of this article was to develop a method of researching accessibility in the event of a flood through the application of measurement based on mobility. In the course of the research, it has been proven that changes in mobility (and the related travel speed) are too significant to be ignored when studying accessibility in unusual circumstances. The vast majority of existing accessibility studies rely primarily on speed models, which – in the event of a flood – do not indicate the external effects of the natural disaster. On the basis of the conducted research it has been stated that the occurrence of a flood has a significant impact on changes in the spatial distribution of traffic and its related speeds. Such changes vary depending on the particular means of transport. With the most commonly applied methods of measuring accessibility, which are customarily based on speed models, the changes we observed would not be recorded. The application of mobility-based research in the analyses of accessibility – especially in the event of a flood – indicates the disaster’s influence on the capacity of the road network, and thus, it allows for more effective flood-risk management. Furthermore, this article also demonstrates the possibility of applying source materials available in most member states of the EU, i.e., flood-risk maps and digital terrain models (NMPT), for the purposes of analysing and identifying road section closures within the transport network after the occurrence of a flood.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/2220-9964/8/12/534"
+    },
+    {
+        "title": "Wewnętrzna samochodowa dostępność transportowa Łodzi w świetle pomiarów z Inteligentnych Systemów Transportowych",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Szymon Wiśniewski",
+        "year": "2019",
+        "abstract": "Zarys treści: W artykule zajęto się zagadnieniem dostępności transportowej Łodzi, przy wykorzystaniu danych z Inteligentnych Systemów Transportowych, w tym przypadku z kamer umożliwiających automatyczną identyfikację tablic rejestracyjnych (ang. Automatic number-plate recognition, ANPR), rozmieszczonych na 23 skrzyżowaniach w mieście. W artykule postawiono dwa cele. Pierwszy z nich, o charakterze metodologicznym, skupia się na ocenie przydatności danych z ITS w badaniach geograficznych. W ramach jego realizacji nie poprzestano na przedstawieniu sposobu wykorzystania danych i dokonaniu za ich pomocą analiz, ale także porównano ich wyniki z badaniami dotyczącymi podobnych zjawisk mierzonych za pomocą innych zestawów danych (dostępności teoretycznej i danych zaczerpniętych z usługi Distance Matrix Responses świadczonej przez Google Maps APIs). Drugi z celów ma charakter …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=971729"
+    },
+    {
+        "title": "Ocena możliwości realizacji transportu zbiorowego przez Miejskie Przedsiębiorstwo Komunikacyjne w Łodzi na terenie kształtującego się Łódzkiego Obszaru Metropolitalnego",
+        "authors": "Szymon Wiśniewski, Michał Kowalski",
+        "year": "2013",
+        "abstract": "Problemy instytucjonalizacji Obszarów Metropolitalnych, utrudniają efektywne zarządzanie nimi w wielu kwestiach, w tym na płaszczyźnie organizacji transportu zbiorowego. Poruszane w pracy zagadnienia, o charakterze geograficznym, mają na celu diagnozę wpływu działalności Miejskiego Przedsiębiorstwa Komunikacji w Łodzi (MPK) (głównego wykonawcy w zakresie organizacji transportu publicznego przez Prezydenta Łodzi) na kształtowanie się Łódzkiego Obszaru Metropolitalnego (ŁOM). W celu uzyskania diagnozy konieczne jest przeanalizowanie przestrzennego i demograficznego zasięgu oddziaływania MPK Łódź (w oparciu o zagadnienie dostępności mieszkańców do przystanków). Dodatkowo przeanalizowano efektywność w oparciu o częstotliwość i czas przejazdu. Badanie oparto na metodologii umożliwiającej maksymalny, zdaniem autorów, stopień obiektywizmu przy tego typu badaniu. Trudność wyboru sposobu, w jakim powinno badać się zasięg przestrzenny oddziaływania przystanku, wynika z charakteru sieci osadniczej ŁOM. Stąd też wyniki analiz oparto na trzech sposobach delimitacji granic zasięgu ekwidystanty, wykreślającej przestrzeń, która może być ujęta jako zasięg oddziaływania przystanku, skąd realizowane są połączenia MPK. Przeprowadzone badania mają na celu lepsze rozpoznanie problematyki i wskazanie potrzeb ich kontynuacji. Lepsze zrozumienie tych zjawisk zwiększy potencjał aplikacyjny podobnych badań. W świetle konfrontacji przeprowadzonych badań z analizami dotyczącymi spójności ŁOM, sieć połączeń realizowanych przez MPK należy uznać za słabą i wymagającą bardzo daleko …",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/192659.pdf"
+    },
+    {
+        "title": "Natężenie ruchu a zagospodarowanie Łodzi–zarys problematyki w świetle danych z Obszarowego Systemu Sterowania Ruchem",
+        "authors": "Michał Kowalski, Szymon Wiśniewski",
+        "year": "2017",
+        "abstract": "W niniejszym artykule skupiono się na przedstawieniu natężenia ruchu w Łodzi na tle jej struktury funkcjonalnej. Na potrzeby badań wykorzystano dane z Obszarowego Systemu Sterowania Ruchem (OSSR) i Bazy Danych Obiektów Topograficznych (BDOT). W procedurze badawczej przeprowadzono analizy przestrzenne wykonywane w środowisku ArcMap oraz podstawowe metody badań statystycznych. Artykuł zawiera przegląd lokalnych uwarunkowań mobilności, takich jak sieć drogowo-uliczna, poziom motoryzacji oraz lokalna struktura funkcjonalno-przestrzenna. W oparciu o wspomniany zarys uwarunkowań zaprezentowano wielkości przemieszczeń realizowanych przez pojazdy samochodowe korzystające z tej części sieci dróg miejskich w Łodzi, które są objęte monitoringiem, w rejonie występowania wybranych elementów struktury przestrzennej miasta. Wynikiem badań, poza zaprezentowaniem części zjawiska mobilności, było wykazanie, iż dane z OSSR mogą być wykorzystywane w badaniach geograficznych wskazując jednak na ich niedoskonałość w kontekście szeroko zakrojonych badań nad przemieszczeniami w dość skomplikowanej strukturze dużego miasta.",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/2089840.pdf"
+    },
+    {
+        "title": "Changes in urban transport behaviours and spatial mobility resulting from the introduction of statutory Sunday retail restrictions: A case study of Lodz, Poland",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Szymon Wiśniewski",
+        "year": "2020",
+        "abstract": "The impact of statutory Sunday retail restrictions on the transport behaviours of people living in the Polish post-socialist city of Lodz is investigated in this article. One carrier of information on journeys undertaken in the city is data from induction loops–a part of the city’s Intelligent Transportation System (ITS). The second source of data is a two-stage questionnaire survey (concerning trading and non-trading Sundays) of the city’s inhabitants, aimed at defining any changes in their transport behaviours with reference to the introduction of retail restrictions. The research was conducted to assess the way in which the new statutory restrictions affect transport behaviour discharged after the political transformation. The results of the research conducted on the transport behaviours of Lodz residents indicate that the majority of their transport behaviours clearly depend on whether a given Sunday is a trading or non-trading day. The traffic load of the urban road network (perceived as the manifestation of residents’ spatial mobility) is characterised by a distinct changeability due to the legislative restrictions related to Sunday trading. There is both a time (daily and hourly) differentiation of traffic flows and a spatial changeability of the load in the urban space, when a comparative analysis is conducted of the results of observations made in the weeks preceding trading and non-trading Sundays. The study also demonstrates that the time previously devoted to Sunday shopping is currently spent not only at home, but also allocated to new (and until now unperformed) activities that often require travelling.",
+        "keywords": null,
+        "url": "https://sciendo.com/pdf/10.2478/mgr-2020-0003"
+    },
+    {
+        "title": "Centrum handlowe jako czynnik ruchotwórczy w transporcie samochodowym–przykład Portu Łódź",
+        "authors": "Michał Kowalski, Szymon Wiśniewski",
+        "year": "2017",
+        "abstract": "The article presents results of research devoted to the role of the shopping centre as a traffic-generating factor in individual-car transport. The research procedure was conducted in relation to Port Łódź, one of thirteen shopping centres within the boundaries of the Polish city of Łódź. The main aim has been to determine the share of car traffic generated by Port Łódź in the totality of traffic flows in the network of roads leading to the shopping centre. The analysis was based on data from the urban traffic control system or, to be precise, one of its subsystems which has access to information on spatial and time accessibility of the number of vehicles, transmitted from induction loops situated in the network of urban crossroads. The research focuses on defining potential and real traffic generation for weekdays and weekends, as well as during public holidays and festival days. The research allowed for verification of one of the model approaches to the correlation between selected characteristics of shopping centres and the volume of traffic they generate. Results show that shopping centres located along exit roads on the city outskirts affect the road transport system, particularly by exciting car traffic (also during rush hours), retaining it during afternoon rush hours (thus contributing to an alleviation and extension in time) and, to a lesser extent, serving as an informal element of the Park&Ride system (in the case of centres characterised by good accessibility to public transport and a free car park).",
+        "keywords": null,
+        "url": "https://rcin.org.pl/dlibra/docmetadata?showContent=true&id=64383"
+    },
+    {
+        "title": "Changes in the spatial development of flood hazard areas in Poland between 1990 and 2018 in the light of legal conditions",
+        "authors": "Marta Borowska-Stefańska, Sławomir Kobojek, Michał Kowalski, Marek Lewicki, Przemysław Tomalski, Szymon Wiśniewski",
+        "year": "2021/3/1",
+        "abstract": "The study presented herein focuses on determining the relationship between changes in the scale of economic losses between 1990–2018 which occurred in areas of high (10 %) and medium (1%) probability of flood occurrence as well as flood hazard areas due to the destruction of a stopbank, and changes in legislation affecting the spatial development of such areas within the said period. The analysis of changes in the development of flood hazard areas was conducted by means of the Corine Land Cover database. The results of the analysis were later used to evaluate potential economic losses on flood plains, and then spatiotemporal analysis was applied to identify areas with clusters of high and low loss values and the trends regarding their transformations. In consequence, the identification of municipality (Polish: gmina) clusters allowed us to verify the dependence of such transformations on those factors …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0264837720326120"
+    },
+    {
+        "title": "Dostępność transportowa łódzkich centrów handlowych",
+        "authors": "Michał Kowalski, Szymon Wiśniewski",
+        "year": "2017",
+        "abstract": "Do głównych czynników lokalizacji szczegółowej centrów handlowych zalicza się: sieć drogową, bliskość klientów oraz wolne tereny inwestycyjne. Spoiwem łączącym komponent transportowy z rynkowym jest dostępność transportowa. Za jej pomocą można wskazać, jakim potencjałem do zajścia interakcji wzdłuż osi klient-centrum handlowe dysponują poszczególne lokalizacje oraz w jakim zakresie mogą one zaspokajać potrzeby mieszkańców. Głównym celem artykułu jest ukazanie dostępności transportowej łódzkich centrów handlowych, a także wskazanie tendencji określających ich osiągalność względem rozmieszczenia. W badaniach uwzględniono niezwykle precyzyjne informacje, które obrazują potencjał demograficzny poszczególnych zlewni transportowych. W analizach posłużono się metodami badań opartymi na sposobach rozpoznania i zaprezentowania przestrzennych zjawisk w środowisku …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=595158"
+    },
+    {
+        "title": "Spatiotemporal Changeability of the Load of the Urban Road Transport System under Permanent and Short-Term Legal and Administrative Retail Restrictions",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Paulina Kurzyk, Alireza Sahebgharani, Szymon Wiśniewski",
+        "year": "2022/4/24",
+        "abstract": "In Poland, in 2018, the act on Sunday retail restrictions was introduced, changing citizen’s spatial mobility (altered patterns of transport behaviour related to shopping on a weekly scale). Moreover, the COVID-19 pandemic (from 2020) on transport behaviour during this time has had an impact, since people were encouraged to stay at home and limit their mobility to an absolute minimum. As a result, the main aim of the article was to identify spatiotemporal changeability of the load of the urban road transport system under permanent and short-term legal and administrative retail restrictions and to determine its spatial and temporal nature on the example of Łódź (a big city in central Poland) during 2018–2021. For that purpose, the authors used three types of source data, i.e., official governmental normative data (acts, ordinances, etc.), informative data (official pandemic announcements issued during ministerial press conferences, governmental social media content, etc.), and objective empirical data (induction loops). The pandemic restrictions imposed on top of the existing permanent retail restrictions were shown to distinctly shape the weekly distribution of traffic. In weeks with non-trading Sundays, the percentage of vehicle traffic on weekdays was substantially higher than on weekends, which was particularly noticeable during the first year of the pandemic (2020). Long-term observations have also shown that people began to plan their weekends differently upon the initial implementation of Sunday retail restrictions.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/2071-1050/14/9/5137"
+    },
+    {
+        "title": "Transport accessibility and mobility: a forecast of changes in the face of planned development of the network of expressways and motorways in Poland",
+        "authors": "Michał Kowalski, Szymon Wiśniewski",
+        "year": "2019/12/31",
+        "abstract": "The article presents a forecast of changes in the level of transport accessibility and mobility in Poland as a result of the anticipated development of the network of expressways and motorways. The progress which has been made in this respect in the last few years in Poland is unquestionable and unrepeatable by any other European country. Will the subsequent investment plans concerning the road network of the highest parameters offer equally impressive results as far as the increase in Poland’s territorial cohesion is concerned? The aim of this article is to establish in what way the planned infrastructure investments will affect the changes in transport accessibility and mobility as well as whether they will result in the changes in traffic flows directed to Warsaw and other regional centres. To achieve this, an analysis of the present and target state of the road network in Poland was conducted from the perspective of …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=828832"
+    },
+    {
+        "title": "Flooding and mobility: a polish analysis",
+        "authors": "Szymon Wiśniewski, Michał Kowalski, Marta Borowska-Stefańska",
+        "year": "2021",
+        "abstract": "ABSTRACT\nThe article contains the evaluation of indirect impact, and more precisely, effects related to traffic disruptions and the resultant changes in transport accessibility following the occurrence of a flood. The applied purpose of the analysis is to demonstrate the differentiation in spatial traffic distribution and changes regarding (time and potential) accessibility in three flooding scenarios for the Warta Water Region (the scenario 10% and 1% probability of a flood occurrence, and for the total destruction of stopbanks) in Greater Poland. The research showed that the occurrence of disruptions from untypical flooding impacts both the change in spatial distribution of traffic load within the road network and the speed at which its users can travel therein. This indicates the need to simulate various flooding scenarios in order to be better prepared for the occurrence of such a natural disaster.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/17477891.2020.1810608"
+    },
+    {
+        "title": "Changes in urban mobility related to the public bike system with regard to weather conditions and statutory retail restrictions",
+        "authors": "Marta Borowska-Stefańska, Miroslava Mikusova, Michał Kowalski, Paulina Kurzyk, Szymon Wiśniewski",
+        "year": "2021/9/9",
+        "abstract": "The main purpose of the paper is to determine changes in transport behaviour of users of the public bike-share (PBS) scheme in a large Polish city, Łódź. By tracking GPS signals for individual trips taken by PBS users, it was possible to analyse their changeability (time and spatial) for periods before the implementation of statutory Sunday retail restrictions (2017) and after their partial introduction (2018). The study also took into account weather conditions, namely maximum and minimum daily temperatures and daily totals of precipitation recorded by a weather station in Łodź. In order to determine the correlations between certain weather conditions and PBS trips, the authors applied regression analysis. The results of the study showed that weekend cycling is less susceptible to the impact of weather than cycling on weekdays. At the same time, a comparative analysis of trading and non-trading Sundays proved that, during Sundays with retail restrictions, public bikes were used for longer, farther, and slower trips. These observations were confirmed by analyses of maps of traffic structure.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/2072-4292/13/18/3597"
+    },
+    {
+        "title": "Privileging electric vehicles as an element of promoting sustainable urban mobility—Effects on the local transport system in a large metropolis in Poland",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Paulina Kurzyk, Miroslava Mikušová, Szymon Wiśniewski",
+        "year": "2021/6/25",
+        "abstract": "The main purpose of this article was to determine the impact on the equilibrium of the local transport system from privileging EVs by permitting them to use bus lanes. The study used two sets of data: information on infrastructure and traffic management; and information on the recorded road network loads and traffic volumes generated by a given shopping centre—the E. Leclerc shopping centre (an important traffic generator within the city of Łódź, Poland). These sets were then used to develop a microsimulation traffic model for the shopping centre and the associated effects on the localised transport system. The model was constructed by means of the PTV Vissim software tool. An initial simulation was conducted that formed a basis for subsequent scenarios (in total, 17 simulations were performed). On the basis of the conducted analyses, it was established that—for the researched part of the transport system—privileging the still rather uncommon battery electric vehicles (BEVs) engendered a marginal deterioration of traffic conditions. At the same time, allowing BEVs to use bus lanes within the chosen research area had no negative impact on bus journey times.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1996-1073/14/13/3838"
+    },
+    {
+        "title": "Application of Intelligent Transportation Systems in Analyses of Human Spatial Mobility in Cities",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Paulina Kurzyk, Miroslava Mikušová, Szymon Wiśniewski",
+        "year": "2021",
+        "abstract": "This article contains results of studies on the applicability of data from Intelligent Transportation Systems (ITS) for the purposes of geographical studies regarding the spatial mobility of inhabitants within a big city. The article focuses on the option of applying two types of sub-systems – induction loops and automatic number-plate recognition (ANPR) – and includes examples of analyses based on the resulting data, which can serve as a basis for mobility studies. The area on the example of which the capabilities of application of ITS data have been presented is Lodz – a large city in central Poland. The conducted research shows that ITS systems offer an enormous potential in providing data for spatial mobility studies. In order to fully exploit its worth, however, it is imperative to expand the research procedure by including, for instance, the results of qualitative research. Also, the interpretation of results obtained on the …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=1012571"
+    },
+    {
+        "title": "Changes in intra-city transport accessibility accompanying the occurrence of an urban flood",
+        "authors": "Marta Borowska-Stefańska, Adam Bartnik, Maxim A Dulebenets, Michał Kowalski, Alireza Sahebgharani, Przemysław Tomalski, Szymon Wiśniewski",
+        "year": "2024",
+        "abstract": "Flooding of the urban transport systems is becoming ever more common, and their ability to function under such conditions requires detailed research. The main objective of this study was to determine the changes (mainly in their spatial nature) of intra-urban transport accessibility of a large city (Lodz) when impacted by urban flooding. The study utilised a variety of data, including the Digital Terrain Model, the Topographic Object Database and the Road Transport Speed Model. These were employed to determine those areas where disruption to the transport system may occur under varying degrees of rainfall (15-minute rainfall with a 20% probability of occurrence and maximum daily totals – an empirical probability of approximately 1.4%). Next, the changes in potential accessibility due to the occurrence of flooding were determined for different scenarios (various depths of flood water). In order to identify the …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1361920923004376"
+    },
+    {
+        "title": "Assessing the impacts of sunday trading restrictions on urban public transport: An example of a big city in central Poland",
+        "authors": "Marta Borowska-Stefańska, Michał Kowalski, Paulina Kurzyk, A Sahebgharani, P Sapińska, Szymon Wiśniewski, Krzysztof Goniewicz, Maxim A Dulebenets",
+        "year": "2023/1/1",
+        "abstract": "The paper evaluates the temporal and spatial variability of the use of city public transport resulting from statutory Sunday trading restrictions and the COVID-19 pandemic as exemplified by Łódź, a big city in central Poland. Data on the number of tickets validated in urban public transport vehicles is provided in three forms. The first one presents the number of validations in all vehicles in an hourly distribution, the second one shows the number of validations according to individual tram and bus lines, while the third one gives information on the number of validated tickets assigned to a tram/bus stop within the range of which the validation was made. The outcomes from the conducted research show an increased fluctuation in public transport load on Sundays depending on whether it was possible to conduct all types of commercial activity. This variability is observed to a much lesser extent in the presence of other …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1077291X23000103"
+    }
+]

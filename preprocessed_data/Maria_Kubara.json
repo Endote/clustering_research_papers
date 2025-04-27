@@ -1,0 +1,82 @@
+[
+    {
+        "title": "applied spatial statistic econometrics data analysis r",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2020/11/25",
+        "abstract": "textbook comprehensive introduction applied spatial data analysis using chapter walk reader different method explaining interpret result conclusion drawn author team showcase key topic including unsupervised learning causal inference spatial weight matrix spatial econometrics heterogeneity bootstrapping accompanied suite data r code github help reader practise technique via replication exercise text valuable resource advanced student econometrics spatial planning regional science also suitable researcher data scientist working spatial data",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=hDv_DwAAQBAJ&oi=fnd&pg=PT21&dq=info:NoGxFgNshAYJ:scholar.google.com&ots=cTQqTG1Kg8&sig=S_726Edk5loTLUHRW475-X2wInw"
+    },
+    {
+        "title": "akaike information criterion choosing optimal neighbour spatial weight matrix",
+        "authors": "Maria Kubara, Katarzyna Kopczewska",
+        "year": "2023/2/28",
+        "abstract": "use akaike information criterion aic assess quality spatial econometric model different number nearest neighbour knn included spatial weight matrix particular importance two case estimating model geolocated point data without explicit guidance optimal value knn dealing different spatial pattern unique w generalizes diverse spatial structure minimizing aic set competing model one find optimal knn guarantee best fit show simulation empirical analysis aic function knn reach minimum given knn provide practical evidence misspecified w may result 20 bias model parameter",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/17421772.2023.2176539"
+    },
+    {
+        "title": "spatial quantitative method r statistic econometrics machine learning data analysis",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2023",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=16252493746283172944&hl=en&oi=scholarr"
+    },
+    {
+        "title": "spatial weight matrix distance measurement tessellation spatial statistic",
+        "authors": "Katarzyna Kopczewska, Maria Kubara",
+        "year": "2020/11/25",
+        "abstract": "chapter 4 summary important method spatial statistic show build edit spatial weight matrix w different criterion contiguity k nearest neighbour neighbour radius inverse distance inverse squared distance also discusses various theoretical applied aspect spatial weight matrix selection present available distance metric method computation distance point vector introduces tessellation method dealing kind object finally describes spatial statistic theoretical applied way global one moran geary local one lisa geary losh also show spatial two variable correlograms chapter fundamental spatial data analysis detecting understanding spatial pattern",
+        "keywords": null,
+        "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781003033219-4/spatial-weights-matrix-distance-measurement-tessellation-spatial-statistics-katarzyna-kopczewska-maria-kubara"
+    },
+    {
+        "title": "spatiotemporal localisation pattern technological startup case recurrent neural network predicting urban startup cluster",
+        "authors": "Maria Kubara",
+        "year": "2024/3",
+        "abstract": "attention dedicated localisation decision technological startup general trend innovative company attracted metropolitan area thoroughly researched much less understood pattern emerging within city considering growing number paper mentioning agglomeration externality attenuate sharply distance analysis localisation pattern crucial understanding whether effect importance technological startup using sample startup market europe warsaw poland spatial organisation across year tracked investigate whether defined pattern consistent highly localised externality operating within city pattern evolves time additionally paper",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00168-023-01220-7"
+    },
+    {
+        "title": "scope diffusion economic stimulus testing model relation cohesive regional local policy",
+        "authors": "Maria Kubara (Mikos)",
+        "year": "2019",
+        "abstract": "pursuit cohesion form basis european union regional policy however successive edition development strategy differ area investment concentration paper review theoretical model regional policy identifies main area interest subsequent cohesion strategy using poland example econometric model spatial interaction used determine spatial extent diffusion development stimulus center periphery dynamic data analysis year allowed empirical assessment implementation development strategy poland result confirmed analysis distribution entrepreneurship period highest effectiveness cohesion policy determined attempt also made identify area responsible lack effectiveness policy based smart methodology",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=802038"
+    },
+    {
+        "title": "population density attractor business place",
+        "authors": "Katarzyna Kopczewska, Maria Kubara, Mateusz Kopyt",
+        "year": "2024/9/27",
+        "abstract": "firm location study traditionally assume business attracts business given location focus knowledge transfer productive innovative firm analyse agglomeration economy arising matching learning sharing mechanism argue population density also attracts firm place therefore extend stream research using concept economy density discus effect attraction firm population study explores existence hierarchical causal mechanism occurs 2nd line firm understood less productive retail service business together human settlement create environment attracts 1st line firm innovative productive business show population density business agglomeration jointly affect location firm",
+        "keywords": null,
+        "url": "https://www.nature.com/articles/s41598-024-73341-8"
+    },
+    {
+        "title": "impact cohesion policy employment productivity",
+        "authors": "Sebastien Bourdin, Sergio Destefanis, Gianluigi Coppola, Maria Kubara",
+        "year": "2024/9/3",
+        "abstract": "paper examines heterogeneous effectiveness european union eu cohesion policy fostering regional growth considering potential productivity improvement job creation analysing impact european structural investment fund regional development level study contributes literature productivity employment regional level novel empirical approach based transformation function employed explore differing impact eu cohesion policy gross domestic product gdp per employee employment rate finding suggest exists heterogeneity across different fund region effect cohesion policy employment productivity striking balance investment job creation crucial",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/00343404.2024.2379444"
+    },
+    {
+        "title": "spatial weight matrix distance measurement tessellation spatial statistic",
+        "authors": "Maria Kubara, Katarzyna Kopczewska",
+        "year": "2020",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://repozytorium.uw.edu.pl/items/83a6d687-fbac-49fa-a7ae-3f63688e7e12"
+    },
+    {
+        "title": "spatial range diffusion economic incentive testing corepheriphery model reference regional local cohesion dyfuzji bodzcow",
+        "authors": "Maria Kubara (Mikos)",
+        "year": "2019/6/1",
+        "abstract": "pursuit cohesion form basis european union regional policy however successive edition development strategy differ area investment concentration paper review theoretical model regional policy identifies main area interest subsequent cohesion strategy using example poland using econometric model spatial interaction spatial extent diffusion development impulse center periphery determined dynamic analysis data year allowed empirical assessment implementation development strategy poland result confirmed analysis distribution entrepreneurship period highest effectiveness cohesion policy determined attempt also made identify area responsible lack effectiveness policy based smart methodology",
+        "keywords": null,
+        "url": "https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/pbcpcyss6&section=15"
+    }
+]

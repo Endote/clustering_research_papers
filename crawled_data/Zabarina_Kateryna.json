@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Applied spatial statistics and econometrics: data analysis in R",
+        "authors": "Katarzyna Kopczewska",
+        "year": "2020/11/25",
+        "abstract": "This textbook is a comprehensive introduction to applied spatial data analysis using R. Each chapter walks the reader through a different method, explaining how to interpret the results and what conclusions can be drawn. The author team showcases key topics, including unsupervised learning, causal inference, spatial weight matrices, spatial econometrics, heterogeneity and bootstrapping. It is accompanied by a suite of data and R code on Github to help readers practise techniques via replication and exercises. This text will be a valuable resource for advanced students of econometrics, spatial planning and regional science. It will also be suitable for researchers and data scientists working with spatial data.",
+        "keywords": null,
+        "url": "https://books.google.com/books?hl=en&lr=&id=hDv_DwAAQBAJ&oi=fnd&pg=PA2&dq=info:NoGxFgNshAYJ:scholar.google.com&ots=cTRm_C-Da7&sig=5M_d41jAY2aHZb8hH83Hbp8ly6E"
+    },
+    {
+        "title": "Tessellation as an Alternative Aggregation Method",
+        "authors": "Kateryna Zabarina",
+        "year": "2018",
+        "abstract": "The sensitivity of statistical results to the choice of a particular zoning system is known as the Modifiable Areal Unit Problem. Level of aggregation is a significant factor determining results. Moving from point data to areal data, one should take into account aggregation and existence of spatial autocorrelation in the data. Though usually Voronoi tessellation is used in different study fields, this paper suggests it can be an alternative aggregation method to connect point and areal data in economics. Paper shows the possibility to calculate spatial average from point data and vice versa.",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=698527"
+    }
+]

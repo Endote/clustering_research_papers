@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Monetary Policy Transmission Mechanism in Poland: What Do We Know in 2015?",
+        "authors": "Mariusz Kapuściński, Andrzej Kocięcki, Halina Kowalczyk, Tomasz Łyziak, Jan Przystupa, Ewa Stanisławska, Anna Sznajderska, Ewa Dzwonik-Wrob́el",
+        "year": "2016",
+        "abstract": "Acknowledgments: The paper expresses opinions of the authors and does not reflect a view of Narodowy Bank Polski. The authors would like to thank Piotr Boguszewski, Ryszard Kokoszczyński, Paweł Wyczański and the participants of the seminar organised at NBP on 16 December 2015. The authors are responsible for any remaining errors.",
+        "keywords": null,
+        "url": "https://static.nbp.pl/publikacje/materialy-i-studia/249_en.pdf"
+    },
+    {
+        "title": "Global identification of linearized DSGE models",
+        "authors": "Andrzej Kocięcki, Marcin Kolasa",
+        "year": "2018/11",
+        "abstract": "This paper introduces a computational framework to analyze global identification of linearized DSGE models. A formal identification condition is established that relies on the restrictions linking the observationally equivalent state space representations and on the inherent constraints imposed by the model solution on the deep parameters. This condition is next used to develop an algorithm that checks global identification by searching for observationally equivalent model parametrizations. The algorithm is efficient as the identification conditions it employs shrink considerably the space of candidate deep parameter points and the model does not need to be solved at each of these points. The working of the algorithm is demonstrated with two examples.",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.3982/QE530"
+    },
+    {
+        "title": "A prior for impulse responses in Bayesian structural VAR models",
+        "authors": "Andrzej Kocięcki",
+        "year": "2010/1/1",
+        "abstract": "This article develops a comprehensive approach to formally introduce the prior for impulse responses into the Bayesian structural VAR (SVAR) models, with considerable attention paid to careful prior specification. Furthermore, we present an efficient algorithm to estimate the SVAR with a Gaussian prior for impulse responses using simulation methods. We also illustrate our methodology using an example in which we verifiy some facts concerning the impact of monetary policy shock on the economy.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1198/jbes.2009.07278"
+    },
+    {
+        "title": "Monetary transmission mechanism in Poland. What do we know in 2017?",
+        "authors": "Tomasz Chmielewski, Mariusz Kapuściński, Andrzej Kocięcki, Tomasz Łyziak, Jan Przystupa, Ewa Stanisławska, Ewa Wróbel",
+        "year": "2018",
+        "abstract": "The picture of the monetary policy transmission mechanism in Poland emerging from the latest report is consistent with the findings of the previous research. We confirm a greater role of bank credit in the monetary policy transmission mechanism than in the past as well as the currently small importance of the exchange rate for economic activity and markedly smaller impact of exchange rate fluctuations on inflation than in previous decades. From the point of view of the tasks of the central bank, the most important finding from the empirical research that was carried out is that we do not find evidence to believe that the period of historically low interest rates caused a decline in the effectiveness of the transmission of monetary policy impulses or led to banks taking on excessive risk, with negative consequences for financial stability that this would entail.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/nbp/nbpmis/286.html"
+    },
+    {
+        "title": "Monetary policy transmission mechanism in Poland What do we know in 2019?",
+        "authors": "Tomasz Chmielewski, Andrzej Kocięcki, Tomasz Łyziak, Jan Przystupa, Ewa Stanisławska, Małgorzata Walerych, Ewa Wróbel",
+        "year": "2020",
+        "abstract": "The monetary policy of Narodowy Bank Polski (NBP)—pursued in accordance with the assumptions of the inflation targeting strategy—remains conventional. The Polish central bank has the capacity to change the basic monetary policy instrument, i.e. the short-term interest rate, in both directions. Therefore, the aim of this report—similarly to its previous editions— is to analyse the transmission mechanism of the conventional monetary policy.1 However, this does not mean that the analysis of the monetary policy transmission mechanism faces no limitations. The main problem constraining modelling in this area is related to the lack of variability of the NBP reference rate, very low volatility of monetary policy shocks identified with various methods, full predictability of monetary policy decisions in recent years and wellestablished expectations of private sector concerning stability of the NBP reference rate in the near future. Under these circumstances, drawing conclusions on the strength and delays of the mechanism through which potential changes in the short-term interest rate would affect the economy is more difficult and more uncertain than before. Thus, the hypothesis seems likely that economic agents used to stable interest rates and expecting their maintenance at the current level, can respond to potential changes in monetary policy parameters in another way than in the past. This is illustrated by the high uncertainty of the current response functions of various variables to monetary policy shocks, obtained from models with time-varying parameters. For the above reasons, our view of the monetary policy transmission mechanism in Poland is …",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/nbp/nbpmis/329.html"
+    },
+    {
+        "title": "Mechanizm transmisji polityki pieniężnej w Polsce: Co wiemy w 2015 roku?",
+        "authors": "Mariusz Kapuściński, Andrzej Kocięcki, Halina Kowalczyk, Tomasz Łyziak, Jan Przystupa, Ewa Stanisławska, Anna Sznajderska, Ewa Wróbel",
+        "year": "2016",
+        "abstract": "Znajomość mechanizmu transmisji polityki pieniężnej umożliwia bankowi centralnemu takie kształtowanie instrumentów polityki pieniężnej, które pozwala realizować jej cel finalny, tj. zapewnienie stabilności cen. Z tego względu prowadzenie badań ekonomicznych dotyczących mechanizmu transmisji polityki pieniężnej stanowi istotny obszar zainteresowań banków centralnych, w tym Narodowego Banku Polskiego.\nOd 2011 r. z częstotliwością dwuletnią Biuro Badań Instytutu Ekonomicznego NBP opracowuje raport na temat funkcjonowania mechanizmu transmisji w Polsce. Celem raportu jest zebranie wyników najnowszych prac badawczych dotyczących tej problematyki i przedstawienie ich wyników w sposób nietechniczny, umożliwiający ich praktyczne wykorzystanie w analizach polityki pieniężnej. Choć badanie mechanizmu transmisji odbywa się w ramach paradygmatu nowej szkoły keynesistowskiej, jej dorobek teoretyczny–zgodnie z terminologią Mayera (1996)–traktujemy raczej w kategorii teorii empiryczno-naukowej, aniżeli teorii formalistycznej. Cechą wspólną badań prezentowanych w raporcie jest więc ich empiryczny charakter i dążenie do tego, by w jak największym stopniu odpowiedzieć na pytanie o znaczenie polskiej polityki pieniężnej dla kształtowania się agregatów makroekonomicznych w Polsce.",
+        "keywords": null,
+        "url": "https://static.nbp.pl/publikacje/materialy-i-studia/MiS_306.pdf"
+    },
+    {
+        "title": "Bayesian forecasting of real exchange rates with a Dornbusch prior",
+        "authors": "Michele Ca'Zorzi, Andrzej Kocięcki, Michał Rubaszek",
+        "year": "2015/4/1",
+        "abstract": "This paper assesses if a Bayesian VAR with a Dornbusch prior outperforms the random walk model in predicting real exchange rates. Our main contributions are twofold. First, from a methodological point of view we apply an innovative framework to estimate structural Bayesian VAR models. Second, we provide evidence that a VAR with a Dornbusch prior can generate more accurate forecasts for real exchange rates than a standard VAR model based on the random walk prior and the naïve random walk model.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0264999314005070"
+    },
+    {
+        "title": "A Bayesian method of combining judgmental and model-based density forecasts",
+        "authors": "Andrzej Kocięcki, Marcin Kolasa, Michał Rubaszek",
+        "year": "2012/7/1",
+        "abstract": "This paper introduces a formal method of combining expert and model density forecasts when the sample of past forecasts is unavailable. It works directly with the expert forecast density and endogenously delivers weights for forecast combination, relying on probability rules only. The empirical part of the paper illustrates how the framework can be applied in forecasting US inflation by mixing density forecasts from an autoregressive model and the Survey of Professional Forecasters.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0264999312000600"
+    },
+    {
+        "title": "Wpływ polityki pieniężnej na zachowania przedsiębiorstw w świetle danych GUS i badań ankietowych–wybrane zagadnienia",
+        "authors": "P Boguszewski, A Kocięcki",
+        "year": "2000",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=2684226767226317960&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Mechanizm transmisji polityki pieniężnej w Polsce",
+        "authors": "Tomasz Chmielewski, Mariusz Kapuściński, Andrzej Kocięcki, Tomasz Łyziak, Jan Przystupa, Ewa Stanisławska, Ewa Wróbel",
+        "year": "2017",
+        "abstract": "We propose a new model framework to deal with time varying parameters in Structural Vector Autoregressions. Our analysis is comprehensive: we tackle the identification problem and come up with Bayesian algorithm to sample from the posterior. Our contributions are twofold. First, we show that due to non–Gaussianity of the sampling distribution, essentially there is no identification problem. Hence analogy between time–invariant and time varying Structural Vector Autoregressions, which was taken for granted, is very weak as far as identifiability is concerned. Second, we propose efficient Bayesian sampling procedure. What distinguishes our sampling from eg Primiceri (2005), which is the main benchmark in the literature, is that drawings in all steps of our Gibbs sampling can be made exactly. Moreover efficient sampling under general short–run restrictions that do not conform to the recursive (Cholesky) identification scheme still poses the challenge. Our algorithm makes it very easy provided that the short-run restrictions are imposed on instantaneous impulse response matrix, which is the inverse of the contemporaneous relations matrix in Structural Vector Autoregression.",
+        "keywords": null,
+        "url": "https://static.nbp.pl/publikacje/materialy-i-studia/mtm2019_zalaczniki.pdf"
+    },
+    {
+        "title": "Bayesian analysis of recursive SVAR models with overidentifying restrictions",
+        "authors": "Andrzej Kociecki, Michał Rubaszek, Michele Ca'Zorzi",
+        "year": "2012",
+        "abstract": "The paper provides a novel Bayesian methodological framework to estimate structural VAR (SVAR) models with recursive identification schemes that allows for the inclusion of over-identifying restrictions. The proposed framework enables the researcher to (i) elicit the prior on the non-zero contemporaneous relations between economic variables and to (ii) derive an analytical expression for the posterior distribution and marginal data density. We illustrate our methodological framework by estimating a backward looking New-Keynesian model taking into account prior beliefs about the contemporaneous coefficients in the Phillips curve and Taylor rule.",
+        "keywords": null,
+        "url": "https://www.econstor.eu/handle/10419/153925"
+    },
+    {
+        "title": "A solution to the global identification problem in DSGE models",
+        "authors": "Andrzej Kocięcki, Marcin Kolasa",
+        "year": "2023/10/1",
+        "abstract": "We develop an analytical framework to study global identification in structural models with forward-looking expectations. Our identification condition combines the similarity transformation linking the observationally equivalent state space systems with the constraints imposed on them by the model parameters. The key step of solving the identification problem then reduces to finding all roots of a system of polynomial equations. We show how it can be done using the concept of a Gröbner basis and recently developed algorithms to compute it analytically. In contrast to frameworks relying on numerical search, our approach can prove whether a model is identified or not at a given parameter point, explicitly delivering the complete set of observationally equivalent parameter vectors. We present the solution to the global identification problem for several popular dynamic stochastic general equilibrium (DSGE) models.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304407623001938"
+    },
+    {
+        "title": "Monetary policy transmission mechanism in Poland",
+        "authors": "M Kapuściński, A Kocięcki, H Kowalczyk, T Łyziak, J Przystupa, E Stanisłwska, A Sznajderska, E Wróbel",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=15168098917161935857&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Flexible Prior Beliefs on Impusle Responses in Bayesian Vector Autoregressive Models",
+        "authors": "Fabio Canova, Andrzej Kociecki, Michele Piffer",
+        "year": "2024/4",
+        "abstract": "We develop a prior for the coefficients of a VAR that allows for flexible nondogmatic beliefs on the shape of the structural impulse responses. We achieve this using an alternative setting of the moments of a Normal prior distribution on the autoregressive parameters of the model. The methodology we propose is computationally no more demanding than existing prior specifications; yet it offers a tool for Bayesian shrinkage over key outputs of the model. Introducing the prior belief that monetary policy shocks generate temporary but persistent effects leads to a hump-shaped response of GDP, with the peak response occurring between twelve and eighteen months after the shock.",
+        "keywords": null,
+        "url": "https://www.helsinkigse.fi/media/pages/events/michele-piffer/64453e9bcd-1701695741/piffer.pdf"
+    },
+    {
+        "title": "Monetary transmission mechanism in Poland",
+        "authors": "Tomasz Chmielewski, Mariusz Kapuściński, Andrzej Kocięcki, Tomasz Łyziak, Jan Przystupa, Ewa Stanisławska, Ewa Wróbel",
+        "year": "2017",
+        "abstract": "Acknowledgements: The authors of the report would like to thank Ryszard Kokoszczyński, Marcin Kolasa, Natalia Nehrebecka, Andrzej Sławiński and Andrzej Raczko for their valuable discussions and suggestions. We would also like to express our gratitude to Krzysztof Makarski, Jacek Suda and Przemysław Włodarczyk for their comments regarding the previous version of the text. We thank Marta Garbarczyk and Małgorzata Ignaciuk for their assistance in conducting some parts of the research.",
+        "keywords": null,
+        "url": "https://static.nbp.pl/publikacje/materialy-i-studia/286_en.pdf"
+    },
+    {
+        "title": "Bayesian approach and identification",
+        "authors": "Andrzej Kociecki",
+        "year": "2013/4/25",
+        "abstract": "The paper aims at systematic placement of identification concept within Bayesian approach. Pointing to some deficiencies of the standard Bayesian language to describe identification problem we propose several useful characterizations that seem to be intuitively sound and attractive given their potential applications. We offer comprehensive interpretations for them. Moreover we introduce the concepts of uniform, marginal and faithful identification. We argue that all these concepts may have practical significance. Our theoretical development is illustrated with a number of simple examples and one real application i.e. Structural VAR model.",
+        "keywords": null,
+        "url": "https://mpra.ub.uni-muenchen.de/id/eprint/46538"
+    },
+    {
+        "title": "Algebraic theory of indentification in parametric models",
+        "authors": "Andrzej Kociecki",
+        "year": "2011/7/1",
+        "abstract": "The paper presents the problem of identification in parametric models from the algebraic point of view. We argue that it is not just another perspective but the proper one. That is using our approach we can see the very nature of the identification problem, which is slightly different than that suggested in the literature. In practice it means that in many models we can unambiguously estimate parameters that have been thought as unidentifiable. This is illustrated in the case of Simultaneous Equations Model (SEM), where our analysis leads to conclusion that existing identification conditions, although correct, are based on the inappropriate premise: only the structural parameters that are in one–to–one correspondence with the reduced form parameters are identified. We will show that this is not true. In fact there are other structural parameters, which are identified, but can not be uniquely recovered from the reduced form parameters. Although we apply our theory only to SEM, it can be used in many standard econometric models.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1904832"
+    },
+    {
+        "title": "Bayesian Insight Into Structural VAR Models",
+        "authors": "Andrzej Kocięcki",
+        "year": "2005",
+        "abstract": "1 See however Blanchard and Quah (1989) for application of long-run restrictions (concerning effects of some shocks on some variables in the long-run), Cushman and Zha (1997) for restrictions on lagged coefficients, or Galí (1992) for mixture of short-run (contemporaneous coefficients) and long-run restrictions.",
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=5482776200877254950&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Monetary policy transmission mechanism in Poland What do we know in 2023?",
+        "authors": "Michał Greszta, Marcin Humanicki, Mariusz Kapuściński, Tomasz Kleszcz, Andrzej Kocięcki, Jacek Kotłowski, Michał Ledóchowski, Michał Łesyk, Tomasz Łyziak, Mateusz Pipień, Piotr Popowski, Ewa Stanisławska, Karol Szafranek, Grzegorz Szafrański, Dorota Ścibisz, Grzegorz Wesołowski, Ewa Wróbel",
+        "year": "2023",
+        "abstract": "This report presents the current body of knowledge on the monetary transmission mechanism in Poland. The presented findings confirm the impact of short-term interest rates on a range of macroeconomic variables, indicating in particular that following a monetary policy tightening there is – ceteris paribus – an appreciation of the domestic currency, and, with a lag, a decrease in the volume of credit, economic activity, and inflation.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/nbp/nbpmis/365.html"
+    },
+    {
+        "title": "Supplement to ‘Global identification of linearized DSGE models’",
+        "authors": "Andrzej Kociecki, Marcin Kolasa",
+        "year": "2018",
+        "abstract": "In this supplementary material, we show how the widely cited medium-sized DSGE model of Smets and Wouters (2007) can be easily fitted into our identification analysis. The model has rich dynamics, its equilibrium conditions feature variables that show up both in conditional expectations and lags, and some shocks have an ARMA structure. These characteristics make this model a good object to demonstrate the generality of our approach.\nWe first present the full list of equations making up the Smets and Wouters (2007) model and show how to define the vector of states st and policy variables pt. We next demonstrate how some of the model structural equations can be used to recover the policy function matrices F and G if one wants to speed up Algorithm 1 as discussed in Section 5.2.",
+        "keywords": null,
+        "url": "https://www.econometricsociety.org/publications/quantitative-economics/2018/11/01/Global-identification-of-linearized-DSGE-models/supp/620-2952-1-SP.pdf"
+    }
+]

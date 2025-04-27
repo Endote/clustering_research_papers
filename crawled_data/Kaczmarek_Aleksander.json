@@ -1,0 +1,106 @@
+[
+    {
+        "title": "The role of glutamate oxaloacetate transaminases in sulfite biosynthesis and H2S metabolism",
+        "authors": "Anna-Theresa Mellis, Albert L Misko, Sita Arjune, Ye Liang, Katalin Erdélyi, Tamás Ditrói, Alexander T Kaczmarek, Peter Nagy, Guenter Schwarz",
+        "year": "2021/1/1",
+        "abstract": "Molybdenum cofactor deficiency and isolated sulfite oxidase deficiency are two rare genetic disorders that are caused by impairment of the mitochondrial enzyme sulfite oxidase. Sulfite oxidase is catalyzing the terminal reaction of cellular cysteine catabolism, the oxidation of sulfite to sulfate. Absence of sulfite oxidase leads to the accumulation of sulfite, which has been identified as a cellular toxin. However, the molecular pathways leading to the production of sulfite are still not completely understood. In order to identify novel treatment options for both disorders, the understanding of cellular cysteine catabolism – and its alterations upon loss of sulfite oxidase – is of utmost importance. Here we applied a new detection method of sulfite in cellular extracts to dissect the contribution of cytosolic and mitochondrial glutamate oxaloacetate transaminase (GOT) in the transformation of cysteine sulfinic acid to sulfite and …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S2213231720310053"
+    },
+    {
+        "title": "Impaired mitochondrial maturation of sulfite oxidase in a patient with severe sulfite oxidase deficiency",
+        "authors": "Daniel Bender, Alexander Tobias Kaczmarek, Jose Angel Santamaria-Araujo, Burkard Stueve, Stephan Waltz, Deniz Bartsch, Leo Kurian, Sebahattin Cirak, Guenter Schwarz",
+        "year": "2019/9/1",
+        "abstract": "Sulfite oxidase (SO) is encoded by the nuclear SUOX gene and catalyzes the final step in cysteine catabolism thereby oxidizing sulfite to sulfate. Oxidation of sulfite is dependent on two cofactors within SO, a heme and the molybdenum cofactor (Moco), the latter forming the catalytic site of sulfite oxidation. SO localizes to the intermembrane space of mitochondria where both—pre-SO processing and cofactor insertion—are essential steps during SO maturation. Isolated SO deficiency (iSOD) is a rare inborn error of metabolism caused by mutations in the SUOX gene that lead to non-functional SO. ISOD is characterized by rapidly progressive neurodegeneration and death in early infancy. We diagnosed an iSOD patient with homozygous mutation of SUOX at c.1084G>A replacing Gly362 to serine. To understand the mechanism of disease, we expressed patient-derived G362S SO in Escherichia coli and …",
+        "keywords": null,
+        "url": "https://academic.oup.com/hmg/article-abstract/28/17/2885/5498729"
+    },
+    {
+        "title": "Mechanism of nitrite-dependent NO synthesis by human sulfite oxidase",
+        "authors": "Daniel Bender, Alexander Tobias Kaczmarek, Dimitri Niks, Russ Hille, Guenter Schwarz",
+        "year": "2019/6/28",
+        "abstract": "In addition to nitric oxide (NO) synthases, molybdenum-dependent enzymes have been reported to reduce nitrite to produce NO. Here, we report the stoichiometric reduction in nitrite to NO by human sulfite oxidase (SO), a mitochondrial intermembrane space enzyme primarily involved in cysteine catabolism. Kinetic and spectroscopic studies provide evidence for direct nitrite coordination at the molybdenum center followed by an inner shell electron transfer mechanism. In the presence of the physiological electron acceptor cytochrome c, we were able to close the catalytic cycle of sulfite-dependent nitrite reduction thus leading to steady-state NO synthesis, a finding that strongly supports a physiological relevance of SO-dependent NO formation. By engineering SO variants with reduced intramolecular electron transfer rate, we were able to increase NO generation efficacy by one order of magnitude, providing a …",
+        "keywords": null,
+        "url": "https://portlandpress.com/biochemj/article-abstract/476/12/1805/219581"
+    },
+    {
+        "title": "Selective Oxyfunctionalisation Reactions Driven by Sulfite Oxidase‐Catalysed In Situ Generation of H2O2",
+        "authors": "Morten MCH van Schie, Alexander T Kaczmarek, Florian Tieves, Patricia Gomez de Santos, Caroline E Paul, Isabel WCE Arends, Miguel Alcalde, Günter Schwarz, Frank Hollmann",
+        "year": "2020/6/18",
+        "abstract": "H2O2 can be accepted by several peroxygenases as a clean oxidant, able to supply both the necessary electrons and oxygen atom at the same time. The biocatalysts, in turn, are able to catalyse an array of interesting oxygen insertion reactions at enantio‐ and regio‐selectivities hard to attain with classical chemical methods. The sensitivity of most peroxygenases towards H2O2, however, requires this oxidant to be generated in situ. Here, we suggest the application of (modified) sulfite oxidases to couple the oxidation of sulfites to the reduction of oxygen. This enables us to use calcium sulfite, an industrial waste product from scrubbing flue gases, as an electron donor to reduce oxygen. This will supply the required peroxide in a controlled manner and enables us to perform these challenging reactions at the expense of simple salts.",
+        "keywords": null,
+        "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cctc.201902297"
+    },
+    {
+        "title": "Reciprocal regulation of sulfite oxidation and nitrite reduction by mitochondrial sulfite oxidase",
+        "authors": "Alexander T Kaczmarek, Marc JF Strampraad, Peter-Leon Hagedoorn, Guenter Schwarz",
+        "year": "2019/8/1",
+        "abstract": "The oxygen-independent nitrate-nitrite-nitric oxide (NO) pathway is considered as a substantial source of NO in mammals. Dietary nitrate/nitrite are distributed throughout the body and reduced to NO by the action of various enzymes. The intermembrane spaced (IMS), molybdenum cofactor-dependent sulfite oxidase (SO) was shown to catalyze such a nitrite reduction. In this study we asked whether the primary function of SO – sulfite oxidation – and its novel function – nitrite reduction – impact each other. First, we utilized benzyl viologen as artificial electron donor to investigate steady state NO synthesis by SO and found fast (kcat = 14 s−1) nitrite reduction of SO full-length and its isolated molybdenum domain at pH 6.5. Next, we determined the impact of nitrite on pre-steady state kinetics in SO catalysis and identified nitrite as a pH-dependent inhibitor of SO reductive and oxidative half reaction. Finally, we report …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1089860319300989"
+    },
+    {
+        "title": "Machine learning-based identification and characterization of 15 novel pathogenic SUOX missense mutations",
+        "authors": "Alexander Tobias Kaczmarek, Nike Bahlmann, Besarta Thaqi, Patrick May, Guenter Schwarz",
+        "year": "2021/9/1",
+        "abstract": "Isolated sulfite oxidase deficiency (ISOD) is a rare hereditary metabolic disease caused by absence of functional sulfite oxidase (SO) due to mutations of the SUOX gene. SO oxidizes toxic sulfite and sulfite accumulation is associated with neurological disorders, progressive brain atrophy and early death. Similarities of these neurological symptoms to abundant diseases like neonatal encephalopathy underlines the raising need to increase the awareness for ISOD. Here we report an interdisciplinary approach utilizing exome/genome data derived from gnomAD database as well as published variants to predict the pathogenic outcome of 303 naturally occurring SO missense variants and combining these with activity determination. We identified 15 novel ISOD-causing SO variants and generated a databank of pathogenic SO missense variants to support future diagnosis of ISOD patients. We found six inactive variants …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1096719221007617"
+    },
+    {
+        "title": "A defect in molybdenum cofactor binding causes an attenuated form of sulfite oxidase deficiency",
+        "authors": "Alexander Tobias Kaczmarek, Daniel Bender, Titus Gehling, Joshua Benedict Kohl, Hülya‐Sevcan Daimagüler, José Angel Santamaria‐Araujo, Max Christoph Liebau, Anne Koy, Sebahattin Cirak, Guenter Schwarz",
+        "year": "2022/3",
+        "abstract": "Isolated sulfite oxidase deficiency (ISOD) is a rare recessive and infantile lethal metabolic disorder, which is caused by functional loss of sulfite oxidase (SO) due to mutations of the SUOX gene. SO is a mitochondrially localized molybdenum cofactor (Moco)‐ and heme‐dependent enzyme, which catalyzes the vital oxidation of toxic sulfite to sulfate. Accumulation of sulfite and sulfite‐related metabolites such as S‐sulfocysteine (SSC) are drivers of severe neurodegeneration leading to early childhood death in the majority of ISOD patients. Full functionality of SO is dependent on correct insertion of the heme cofactor and Moco, which is controlled by a highly orchestrated maturation process. This maturation involves the translation in the cytosol, import into the intermembrane space (IMS) of mitochondria, cleavage of the mitochondrial targeting sequence, and insertion of both cofactors. Moco insertion has proven as the …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jimd.12454"
+    },
+    {
+        "title": "Oxygen and nitrite reduction by heme‐deficient sulphite oxidase in a patient with mild sulphite oxidase deficiency",
+        "authors": "Daniel Bender, Alexander T Kaczmarek, Sabina Kuester, Alberto B Burlina, Guenter Schwarz",
+        "year": "2020/7",
+        "abstract": "Isolated sulphite oxidase deficiency (iSOD) is an autosomal recessive inborn error in metabolism characterised by accumulation of sulphite, which leads to death in early infancy. Sulphite oxidase (SO) is encoded by the SUOX gene and forms a heme‐ and molybdenum‐cofactor‐dependent enzyme localised in the intermembrane space of mitochondria. Within SO, both cofactors are embedded in two separated domains, which are linked via a flexible 11 residue tether. The two‐electron oxidation of sulphite to sulphate occurs at the molybdenum active site. From there, electrons are transferred via two intramolecular electron transfer steps (IETs) via the heme cofactor and to the physiologic electron acceptor cytochrome c. Previously, we reported nitrite and oxygen to serve as alternative electron acceptors at the Moco active site, thereby overcoming IET within SO. Here, we present evidence for these reactions to occur …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jimd.12216"
+    },
+    {
+        "title": "Molecular mechanism of intramolecular electron transfer in dimeric sulfite oxidase",
+        "authors": "Malin Eh, Alexander Tobias Kaczmarek, Guenter Schwarz, Daniel Bender",
+        "year": "2022/3/1",
+        "abstract": "Sulfite oxidase (SOX) is a homodimeric molybdoheme enzyme that oxidizes sulfite to sulfate at the molybdenum center. Following substrate oxidation, molybdenum is reduced and subsequently regenerated by two sequential electron transfers (ETs) via heme to cytochrome c. SOX harbors both metals in spatially separated domains within each subunit, suggesting that domain movement is necessary to allow intramolecular ET. To address whether one subunit in a SOX dimer is sufficient for catalysis, we produced heterodimeric SOX variants with abolished sulfite oxidation by replacing the molybdenum-coordinating and essential cysteine in the active site. To further elucidate whether electrons can bifurcate between subunits, we truncated one or both subunits by deleting the heme domain. We generated three SOX heterodimers: (i) SOX/Mo with two active molybdenum centers but one deleted heme domain, (ii) SOX …",
+        "keywords": null,
+        "url": "https://www.jbc.org/article/S0021-9258(22)00108-9/fulltext"
+    },
+    {
+        "title": "ERLIN1/2 scaffolds bridge TMUB1 and RNF170 and restrict cholesterol esterification to regulate the secretory pathway",
+        "authors": "Matteo Veronese, Sebastian Kallabis, Alexander Tobias Kaczmarek, Anushka Das, Lennart Robers, Simon Schumacher, Alessia Lofrano, Susanne Brodesser, Stefan Müller, Kay Hofmann, Marcus Krüger, Elena I Rugarli",
+        "year": "2024/8/1",
+        "abstract": "Complexes of ERLIN1 and ERLIN2 (ER lipid raft–associated 1 and 2) form large ring-like cup-shaped structures on the endoplasmic reticulum (ER) membrane and serve as platforms to bind cholesterol and E3 ubiquitin ligases, potentially defining functional nanodomains. Here, we show that ERLIN scaffolds mediate the interaction between the full-length isoform of TMUB1 (transmembrane and ubiquitin-like domain–containing 1) and RNF170 (RING finger protein 170). We identify a luminal N-terminal conserved region in TMUB1 and RNF170, which is required for this interaction. Three-dimensional modelling shows that this conserved motif binds the stomatin/prohibitin/flotillin/HflKC domain of two adjacent ERLIN subunits at different interfaces. Protein variants that preclude these interactions have been previously linked to hereditary spastic paraplegia. Using omics-based approaches in combination with …",
+        "keywords": null,
+        "url": "https://www.life-science-alliance.org/content/7/8/e202402620.abstract"
+    },
+    {
+        "title": "A pH‐Sensitive Double Chromophore Fluorescent Dye for Live‐Tracking of Lipophagy",
+        "authors": "Pascal M Engelhardt, Matteo Veronese, Alpay A Eryiğit, Anushka Das, Alexander T Kaczmarek, Elena I Rugarli, Hans‐Günther Schmalz",
+        "year": "2024/5/28",
+        "abstract": "Lipid droplet (LD) degradation provides metabolic energy and important building blocks for various cellular processes. The two major LD degradation pathways include autophagy (lipophagy), which involves delivery of LDs to autolysosomes, and lipolysis, which is mediated by lipases. While abnormalities in LD degradation are associated with various pathological disorders, our understanding of lipophagy is still rudimentary. In this study, we describe the development of a lipophilic dye containing two fluorophores, one of which is pH‐sensitive and the other pH‐stable. We further demonstrate that this “Lipo‐Fluddy” can be used to visualize and quantify lipophagy in living cells, in an easily applicable and protein label‐free approach. After estimating the ability of compound candidates to penetrate LDs, we synthesized several BODIPY and (pH‐switchable) rhodol dyes, whose fluorescence properties (incl. their …",
+        "keywords": null,
+        "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202400808"
+    },
+    {
+        "title": "Selective Oxyfunctionalisation Reactions Driven by Sulfite Oxidase‐Catalysed In Situ Generation of H2O2.",
+        "authors": "Morten MCH Schie, Alexander T Kaczmarek, Florian Tieves, Patricia Gomez de Santos, Caroline E Paul, Isabel WCE Arends, Miguel Alcalde, Günter Schwarz, Frank Hollmann",
+        "year": "2020/6/18",
+        "abstract": "H2O2 can be accepted by several peroxygenases as a clean oxidant, able to supply both the necessary electrons and oxygen atom at the same time. The biocatalysts, in turn, are able to catalyse an array of interesting oxygen insertion reactions at enantio‐and regio‐selectivities hard to attain with classical chemical methods. The sensitivity of most peroxygenases towards H2O2, however, requires this oxidant to be generated in situ. Here, we suggest the application of (modified) sulfite oxidases to couple the oxidation of sulfites to the reduction of oxygen. This enables us to use calcium sulfite, an industrial waste product from scrubbing flue gases, as an electron donor to reduce oxygen. This will supply the required peroxide in a controlled manner and enables us to perform these challenging reactions at the expense of simple salts.",
+        "keywords": null,
+        "url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=18673880&AN=143852370&h=OM016wBG1XNCdwm0OhRep%2Bk4Qgrd9hxtvYXOgxrDtT8QdYyhScpWu4IZ9Y4ahxdMze4bsO0ChH8bDWo4Bba2Qg%3D%3D&crl=c"
+    },
+    {
+        "title": "Reaction mechanism and physiologic relevance of sulfite oxidase-dependent NO formation",
+        "authors": "Alexander Tobias Kaczmarek",
+        "year": "2019/6/17",
+        "abstract": "Reaction mechanism and physiologic relevance of sulfite oxidase-dependent NO formation Page 1 Reaction mechanism and physiologic relevance of sulfite oxidase-dependent NO formation Inaugural Dissertation zur Erlangung des Doktorgrades Dr. rer. nat. der Mathematisch-Naturwissenschaftlichen Fakultät der Universität zu Köln vorgelegt von Alexander Tobias Kaczmarek aus Frechen Köln, 2019 Page 2 Berichterstatter: Prof. Dr. Günter Schwarz Gutachter: Prof. Dr. Ulrich Baumann Tag der Disputation: 15.08.2019 Page 3 ABSTRACT Since its discovery as a vasodilator, various biological functions were attributed to nitric oxide (NO) such as modulation of neuronal plasticity and regulation of mitochondrial metabolism. Two different pathways are known for de novo biosynthesis of NO, the oxygen-dependent NO synthase (NOS) pathway, oxidizing arginine to form NO, or the oxygen-independent reduction of nitrite …",
+        "keywords": null,
+        "url": "https://kups.ub.uni-koeln.de/9963/1/Reaction_mechanism_and_physiologic_relevance_of_sulfite_oxidase-dependent_NO_formation.pdf"
+    }
+]

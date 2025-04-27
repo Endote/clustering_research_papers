@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Normalized ground states of the nonlinear Schrödinger equation with at least mass critical growth",
+        "authors": "Bartosz Bieganowski, Jarosław Mederski",
+        "year": "2021/6/1",
+        "abstract": "We propose a simple minimization method to show the existence of least energy solutions to the normalized problem {− Δ u+ λ u= g (u) in R N, N≥ 3, u∈ H 1 (R N),∫ R N| u| 2 d x= ρ> 0, where ρ is prescribed and (λ, u)∈ R× H 1 (R N) is to be determined. The new approach based on the direct minimization of the energy functional on the linear combination of Nehari and Pohozaev constraints intersected with the closed ball in L 2 (R N) of radius ρ is demonstrated, which allows to provide general growth assumptions imposed on g. We cover the most known physical examples and nonlinearities with growth considered in the literature so far as well as we admit the mass critical growth at 0.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022123621000719"
+    },
+    {
+        "title": "Nonlinear Schr\\\" odinger equations with sum of periodic and vanishing potentials and sign-changing nonlinearities",
+        "authors": "Bartosz Bieganowski, Jarosław Mederski",
+        "year": "2016/2/16",
+        "abstract": "We look for ground state solutions to the following nonlinear Schr\\\"{o}dinger equation\nwhere is the sum of a periodic potential and a localized potential , is periodic and for a.e. and . We assume that , where stands for the spectrum of and has the subcritical growth but higher than , however the nonlinearity may change sign. Although a Nehari-type monotonicity condition for the nonlinearity is not satisfied we investigate the existence of ground state solutions being minimizers on the Nehari manifold.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/1602.05078"
+    },
+    {
+        "title": "Normalized Solutions to at Least Mass Critical Problems: Singular Polyharmonic Equations and Related Curl–Curl Problems",
+        "authors": "Bartosz Bieganowski, Jarosław Mederski, Jacopo Schino",
+        "year": "2024/10",
+        "abstract": "We are interested in the existence of normalized solutions to the problem (-Δ)mu+μ|y|2mu+λu=g(u),x=(y,z)∈RK×RN-K,∫RN|u|2dx=ρ>0,\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\begin{aligned} {\\left\\{ \\begin{array}{ll} (-\\Delta )^m u+\\frac{\\mu }{|y|^{2m}}u + \\lambda u = g(u), \\quad x = (y,z) \\in \\mathbb {R}^K \\times \\mathbb {R}^{N-K}, \\\\ \\int _{\\mathbb {R}^N} |u|^2 \\, dx = \\rho > 0, \\end{array}\\right. } \\end{aligned}$$\\end{document}in the so-called at least mass critical regime. We utilize recently introduced variational techniques involving the minimization on the L2\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s12220-024-01770-y"
+    },
+    {
+        "title": "Non-local to local transition for ground states of fractional Schrödinger equations on bounded domains",
+        "authors": "Bartosz Bieganowski, Simone Secchi",
+        "year": "2021",
+        "abstract": "We show that ground state solutions to the nonlinear, fractional problem \\begin{equation*} \\begin{cases} (-\\Delta)^{s} u + V(x) u = f(x,u) & \\text{in } \\Omega, \\\\ u = 0 & \\text{in } \\mathbb R^N \\setminus \\Omega, \\end{cases} \\end{equation*} on a bounded domain , converge (along a subsequence) in , under suitable conditions on and , to a solution of the local problem as .",
+        "keywords": null,
+        "url": "https://projecteuclid.org/journals/topological-methods-in-nonlinear-analysis/volume-57/issue-2/Non-local-to-local-transition-for-ground-states-of-fractional/10.12775/TMNA.2020.038.short"
+    },
+    {
+        "title": "Solutions to a nonlinear Maxwell equation with two competing nonlinearities in",
+        "authors": "Bartosz Bieganowski",
+        "year": "2020/10/5",
+        "abstract": "We are interested in the nonlinear, time-harmonic Maxwell equation\nwith sign-changing nonlinear term , i.e. we assume that is of the form\nfor , and . In particular, we can consider the nonlinearity consisting of two competing powers with . Under appriopriate assumptions, we show that weak, cylindrically equivariant solutions of the special form are in one-to-one correspondence with weak solutions to a Schr\\\"odinger equation with a singular potential. Using this equivalence result we show the existence of the least energy solution among cylindrically equivariant solutions of the particular form to the Maxwell equation, as well as to the Schr\\\"odinger equation.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2010.02000"
+    },
+    {
+        "title": "Solutions of the fractional Schr\\\" odinger equation with a sign-changing nonlinearity",
+        "authors": "Bartosz Bieganowski",
+        "year": "2017",
+        "abstract": "We look for solutions to a nonlinear, fractional Schrödinger equation (− Δ) α/2 u+ V (x) u= f (x, u)− Γ (x)| u| q− 2 u on R N, where the potential V is coercive or V= V p e r+ V l o c is a sum of a periodic in x potential V p e r and a localized potential V l o c, Γ∈ L∞(R N) is periodic in x, Γ (x)≥ 0 for ae x∈ R N and 2< q< 2 α⁎. If f has the subcritical growth, but higher than Γ (x)| u| q− 2 u, then we find a ground state solution being a minimizer on the Nehari manifold. Moreover we show that if f is odd in u and V is periodic, this equation admits infinitely many solutions, which are pairwise geometrically distinct. Finally, we obtain the existence result in the case of coercive potential V.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0022247X17300598"
+    },
+    {
+        "title": "Boundedness of solutions to the critical fully parabolic quasilinear one‐dimensional Keller–Segel system",
+        "authors": "Bartosz Bieganowski, Tomasz Cieślak, Kentarou Fujie, Takasi Senba",
+        "year": "2019/4",
+        "abstract": "In this paper we consider a one‐dimensional fully parabolic quasilinear Keller–Segel system with critical nonlinear diffusion. We show uniform‐in‐time boundedness of solutions, which means, that unlike in higher dimensions, there is no critical mass phenomenon in the case of critical diffusion. To this end we utilize estimates from a well‐known Lyapunov functional and a recently introduced new Lyapunov‐like functional in .",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mana.201800175"
+    },
+    {
+        "title": "Generalized linking-type theorem with applications to strongly indefinite problems with sign-changing nonlinearities",
+        "authors": "Federico Bernini, Bartosz Bieganowski",
+        "year": "2022/10",
+        "abstract": "We show a linking-type result which allows us to study strongly indefinite problems with sign-changing nonlinearities. We apply the abstract theory to the singular Schrödinger equation \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\begin{aligned} -\\Delta u + V(x)u + \\frac{a}{r^2} u = f(u) - \\lambda g(u), \\quad x = (y,z) \\in {\\mathbb {R}}^K \\times {\\mathbb {R}}^{N-K}, \\ r = |y|, \\end{aligned}$$\\end{document}where \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$\\begin{aligned …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00526-022-02297-2"
+    },
+    {
+        "title": "The fractional Schrödinger equation with Hardy-type potentials and sign-changing nonlinearities",
+        "authors": "Bartosz Bieganowski",
+        "year": "2018/11/1",
+        "abstract": "We look for solutions to a fractional Schrödinger equation of the following form (− Δ) α∕ 2 u+ V (x)− μ| x| α u= f (x, u)− K (x)| u| q− 2 u o n R N∖{0}, where V is bounded and close-to-periodic potential and− μ| x| α is a Hardy-type potential. We assume that V is positive and f has the subcritical growth but not higher than| u| q− 2 u. If μ is positive and small enough we find a ground state solution, ie a critical point of the energy being minimizer on the Nehari manifold. If μ is negative we show that there is no ground state solutions. We are also interested in an asymptotic behaviour of solutions as μ→ 0+ and K→ 0.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0362546X18301603"
+    },
+    {
+        "title": "The semirelativistic Choquard equation with a local nonlinear term",
+        "authors": "Bartosz Bieganowski, Simone Secchi",
+        "year": "2018/5/15",
+        "abstract": "We propose an existence result for the semirelativistic Choquard equation with a local nonlinearity in \\begin{equation*} \\sqrt{\\strut -\\Delta + m^2} u - mu + V(x)u = \\left( \\int_{\\mathbb{R}^N} \\frac{|u(y)|^p}{|x-y|^{N-\\alpha}} \\, dy \\right) |u|^{p-2}u - \\Gamma (x) |u|^{q-2}u, \\end{equation*} where and the potential is decomposed as the sum of a -periodic term and of a bounded term that decays at infinity. The result is proved by variational methods applied to an auxiliary problem in the half-space .",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/1805.05628"
+    },
+    {
+        "title": "Semirelativistic Choquard equations with singular potentials and general nonlinearities arising from Hartree–Fock theory",
+        "authors": "Federico Bernini, Bartosz Bieganowski, Simone Secchi",
+        "year": "2022/4/1",
+        "abstract": "We are interested in a general Choquard equation− Δ+ m 2 u− m u+ V (x) u− μ| x| u=∫ R N F (y, u (y))| x− y| N− α d y f (x, u)− K (x)| u| q− 2 u under suitable assumptions on the bounded potential V and on the nonlinearity f. Our analysis extends recent results by the second and third author on the problem with μ= 0 and pure-power nonlinearity f (x, u)=| u| p− 2 u. We show that, under appropriate assumptions on the potential, whether the ground state does exist or not. Finally, we study the asymptotic behaviour of ground states as μ→ 0+.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0362546X21002984"
+    },
+    {
+        "title": "Systems of coupled Schrödinger equations with sign-changing nonlinearities via classical Nehari manifold approach",
+        "authors": "Bartosz Bieganowski",
+        "year": "2019/7/3",
+        "abstract": "We propose existence and multiplicity results for the system of Schrödinger equations with sign-changing nonlinearities in bounded domains or in the whole space . In the bounded domain we utilize the classical approach via the Nehari manifold, which is (under our assumptions) a differentiable manifold of class and the Fountain theorem by Bartsch. In the space we additionally need to assume the -periodicity of potentials and our proofs are based on the concentration-compactness lemma by Lions and the Lusternik-Schnirelmann values.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/17476933.2018.1514029"
+    },
+    {
+        "title": "Bound states for the Schr\\\"{o} dinger equation with mixed-type nonlinearites",
+        "authors": "Bartosz Bieganowski, Jarosław Mederski",
+        "year": "2019/5/11",
+        "abstract": "We prove the existence results for the Schr\\\"odinger equation of the form\nwhere is superlinear and subcritical in some periodic set and linear in for sufficiently large . The periodic potential is such that lies in a spectral gap of . We find a solution with the energy bounded by a certain min-max level, and infinitely many geometrically distinct solutions provided that is odd in .",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/1905.04542"
+    },
+    {
+        "title": "Existence and dynamics of normalized solutions to Schr\\\" odinger equations with generic double-behaviour nonlinearities",
+        "authors": "Bartosz Bieganowski, Pietro d'Avenia, Jacopo Schino",
+        "year": "2024/5/8",
+        "abstract": "We study the existence of solutions to\nwith and prescribed norm, and the dynamics of the solutions to \\[ \\begin{cases} \\mathrm{i} \\partial_t \\Psi + \\Delta \\Psi = f(\\Psi)\\\\ \\Psi(\\cdot,0) = \\psi_0 \\in H^1(\\mathbb{R}^N; \\mathbb{C}) \\end{cases} \\] with close to . Here, the nonlinear term has mass-subcritical growth at the origin, mass-supercritical growth at infinity, and is more general than the sum of two powers. Under different assumptions, we prove the existence of a locally least-energy solution, the orbital stability of all such solutions, the existence of a second solution with higher energy, and the strong instability of such a solution.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2405.05194"
+    },
+    {
+        "title": "Supervised Autoencoder MLP for Financial Time Series Forecasting",
+        "authors": "Bartosz Bieganowski, Robert Slepaczuk",
+        "year": "2024/4/2",
+        "abstract": "This paper investigates the enhancement of financial time series forecasting with the use of neural networks through supervised autoencoders, aiming to improve investment strategy performance. It specifically examines the impact of noise augmentation and triple barrier labeling on risk-adjusted returns, using the Sharpe and Information Ratios. The study focuses on the S&P 500 index, EUR/USD, and BTC/USD as the traded assets from January 1, 2010, to April 30, 2022. Findings indicate that supervised autoencoders, with balanced noise augmentation and bottleneck size, significantly boost strategy effectiveness. However, excessive noise and large bottleneck sizes can impair performance, highlighting the importance of precise parameter tuning. This paper also presents a derivation of a novel optimization metric that can be used with triple barrier labeling. The results of this study have substantial policy implications, suggesting that financial institutions and regulators could leverage techniques presented to enhance market stability and investor protection, while also encouraging more informed and strategic investment approaches in various financial sectors.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2404.01866"
+    },
+    {
+        "title": "Schr\\\"{o} dinger-type equations with sign-changing nonlinearities: a survey",
+        "authors": "Bartosz Bieganowski",
+        "year": "2018/10/1",
+        "abstract": "We are looking for solutions to nonlinear Schr\\\"odinger-type equations of the form $$ (-\\Delta)^{\\alpha / 2} u (x) + V(x) u(x) = h (x,u(x)), \\quad x \\in \\mathbb{R}^N, $$ where is an external potential (bounded, unbounded or singular) and the nonlinearity may be sign-changing. The aim of this paper is to give an introduction to the problem and the variational approach based on the Nehari manifold technique, and to survey recent results concerning the existence of ground and bound states.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/1810.01754"
+    },
+    {
+        "title": "Supervised autoencoders with fractionally differentiated features and triple barrier labelling enhance predictions on noisy data",
+        "authors": "Bartosz Bieganowski, Robert Ĺšlepaczuk",
+        "year": "2024/11/6",
+        "abstract": "This paper investigates the enhancement of financial time series forecasting with the use of neural networks through supervised autoencoders (SAE), to improve investment strategy performance. Using the Sharpe and Information Ratios, it specifically examines the impact of noise augmentation and triple barrier labeling on risk-adjusted returns. The study focuses on Bitcoin, Litecoin, and Ethereum as the traded assets from January 1, 2016, to April 30, 2022. Findings indicate that supervised autoencoders, with balanced noise augmentation and bottleneck size, significantly boost strategy effectiveness. However, excessive noise and large bottleneck sizes can impair performance.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2411.12753"
+    },
+    {
+        "title": "Normalized solutions to polyharmonic equations with Hardy-type potentials and exponential critical nonlinearities",
+        "authors": "Bartosz Bieganowski, Olímpio Hiroshi Miyagaki, Jacopo Schino",
+        "year": "2024/10/8",
+        "abstract": "Via a constrained minimization, we find a solution to the problem \\begin{equation*} \\begin{cases} (-\\Delta)^m u+\\frac{\\mu}{|x|^{2m}}u + \\lambda u = \\eta u^3 + g(u)\\\\ \\int_{\\mathbb{R}^{2m}} u^2 \\, dx = \\rho \\end{cases} \\end{equation*} with , , , and having exponential critical growth at infinity and mass critical or supercritical growth at zero.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2410.05885"
+    },
+    {
+        "title": "Traveling waves for nonlinear Schr\\\" odinger equations",
+        "authors": "Laura Baldelli, Bartosz Bieganowski, Jarosław Mederski",
+        "year": "2024/6/6",
+        "abstract": "We look for traveling wave solutions to the nonlinear Schr\\\"odinger equation with a subsonic speed, covering several physical models with Sobolev subcritical nonlinear effects. Our approach is based on a variant of Sobolev-type inequality involving the momentum and we show the existence of its minimizers solving the nonlinear Schr\\\"odinger equation.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2406.03910"
+    },
+    {
+        "title": "Time-zero limits of Kaden's spirals and 2D Euler",
+        "authors": "Bartosz Bieganowski, Tomasz Cieślak, Jakub Siemianowski",
+        "year": "2023/5/24",
+        "abstract": "The present note is devoted to the studies of the relation of the time-zero limits of Kaden's spirals and the 2D Euler equation. It is shown that the time-zero limits of Kaden's spirals satisfy inhomogeneous 2D Euler in a weak sense. As a corollary, the necessity of both, the decay of spherical averages around the origin of the spiral as well as the velocity matching condition, for the 2D Euler equation to hold in a weak sense, is shown. Finally, some preliminary results concerning the Kaden spirals are obtained.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2305.15356"
+    }
+]

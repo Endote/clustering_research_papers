@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Backward stochastic differential equations with jumps and their actuarial and financial applications",
+        "authors": "Łukasz Delong",
+        "year": "2013",
+        "abstract": "A linear backward stochastic differential equation was introduced by Bismut (1973) in an attempt to solve an optimal stochastic control problem by the maximum principle. The general theory of nonlinear backward stochastic differential equations with Lipschitz generators was first presented by Pardoux and Peng (1990). Since then, BSDEs have been thoroughly studied and found numerous applications. Backward stochastic differential equations can be used to solve stochastic optimal control problems, establish probabilistic representations of solutions to partial differential equations and define nonlinear expectations. Since many financial problems can be related to stochastic optimization problems and nonlinear expectations, it is not surprising that BSDEs have become a very important tool in financial mathematics. Nowadays, backward stochastic differential equations are an active field of research which is …",
+        "keywords": null,
+        "url": "https://link.springer.com/content/pdf/10.1007/978-1-4471-5331-3.pdf"
+    },
+    {
+        "title": "Backward stochastic differential equations with time delayed generators—results and counterexamples",
+        "authors": "Łukasz Delong, Peter Imkeller",
+        "year": "2010/8/1",
+        "abstract": "We deal with backward stochastic differential equations with time delayed generators. In this new type of equation, a generator at time t can depend on the values of a solution in the past, weighted with a time delay function, for instance, of the moving average type. We prove existence and uniqueness of a solution for a sufficiently small time horizon or for a sufficiently small Lipschitz constant of a generator. We give examples of BSDE with time delayed generators that have multiple solutions or that have no solutions. We show for some special class of generators that existence and uniqueness may still hold for an arbitrary time horizon and for arbitrary Lipschitz constant. This class includes linear time delayed generators which we study in more detail. We are concerned with different properties of a solution of a BSDE with time delayed generator, including the inheritance of boundedness from the terminal …",
+        "keywords": null,
+        "url": "https://projecteuclid.org/journals/annals-of-applied-probability/volume-20/issue-4/Backward-stochastic-differential-equations-with-time-delayed-generatorsresults-and-counterexamples/10.1214/09-AAP663.short"
+    },
+    {
+        "title": "On Malliavin’s differentiability of BSDEs with time delayed generators driven by Brownian motions and Poisson random measures",
+        "authors": "Łukasz Delong, Peter Imkeller",
+        "year": "2010/8/1",
+        "abstract": "We investigate solutions of backward stochastic differential equations (BSDEs) with time delayed generators driven by Brownian motions and Poisson random measures, that constitute the two components of a Lévy process. In these new types of equations, the generator can depend on the past values of a solution, by feeding them back into the dynamics with a time lag. For such time delayed BSDEs, we prove the existence and uniqueness of solutions provided we restrict on a sufficiently small time horizon or the generator possesses a sufficiently small Lipschitz constant. We study differentiability in the variational or Malliavin sense and derive equations that are satisfied by the Malliavin gradient processes. On the chosen stochastic basis this addresses smoothness both with respect to the continuous part of our Lévy process in terms of the classical Malliavin derivative for Hilbert space valued random variables, as …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0304414910001237"
+    },
+    {
+        "title": "Mean-variance portfolio selection for a non-life insurance company",
+        "authors": "Łukasz Delong, Russell Gerrard",
+        "year": "2007/10",
+        "abstract": "We consider a collective insurance risk model with a compound Cox claim process, in which the evolution of a claim intensity is described by a stochastic differential equation driven by a Brownian motion. The insurer operates in a financial market consisting of a risk-free asset with a constant force of interest and a risky asset which price is driven by a Lévy noise. We investigate two optimization problems. The first one is the classical mean-variance portfolio selection. In this case the efficient frontier is derived. The second optimization problem, except the mean-variance terminal objective, includes also a running cost penalizing deviations of the insurer’s wealth from a specified profit-solvency target which is a random process. In order to find optimal strategies we apply techniques from the stochastic control theory.",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00186-007-0152-2"
+    },
+    {
+        "title": "Applications of time-delayed backward stochastic differential equations to pricing, hedging and portfolio management",
+        "authors": "Lukasz Delong",
+        "year": "2010/5/24",
+        "abstract": "In this paper we investigate novel applications of a new class of equations which we call time-delayed backward stochastic differential equations. Time-delayed BSDEs may arise in finance when we want to find an investment strategy and an investment portfolio which should replicate a liability or meet a target depending on the applied strategy or the past values of the portfolio. In this setting, a managed investment portfolio serves simultaneously as the underlying security on which the liability/target is contingent and as a replicating portfolio for that liability/target. This is usually the case for capital-protected investments and performance-linked pay-offs. We give examples of pricing, hedging and portfolio management problems (asset-liability management problems) which could be investigated in the framework of time-delayed BSDEs. Our motivation comes from life insurance and we focus on participating contracts and variable annuities. We derive the corresponding time-delayed BSDEs and solve them explicitly or at least provide hints how to solve them numerically. We give a financial interpretation of the theoretical fact that a time-delayed BSDE may not have a solution or may have multiple solutions.",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/1005.4417"
+    },
+    {
+        "title": "Optimal investment and consumption in a Black–Scholes market with Lévy-driven stochastic coefficients",
+        "authors": "Łukasz Delong, Claudia Klüppelberg",
+        "year": "2008/6/1",
+        "abstract": "In this paper, we investigate an optimal investment and consumption problem for an investor who trades in a Black–Scholes financial market with stochastic coefficients driven by a non-Gaussian Ornstein–Uhlenbeck process. We assume that an agent makes investment and consumption decisions based on a power utility function. By applying the usual separation method in the variables, we are faced with the problem of solving a nonlinear (semilinear) first-order partial integro-differential equation. A candidate solution is derived via the Feynman–Kac representation. By using the properties of an operator defined in a suitable function space, we prove uniqueness and smoothness of the solution. Optimality is verified by applying a classical verification theorem.",
+        "keywords": null,
+        "url": "https://projecteuclid.org/journals/annals-of-applied-probability/volume-18/issue-3/Optimal-investment-and-consumption-in-a-BlackScholes-market-with-L%C3%A9vy/10.1214/07-AAP475.short"
+    },
+    {
+        "title": "Mean–variance optimization problems for an accumulation phase in a defined benefit plan",
+        "authors": "Łukasz Delong, Russell Gerrard, Steven Haberman",
+        "year": "2008/2/1",
+        "abstract": "In this paper we deal with contribution rate and asset allocation strategies in a pre-retirement accumulation phase. We consider a single cohort of workers and investigate a retirement plan of a defined benefit type in which an accumulated fund is converted into a life annuity. Due to the random evolution of a mortality intensity, the future price of an annuity, and as a result, the liability of the fund, is uncertain. A manager has control over a contribution rate and an investment strategy and is concerned with covering the random claim. We consider two mean–variance optimization problems, which are quadratic control problems with an additional constraint on the expected value of the terminal surplus of the fund. This functional objectives can be related to the well-established financial theory of claim hedging. The financial market consists of a risk-free asset with a constant force of interest and a risky asset whose price is …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S016766870700008X"
+    },
+    {
+        "title": "Collective reserving using individual claims data",
+        "authors": "Łukasz Delong, Mathias Lindholm, Mario V Wüthrich",
+        "year": "2022/1/2",
+        "abstract": "The aim of this paper is to operationalize claims reserving based on individual claims data. We design a modeling architecture that is based on six different neural networks. Each network is a separate module that serves a certain modeling purpose. We apply our architecture to individual claims data and predict their settlement processes on a monthly time grid. A proof of concept is provided by benchmarking the resulting claims reserves with the ones received from the classical chain-ladder method which uses much coarser (aggregated) data.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/03461238.2021.1921836"
+    },
+    {
+        "title": "Pricing and hedging of variable annuities with state-dependent fees",
+        "authors": "Łukasz Delong",
+        "year": "2014/9/1",
+        "abstract": "We investigate the problem of pricing and hedging variable annuity contracts for which the fee deducted from the policyholder’s account depends on the account value. It is believed that state-dependent fees are beneficial to policyholders and insurers since they reduce policyholders’ incentives to lapse the policies and match the costs incurred by policyholders with the pay-offs received from embedded guarantees. We consider an incomplete financial market which consists of two risky assets modelled with a two-dimensional Lévy process. One of the assets is a security which can be traded by the insurer, and the second asset is a security which is the underlying fund for the variable annuity contract. In our model we derive an equation from which the fee for the guaranteed benefit can be calculated and we characterize a strategy which allows the insurer to hedge the benefit. To solve the pricing and hedging …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S016766871400064X"
+    },
+    {
+        "title": "Fair valuation of insurance liability cash-flow streams in continuous time: Theory",
+        "authors": "Łukasz Delong, Jan Dhaene, Karim Barigou",
+        "year": "2019/9/1",
+        "abstract": "We investigate fair (market-consistent and actuarial) valuation of insurance liability cash-flow streams in continuous time. We first consider one-period hedge-based valuations, where in the first step, an optimal dynamic hedge for the liability is set up, based on the assets traded in the market and a quadratic hedging objective, while in the second step, the remaining part of the claim is valuated via an actuarial valuation. Then, we extend this approach to a multi-period setting by backward iterations for a given discrete-time step h, and consider the continuous-time limit for h→ 0. We formally derive a partial differential equation for the valuation operator which satisfies the continuous-time limit of the multi-period, discrete-time iterations and prove that this valuation operator is actuarial and market-consistent. We show that our continuous-time fair valuation operator has a natural decomposition into the best estimate of the …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167668718304451"
+    },
+    {
+        "title": "Fair valuation of insurance liability cash-flow streams in continuous time: Applications",
+        "authors": "Łukasz Delong, Jan Dhaene, Karim Barigou",
+        "year": "2019/5",
+        "abstract": "Delong et al. (2018) presented a theory of fair (market-consistent and actuarial) valuation of insurance liability cash-flow streams in continuous time. In this paper, we investigate in detail two practical applications of our theory of fair valuation. In the first example, we consider the fair valuation of a terminal benefit which is contingent on correlated tradeable and non-tradeable financial risks. In the second example, we consider a portfolio of unit-linked contracts contingent on a non-tradeable insurance and a tradeable financial risk. We derive partial differential equations (PDEs) which characterize the continuous-time fair valuation operators in these two examples and we find explicit solutions to these PDEs. The fair values of the liabilities are decomposed into the best estimate of the liability and a risk margin. The arbitrage-free representations of the fair values of the liabilities are derived and the dynamic hedging …",
+        "keywords": null,
+        "url": "https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/fair-valuation-of-insurance-liability-cashflow-streams-in-continuous-time-applications/60DE32FFD8D3179C02F4382029F04444"
+    },
+    {
+        "title": "Optimal investment for a defined-contribution pension scheme under a regime switching model",
+        "authors": "An Chen, Łukasz Delong",
+        "year": "2015/5",
+        "abstract": "We study an asset allocation problem for a defined-contribution (DC) pension scheme in its accumulation phase. We assume that the amount contributed to the pension fund by a pension plan member is coupled with the salary income which fluctuates randomly over time and contains both a hedgeable and non-hedgeable risk component. We consider an economy in which macroeconomic risks are existent. We assume that the economy can be in one of I states (regimes) and switches randomly between those states. The state of the economy affects the dynamics of the tradeable risky asset and the contribution process (the salary income of a pension plan member). To model the switching behavior of the economy we use a counting process with stochastic intensities. We find the investment strategy which maximizes the expected exponential utility of the discounted excess wealth over a target payment, e.g. a target …",
+        "keywords": null,
+        "url": "https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/optimal-investment-for-a-definedcontribution-pension-scheme-under-a-regime-switching-model/0B44359EB5C2B36620B8C819022AB00D"
+    },
+    {
+        "title": "Making Tweedie’s compound Poisson model more accessible",
+        "authors": "Łukasz Delong, Mathias Lindholm, Mario V Wüthrich",
+        "year": "2021/6",
+        "abstract": "The most commonly used regression model in general insurance pricing is the compound Poisson model with gamma claim sizes. There are two different parametrizations for this model: the Poisson-gamma parametrization and Tweedie’s compound Poisson parametrization. Insurance industry typically prefers the Poisson-gamma parametrization. We review both parametrizations, provide new results that help to lower computational costs for Tweedie’s compound Poisson parameter estimation within generalized linear models, and we provide evidence supporting the industry preference for the Poisson-gamma parametrization.",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s13385-021-00264-3"
+    },
+    {
+        "title": "Gamma mixture density networks and their application to modelling insurance claim amounts",
+        "authors": "Łukasz Delong, Mathias Lindholm, Mario V Wüthrich",
+        "year": "2021/11/1",
+        "abstract": "We discuss how mixtures of Gamma distributions with mixing probabilities, shape and rate parameters depending on features can be fitted with neural networks. We develop two versions of the EM algorithm for fitting so-called Gamma Mixture Density Networks, which we call the EM network boosting algorithm and the EM forward network algorithm, and we test their implementation together with the choices of hyperparameters. A simulation study shows that our algorithms perform very well on synthetic data sets. We further illustrate the application of the Gamma Mixture Density Network on a real data set of motor insurance claim amounts and conclude that Gamma Mixture Density Networks can improve the fit of the regression model and the predictions of the claim severities used for rate-making compared to classical actuarial techniques.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167668721001232"
+    },
+    {
+        "title": "Pricing equity-linked life insurance contracts with multiple risk factors by neural networks",
+        "authors": "Karim Barigou, Łukasz Delong",
+        "year": "2022/4/1",
+        "abstract": "This paper considers the pricing of equity-linked life insurance contracts with death and survival benefits in a general model with multiple stochastic risk factors: interest rate, equity, volatility, unsystematic and systematic mortality. We price the equity-linked contracts by assuming that the insurer hedges the risks to reduce the local variance of the net asset value process and requires a compensation for the non-hedgeable part of the liability in the form of an instantaneous standard deviation risk margin. The price can then be expressed as the solution of a system of non-linear partial differential equations. We reformulate the problem as a backward stochastic differential equation with jumps and solve it numerically by the use of efficient neural networks. Sensitivity analysis is performed with respect to initial parameters and an analysis of the accuracy of the approximation of the true price with our neural networks is …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0377042721005458"
+    },
+    {
+        "title": "BSDEs with time-delayed generators of a moving average type with applications to non-monotone preferences",
+        "authors": "Łukasz Delong",
+        "year": "2012/4/1",
+        "abstract": "In this article we consider backward stochastic differential equations with time-delayed generators of a moving average type. The classical framework with linear generators depending on (Y(t), Z(t)) is extended and we investigate linear generators depending on . We derive explicit solutions to the corresponding time-delayed BSDEs and we investigate in detail main properties of the solutions. An economic motivation for dealing with the BSDEs with the time-delayed generators of the moving average type is given. We argue that such equations may arise when we face the problem of dynamic modelling of non-monotone preferences. We model a disappointment effect under which the present pay-off is compared with the past expectations and a volatility aversion which causes the present pay-off to be penalized by the past exposures to the volatility risk.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/15326349.2012.672281"
+    },
+    {
+        "title": "No-good-deal, local mean-variance and ambiguity risk pricing and hedging for an insurance payment process",
+        "authors": "Łukasz Delong",
+        "year": "2012/5",
+        "abstract": "We study pricing and hedging for an insurance payment process. We investigate a Black-Scholes financial model with stochastic coefficients and a payment process with death, survival and annuity claims driven by a point process with a stochastic intensity. The dependence of the claims and the intensity on the financial market and on an additional background noise (correlated index, longevity risk) is allowed. We establish a general modeling framework for no-good-deal, local mean-variance and ambiguity risk pricing and hedging. We show that these three valuation approaches are equivalent under appropriate formulations. We characterize the price and the hedging strategy as a solution to a backward stochastic differential equation. The results could be applied to pricing and hedging of variable annuities, surrender options under an irrational lapse behavior and mortality derivatives.",
+        "keywords": null,
+        "url": "https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/nogooddeal-local-meanvariance-and-ambiguity-risk-pricing-and-hedging-for-an-insurance-payment-process/0187BFEE1E885C4818D6E1C34366A775"
+    },
+    {
+        "title": "The use of autoencoders for training neural networks with mixed categorical and numerical features",
+        "authors": "Łukasz Delong, Anna Kozak",
+        "year": "2023/5",
+        "abstract": "We focus on modelling categorical features and improving predictive power of neural networks with mixed categorical and numerical features in supervised learning tasks. The goal of this paper is to challenge the current dominant approach in actuarial data science with a new architecture of a neural network and a new training algorithm. The key proposal is to use a joint embedding for all categorical features, instead of separate entity embeddings, to determine the numerical representation of the categorical features which is fed, together with all other numerical features, into hidden layers of a neural network with a target response. In addition, we postulate that we should initialize the numerical representation of the categorical features and other parameters of the hidden layers of the neural network with parameters trained with (denoising) autoencoders in unsupervised learning tasks, instead of using random …",
+        "keywords": null,
+        "url": "https://www.cambridge.org/core/journals/astin-bulletin-journal-of-the-iaa/article/use-of-autoencoders-for-training-neural-networks-with-mixed-categorical-and-numerical-features/2DE674CF3D65F777FCEAD0036F5A5E9E"
+    },
+    {
+        "title": "Neural networks for the joint development of individual payments and claim incurred",
+        "authors": "Łukasz Delong, Mario V Wüthrich",
+        "year": "2020/4/7",
+        "abstract": "The goal of this paper is to develop regression models and postulate distributions which can be used in practice to describe the joint development process of individual claim payments and claim incurred. We apply neural networks to estimate our regression models. As regressors we use the whole claim history of incremental payments and claim incurred, as well as any relevant feature information which is available to describe individual claims and their development characteristics. Our models are calibrated and tested on a real data set, and the results are benchmarked with the Chain-Ladder method. Our analysis focuses on the development of the so-called Reported But Not Settled (RBNS) claims. We show benefits of using deep neural network and the whole claim history in our prediction problem.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/2227-9091/8/2/33"
+    },
+    {
+        "title": "Asset allocation, sustainable withdrawal, longevity risk and non-exponential discounting",
+        "authors": "Łukasz Delong, An Chen",
+        "year": "2016/11/1",
+        "abstract": "The present paper studies an optimal withdrawal and investment problem for a retiree who is interested in sustaining her retirement consumption above a pre-specified minimum consumption level. Apparently, the withdrawal and investment policy depends substantially on the retiree’s health condition and her time preferences (subjective discount factor). We assume that the health of the retiree can worsen or improve in an unpredictable way over her lifetime and model the retiree’s mortality intensity by a stochastic process. In order to make the decision about the consumption and investment policy more realistic, we assume that the retiree applies a non-exponential discount factor (an exponential discount factor with a small amount of hyperbolic discounting) to value her future income. In other words, we consider an optimization problem by combining four important aspects: asset allocation, sustainable withdrawal …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0167668716301822"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "title": "The Effects of Taxes and Benefits on Income Distribution in the Enlarged EU 1",
+        "authors": "Alari Paulus, Mitja Čok, Francesco Figari, Péter Hegedűs, Silja Kralik, Nataša Kump, Orsolya Lelkes, Horacio Levy, Christine Lietz, Daniela Mantovani, Leszek Morawski, Holly Sutherland, Péter Szivos, Andres Võrk",
+        "year": "2017/10/24",
+        "abstract": "This chapter aims to bring novel evidence on the social impact of fiscal policies. It examines how taxes and benefits affect income distributions in the enlarged European Union (EU). The chapter reviews the underlying model and its input datasets and explains different income concepts used in the analysis. It presents and discusses the effect of different types of tax-benefit instruments on the structure of household incomes, income inequality and poverty. Most of the tax and benefit instruments can be simulated, except those for which work histories are required but usually not available in the cross-sectional survey datasets used as European Union-wide tax-benefit model (EUROMOD) input data. Tax-benefit systems on the whole reduce income inequality substantially, although to different extents. The chapter demonstrates that the new infrastructure in the form of an extended EUROMOD can provide further useful …",
+        "keywords": null,
+        "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315241760-4/effects-taxes-benefits-income-distribution-enlarged-eu-1-alari-paulus-mitja-%C4%8Dok-francesco-figari-p%C3%A9ter-heged%C5%B1s-silja-kralik-nata%C5%A1a-kump-orsolya-lelkes-horacio-levy-christine-lietz-daniela-mantovani-leszek-morawski-holly-sutherland-p%C3%A9ter-sziv%C3%B3s-andres-v%C3%B5rk"
+    },
+    {
+        "title": "As SIMPL as that: introducing a tax-benefit microsimulation model for Poland",
+        "authors": "Olivier Bargain, Leszek Morawski, Michał Myck, Mieczysław W Socha",
+        "year": "2007",
+        "abstract": "The Polish tax and benefit system is presented in the context of a recently developed microsimulation model, SIMPL. The model allows simulating direct taxes, social contributions and public benefits in Poland for the years 2003 and 2005. It is based on the Household Budgets Survey data (Badania Budzetów Gospodarstw Domowych) from 2003 and 2005. The document describes details of the Polish tax and benefit system and the simulation assumptions which were necessary in modelling it in SIMPL. We provide information on the quality of the data used in the model and some details of the validation process through various robustness checks. Finally we provide examples of application of the model for analysis of effects of policy reforms.",
+        "keywords": null,
+        "url": "https://www.econstor.eu/handle/10419/34224"
+    },
+    {
+        "title": "Alternative Tax-benefit Strategies to Support Children in Poland 1",
+        "authors": "Horacio Levy, Leszek Morawski, Michal Myck",
+        "year": "2017/10/24",
+        "abstract": "This chapter assesses the effect of the introduction of the Polish reform and ask what the outcome would have been if instead of that child policies had been reformed in line with the systems of Austria, France and the United Kingdom. It presents a detailed description of poverty among families with children and social protection in Poland. The chapter describes the policies to support families with children in Poland, Austria, France and the United Kingdom. It discusses the methodology used for the assessment of alternative child policy reforms in Poland. The chapter demonstrates the potential effects of alternative approaches to targeting resources on families with children, by importing three different European tax and benefit systems and replacing the Polish child-related policies. It explores European Union-wide tax-benefit model version D15 and data from the Polish Household Budget Survey made available by …",
+        "keywords": null,
+        "url": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781315241760-6/alternative-tax-benefit-strategies-support-children-poland-1-horacio-levy-leszek-morawski-michal-myck"
+    },
+    {
+        "title": "‘Klin’-ing up: Effects of Polish tax reforms on those in and on those out",
+        "authors": "Leszek Morawski, Michał Myck",
+        "year": "2010/6/1",
+        "abstract": "In 2007 and 2008 Polish governments introduced a series of reforms which led to a substantial reduction in the tax “wedge” (in Polish: “klin”) on labour. These consisted of reductions in the disability rate of social security contributions (SSCs) and an introduction of an income tax credit for families with children. We show that the SSCs reforms on their own brought much greater reductions in the tax burden compared to a widely discussed 15% “flat tax”, despite a very similar simulated cost. When considered together the package of introduced reforms reduced the mean ATR on total labour cost from 41.6% to 35.7%. This compares to the mean ATR of 39.6% which would result from the introduction of the “flat tax”. In the analysis we present the effects of the reforms both for the employed and for the non-employed populations. The latter analysis is done in such a way as to account for the entire (simulated) distribution of …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0927537109000669"
+    },
+    {
+        "title": "Elderly volunteering in Europe: The relationship between volunteering and quality of life depends on volunteering rates",
+        "authors": "Leszek Morawski, Adam Okulicz-Kozaryn, Marianna Strzelecka",
+        "year": "2020/9/16",
+        "abstract": "This paper investigates the effect of volunteering on quality of life (QoL) in 50+ populations across European countries and Israel. We analyzed data from the Survey of Health, Aging and Retirement in Europe (SHARE). Using the Kendall tau-b correlation coefficients, we show that the extent of effect volunteering has on quality of life is nonlinearly related to the prevalence of volunteering in a given country. The relationship follows an inverted-U-shaped curve. In countries where volunteering is the most popular (Denmark, Switzerland, and Belgium) and in countries with the lowest rates (Poland, Greece, the Czech Republic, and Spain), the correlation between volunteering and one’s quality of life is low. The correlation is high in countries with medium levels of volunteering (Austria, Italy, and Israel). Moreover, volunteering affects more internal than external domains of QoL. These new insights extend the …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s11266-020-00267-w"
+    },
+    {
+        "title": "Taxes, benefits and financial incentives to work: The United Kingdom, Germany and Poland compared",
+        "authors": "Peter Haan, Leszek Morawski, Michal Myck",
+        "year": "2008",
+        "abstract": "We provide a detailed comparison of financial incentives to work resulting from the tax and benefit systems in three countries: the United Kingdom, Germany and Poland. Financial incentives to work are compared using a range of example family profiles under different assumptions concerning benefit eligibility, wage levels and work intensity. Consequences of the different design of taxes and benefits are discussed in detail from the perspective of attractiveness of employment.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1143922"
+    },
+    {
+        "title": "Count your hours: returns to education in Poland",
+        "authors": "Michał Myck, Anna Nicinska, Leszek Morawski",
+        "year": "2009",
+        "abstract": "We show how significant may be the difference in the estimated returns to education in Poland conditional on the measure of wages used and the estimation approach applied. Combining information from two different Polish surveys from 2005 and taking advantage of the Polish microsimulation model (SIMPL) we demonstrate how different the results can be depending on whether we use net or gross, and monthly or hourly wages, and show how important selection correction is for the conclusion. While there are several papers examining the wage equation in Poland, so far none of them has provided a comprehensive analysis of the effects of using different methods and the issue of selection-correction in the estimation of the wage equation in Poland has not been examined in detail. Annual rates of return to university education for men vary from 6.7% to 9.7% and for women from 8.0% to 13.4% when we compare results using net monthly wages without correcting for labor market selection to those from a selection corrected specification using gross hourly wages. We also demonstrate that simple linear estimation performs relatively well for men in comparison to our preferred selection corrected estimation, while using family demographics as exclusion restrictions seems to be the second best in the case of the wage equation estimation for women.",
+        "keywords": null,
+        "url": "https://www.econstor.eu/handle/10419/36359"
+    },
+    {
+        "title": "Dystrybutywny wpływ reform podatkowo--świadczeniowych z lat 2006− 2011",
+        "authors": "Adrian Domitrz, Leszek Morawski, Michał Myck, Aneta Semeniuk",
+        "year": "2013",
+        "abstract": "W latach 2006− 2011 wprowadzono wiele zmian w regulacjach podatkowych i świadczeniowych, bezpośrednio wpływających na dochody gospodarstw domowych. W tym czasie znacznie obniżono składkę rentową oraz stopy opodatkowania dochodów indywidualnych i wprowadzono hojną ulgę podatkową z tytułu wychowywania dziecka. Ponadto zwiększono wysokość świadczeń rodzinnych i pomocy społecznej przy jednoczesnym obniżeniu realnej wartości dochodów stanowiących kryterium przyznawania tych świadczeń. Wykorzystując model mikrosymulacyjny SIMPL, w artykule pokazano, że w ujęciu statycznym analizowane zmiany zwiększyły dochód gospodarstw domowych o 1, 7− 2, 2% PKB, w zależności od rozdysponowania korzyści ze zmian składek ubezpieczeniowych płaconych przez pracodawców. Przy ustawowym przypisaniu składek dochód 8, 2% gospodarstw wzrósł realnie o ponad 10%. Gdyby wszystkie korzyści podatkowe przenieść na pracownika, dochody aż 16, 7% gospodarstw domowych wzrosłyby co najmniej o 10%. Jednocześnie jednak spadły dochody około 8% gospodarstw, głównie w wyniku ustalania nominalnych wartości parametrów systemu podatkowo--świadczeniowego. W pracy pokazano, że względne przeciętne zmiany dochodu w grupach decylowych, wynikające z polityki podatkowo-świadczeniowej, w badanym okresie były rozłożone stosunkowo równomiernie, ale równocześnie występowało znaczne zróżnicowanie korzyści w poszczególnych grupach. Zmiany wprowadzone w latach 2006− 2011 podniosły wartość współczynnika Giniego o 0, 46 pkt proc.",
+        "keywords": null,
+        "url": "http://www.bankandcredit.nbp.pl/content/2013/03/bik_03_2013_02_art.pdf"
+    },
+    {
+        "title": "Distributional effects of the child tax credit in Poland and its potential reforms",
+        "authors": "Leszek Morawski, Michał Myck",
+        "year": "2011",
+        "abstract": "The Child Tax Credit (CTC) in Poland now differs substantially in its generosity and distributional implications from the original policy proposals. While initially designed as an instrument addressed to low income working families, the tax credit was implemented without any upper earnings limit, and its generosity was substantially extended in 2007 implying an annual budgetary cost of about 0.5% of the GDP. The current design of the credit grants largest income gains in absolute terms to families in the upper half of the income distribution, while proportional gains are most significant for those in the middle of the income distribution. Households with children in the bottom 10% of the income distribution gain on average about 7.60 PLN per month, and those in the top 40% gain over a 100 PLN per month on average. The paper also analyses the possible effects of potential reforms of the CTC aimed at reducing its cost. The recently proposed eligibility limitation to families with three or more children would reduce the fiscal cost of the tax credit by 80-90%, while a simulated reduction of generosity of the credit by 50% would save in the state budget about 2.2 bn PLN per year. The latter policy would leave the incomes of families with children in the lowest deciles largely unchanged, and it would reduce the benefits from the credit to households in the upper half of the income distribution by about 50% on average.(original abstract)\nUlga podatkowa z tytułu wychowywania dziecka zaproponowana w 2007 r. miała na celu pomoc rodzinom o niskich zarobkach. Zmiana wprowadzona jeszcze w tym samym roku znacząco rozszerzyła zakres dostępności tego …",
+        "keywords": null,
+        "url": "http://bazekon.icm.edu.pl/bazekon/element/bwmeta1.element.ekon-element-000171194865"
+    },
+    {
+        "title": "Effect of volunteering and pensions on subjective wellbeing of elderly–are there cross-country differences?",
+        "authors": "Adam Okulicz-Kozaryn, Leszek Morawski",
+        "year": "2021/10",
+        "abstract": "We investigate the effect of volunteering and pensions on subjective wellbeing (SWB) of elderly using wave 6 of Survey of Health, Aging and Retirement in Europe (SHARE). This is the first study to consider volunteering and pensions simultaneously as a determinant of SWB among elderly across countries. We find that the effect of volunteering on SWB varies widely across countries. In some countries both effects are comparable, in other countries pensions have a larger effect on SWB. In general, effects are larger in South and East. High European pensions may be unsustainable in the long run–we argue that promotion of volunteering is one way to increase elderly subjective wellbeing amidst tightening budgets. The study is cross-sectional and correlational–we do not claim causality.",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s11482-020-09849-8"
+    },
+    {
+        "title": "Subjective equivalence scale–cross-country and time differences",
+        "authors": "Malgorzata Kalbarczyk-Steclik, Rafal Mista, Leszek Morawski",
+        "year": "2017/8/7",
+        "abstract": "Purpose\nThe purpose of this paper is to calculate the subjective equivalence scale and poverty rates for Poland and compare them to equivalence scales in Eastern and Western Europe.\nDesign/methodology/approach\nThe analysis is based on European Union Statistics on Income and Living Conditions data for 2005-2012. In particular, the authors capture the minimum needs income question and, knowing the minimum needs income of each individual’s observation, apply OLS regression controlling for income and household structure to estimate the poverty threshold, equivalence scales and poverty.\nFindings\nThe subjective equivalence scales for the Euro Zone are constant for the period 2004-2012 and less stable for the CEE countries. The child cost in relation to the cost brought by an additional adult is higher in the CEE countries than in the Euro Zone countries. The subjective poverty rates are lower than the …",
+        "keywords": null,
+        "url": "https://www.emerald.com/insight/content/doi/10.1108/ijse-09-2015-0251/full/html"
+    },
+    {
+        "title": "Employment fluctuations and dynamics of the aggregate average wage in Poland, 1996–20031",
+        "authors": "Michał Myck, Leszek Morawski, Jerzy Mycielski",
+        "year": "2007/10",
+        "abstract": "The aggregate average wage is often used as an indicator of economic performance and welfare, and as such often serves as a benchmark for changes in the generosity of public transfers and for wage negotiations. Yet if economies experience a high degree of (non‐random) fluctuation in employment, the composition of the employed population will have a considerable effect on the computed average. In this paper we demonstrate the extent of this problem using data for Poland for the period 1996–2003. During these years the employment rate in Poland fell from 51.2 percent to 44.2 percent and most of this fall occurred between the end of 1998 and the end of 2002. We show that about a quarter of the growth in the average wage during this period could be attributed purely to changes in employment.",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1468-0351.2007.00306.x"
+    },
+    {
+        "title": "Financial incentives to work in the context of a complex reform package and growing wages: the Polish experience 2005–2011",
+        "authors": "Michal Myck, Adrian Domitrz, Leszek Morawski, Aneta Semeniuk",
+        "year": "2015/7/3",
+        "abstract": "We examine the consequences of changes in work incentives in Poland between 2005 and 2011 resulting from a complex tax and benefit reform package and substantial real wage growth. While marginal and participation tax rates (PTRs) in the majority of analysed cases fall as a result of the introduced reforms, the conclusions from looking at replacement rates (RRs) for the population eligible for means tested benefits are generally different. These suggest that despite significant tax giveaways incentives on the labour market weakened for families with children and for those eligible to safety net benefits. Yet despite these negative policy implications, we show that work incentives improved substantially over the period due to significant real wage growth. When analysing the effect of the reforms on financial incentives to work, we often find conflicting conclusions when using the PTRs and RRs to reflect financial …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/1406099X.2015.1124227"
+    },
+    {
+        "title": "Alternatywne rozwiązania podatkowo-zasiłkowe wspierające rodziny z dziećmi",
+        "authors": "Horacio Levy, Leszek Morawski, Michał Myck",
+        "year": "2009",
+        "abstract": "Według danych udostępnianych przez Eurostat ubóstwem zagrożone są szczególnie dzieci i osoby starsze. W 2005 r. średnia stopa zagrożenia ubóstwem w każdej z tych dwóch grup wynosiła w Unii Europejskiej 19%, podczas gdy w Polsce było to odpowiednio 29% i 7%. W pracy analizujemy wpływ wybranych reform podatkowo-zasiłkowych na zmianę zagrożenia ubóstwem wśród rodzin z dziećmi w Polsce.\nWyniki analiz wskazują, że zmiany wzorowane na rozwiązaniach francuskich lub brytyjskich zmniejszyłyby zagrożenie ubóstwem wśród rodzin z dziećmi w większym stopniu niż wprowadzona ulga podatkowa na dzieci. System austriacki, oparty na zasiłkach powszechnych, przyniósłby podobne zmniejszenie stopy zagrożenia ubóstwem, lecz ze znacznie większym zmniejszeniem luki ubóstwa.",
+        "keywords": null,
+        "url": "http://www.bankandcredit.nbp.pl/content/2009/04/bik_04_2009_05_art.pdf"
+    },
+    {
+        "title": "A similar effect of volunteering and pensions on subjective wellbeing of elderly",
+        "authors": "Adam Okulicz-Kozaryn, Leszek Morawski",
+        "year": "2021",
+        "abstract": "We investigate the effect of pensions and volunteering on subjective wellbeing (SWB) of elderly using the latest wave 6 of Survey of Health, Aging and Retirement in Europe (SHARE). This is the first study to consider pensions and volunteering simultaneously as a determinant of SWB among elderly. We find that the effect of volunteering on SWB is not much smaller or indeed about as large as that of pensions. The most SWB is associated with volunteering about every week, but there is already a substantial effect even if one volunteers only about every month. We also find that the higher the income or wealth, but not pension, the lower the effect of volunteering–there may be higher opportunity cost for richer people to engage in volunteering. High European pensions may be unsustainable in the long run–we argue that promotion of volunteering is one way to increase elderly’s subjective wellbeing amidst tightening budgets.",
+        "keywords": null,
+        "url": "https://scholarship.libraries.rutgers.edu/view/delivery/01RUT_INST/12660419920004646/13660419910004646"
+    },
+    {
+        "title": "Ryzyko ubóstwa osób starszych",
+        "authors": "Grażyna Bukowska, Grzegorz Kula, Leszek Morawski",
+        "year": "2011",
+        "abstract": "Ludność w Polsce starzeje się. Jednocześnie w czasie procesu transformacji za kres ochrony ekonomicznej, jaką społeczeństwo poprzez szeroko rozumiane insty tucje państwowe zapewnia swoim członkom, uległ znaczącemu zmniejszeniu. W połączeniu z trudnymi warunkami ekonomicznymi, których efektem jest zmniej szenie wpływów z podatków oraz rosnąca liczba osób potrzebujących pomocy, za grożona jest realizacja podstawowej funkcji systemu ubezpieczeń społecznych, czy li zapewnienie adekwatnych środków do życia dla osób starszych. Książka analizuje poziom zagrożenia tych osób ryzykiem ubóstwa. Badamy przy tym nie tylko bezpo średnie ryzyko ubóstwa, wywołane niskimi dochodami bądź brakiem możliwości zarobkowania, ale również ryzyka pierwotne, z których część nie jest zwykle bezpo średnio związana z sytuacją ekonomiczną, jednak również niesie ze sobą znaczące skutki ekonomiczne. Należą do nich:\n• aktywność osób starszych na rynku pracy,• zmiany stanu zdrowia, aw tym ryzyko niepełnosprawności,• zmiany sytuacji rodzinnej: wdowieństwo, relacje z dziećmi, pomoc w rodzinie,• niepewność instytucjonalna: wpływ zmian prawnych i braku zaufania do syste mu na zachowania ubezpieczonych i emerytów.\nZrozumienie wpływu polityki gospodarczej na sytuację starzejącej się ludności oraz wszechstronny wgląd w reakcję osób starszych na zmieniające się warunki, w tym rosnącą indywidualizację ryzyka, ma bardzo istotne znaczenie dla wdraża nia polityk, które mają zapewniać wzrost i dobrobyt, a jednocześnie wypełniać zadania sprawiedliwości społecznej. Celem naszego projektu jest poprawa zrozu mienia …",
+        "keywords": null,
+        "url": "https://open.icm.edu.pl/bitstreams/e5ff6100-ae90-4479-b811-2fc2346254b1/download"
+    },
+    {
+        "title": "Subjective approach to assessing poverty in Poland–implications for social policy",
+        "authors": "Leszek Morawski, Adrian Domitrz",
+        "year": "2017/9",
+        "abstract": "The poverty rates based on the OECD scales are frequently used in public debate. In this scale, large families are usually identified as those most in need of financial support. Poland is an interesting case for applying an alternative, subjective approach to calculating equivalent scales, as Poland has a large mean size for households, and is dependent on means-testing in social policymaking. The overall poverty rates for the two approaches are not distinctly different but they lead to significantly different distributions of poverty, as different types of households are considered in line with the result in Bishop et al. (2014) for the eurozone countries. The subjective approach suggests that one-person households, not large families, should be considered most at risk of material poverty. Futhermore, the relative positions of households in the income distributions also differ considerably. As a consequence, the current shape …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=587909"
+    },
+    {
+        "title": "Ulga podatkowa z tytułu wychowywania dzieci-efekty i propozycje zmian",
+        "authors": "Leszek Morawski",
+        "year": "2010/1/31",
+        "abstract": "Niski poziom aktywność zawodowej oraz rozległy zakres ubóstwa materialnego rodzin z dziećmi stanowią poważne problemy społeczne w Polsce. Wprowadzanie w 2007 r. ulgi podatkowej z tytułu wychowywania dzieci znacząco zwiększyło wartość transferów społecznych do rodzin z dziećmi co jak pokazano w pracy nie pomogło w realizacji żadnego z trzech celów polityki społecznej postulowanych przez Blundella. Główną wadą ulgi jest alokowanie korzyści do rodzin średnio i bardzo zamożnych. W pracy przedstawiono propozycję modyfikacji ulgi wzorowaną na świadczeniach dla pracujących powodującą transfer korzyści od rodzin zamożnych do rodzin zagrożonych ubóstwem. Efektem takiej zmiany byłaby poprawa sytuacji dochodowej niezamożnych pracujących rodzin oraz wzrost motywacji finansowych do pracy rodziców.",
+        "keywords": null,
+        "url": "https://polityka-spoleczna.ipiss.com.pl/seo/article/01.3001.0013.9600/pl?language=en"
+    },
+    {
+        "title": "Efekty wprowadzenia dwóch stóp w podatku dochodowym od osób fizycznych w 2009 roku",
+        "authors": "Leszek Morawski",
+        "year": "2009/8/31",
+        "abstract": "W latach 2007-2008 wprowadzono w Polsce dwie znaczące reformy dochodowe. Pierwszą z nich było obniżenie stopy procentowej składki rentowej ubezpieczenia społecznego (w części pracownika z 6, 5% do 1, 5%, aw części pracodawcy z 6, 5% do 4, 5%), a drugą wprowadzenie ulgi podatkowej z tytułu wychowywania dziecka, o wartości dwukrotności kwoty obniżającej opodatkowanie w pierwszym przedziale podatkowym. Efektem reform był spadek przeciętnej stopy opodatkowania pracy z 41, 6% do 34% oraz wzrost dochodów gospodarstw domowych o ponad 20 mld zł [Morawski, Myck, 2008],[Morawski, 2008],[Myck, 2008]. Kontynuacją zmian było zastąpienie w 2009 r. trzech stóp podatkowych–19%, 30%, 40%–dwiema wynoszącymi 18% lub 32%, co zmniejszyło progresję podatkową upodobniając system podatku dochodowego od osób fizycznych do systemu liniowego z 18% nominalną stopą podatkową1. Według szacunków PKPP Lewiatan koszt zmiany podatkowej wprowadzonej w 2009 r. dla budżetu państwa wyniesie około 8 mld zł, a łączny koszt trzech reform z lat 2007-2009 to około 30 mld zł, co odpowiada 4% dochodu do dyspozycji brutto sektora gospodarstw domowych. Efekty dystrybucyjne reform z lata 2007-2008 zostały omówione m. in. w Myck [2008] oraz Morawski [2008]. Levy, Morawski i Myck [2008] wykazali natomiast, że przy obciążeniu budżetu państwa kosztem równym wydatkom poniesionym na wprowadzenie ulgi podatkowej na dzieci, znacznie większa część korzyści z reformy trafiłaby do rodzin mniej zamożnych, gdyby zamiast tej ulgi zastosowano rozwiązania funkcjonujące w systemach austriackim …",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/575747.pdf"
+    },
+    {
+        "title": "As SIMPL as that: introducing a tax-benefit microsimulation model for Poland, IZA Discussion Papers 2988",
+        "authors": "O Bargain, L Morawski, M Myck, M Socha",
+        "year": "2007",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=12954676303888658432&hl=en&oi=scholarr"
+    }
+]

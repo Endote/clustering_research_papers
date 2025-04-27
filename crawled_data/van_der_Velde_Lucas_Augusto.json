@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Which gender wage gap estimates to trust? A comparative analysis",
+        "authors": "Karolina Goraus, Joanna Tyrowicz, Lucas Van der Velde",
+        "year": "2017/3",
+        "abstract": "The aim of this paper is to compare estimates of the adjusted wage gap from different methods and sets of conditioning variables. We apply available parametric and non‐parametric methods to LFS data from Poland for 2012. While the raw gap amounts to nearly 10 percent of the female wage; the adjusted wage gap estimates range between 15 percent and as much as 23 percent depending on the method and the choice of conditional variables. The differences across conditioning variables within the same method do not exceed 3pp, but including more variables almost universally results in larger estimates of the adjusted wage gaps. Methods that account for common support and selection into employment yielded higher estimates of the adjusted wage gap. While the actual point estimates of adjusted wage gap are slightly different, all of them are roughly twice as high as the raw gap, which corroborates the …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/roiw.12209"
+    },
+    {
+        "title": "Language and (the estimates of) the gender wage gap",
+        "authors": "Lucas Van der Velde, Joanna Tyrowicz, Joanna Siwinska",
+        "year": "2015/11/1",
+        "abstract": "In this paper we link the estimates of the gender wage gap with the gender sensitivity of the language spoken in a given country. We find that nations with more gender neutral languages tend to be characterized by lower estimates of GWG. The results are robust to a number of sensitivity checks.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0165176515003298"
+    },
+    {
+        "title": "Within occupation wage dispersion and the task content of jobs",
+        "authors": "Lucas Van der Velde",
+        "year": "2020/10",
+        "abstract": "Most analyses linking task content of jobs to income inequality focus on the effects between occupations, e.g. the growing dispersion between lousy and lovely jobs. The theory, meanwhile, provides insights on links between task content of jobs and inequality also within occupations: models predict compression of wages in more routine jobs, that is those where capital is a direct substitute for labour, and an increase in dispersion in jobs where capital and labour are complements. I document that within occupations dispersion of wages is empirically relevant, as it represents around half of total wage inequality across Europe. I then link wage inequality to the task content of jobs. Using matched employee–employer data from Europe for the period 2002–14, I show that occupations where tasks complement newer technologies exhibit higher wage dispersion. This relationship is robust to adjusting for a variety of …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/obes.12368"
+    },
+    {
+        "title": "A cautionary note on the reliability of the online survey data: The case of wage indicator",
+        "authors": "Magdalena Smyk, Joanna Tyrowicz, Lucas Van der Velde",
+        "year": "2021/2",
+        "abstract": "We investigate the reliability of data from the Wage Indicator (WI), the largest online survey on earnings and working conditions. Comparing WI to nationally representative data sources for 17 countries reveals that participants of WI are not likely to have been representatively drawn from the respective populations. Previous literature has proposed to utilize weights based on inverse propensity scores, but this procedure was shown to leave reweighted WI samples different from the benchmark nationally representative data. We propose a novel procedure, building on covariate balancing propensity score, which achieves complete reweighting of the WI data, making it able to replicate the structure of nationally representative samples on observable characteristics. While rebalancing assures the match between WI and representative benchmark data sources, we show that the wage schedules remain different for a large …",
+        "keywords": null,
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0049124118782538"
+    },
+    {
+        "title": "Labor reallocation and demographics",
+        "authors": "Joanna Tyrowicz, Lucas Van der Velde",
+        "year": "2018/3/1",
+        "abstract": "We explore data from all transition economies over nearly two decades, providing insights on the mechanisms behind labor force reallocation. We show that worker flows between jobs in different industries are rare relative to the demographic flows of youth entry and elderly exit. The same applies to the flows between state-owned enterprises and private firms. In fact, evidence suggest that changes in the demand for labor were accommodated mostly through demographic flows, with a smaller role left for job transitions. We also show that the speed of changing the ownership structure in the economy has driven exits to retirement, in particular the early exits.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0147596717300963"
+    },
+    {
+        "title": "Does age exacerbate the gender-wage gap? New method and evidence from Germany, 1984–2014",
+        "authors": "Joanna Tyrowicz, Lucas van der Velde, Irene van Staveren",
+        "year": "2018/10/2",
+        "abstract": "Given theoretical premises, the gender-wage gap adjusted for individual characteristics is likely to vary according to age. This study adapts John DiNardo, Nicole M. Fortin, and Thomas Lemieux's (1996) semi-parametric technique to disentangle year, cohort, and age effects in adjusted gender-wage gaps. The study relies on a long panel of data from the German Socio-Economic Panel (SOEP) covering 1984–2015. The results indicate that, in Germany, the gender-wage gap increases over a birth cohort's lifetime, including in the post-reproductive age for some birth cohorts. The results suggest that age and gender are overlapping handicaps in the labor market and call for a policy intervention.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/13545701.2018.1503418"
+    },
+    {
+        "title": "Effects of labor reallocation on productivity and inequality—insights from studies on transition",
+        "authors": "Joanna Tyrowicz, Lucas Van der Velde, Jan Svejnar",
+        "year": "2017/7",
+        "abstract": "From a theoretical perspective, the link between the speed and scope of rapid labor reallocation and productivity growth or income inequality is ambiguous. Do reallocations with more flows tend to produce higher productivity growth? Does such a link appear at the expense of higher income inequality? We explore the rich evidence from earlier studies on worker flows in the period of massive and rapid labor reallocation, that is, the economic transition from a centrally planned to a market‐oriented economy in CEE. We have collected over 450 estimates of job flows from the literature and used these inputs to estimate the short‐run and long‐run relationship between labor market flows, labor productivity, and income inequality. We apply the tools typical for a meta‐analysis to verify the empirical regularities between labor flows and productivity growth as well as income inequality. Our findings suggest only weak and …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/joes.12167"
+    },
+    {
+        "title": "Nierówności płacowe kobiet i mężczyzn",
+        "authors": "Iga Magda, Joanna Tyrowicz, Lucas Van der Velde",
+        "year": "2015",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=14460144084482656802&hl=en&oi=scholarr"
+    },
+    {
+        "title": "How (not) to make women work?",
+        "authors": "Joanna Tyrowicz, Lucas Van der Velde, Karolina Goraus",
+        "year": "2018/9/1",
+        "abstract": "Women in developed economies have experienced an unparalleled increase in employment rates, to the point that the gap with respect to men was cut in half. This positive trend has often been attributed to changes in the opportunity costs of working (e.g. access to caring facilities) and the opportunity costs of not-working (notably, relative growth in wages in positions more frequently occupied by women, improved educational attainment). Meanwhile, the gender employment gaps were stagnant in transition economies. Admittedly, employment equality among genders was initially much higher in transition countries.\nWe exploit this unique evidence from transition and advanced countries, to analyze the relationship between the institutional environment and the (adjusted) gender employment gaps. We estimate comparable gender employment gaps on nearly 1500 micro databases from over 40 countries. Changes in …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0049089X17308487"
+    },
+    {
+        "title": "Cyclical trend of labor reallocation in Poland: transition and structural change",
+        "authors": "Stanislaw Cichocki, Joanna Tyrowicz, Lucas van der Velde",
+        "year": "2017/11/2",
+        "abstract": "Two main features of the reallocation process that took place in Eastern European and Former Soviet Union countries should be distinguished. The first feature was the decline in public sector employment as a result of the collapse of state-owned enterprises, linked with an increase in private sector employment as new private firms emerged and old public companies were privatized. The second feature was, and still is, the reallocation of labor from manufacturing to the service sector. Data from the Polish Labor Force Survey for the period 1995–2015 were used to construct measures of worker flows, gross and net, and their cyclical properties were used as a way to test the predictions of structural change and transition theories. It was found that labor market adjustments tend to amplify in upturns of the business cycle, while worker flows contribute only a fraction to the changing structure of employment. The policy …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/00128775.2017.1381027"
+    },
+    {
+        "title": "Can we really explain worker flows in transition economies",
+        "authors": "Joanna Tyrowicz, Lucas van der Velde",
+        "year": "2014",
+        "abstract": "Can we really explain worker flows in transition economies? Page 1 Can we really explain worker flows in transition economies? Can we really explain worker flows in transition economies? Evidence from the Life in Transition Survey Joanna Tyrowicz Lucas van der Velde GRAPE Group for Research in APplied Economics November 2015, Instytut Badan Strukturalnych Page 2 Can we really explain worker flows in transition economies? Table of contents 1 Introduction 2 Hypotheses 3 Data and methods 4 Results 5 Conclusions Page 3 Can we really explain worker flows in transition economies? Introduction Introduction Motivation Page 4 Can we really explain worker flows in transition economies? Introduction Introduction Motivation Transition theories better than universal labor market theories? When is transition over? Page 5 Can we really explain worker flows in transition economies? Introduction Introduction …",
+        "keywords": null,
+        "url": "https://ibs.org.pl/app/uploads/2015/11/J.Tyrowicz_Can_we_really_explain_worker_ows_in_transition_economies.pdf"
+    },
+    {
+        "title": "What is the true gender wage gap? A comparative analysis using data from Poland",
+        "authors": "LUCAS Van der Velde, Joanna Tyrowicz, KAROLINA Goraus",
+        "year": "2013",
+        "abstract": "Given the proliferation of methods to estimate gender wage gap, practical issues arise. The aim of this paper is to compare estimates of the adjusted wage gap from different methods and sets of conditioning variables. We apply available parametric and non-parametric methods to LFS data from Poland for 2012. While the raw gap amounts to nearly 10% of the female wage, after the correction for the endowments, the adjusted wage gap estimates range between 15% and as much as 25% depending on the method and the choice of conditional variables. The differences across methods and conditioning variables do not exceed 3pp. The largest differences emerged between methods estimating gap at the mean and those operating at quantiles. Within the same moment, methods which account for selection into employment yielded higher estimates of the adjusted wage gap. When expanding the conditioning set, to account for possible sorting of women into lower paid jobs, estimates of gap increase. While the actual point estimators of adjusted wage gap are slightly different, all of them are roughly twice as high as the raw gap, which corroborates the policy relevance of this methodological study.",
+        "keywords": null,
+        "url": "http://www.wne.uw.edu.pl/inf/wyd/WP/WNE_WP113.pdf"
+    },
+    {
+        "title": "Structural labour market change and gender inequality in earnings",
+        "authors": "Anna Matysiak, Wojciech Hardy, Lucas Van der Velde",
+        "year": "2023",
+        "abstract": "Research from the US argues that women will benefit from a structural labour market change as the importance of social tasks increases and that of manual tasks declines. This article contributes to this discussion in three ways: (a) by extending the standard framework of task content of occupations in order to account for the gender perspective; (b) by developing measures of occupational task content tailored to the European context; and (c) by testing this argument in 13 European countries. Data are analysed from the European Skills, Competences, Qualifications and Occupations database and the European Structure of Earnings Survey. The analysis demonstrates that relative to men the structural labour market change improves the earnings potential of women working in low- and middle-skilled occupations but not those in high-skilled occupations. Women are overrepresented in low-paid social tasks (e.g. care …",
+        "keywords": null,
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/09500170241258953"
+    },
+    {
+        "title": "When opportunity knocks: Confronting theory and empirics about dynamics of gender wage inequality",
+        "authors": "Joanna Tyrowicz, Lucas Augusto van der Velde",
+        "year": "2021/6",
+        "abstract": "We present empirical evidence that large structural shocks are followed by changes in labor market inequality. Specifically, we study short-run fluctuations in adjusted gender wage gaps (unequal pay for equal work) following episodes of structural shocks in the labor markets, using several decades of individual data for a wide selection of transition countries. We find that for cohorts who entered the labor market after the onset of transition. Labor market shocks lead to significant declines in the gender wage gap. This decrease is driven mostly by episodes experienced among cohorts who enter the labor market during the transition. By contrast, we fail to find any significant relation for cohorts already active in the labor market at the time of transition. We provide plausible explanations based on sociological and economic theories of inequality.",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s11205-021-02620-y"
+    },
+    {
+        "title": "How rankings disguise gender inequality: A comparative analysis of cross-country gender equality rankings based on adjusted wage gaps",
+        "authors": "Karolina Goraus Tanska, Joanna Tyrowicz, Lucas Augusto van der Velde",
+        "year": "2020/11/4",
+        "abstract": "Methods for estimating the scope of unjustified inequality differ in their sensitivity to address institutional and structural deficiencies. In the case of gender wage gaps, adjusting adequately for individual characteristics requires prior assessment of several important deficiencies, primarily whether a given labor market is characterized by gendered selection into employment, gendered segmentation and whether these mechanisms differ along the distribution of wages. Given that countries are characterized by differentiated prevalence of these deficiencies, ranking countries on gender wage gaps is a challenging task. Whether a country is perceived as more equal than others depends on the interaction between the method of adjusting gender wage gap for individual characteristics and the prevalence of these deficiencies. We make the case that this interaction is empirically relevant by comparing the country rankings for the adjusted gender wage gap among 23 EU countries. In this relatively homogeneous group of countries, the interaction between method and underlying deficiencies leads to substantial variation in the extent of unjustified inequality. A country may change its place in the ranking by as much as ten positions–both towards greater equality and towards greater inequality. We also show that, if explored properly, this variability can yield valuable policy insights: changes in the ranking positions across methods inform on the policy priority of the labor market deficiencies across countries in relative terms.",
+        "keywords": null,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241107"
+    },
+    {
+        "title": "Phasing out: routine tasks and retirement",
+        "authors": "Lucas van der Velde",
+        "year": "2022/9/1",
+        "abstract": "This paper studies the link between task content of jobs and exits to retirement by older workers. This research provides a comparative analysis of retirement timing in Germany and Great Britain. In Germany, workers in more routine jobs had between one and two percentage points higher probability leaving the labor market faster when compared to workers in less routine occupations. The relationship is robust and relatively constant over time. In Great Britain, by contrast, workers from routine and non-routine jobs appear to leave the labor market with a similar timing. I contend that institutional characteristics can explain the differences across countries.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S014759672200004X"
+    },
+    {
+        "title": "Identifying age penalty in women's wages: New method and evidence from Germany 1984-2014",
+        "authors": "Joanna Tyrowicz, Lucas Van der Velde, Irene van Staveren",
+        "year": "2018",
+        "abstract": "Given theoretical premises, gender wage gap adjusted for individual characteristics is likely to vary over age. We extend DiNardo, Fortin and Lemieux (1996) semi-parametric technique to disentangle year, cohort and age effects in adjusted gender wage gaps. We rely on a long panel of data from the German Socio-Economic Panel covering the 1984-2015 period. Our results indicate that the gender wage gap increases over the lifetime, for some birth cohorts also in the post-reproductive age.",
+        "keywords": null,
+        "url": "https://www.econstor.eu/handle/10419/174894"
+    },
+    {
+        "title": "Differences in the estimates of gender wage gap over the life cycle",
+        "authors": "Joanna Tyrowicz, Lucas van der Velde, Irene van Staveren",
+        "year": "2015",
+        "abstract": "Given theoretical premises, there is some ground to expect the gender wage gap adjusted for individual characteristics to be age specific. We rely on a long panel of data from the German Socio-Economic Panel covering the 1984-2008 period. We employ the DiNardo et al. (1996) technique to disentangle cohort and age effects. Our results indicate that the gender wage gap increases over the lifetime, but decreases with time. This finding runs contrary to the hypothesis that it is during the reproductive age that women's wages relative to men's wages suffer most. We suggest explanations for this pattern.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/p/war/wpaper/2015-29.html"
+    },
+    {
+        "title": "Does Age Exacerbate the Gender-Wage Gap?",
+        "authors": "Irene van Staveren, Joanna Tyrowicz, Lucas van der Velde",
+        "year": "2018/8/22",
+        "abstract": "Given theoretical premises, the gender-wage gap adjusted for individual characteristics is likely to vary according to age. This study adapts John DiNardo, Nicole M. Fortin, and Thomas Lemieux's (1996) semi-parametric technique to disentangle year, cohort, and age effects in adjusted gender-wage gaps. The study relies on a long panel of data from the German Socio-Economic Panel (SOEP) covering 1984–2015. The results indicate that, in Germany, the gender-wage gap increases over a birth cohort's lifetime, including in the post-reproductive age for some birth cohorts. The results suggest that age and gender are overlapping handicaps in the labor market and call for a policy intervention.",
+        "keywords": null,
+        "url": "https://repub.eur.nl/pub/114120/"
+    },
+    {
+        "title": "When the opportunity knocks: large structural shocks and gender wage gaps",
+        "authors": "Joanna Tyrowicz, Lucas Van der Velde",
+        "year": "2018",
+        "abstract": "Undergoing a large structural shock, labor markets may become less inclusive. We test for this thesis analyzing the behavior of adjusted gender wage gaps in a wide selection of transition countries. We estimate comparable measures of adjusted gender wage gaps for a comprehensive selection of transition countries over a period spanning nearly three decades. We combine these estimates with measures of labor market reallocation in transition economies. We identify the episodes of particularly large labor market reallocations and observe the behavior of the gender wage gaps subsequent these episodes, and exploit the discontinuity between the cohorts participating in the labor market prior to the onset of transition and cohorts of subsequent entrants. Our analysis reveals a distinctive role played by separations from the state-owned manufacturing firms, leading to greater adjusted gender wage gaps. In the medium run the adverse effects of separation hikes from this sector are even more pronounced.",
+        "keywords": null,
+        "url": "https://www.econstor.eu/handle/10419/193162"
+    }
+]

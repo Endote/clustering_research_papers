@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Challenges in QCD matter physics -The scientific programme of the Compressed Baryonic Matter experiment at FAIR",
+        "authors": "T i inni Ablyazimov",
+        "year": "2017/3/23",
+        "abstract": "Substantial experimental and theoretical efforts worldwide are devoted to explore the phase diagram of strongly interacting matter. At LHC and top RHIC energies, QCD matter is studied at very high temperatures and nearly vanishing net-baryon densities. There is evidence that a Quark-Gluon-Plasma (QGP) was created at experiments at RHIC and LHC. The transition from the QGP back to the hadron gas is found to be a smooth cross over. For larger net-baryon densities and lower temperatures, it is expected that the QCD phase diagram exhibits a rich structure, such as a first-order phase transition between hadronic and partonic matter which terminates in a critical point, or exotic phases like quarkyonic matter. The discovery of these landmarks would be a breakthrough in our understanding of the strong interaction and is therefore in the focus of various high-energy heavy-ion research programs. The Compressed …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1140/epja/i2017-12248-y"
+    },
+    {
+        "title": "A vehicle classification based on inductive loop detectors",
+        "authors": "Janusz Gajda, Ryszard Sroka, Marek Stencel, Andrzej Wajda, Tadeusz Zeglen",
+        "year": "2001/5/21",
+        "abstract": "The class of vehicle is one of more important parameters in the process of road traffic measurement. Up to now, strip piezoelectric sensors and video systems have been used. The use of very cheap inductive loop detectors for vehicle classification is also possible. Such vehicle classification systems are based on magnetic profiles recorded from inductive loops. The magnetic profile is sensitive to the loop dimensions. This paper presents a discussion concerning the influence of loop length (in direction of vehicle movement) on differences between characteristics describing the magnetic profiles of the vehicles belonging to the different classes. As characteristics describing the magnetic profile of the vehicle have been used: magnetic profiles in time domain (normalized in amplitude), probability density function and magnetic profiles in vehicle length domain. For real time applications, the conversion of the measured …",
+        "keywords": null,
+        "url": "https://ieeexplore.ieee.org/abstract/document/928860/"
+    },
+    {
+        "title": "Thermal Property Analysis of Axle Load Sensors for Weighing Vehicles in Weigh-in-Motion System",
+        "authors": "Piotr Burnos, Janusz Gajda",
+        "year": "2016/12/15",
+        "abstract": "Systems which permit the weighing of vehicles in motion are called dynamic Weigh-in-Motion scales. In such systems, axle load sensors are embedded in the pavement. Among the influencing factors that negatively affect weighing accuracy is the pavement temperature. This paper presents a detailed analysis of this phenomenon and describes the properties of polymer, quartz and bending plate load sensors. The studies were conducted in two ways: at roadside Weigh-in-Motion sites and at a laboratory using a climate chamber. For accuracy assessment of roadside systems, the reference vehicle method was used. The pavement temperature influence on the weighing error was experimentally investigated as well as a non-uniform temperature distribution along and across the Weigh-in-Motion site. Tests carried out in the climatic chamber allowed the influence of temperature on the sensor intrinsic error to be determined. The results presented clearly show that all kinds of sensors are temperature sensitive. This is a new finding, as up to now the quartz and bending plate sensors were considered insensitive to this factor.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/16/12/2143"
+    },
+    {
+        "title": "Acoustic analysis assessment in speech pathology detection",
+        "authors": "Daria Panek, Andrzej Skalski, Janusz Gajda, Ryszard Tadeusiewicz",
+        "year": "2015/1",
+        "abstract": "Automatic detection of voice pathologies enables non-invasive, low cost and objective assessments of the presence of disorders, as well as accelerating and improving the process of diagnosis and clinical treatment given to patients. In this work, a vector made up of 28 acoustic parameters is evaluated using principal component analysis (PCA), kernel principal component analysis (kPCA) and an auto-associative neural network (NLPCA) in four kinds of pathology detection (hyperfunctional dysphonia, functional dysphonia, laryngitis, vocal cord paralysis) using the a, i and u vowels, spoken at a high, low and normal pitch. The results indicate that the kPCA and NLPCA methods can be considered a step towards pathology detection of the vocal folds. The results show that such an approach provides acceptable results for this purpose, with the best efficiency levels of around 100%. The study brings the most commonly used approaches to speech signal processing together and leads to a comparison of the machine learning methods determining the health status of the patient.",
+        "keywords": null,
+        "url": "https://sciendo.com/pdf/10.1515/amcs-2015-0046"
+    },
+    {
+        "title": "Accurate weighing of moving vehicles",
+        "authors": "Piotr Burnos, Janusz Gajda, Piotr Piwowar, Ryszard Sroka, Marek Stencel, Tadeusz Zeglen",
+        "year": "2007/1/1",
+        "abstract": "The paper deals with real-time Multi-Sensor Weigh–In-Motion System (MS-WIM). This system was designed in Poland in a period of 3 years from 2003 to 2006. The embodied system is equipped with 16 piezoelectric load sensors, in the form of narrow 4m long strips, provided by Measurement Specialties. The paper outlines the system structure and its elements ie the weighing site, the data acquisition system and data processing software. Experimental tests indicate that the designed MS-WIM system falls in accuracy class B+(7) in the speed range from 30km/h to 80 km/h.",
+        "keywords": null,
+        "url": "https://www.academia.edu/download/65836830/Accurate_weighing_of_moving_vehicles20210301-25907-1vkwu4f.pdf"
+    },
+    {
+        "title": "Voice data mining for laryngeal pathology assessment",
+        "authors": "Daria Hemmerling, Andrzej Skalski, Janusz Gajda",
+        "year": "2016/2/1",
+        "abstract": "The aim of this study was to evaluate the usefulness of different methods of speech signal analysis in the detection of voice pathologies. Firstly, an initial vector was created consisting of 28 parameters extracted from time, frequency and cepstral domain describing the human voice signal based on the analysis of sustained vowels /a/, /i/ and /u/ all at high, low and normal pitch. Afterwards we used a linear feature extraction technique (principal component analysis), which enabled a reduction in the number of parameters and choose the most effective acoustic features describing the speech signal. We have also performed non-linear data transformation which was calculated using kernel principal components. The results of the presented methods for normal and pathological cases will be revealed and discussed in this paper. The initial and extracted feature vectors were classified using the k-means clustering and the …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0010482515002681"
+    },
+    {
+        "title": "Modelowanie i badania symulacyjne systemów pomiarowych",
+        "authors": "Janusz Gajda, Michał Szyper",
+        "year": "1998",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=5908643670146192455&hl=en&oi=scholarr"
+    },
+    {
+        "title": "The influence of temperature on errors of WIM systems employing piezoelectric sensor",
+        "authors": "Janusz Gajda, Ryszard Sroka, Tadeusz Zeglen, Piotr Burnos",
+        "year": "2013",
+        "abstract": "The paper provides analysis of the influence of temperature on the error of weigh-in-motion (WIM) systems utilizing piezoelectric polymer load sensors. Results of tests of these sensors in a climatic chamber, as well as results of long-term tests at the WIM site, are presented. Different methods for correction of the influence of changes in temperature were assessed for their effectiveness and compared.",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/221307.pdf"
+    },
+    {
+        "title": "Accuracy Assessment of Weigh-in-Motion Systems for Vehicle's Direct Enforcement",
+        "authors": "Janusz Gajda, Piotr Burnos, Ryszard Sroka",
+        "year": "2018",
+        "abstract": "The use of Weigh-in-Motion (WIM) systems for vehicle's direct enforcement depends, first of all, on their high and constant accuracy under variable measurement conditions. This work concerns improving accuracy of weighing results obtained in WIM systems. The method commonly employed for achieving this goal is to increase the number of axle load sensors at the weighing site. The objective of this study is to compare the accuracy of Weigh-in-Motion systems equipped with different numbers of axle load sensors. The paper presents the results of in situ tests and simulations. Experiments were carried out on 16-sensors system and were supplemented by results obtained by simulations using multibody dynamic software. For accuracy assessment of weighing systems, two criteria were used: the 95%-percent relative error and the reliability characteristic. Quantitative relationship between the number of axle load …",
+        "keywords": null,
+        "url": "https://ieeexplore.ieee.org/abstract/document/8263437/"
+    },
+    {
+        "title": "Automatic Detection of Parkinson's Disease Based on Modulated Vowels.",
+        "authors": "Daria Hemmerling, Juan Rafael Orozco-Arroyave, Andrzej Skalski, Janusz Gajda, Elmar Nöth",
+        "year": "2016",
+        "abstract": "In this paper we present a novel approach of automatic detection of phonatory and articulatory impairments caused by Parkinson’s disease (PD). Modulated (varying between low and high pitch) and sustained vowels are considered and analysed. The fundamental frequency of the phonations and its range are computed using the Hilbert-Huang transformation. Additionally, a set with “standard” measures are calculated to model phonatory and articulatory deficits exhibited by Parkinson’s patients. Kernel Principal Component Analysis was also applied in order to reduce the dimensionality of the representation space. The automatic discrimination between speakers with PD and healthy controls (HC) is performed using decision trees. According to the results, modulated vowels are suitable to evaluate phonatory and articulatory deficits observed in PD speech.",
+        "keywords": null,
+        "url": "https://www.isca-archive.org/interspeech_2016/hemmerling16_interspeech.pdf"
+    },
+    {
+        "title": "Application of inductive loops as wheel detectors",
+        "authors": "Janusz Gajda, Piotr Piwowar, Ryszard Sroka, Marek Stencel, Tadeusz Zeglen",
+        "year": "2012/4/30",
+        "abstract": "This article presents the findings of model and field research into narrow inductive loop used as vehicle wheels detector in normal traffic conditions. The efficiency of the solution was compared with that of strip, polymeric piezoelectric detectors. The findings confirmed that narrow inductive loops can be successfully applied as wheel detectors.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0968090X11001203"
+    },
+    {
+        "title": "The Compressed Baryonic Matter Experiment at FAIR",
+        "authors": "JM Heuser",
+        "year": "2013",
+        "abstract": "The Compressed Baryonic Matter (CBM) experiment is being planned at the international research centre FAIR, under realization next to the GSI laboratory in Darmstadt, Germany. Its physics programme addresses the QCD phase diagram in the region of highest net baryon densities. Of particular interest are the expected first order phase transition from partonic to hadronic matter, ending in a critical point, and modifications of hadron properties in the dense medium as a signal of chiral symmetry restoration. Laid out as a fixed-target experiment at the synchrotrons SIS-100/SIS-300, providing magnetic bending power of 100 and 300 T/m, the CBM detector will record both proton-nucleus and nucleus-nucleus collisions at beam energies up to 45A GeV. Hadronic, leptonic and photonic observables have to be measured with large acceptance. The nuclear interaction rates will reach up to 10 MHz to measure extremely …",
+        "keywords": null,
+        "url": "https://www.epj-conferences.org/articles/epjconf/abs/2011/03/epjconf_hcbm2011_03001/epjconf_hcbm2011_03001.html"
+    },
+    {
+        "title": "Measurements of road traffic parameters using inductive loops and piezoelectric sensors",
+        "authors": "Piotr Burnos, Janusz Gajda, Piotr Piwowar, Ryszard Sroka, Marek Stencel, Tadeusz Zeglen",
+        "year": "2007",
+        "abstract": "The basic problems corresponding to the traffic measurements have been presented in the paper. Authors gave the general overview of the parameters and characteristics describing the vehicles and traffic flow. The current sensors’ technologies used in measuring systems has been presented. Moreover the measuring systems used in traffic measurements have been described. Special attention has been paid to the more sophisticated problems like the vehicle’s classification based on the analysis of its magnetic signature and to vehicles’ weigh-in-motion technique. The presented results base on the Authors’ experience in designing and exploitation of the measuring systems equipped with inductive loops and piezoelectric sensors.",
+        "keywords": null,
+        "url": "https://open.icm.edu.pl/handle/123456789/6514"
+    },
+    {
+        "title": "Accuracy analysis of WIM systems calibrated using pre-weighed vehicles method",
+        "authors": "Janusz Gajda, Ryszard Sroka, Tadeusz Żegleń",
+        "year": "2007",
+        "abstract": "Accuracy of WIM (Weigh-In-Motion) systems depends on several factors, of particular importance is the calibration procedure. Parameters of the calibration process have essential influence on accuracy of weighing results. There are many calibration methods to be used for weighing systems. The pre-weighed calibration vehicles method is the most commonly applied, because it is simple and applicable to various classes of WIM systems. There are a few estimators of calibration coefficients possible to determine, according to the assumed criterion. This paper summarizes the results of estimator quality assessment, for a number of trucks and their passing cycles. Besides, the paper is intended to explore how parameters of the calibration process, the quality of the road surface, class and speed of calibration vehicles could influence the final accuracy of WIM systems. Such analysis requires a number of different tests in different conditions and is rather time consuming, that is why modelling and simulation methods were adopted instead.",
+        "keywords": null,
+        "url": "https://www.academia.edu/download/51333652/ACCURACY_ANALYSIS_OF_WIM_SYSTEMS_CALIBRA20170113-30283-1ouf2o1.pdf"
+    },
+    {
+        "title": "Design and accuracy assessment of the multi-sensor weigh-in-motion system",
+        "authors": "Janusz Gajda, Ryszard Sroka, Marek Stencel, Tadeusz Zeglen, Piotr Piwowar, Piotr Burnos, Zbigniew Marszalek",
+        "year": "2015/5/11",
+        "abstract": "In every country, road networks are one of the largest and highly expensive investment. Equally expensive are the consequences of not ensuring adequate road safety. This creates the need for an efficient and automatic system for the detection of overloaded vehicles [17]. One of the tools designed to measure the weight and individual axle loads of vehicles are the systems weighing vehicles in motion (WIM). Due to their measurement imprecision, WIM systems composed of two lines of sensors are only used as pre-selection systems. At present, the only viable option for reducing measurement uncertainty in dynamic weighing is to increase number of load sensors (Multi-Sensor systems; MS-WIM). The paper presents the results of research on a MS-WIM system equipped with 16 lines of load sensors. The conceptual objectives, system design, results of experimental evaluation of the system's accuracy, and the final …",
+        "keywords": null,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7151413/"
+    },
+    {
+        "title": "Pomiary kąta fazowego: metody, układy, algorytmy",
+        "authors": "Janusz Gajda, Ryszard Sroka",
+        "year": "2000",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=9462068460173394485&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Accuracy criteria for evaluation of Weigh-in-Motion Systems",
+        "authors": "Piotr Burnos, Janusz Gajda, Ryszard Sroka",
+        "year": "2018",
+        "abstract": "Measurement data obtained from Weigh-in-Motion systems support protection of road pavements from the adverse phenomenon of vehicle overloading. For this protection to be effective, WIM systems must be accurate and obtain a certificate of metrological legalization. Unfortunately there is no legal standard for accuracy assessment of Weigh-in-Motion (WIM) systems. Due to the international range of road transport, it is necessary to standardize methods and criteria applied for assessing such systems’ accuracy. In our paper we present two methods of determining accuracy of WIM systems. Both are based on the population of weighing errors determined experimentally during system testing. The first method is called a reliability characteristic and was developed by the authors. The second method is based on determining boundaries of the tolerance interval for weighing errors. Properties of both methods were assessed on the basis of simulation studies as well as experimental results obtained from a 16-sensor WIM system.",
+        "keywords": null,
+        "url": "https://journals.pan.pl/Content/108931/PDF/art_08.pdf"
+    },
+    {
+        "title": "High Accuracy Weigh-in-Motion Systems for Direct Enforcement.",
+        "authors": "Piotr Burnos, Janusz Gajda, Ryszard Sroka, Monika Wasilewska, Cezary Dolega",
+        "year": "2021/12/1",
+        "abstract": "In many countries, work is being conducted to introduce Weigh-In-Motion (WIM) systems intended for continuous and automatic control of gross vehicle weight. Such systems are also called WIM systems for direct enforcement (e-WIM). The achievement of introducing e-WIM systems is conditional on ensuring constant, known, and high-accuracy dynamic weighing of vehicles. WIM systems weigh moving vehicles, and on this basis, they estimate static parameters, i.e., static axle load and gross vehicle weight. The design and principle of operation of WIM systems result in their high sensitivity to many disturbing factors, including climatic factors. As a result, weighing accuracy fluctuates during system operation, even in the short term. The article presents practical aspects related to the identification of factors disturbing measurement in WIM systems as well as methods of controlling, improving and stabilizing the accuracy of weighing results. Achieving constant high accuracy in weighing vehicles in WIM systems is a prerequisite for their use in the direct enforcement mode. The research results presented in this paper are a step towards this goal.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/21/23/8046"
+    },
+    {
+        "title": "Optimised Autocalibration Algorithm of Weigh-In-Motion Systems for Direct Mass Enforcement",
+        "authors": "Piotr Burnos, Janusz Gajda",
+        "year": "2020/1",
+        "abstract": "Dynamic vehicle weighing systems, also known as Weigh-In-Motion (WIM), are sensitive to factors which interfere with the measurement, including weather and climate conditions. This is a result of the sensitivity of the axle load sensors used in the systems. As a result, a significant change in the precision of weighing can be observed over short periods of time (even less than 1 h). This fact is a deterrent to the use of such systems for direct mass enforcement. In this article, we present a solution for this problem using an optimised autocalibration algorithm. We show the results of simulation studies which we conducted on the proposed algorithm. These were then verified experimentally at an in-road site. We demonstrated that autocalibration of the WIM system allows for effective limitation of the sensitivity of weighing results to interfering factors. This is, however, conditioned on a sufficiently high frequency of reference vehicles crossing the WIM site. The required frequency depends on the speed of change in the concentration of influencing factors.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/20/11/3049"
+    },
+    {
+        "title": "Measurement of road traffic parameters using an inductive single-loop detector",
+        "authors": "Janusz Gajda, Ryszard Sroka, Marek Stencel, Tadeusz Żegleń",
+        "year": "1997/9",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=15909663255751481507&hl=en&oi=scholarr"
+    }
+]

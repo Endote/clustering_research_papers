@@ -10,7 +10,22 @@ import os
 import json
 import random
 import pandas as pd
+import csv
 
+
+def read_authors_csv(file_path):
+    """Read author names from a structured CSV file.
+    
+    Expects a header row with a column labeled 'Name'.
+    """
+    authors = []
+    with open(file_path, 'r', encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            # Extract the author name if the key "Name" exists.
+            if "Name" in row and row["Name"].strip():
+                authors.append(row["Name"].strip())
+    return authors
 
 def hopkins_statistic(X, sample_size=0.1):
     """Calculates the Hopkins statistic for a dataset."""
@@ -85,14 +100,11 @@ def cluster_with_hdbscan(papers, n_neighbors=15, min_dist=0.1, n_components=200,
         for paper in author_papers if paper.get('abstract')
     ]
 
-    # texts = [p for p in texts if len(p.split(" ")) > 15]
-
     # TF-IDF vectorization
     vectorizer = TfidfVectorizer(ngram_range=(1, 2), min_df=0.02, max_df=0.8, max_features=10000, stop_words="english")
     tfidf_matrix = vectorizer.fit_transform(texts)
 
     # UMAP dimensionality reduction
-
     umap = UMAP(n_neighbors=n_neighbors, min_dist=min_dist, n_components=n_components, random_state=42)
     reduced_data = umap.fit_transform(tfidf_matrix.toarray())
 
@@ -136,8 +148,8 @@ def get_clusters_per_author(data, labels, valid_authors):
     for i, (abstract, authors) in enumerate(abstracts_authors):
         cluster_id = labels[i]
         for author in authors.split(", "):  # Split multiple authors by comma
-            if author not in valid_authors:
-                continue
+            # if author not in valid_authors:
+            #     continue
             if author not in clusters_per_author:
                 clusters_per_author[author] = {}
             if cluster_id not in clusters_per_author[author]:
@@ -146,6 +158,64 @@ def get_clusters_per_author(data, labels, valid_authors):
 
     return clusters_per_author
 
+import unicodedata
+from collections import Counter
+import pandas as pd
+
+# Updated version of the export function with all normalization features and detailed prints
+
+def normalize_author_name_verbose(name: str) -> str:
+    print(f"Original name: {name}")
+    name = name.strip()
+    parts = name.split()
+    if len(parts) < 2:
+        print(f"⚠️ Skipping malformed name: {name}")
+        return name
+
+    # Check if reversed name is likely (surname first)
+    is_reversed = parts[0].isupper() or parts[1][0].islower()
+    if is_reversed:
+        parts = parts[::-1]
+        print(f"🔄 Detected reversed format, reordering: {' '.join(parts)}")
+
+    first = parts[0].capitalize()
+    last = " ".join(parts[1:]).capitalize()
+
+    # Remove accents
+    first_no_accents = unicodedata.normalize('NFKD', first).encode('ASCII', 'ignore').decode()
+    last_no_accents = unicodedata.normalize('NFKD', last).encode('ASCII', 'ignore').decode()
+    normalized_name = f"{first_no_accents} {last_no_accents}"
+    print(f"✅ Normalized to: {normalized_name}")
+    return normalized_name
+
+def export_semantic_nodes_verbose(clusters_per_author, sorted_top_terms, output_path="semantic_nodes.csv"):
+    """
+    Exports a semantic node table with dominant clusters and top terms per author.
+    Normalizes author names to canonical form with verbose output.
+    """
+    records = []
+    for author, cluster_counts in clusters_per_author.items():
+        norm_author = normalize_author_name_verbose(author)
+        total = sum(cluster_counts.values())
+        most_common_cluster = max(cluster_counts.items(), key=lambda x: x[1])[0]
+        top_terms = sorted_top_terms.get(most_common_cluster, []) if most_common_cluster != -1 else []
+        records.append({
+            "Id": norm_author,
+            "Label": author,
+            "SemanticCluster": f"Cluster {most_common_cluster}" if most_common_cluster != -1 else "Noise",
+            "ClusterTerms": ", ".join(top_terms),
+            "TotalPapers": total,
+            "TopClusterCount": cluster_counts[most_common_cluster]
+        })
+
+    semantic_df = pd.DataFrame(records)
+    pre_dedup = len(semantic_df)
+    semantic_df.drop_duplicates(subset=["Id"], keep="first", inplace=True)
+    post_dedup = len(semantic_df)
+
+    semantic_df.to_csv(output_path, index=False, encoding="utf-8-sig")
+    print(f"\n✅ Exported semantic node info to: {output_path}")
+    print(f"🧹 Deduplicated {pre_dedup - post_dedup} records (from {pre_dedup} to {post_dedup})")
 
 
 if __name__ == '__main__':
@@ -159,16 +229,17 @@ if __name__ == '__main__':
     labels, tfidf_matrix, vectorizer, reduced_data = cluster_with_hdbscan(data, n_neighbors=12, min_dist=0.05, n_components=400, min_cluster_size=12, min_samples=5)
 
     # Load valid authors from the list
-    valid_authors = load_author_list("list.txt")
+    # valid_authors = load_author_list("list.txt")
+    valid_authors = read_authors_csv('data/faculty_profiles.csv')
 
     if labels is not None:
-        # tsne = TSNE(n_components=2, random_state=42)
-        # tsne_data = tsne.fit_transform(reduced_data)
-        # plt.figure(figsize=(10, 7))
-        # plt.scatter(tsne_data[:, 0], tsne_data[:, 1], c=labels, cmap='viridis', s=5)
-        # plt.colorbar()
-        # plt.title(f"Cluster Visualization (UMAP + HDBSCAN)")
-        # plt.show()
+        tsne = TSNE(n_components=2, random_state=42)
+        tsne_data = tsne.fit_transform(reduced_data)
+        plt.figure(figsize=(10, 7))
+        plt.scatter(tsne_data[:, 0], tsne_data[:, 1], c=labels, cmap='viridis', s=5)
+        plt.colorbar()
+        plt.title(f"Cluster Visualization (UMAP + HDBSCAN)")
+        plt.show()
 
         # Rank clusters by coherence
         sorted_clusters, sorted_top_terms, sorted_scores = rank_clusters_by_coherence(tfidf_matrix, labels, vectorizer)
@@ -187,12 +258,18 @@ if __name__ == '__main__':
         hopkins = hopkins_statistic(reduced_data)
         print(f"\nHopkins Statistic: {hopkins:.4f}")
 
-        # # Get clusters per author (filtered by valid authors)
-        # clusters_per_author = get_clusters_per_author(data, labels, valid_authors)
+        # Get clusters per author (filtered by valid authors)
+        clusters_per_author = get_clusters_per_author(data, labels, valid_authors)
 
-        # print("\nClusters and Paper Counts for the Authors:")
-        # for author, clusters in clusters_per_author.items():
-        #     print(f"{author}:")
-        #     for cluster_id, count in sorted(clusters.items()):
-        #         cluster_name = "Noise" if cluster_id == -1 else f"Cluster {cluster_id}"
-        #         print(f"  {cluster_name}: {count} papers")
+        print("\nClusters and Paper Counts for the Authors:")
+        for author, clusters in clusters_per_author.items():
+            print(f"{author}:")
+            for cluster_id, count in sorted(clusters.items()):
+                cluster_name = "Noise" if cluster_id == -1 else f"Cluster {cluster_id}"
+                print(f"  {cluster_name}: {count} papers")
+
+
+        export_semantic_nodes_verbose(clusters_per_author, sorted_top_terms)
+
+        print("\n✅ Exported 'semantic_nodes.csv' with enriched author info for Gephi.")
+

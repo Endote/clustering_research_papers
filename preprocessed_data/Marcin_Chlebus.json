@@ -1,0 +1,162 @@
+[
+    {
+        "title": "factor affecting course severity adult acne observational cohort study",
+        "authors": "Ewa Chlebus, Marcin Chlebus",
+        "year": "2017/11/17",
+        "abstract": "objective identify factor improving symptom shortening duration aa material method observational cohort study performed 111 patient aa 25 clinical manifestation previous treatment environmental risk factor feature juvenile acne affecting aa assessed result maximum severity persistent acne significantly lower 25 year age compared adolescence p number acne therapy used aa twice high juvenile acne 22 11 severity aa sufficient leave scar significantly lower juvenile acne p 22 patient developing scar adult life patient linked exacerbation stress exposure p reporting least one stressor patient respectively finding lifestyle change stressful",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/09546634.2017.1329500"
+    },
+    {
+        "title": "prevalence diabetes poland year",
+        "authors": "Magdalena Walicka, Marcin Chlebus, Melania Brzozowska, Andrzej Śliwczyński, Tadeusz Jędrzejczyk, Lidia Kania, Monika Puzianowska-Kuźnicka, Edward Franek",
+        "year": "2015",
+        "abstract": "introduction year diabetes affect larger larger number people despite fact number people suffering diabetes poland known precisely order assess prevalence thesis aim assessing prevalence diabetes year total polish population using database national health fund material method period 1st january 2010 31st december 2014 patient distinguished according pesel personal identification number health care provider indicated code main cause medical intervention billing report got prescription filled hypoglycemic agent glucose meter test strip number patient recorded diabetes patient according code number patient prescription filled hypoglycemic agent test strip assessed basis data prevalence diabetes percentage people diabetes given year percentage people got prescription filled hypoglycemic agent test strip relation general population respective year average prevalence rate respective voivodeships assessed result average percentage people diabetes year found percentage gradually increased consecutive year 2010 average percentage people got prescription filled diabetes related medicine glucose meter",
+        "keywords": null,
+        "url": "https://journals.viamedica.pl/clinical_diabetology/article/view/44106"
+    },
+    {
+        "title": "enabling machine learning algorithm credit scoring explainable artificial intelligence xai method clear understanding complex predictive model",
+        "authors": "Przemysław Biecek, Marcin Chlebus, Janusz Gajda, Alicja Gosiewska, Anna Kozak, Dominik Ogonowski, Jakub Sztachelski, Piotr Wojewnik",
+        "year": "2021/4/14",
+        "abstract": "rapid development advanced modelling technique give opportunity develop tool accurate however usually everything come price case price pay loose interpretability model gaining accuracy precision manager control effectively manage credit risk regulator convinced model quality price pay high paper show take credit scoring analytics next level namely present comparison various predictive model logistic regression logistic regression weight evidence transformation modern artificial intelligence algorithm show advanced tree based model give best result prediction client default even important valuable also show boost advanced model using technique allow interpret made accessible credit risk practitioner resolving crucial obstacle widespread deployment complex box model like random forest gradient boosted extreme gradient boosted tree shown large dataset obtained polish credit bureau bank lending company country report credit file paper data lending company used paper compare state art best practice credit risk modelling new advanced modern statistical tool boosted latest development field interpretability explainability artificial intelligence algorithm believe valuable",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2104.06735"
+    },
+    {
+        "title": "parametric model still best comparison approach several volatility state",
+        "authors": "M Chlebus M Buczyński",
+        "year": "2020",
+        "abstract": "numerous advance modeling technique var provided financial institution wide range market risk approach however model use depends state volatility present backtesting result 1 var six index emerging developed country using several var model including generalized autoregressive conditional heteroscedasticity garch extreme value theory evt conditional autoregressive var caviar filtered historical simulation fhs multiple set parameter backtesting procedure based excess ratio kupiec christoffersen test multiple threshold cost function main contribution paper compared model four different scenario different state volatility training testing sample result indicate best model ie least affected change volatility garch 1 1 standardized student 𝑡 distribution nonparametric technique eg caviar garch setup fhs skewed normal distribution prominent result testing period low volatility worse turbulent period also discus automatic method set extreme distribution threshold evt model well several ensembling method var minimum var estimate best particular minimum garch 1 1 standardized student 𝑡 distribution either evt caviar proven give good result",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786776"
+    },
+    {
+        "title": "comparison block maximum peak threshold model market risk various economic condition",
+        "authors": "Filip Szubzda, Marcin Chlebus",
+        "year": "2020/3/13",
+        "abstract": "aim presented study assess quality var forecast various state economic situation two approach based extreme value theory compared block maximum peak threshold forecast made daily closing price 10 major index european country divided two group emerging country bulgaria czech republic lithuania latvia poland slovakia hungary developed country england france germany three state economic situation analysed 2007 crisis 2008 2009 period main conclusion obtained slow process adapting static forecast market movement period result satisfactory period crisis var forecast often exceeded",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/ceej-2019-0005"
+    },
+    {
+        "title": "towards better understanding complex machine learning model using explainable artificial intelligence xai case credit scoring modelling",
+        "authors": "Marta Kłosok, Marcin Chlebus",
+        "year": "2020",
+        "abstract": "recent year many scientific journal widely explored topic machine learning interpretability important application artificial intelligence growing rapidly excellent performance huge potential many also need overcoming barrier faced analyst implementing intelligent system biggest one relates problem explaining model made certain prediction work brings topic method understanding global local perspective numerous agnostic method aimed interpreting model behavior prediction generated complex structure analyzed among permutation feature importance partial dependence plot individual conditional expectation curve accumulated local effect technique approximating prediction single observation surrogate model interpretable shapley value framework prospect lead toward question extent presented tool enhance model transparency framework examined practice credit default data use case overview presented prove method limitation overall almost summarized technique produce reliable explanation contribute higher transparency accountability decision system",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/files/9815/9355/2268/WNE_WP324.pdf"
+    },
+    {
+        "title": "mesenchymal stem cell human amniotic membrane umbilical cord diminish immunological response vitro allograft model",
+        "authors": "Filip A Dabrowski, Anna Burdzinska, Agnieszka Kulesza, Marcin Chlebus, Beata Kaleta, Jan Borysowski, Aleksandra Zolocinska, Leszek Paczek, Miroslaw Wielgos",
+        "year": "2017/5/4",
+        "abstract": "mesenchymal stem cell msc gaining rising interest gynecology obstetrics msc immunomodulatory property suitable enough reduce perinatal morbidity caused inflammation premature neonate aim study evaluate compare ability inhibit lymphocyte proliferation msc derived different source amniotic membrane umbilical cord uc adipose tissue method msc isolated 7 uc 6 6 healthy woman cell characterized flow cytometry differentiation assay evaluate potential fetal adult msc diminish immunological response mixed lymphocyte reaction mlr performed result amnion cell displayed typical msc characteristic addition msc mlr significantly inhibited proliferation stimulated",
+        "keywords": null,
+        "url": "https://karger.com/goi/article/82/3/267/153817"
+    },
+    {
+        "title": "predictor mortality surgical ward multivariable retrospective cohort analysis hospitalization",
+        "authors": "Magdalena Walicka, Agnieszka Tuszyńska, Marcin Chlebus, Yaroslav Sanchak, Andrzej Śliwczyński, Melania Brzozowska, Daniel Rutkowski, Monika Puzianowska-Kuźnicka, Edward Franek",
+        "year": "2021/2",
+        "abstract": "background identifying prognostic factor predictive mortality patient surgical unit may help identifying patient developing approach reduce mortality study analyzed mortality predictor based outcome obtained national database adult patient material method retrospective study design collected data obtained national health fund poland comprised hospitalization adult patient surgical ward one calendar year predictor mortality analyzed included patient gender age group category assigned hospitalization length hospitalization hospital type admission type day admission result overall mortality rate highest",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00268-020-05841-3"
+    },
+    {
+        "title": "machine learning prediction flat horse racing result poland",
+        "authors": "Piotr Borowski, Marcin Chlebus",
+        "year": "2021",
+        "abstract": "horse racing source many researcher consideration studied market efficiency applied complex mathematic formula predict result first compared selected machine learning method create profitable betting strategy two common bet win quinella six classification algorithm different betting scenario used namely classification regression tree cart generalized linear model glmnet extreme gradient boosting xgboost random forest rf neural network nn linear discriminant analysis lda additionally variable importance applied determine leading horse racing factor data collected flat racetrack poland described arabian thoroughbred race total managed profit specific circumstance get correct bet ratio 41 win bet 36 quinella bet using lda neural network result demonstrated possible bet effectively using chosen method indicated possible market inefficiency",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/files/2616/2436/3658/WNE_WP361.pdf"
+    },
+    {
+        "title": "relationship age mortality hospitalization",
+        "authors": "Magdalena Walicka, Monika Puzianowska-Kuznicka, Marcin Chlebus, Andrzej Śliwczyński, Melania Brzozowska, Daniel Rutkowski, Lidia Kania, Marcin Czech, Andrzej Jacyna, Edward Franek",
+        "year": "2021",
+        "abstract": "result hospitalization assessed mean mortality rate increased 2009 mean odds ratio death increased age patient reaching higher rate 95 year age group compared age group highest mean mortality associated respiratory disease followed heart vascular disease nervous system disease well combined gastrointestinal tract liver biliary tract pancreas spleen disease respectively conclusion mortality rate approximately 4 significantly increased age regardless age highest patient suffering respiratory disease",
+        "keywords": null,
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7811322/"
+    },
+    {
+        "title": "new regime switching approach forecast",
+        "authors": "Marcin Chlebus",
+        "year": "2017",
+        "abstract": "study model forecast presented allows different distribution return forecasting model used forecasting depending forecasted state financial time series study garch garch amendment empirical distribution random error model state tranquillity empirical tail exponential pareto distribution used forecast state turbulence considered evaluation forecast based forecast analysis loss function obtained result indicate model may improve quality forecast generated using benchmark model however choice best assumption model",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=890908"
+    },
+    {
+        "title": "maintenance treatment adult acne important benefit maintenance therapy adapalene low dos alpha beta hydroxy acid",
+        "authors": "Ewa Chlebus, Monika Serafin, Marcin Chlebus",
+        "year": "2019/4/11",
+        "abstract": "background adult acne chronic disease uncontrolled exacerbation associated psychological burden patient medical expense aim aim study check efficacy maintenance therapy adult acne essential part treatment adult acne usually recurring course method study efficacy maintenance therapy patient adult acne evaluated study 100 patient aged year age mild moderate adult acne enrolled result maintenance therapy adapalene three time week low dos alpha beta hydroxy acid led significant decrease number acne lesion p 001 severity seborrhea p 001 conclusion maintenance therapy brings significant improvement reduction inflammatory lesion",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/shareview/10.1080/09546634.2018.1484874"
+    },
+    {
+        "title": "expression matrix metalloproteinase enzyme endometrium woman abnormal uterine bleeding",
+        "authors": "Barbara Grzechocinska, Filip A Dabrowski, Marcin Chlebus, Agata Gondek, Katarzyna Czarzasta, Lukasz Michalowski, Agnieszka Cudnoch-Jedrzejewska, Miroslaw Wielgos",
+        "year": "2017/1/1",
+        "abstract": "objective abnormal uterine bleeding aub caused derangement physiological process tissue growth shedding regeneration known interplay metalloproteinases mmp tissue inhibitor metalloproteinases timp may play crucial role occurrence aim define expression endometrium woman aub dependent steroid sex hormone concentration histopathological picture material method endometrial scrap taken 21 woman aub 19 control sample evaluated light microscopy certified pathologist activity protein level evaluated gelatin zymography reversed zymography result correlated serum estradiol progesterone concentration linear regression model result expression endometrium woman aub correlated estradiol concentration inversely correlated progesterone level significantly higher woman dysfunctional endometrium p expression highest woman endometrial polyp longer bleeding p expression independent hormone concentration conclusion lack correlation level suggest different pathway activation aub regulated estradiol regulated progesterone level increase length bleeding",
+        "keywords": null,
+        "url": "https://www.nel.edu/userfiles/articlesnew/38_8_Grzechocinska_537-543.pdf"
+    },
+    {
+        "title": "nvidia stock return prediction using machine learning technique time series forecasting problem",
+        "authors": "Marcin Chlebus, Michał Dyczko, Michał Woźniak",
+        "year": "2021/1/29",
+        "abstract": "statistical learning model profoundly changed rule trading stock exchange quantitative analyst try utilise predict potential profit risk better manner however available study mostly focused testing increasingly complex machine learning model selected sample stock index etc without thorough understanding consideration economic environment therefore goal article create effective forecasting machine learning model daily stock return preselected company characterised wide portfolio strategic branch influencing valuation use nvidia corporation stock covering period apply various econometric machine learning model considering diverse group exogenous feature analyse research problem result suggest possible develop predictive machine learning model nvidia stock return based many independent environmental variable outperform simple naïve econometric model contribution literature twofold first provide added value strand literature choice model class stock return prediction problem second study contributes thread selecting exogenous variable need stationarity case time series model",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/ceej-2021-0004"
+    },
+    {
+        "title": "multiclass image classification using gans cnn based hole drilled laminated chipboard",
+        "authors": "Grzegorz Wieczorek, Marcin Chlebus, Janusz Gajda, Katarzyna Chyrowicz, Kamila Kontna, Michał Korycki, Albina Jegorowa, Michał Kruk",
+        "year": "2021/12/2",
+        "abstract": "multiclass prediction approach problem recognizing state drill classifying image drilled hole three class presented expert judgement made basis quality hole dividing collected photograph class fine acceptable aim research create model capable identifying different level quality hole reduced quality would serve warning drill wear could reduce damage caused blunt tool perform task data gathered normalized scaled additional instance created use technique transformation general adversarial network approach also allowed u achieve slight rebalance dataset creating higher number image belonging class datasets generated fed series convolutional neural network different number convolution layer used modelled carry multiclass prediction performance model compared prediction generated microsoft custom vision service trained data treated benchmark several trained model obtained adjusting structure hyperparameters model able provide better recognition class benchmark",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/21/23/8077"
+    },
+    {
+        "title": "hrp performance comparison portfolio optimization various codependence distance metric",
+        "authors": "Illya Barziy, Marcin Chlebus",
+        "year": "2020",
+        "abstract": "problem portfolio optimization formulated almost 70 year ago work harry markowitz however study possible optimization method still provided order obtain better result asset allocation using empirical approximation codependences asset work various codependences metric tested hierarchical risk parity algorithm determine whether result obtained superior standard pearson correlation measure codependence order compare hrp us information alternative codependence metric mv ivp cla optimization algorithm used data dataset used comparison consisted 32 etf representing equity different region sector well bond commodity time period tested result show alternative codependence metric show worse result term sharpe ratio maximum drawdowns comparison standard pearson correlation optimization method used added value work using alternative codependence distance metric real data including transaction cost determine impact result algorithm",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/files/5915/9416/1613/WNE_WP327.pdf"
+    },
+    {
+        "title": "predictor mortality nonsurgical department multivariable regression analysis 2 855 029 hospitalization",
+        "authors": "Magdalena Walicka, Marcin Chlebus, Andrzej Śliwczyński, Melania Brzozowska, Daniel Rutkowski, Marcin Czech, Agnieszka Tuszyńska, Andrzej Jacyna, Monika Puzianowska-Kuźnicka, Edward Franek",
+        "year": "2020/2/11",
+        "abstract": "objective study aimed identify predictor independently associated mortality nonsurgical department",
+        "keywords": null,
+        "url": "https://europepmc.org/article/med/32041926"
+    },
+    {
+        "title": "matrix tissue metalloproteinase expression human endometrium",
+        "authors": "Barbara Grzechocinska, Filip A Dabrowski, Anna Cyganek, Marcin Chlebus, Christopher Kobierzycki, Lukasz Michalowski, Barbara Gornicka, Miroslaw Wielgos",
+        "year": "2018",
+        "abstract": "introduction endometrium undergoes regular cyclic tissue remodeling mostly associated endocrine system status fact steroid hormone strongly responsible change endometrium precise mechanism action still investigation aim study evaluate expression metalloproteinases 2 7 tissue inhibitor metalloproteinase 1 human endometrium relation serum concentration estradiol progesterone different phase menstrual cycle material method study material consisted 52 biopsy sample 12 obtained proliferative phase 11 secretory phase 29 menstruation expression assessed immunohistochemistry serum concentration estradiol progesterone time biopsy evaluated immunochemistry assay result study statistically assessed linear regression model result increased serum concentration estradiol associated increased expression proliferative phase decreased secretory phase menstruation significant relationship found progesterone concentration expression moreover difference expression endometrium relation hormone level menstrual cycle phase observed conclusion result study indicate estradiol influence expression endometrium depends phase menstrual cycle relationship found",
+        "keywords": null,
+        "url": "https://journals.viamedica.pl/folia_histochemica_cytobiologica/article/view/55771"
+    },
+    {
+        "title": "ridesharing polish experience study using unified theory acceptance use technology",
+        "authors": "Stefan Cylwik, Renata Gabryelczyk, Marcin Chlebus",
+        "year": "2020/12/18",
+        "abstract": "main aim article examine factor influence acceptance ridesharing technology polish society including dynamic vanpooling demand study conducted using utaut 2 model theory acceptance use technology employed statistical econometric data analysis factor analysis linear regression using partial least square pls method based review publication ridesharing context sharing economy modified utaut 2 model supplementing trust factor significant contribution development theory applied acceptance ridesharing technology outcome allowed u identify factor influence people attitude using technology performance expectancy hedonistic motivation habit intention use technology effort expectancy performance expectancy price value habit trust study practical implication helped identify factor affect acceptance ridesharing technology poland factor significant supplier technology finding certainly become starting point research community application model technology",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/ceej-2020-0017"
+    },
+    {
+        "title": "comparison benchmark model several time period different volatility level",
+        "authors": "Mateusz Buczyński, Marcin Chlebus",
+        "year": "2018/4/1",
+        "abstract": "literature consensus forecasting model best measuring market risk bank study analysis forecasting model quality varying economic stability period main index stock exchange conducted var forecast garch 1 1 1 1 1 1 1 1 caviar historical simulation model period contrasting volatility trend increasing constantly high decreasing country economically developed p 500 225 economically developing comp compared data sample used analysis selected period assess var forecast quality excess ratio basel traffic light test coverage test kupiec test christoffersen test dynamic quantile test cost function test used obtained result show quality forecast model varies depending volatility trend however 1 1 1 1 found robust model different volatility period result show well caviar model forecast less appropriate increasing volatility period moreover significant difference var forecast quality found developed developing country",
+        "keywords": null,
+        "url": "https://sciendo.com/pdf/10.2478/fiqf-2018-0013"
+    }
+]

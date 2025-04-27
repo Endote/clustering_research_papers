@@ -1,3 +1,4 @@
+import csv
 import os
 import time
 import random
@@ -8,10 +9,8 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import NoSuchElementException, InvalidSessionIdException
 
-import bertopic_cluster
 
-
-def setup_driver(headless: bool = True):
+def setup_driver(headless: bool = False):
     """Set up Chrome WebDriver with undetected-chromedriver."""
     options = uc.ChromeOptions()
     if headless:
@@ -26,6 +25,20 @@ def read_authors(file_path):
     """Read author names from a file."""
     with open(file_path, 'r', encoding="utf-8") as file:
         return [line.strip() for line in file.readlines()]
+    
+def read_authors_csv(file_path):
+    """Read author names from a structured CSV file.
+    
+    Expects a header row with a column labeled 'Name'.
+    """
+    authors = []
+    with open(file_path, 'r', encoding="utf-8") as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            # Extract the author name if the key "Name" exists.
+            if "Name" in row and row["Name"].strip():
+                authors.append(row["Name"].strip())
+    return authors
 
 
 def save_paper(author, paper, save_dir="crawled_data"):
@@ -126,8 +139,21 @@ def crawl_author_papers(driver, profile_url, author_name):
 
 
 def main():
-    authors = read_authors("list.txt")
+    # authors = read_authors("list.txt")
+    authors = read_authors_csv('data/faculty_profiles.csv')
+    print(authors)
+    print(len(authors))
     save_dir = "crawled_data"
+
+    resume_author = "Wrotek Małgorzata Katarzyna"  # Change as needed
+
+    if resume_author in authors:
+        start_index = authors.index(resume_author)
+        authors = authors[start_index:]
+        print(f"Resuming scraping from author '{resume_author}' (index {start_index}).")
+    else:
+        print(f"Resume author '{resume_author}' not found. Processing all authors.")
+
 
     for author in authors:
         print(f"Processing author: {author}")

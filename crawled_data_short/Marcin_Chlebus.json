@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Factors affecting the course and severity of adult acne. Observational cohort study",
+        "authors": "Ewa Chlebus, Marcin Chlebus",
+        "year": "2017/11/17",
+        "abstract": "Objective: To identify factors improving symptoms and shortening duration of AA.\nMaterial and methods: The observational cohort study was performed in 111 patients with AA (>25 y.o.) in 2015–2016. Clinical manifestation, previous treatments, environmental risk factors and features of juvenile acne affecting AA were assessed.\nResults: The maximum severity of persistent acne was significantly lower after 25 years of age, as compared to adolescence (7.2 vs. 6.4; p = .0027). The number of acne therapies used in AA was twice as high as in juvenile acne (22 vs. 11). The severity of AA sufficient to leave scars was significantly lower than of juvenile acne (6.0 vs. 7.3; p = .0001) with 22% of patients developing scars only in adult life. Patients linked exacerbations to stress exposure (p = .09 and <.0001 for those reporting at least one stressor and all patients, respectively), finding lifestyle changes the most stressful …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/09546634.2017.1329500"
+    },
+    {
+        "title": "Prevalence of diabetes in Poland in the years 2010–2014",
+        "authors": "Magdalena Walicka, Marcin Chlebus, Melania Brzozowska, Andrzej Śliwczyński, Tadeusz Jędrzejczyk, Lidia Kania, Monika Puzianowska-Kuźnicka, Edward Franek",
+        "year": "2015",
+        "abstract": "Introduction. Each year diabetes affects larger and larger number of people. Despite this fact, the number of people suffering from diabetes in Poland is not known precisely. In order to assess this prevalence, the thesis aims at assessing the prevalence of diabetes in the years 2010–2014 in the total Polish population by using the databases of the National Health Fund.\nMaterial and methods. In the period from 1st January 2010 until 31st December 2014 patients were distinguished according to PESEL (Personal Identification) numbers: 1. for whom health care providers have indicated diabetes-related ICD-10 codes as the main cause of the medical intervention in billing reports; 2. who had got their prescriptions filled for any hypoglycemic agents or for glucose meter test strips. The number of patients recorded as diabetes patients according to the ICD-10 code and the number of patients who had their prescriptions filled for hypoglycemic agents or test strips were assessed. On the basis of these data the prevalence of diabetes (percentage of people with diabetes in a given year or a percentage of people who had got their prescriptions filled for hypoglycemic agents or test strips in relation to the general population) in respective years and an average prevalence rate for respective voivodeships were assessed.\nResults. The average percentage of people with diabetes in the years 2010–2014 were found to be 4.47%(±0.09%). This percentage has gradually increased in the consecutive years from 4.39% in 2010 to 4.61% in 2014. The average percentage of people who had got their prescriptions filled for diabetes related medicines or glucose meter …",
+        "keywords": null,
+        "url": "https://journals.viamedica.pl/clinical_diabetology/article/view/44106"
+    },
+    {
+        "title": "Enabling machine learning algorithms for credit scoring--explainable artificial intelligence (XAI) methods for clear understanding complex predictive models",
+        "authors": "Przemysław Biecek, Marcin Chlebus, Janusz Gajda, Alicja Gosiewska, Anna Kozak, Dominik Ogonowski, Jakub Sztachelski, Piotr Wojewnik",
+        "year": "2021/4/14",
+        "abstract": "Rapid development of advanced modelling techniques gives an opportunity to develop tools that are more and more accurate. However as usually, everything comes with a price and in this case, the price to pay is to loose interpretability of a model while gaining on its accuracy and precision. For managers to control and effectively manage credit risk and for regulators to be convinced with model quality the price to pay is too high. In this paper, we show how to take credit scoring analytics in to the next level, namely we present comparison of various predictive models (logistic regression, logistic regression with weight of evidence transformations and modern artificial intelligence algorithms) and show that advanced tree based models give best results in prediction of client default. What is even more important and valuable we also show how to boost advanced models using techniques which allow to interpret them and made them more accessible for credit risk practitioners, resolving the crucial obstacle in widespread deployment of more complex, 'black box' models like random forests, gradient boosted or extreme gradient boosted trees. All this will be shown on the large dataset obtained from the Polish Credit Bureau to which all the banks and most of the lending companies in the country do report the credit files. In this paper the data from lending companies were used. The paper then compares state of the art best practices in credit risk modelling with new advanced modern statistical tools boosted by the latest developments in the field of interpretability and explainability of artificial intelligence algorithms. We believe that this is a valuable …",
+        "keywords": null,
+        "url": "https://arxiv.org/abs/2104.06735"
+    },
+    {
+        "title": "Old-fashioned parametric models are still the best: a comparison of value-at-risk approaches in several volatility states",
+        "authors": "M Chlebus M Buczyński",
+        "year": "2020",
+        "abstract": "Numerous advances in the modeling techniques of value-at-risk (VaR) have provided financial institutions with a wide range of market risk approaches. However, which model to use depends on the state of volatility. We present backtesting results for 1% and 2.5% VaR of six indexes from emerging and developed countries using several of the best-known VaR models, including generalized autoregressive conditional heteroscedasticity (GARCH), extreme value theory (EVT), conditional autoregressive VaR (CAViaR) and filtered historical simulation (FHS) with multiple sets of parameters. The backtesting procedure is based on the excess ratio, Kupiec and Christoffersen tests for multiple thresholds and cost functions. The main contribution of this paper is that we compared the models in four different scenarios, with different states of volatility in the training and testing samples. The results indicate that the best of the models, ie, the least affected by changes in the volatility, is GARCH (1, 1) with a standardized Student 𝑡 distribution. Nonparametric techniques (eg, CAViaR with GARCH setup or FHS with a skewed normal distribution) have very prominent results in testing periods with low volatility, but they are worse in turbulent periods. We also discuss an automatic method to set an extreme distribution threshold for EVT models as well as several ensembling methods for VaR, of which the minimum VaR estimate from the best models–in particular, a minimum of GARCH (1, 1) with a standardized Student 𝑡 distribution and either the EVT or the CAViaR model–has been proven to give very good results.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786776"
+    },
+    {
+        "title": "Comparison of Block Maxima and Peaks Over Threshold Value-at-Risk models for market risk in various economic conditions",
+        "authors": "Filip Szubzda, Marcin Chlebus",
+        "year": "2020/3/13",
+        "abstract": "The aim of the presented study was to assess the quality of VaR forecasts in various states of the economic situation. Two approaches based on the extreme value theory were compared: Block Maxima and the Peaks Over Threshold. Forecasts were made on the daily closing prices of 10 major indices in European countries, divided into two groups: emerging countries (Bulgaria, Czech Republic, Lithuania, Latvia, Poland, Slovakia and Hungary) and developed countries (England, France and Germany). Three states of economic situation were analysed: the pre-crisis (2007), the crisis (2008) and the post-crisis (2009) period as out-of-sample. The main conclusion obtained is the too slow process of adapting static EVT-based forecasts to market movements. While in the pre-crisis period the results were satisfactory, in the period of crisis VaR forecasts were too often exceeded.",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/ceej-2019-0005"
+    },
+    {
+        "title": "Towards better understanding of complex machine learning models using explainable artificial intelligence (XAI): Case of credit scoring modelling",
+        "authors": "Marta Kłosok, Marcin Chlebus",
+        "year": "2020",
+        "abstract": "recent years many scientific journals have widely explored the topic of machine learning interpretability. It is important as application of Artificial Intelligence is growing rapidly and its excellent performance is of huge potential for many. There is also need for overcoming the barriers faced by analysts implementing intelligent systems. The biggest one relates to the problem of explaining why the model made a certain prediction. This work brings the topic of methods for understanding a black-box from both the global and local perspective. Numerous agnostic methods aimed at interpreting black-box model behavior and predictions generated by these complex structures are analyzed. Among them are: Permutation Feature Importance, Partial Dependence Plot, Individual Conditional Expectation Curve, Accumulated Local Effects, techniques approximating predictions of the black-box for single observations with surrogate models (interpretable white-boxes) and Shapley values framework. Our prospect leads toward the question to what extent presented tools enhance model transparency. All of the frameworks are examined in practice with a credit default data use case. The overview presented prove that each of the method has some limitations, but overall almost all summarized techniques produce reliable explanations and contribute to higher transparency accountability of decision systems.",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/files/9815/9355/2268/WNE_WP324.pdf"
+    },
+    {
+        "title": "Mesenchymal stem cells from human amniotic membrane and umbilical cord can diminish immunological response in an in vitro allograft model",
+        "authors": "Filip A Dabrowski, Anna Burdzinska, Agnieszka Kulesza, Marcin Chlebus, Beata Kaleta, Jan Borysowski, Aleksandra Zolocinska, Leszek Paczek, Miroslaw Wielgos",
+        "year": "2017/5/4",
+        "abstract": "Background/Aim\nMesenchymal stem cells (MSCs) are gaining rising interest in gynecology and obstetrics. MSCs immunomodulatory properties are suitable enough to reduce perinatal morbidity caused by inflammation in premature neonates. The aim of this study was to evaluate and compare the ability to inhibit allo-activated lymphocytes proliferation by MSCs derived from different sources: amniotic membrane (AM), umbilical cord (UC) and adipose tissue (AT).\nMethods\nMSCs were isolated from AM (n= 7) and UC (n= 6) and AT (n= 6) of healthy women. Cells were characterized by flow cytometry and differentiation assay. To evaluate the potential of fetal and adult MSCs to diminish immunological response, mixed lymphocytes reaction (MLR) was performed.\nResults\nAmnion and UC-derived cells displayed typical MSCs characteristics. Addition of MSCs to MLR significantly inhibited the proliferation of stimulated …",
+        "keywords": null,
+        "url": "https://karger.com/goi/article/82/3/267/153817"
+    },
+    {
+        "title": "Predictors of in-hospital mortality in surgical wards: a multivariable retrospective cohort analysis of 2,800,069 hospitalizations",
+        "authors": "Magdalena Walicka, Agnieszka Tuszyńska, Marcin Chlebus, Yaroslav Sanchak, Andrzej Śliwczyński, Melania Brzozowska, Daniel Rutkowski, Monika Puzianowska-Kuźnicka, Edward Franek",
+        "year": "2021/2",
+        "abstract": "Background\nIdentifying prognostic factors that are predictive of in-hospital mortality for patients in surgical units may help in identifying high-risk patients and developing an approach to reduce mortality. This study analyzed mortality predictors based on outcomes obtained from a national database of adult patients.\nMaterials and methods\nThis retrospective study design collected data obtained from the National Health Fund in Poland comprised of 2,800,069 hospitalizations of adult patients in surgical wards during one calendar year. Predictors of mortality which were analyzed included: the patient’s gender and age, diagnosis-related group category assigned to the hospitalization, length of the hospitalization, hospital type, admission type, and day of admission.\nResults\nThe overall mortality rate was 0.8%, and the highest …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s00268-020-05841-3"
+    },
+    {
+        "title": "Machine learning in the prediction of flat horse racing results in Poland",
+        "authors": "Piotr Borowski, Marcin Chlebus",
+        "year": "2021",
+        "abstract": "Horse racing was the source of many researchers considerations who studied market efficiency and applied complex mathematic formulas to predict their results. We were the first who compared the selected machine learning methods to create a profitable betting strategy for two common bets, Win and Quinella. The six classification algorithms under the different betting scenarios were used, namely Classification and Regression Tree (CART), Generalized Linear Model (Glmnet), Extreme Gradient Boosting (XGBoost), Random Forest (RF), Neural Network (NN) and Linear Discriminant Analysis (LDA). Additionally, the Variable Importance was applied to determine the leading horse racing factors. The data were collected from the flat racetracks in Poland from 2011-2020 and described 3,782 Arabian and Thoroughbred races in total. We managed to profit under specific circumstances and get a correct bets ratio of 41% for the Win bet and over 36% for the Quinella bet using LDA and Neural Networks. The results demonstrated that it was possible to bet effectively using the chosen methods and indicated a possible market inefficiency.",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/files/2616/2436/3658/WNE_WP361.pdf"
+    },
+    {
+        "title": "Relationship between age and in-hospital mortality during 15,345,025 non-surgical hospitalizations",
+        "authors": "Magdalena Walicka, Monika Puzianowska-Kuznicka, Marcin Chlebus, Andrzej Śliwczyński, Melania Brzozowska, Daniel Rutkowski, Lidia Kania, Marcin Czech, Andrzej Jacyna, Edward Franek",
+        "year": "2021",
+        "abstract": "Results\n15,345,025 hospitalizations were assessed. The mean in-hospital non-surgery-related mortality rate was 3.96±0.17%, and increased from 3.79% to 4.2% between 2009 and 2013. The mean odds ratio for in-hospital death increased with the age of patients, reaching a 229-fold higher rate in the≥ 95 years age group as compared to the 18–24 age group. The highest mean mortality was associated with respiratory diseases (6.91±0.20%), followed by heart and vascular diseases, nervous system diseases, as well as combined gastrointestinal tract, liver, biliary tract, pancreas and spleen diseases (5.65±0.27%, 5.46±0.05% and 4.01±0.13%, respectively).\nConclusions\nThe in-hospital non-surgery-related mortality rate was approximately 4%. It significantly increased with age and, regardless of age, was highest in patients suffering from respiratory diseases.",
+        "keywords": null,
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7811322/"
+    },
+    {
+        "title": "Ews-garch: New regime switching approach to forecast value-at-risk",
+        "authors": "Marcin Chlebus",
+        "year": "2017",
+        "abstract": "In the study, the two-step EWS-GARCH models to forecast Value-at-Risk is presented. The EWS-GARCH allows different distributions of returns or Value-at-Risk forecasting models to be used in Value-at-Risk forecasting depending on a forecasted state of the financial time series. In the study EWS-GARCH with GARCH(1,1) and GARCH(1,1), with the amendment to the empirical distribution of random errors as a Value-at-Risk model in a state of tranquillity and empirical tail, exponential or Pareto distributions used to forecast Value-at-Risk in a state of turbulence were considered. The evaluation of Value-at-Risk forecasts was based on the Value-at-Risk forecasts and the analysis of loss functions. Obtained results indicate that EWS-GARCH models may improve the quality of Value-at-Risk forecasts generated using the benchmark models. However, the choice of best assumptions for the EWS-GARCH model should …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=890908"
+    },
+    {
+        "title": "Is maintenance treatment in adult acne important? Benefits from maintenance therapy with adapalene, and low doses of alpha and beta hydroxy acids",
+        "authors": "Ewa Chlebus, Monika Serafin, Marcin Chlebus",
+        "year": "2019/4/11",
+        "abstract": "Background: Adult acne is a chronic disease with uncontrolled exacerbations, associated with a psychological burden of the patient and medical expenses.\nAims: The aim of the study was to check the efficacy of maintenance therapy of adult acne. It is essential part of treatment as adult acne usually has a long-lasting and recurring course.\nMethods: In the study, the efficacy of maintenance therapy in patients with adult acne is evaluated. In this study, 100 patients (aged 25–39 years of age) with mild and moderate adult acne were enrolled.\nResults: The maintenance therapy (adapalene 0.1% three times a week and low doses of alpha and beta hydroxy acids) led to a significant decrease in the number of acne lesions (from 31.3 to 12.25; p<. 001) and severity of seborrhea (p<. 001).\nConclusions: Maintenance therapy brings significant improvements in the reduction of non-inflammatory and inflammatory lesions in …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/shareview/10.1080/09546634.2018.1484874"
+    },
+    {
+        "title": "Expression of matrix metalloproteinase enzymes in endometrium of women with abnormal uterine bleeding",
+        "authors": "Barbara Grzechocinska, Filip A Dabrowski, Marcin Chlebus, Agata Gondek, Katarzyna Czarzasta, Lukasz Michalowski, Agnieszka Cudnoch-Jedrzejewska, Miroslaw Wielgos",
+        "year": "2017/1/1",
+        "abstract": "OBJECTIVES: Abnormal uterine bleeding (AUB) is caused by derangement of physiological processes of tissue growth, shedding and regeneration. It is known that interplay between metalloproteinases (MMP’s) and tissue inhibitors of metalloproteinases (TIMP’s) may play a crucial role in its occurrence. AIM: To define if expression of proMMP-2, MMP-2 and TIMP-1 in endometrium of women with AUB is dependent on steroid sex hormone concentration and histopathological picture.\nMATERIALS AND METHODS: Endometrial scraps were taken from 21 women with AUB and 19 controls. Samples were evaluated in light microscopy by a certified pathologist. Activity of proMMP-2 and MMP-2 proteins levels were evaluated by gelatin zymography and TIMP-1 by reversed zymography. The results has been correlated with serum estradiol and progesterone concentrations in linear regression model.\nRESULTS: Expression: of proMMP-2 in endometrium of women with AUB is correlated with estradiol concentration and inversely correlated with progesterone levels. It was significantly higher in women with dysfunctional endometrium (p< 0.001). Expression of MMP-2 was highest in women with endometrial polyps and longer bleeding (p< 0.01), while expression of TIMP-1 was independent from hormone concentration.\nCONCLUSION: Lack of correlation between proMMP-2 and MMP-2 levels suggest different pathway of their activation in AUB. ProMMP-2 is up regulated by estradiol and down regulated by progesterone while MMP-2 levels increase with the length of bleeding.",
+        "keywords": null,
+        "url": "https://www.nel.edu/userfiles/articlesnew/38_8_Grzechocinska_537-543.pdf"
+    },
+    {
+        "title": "Nvidia's Stock Returns Prediction Using Machine Learning Techniques for Time Series Forecasting Problem",
+        "authors": "Marcin Chlebus, Michał Dyczko, Michał Woźniak",
+        "year": "2021/1/29",
+        "abstract": "Statistical learning models have profoundly changed the rules of trading on the stock exchange. Quantitative analysts try to utilise them predict potential profits and risks in a better manner. However, the available studies are mostly focused on testing the increasingly complex machine learning models on a selected sample of stocks, indexes etc. without a thorough understanding and consideration of their economic environment. Therefore, the goal of the article is to create an effective forecasting machine learning model of daily stock returns for a preselected company characterised by a wide portfolio of strategic branches influencing its valuation. We use Nvidia Corporation stock covering the period from 07/2012 to 12/2018 and apply various econometric and machine learning models, considering a diverse group of exogenous features, to analyse the research problem. The results suggest that it is possible to develop predictive machine learning models of Nvidia stock returns (based on many independent environmental variables) which outperform both simple naïve and econometric models. Our contribution to literature is twofold. First, we provide an added value to the strand of literature on the choice of model class to the stock returns prediction problem. Second, our study contributes to the thread of selecting exogenous variables and the need for their stationarity in the case of time series models.",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/ceej-2021-0004"
+    },
+    {
+        "title": "Multiclass image classification using gans and cnn based on holes drilled in laminated chipboard",
+        "authors": "Grzegorz Wieczorek, Marcin Chlebus, Janusz Gajda, Katarzyna Chyrowicz, Kamila Kontna, Michał Korycki, Albina Jegorowa, Michał Kruk",
+        "year": "2021/12/2",
+        "abstract": "The multiclass prediction approach to the problem of recognizing the state of the drill by classifying images of drilled holes into three classes is presented. Expert judgement was made on the basis of the quality of the hole, by dividing the collected photographs into the classes: “very fine,” “acceptable,” and “unacceptable.” The aim of the research was to create a model capable of identifying different levels of quality of the holes, where the reduced quality would serve as a warning that the drill is about to wear down. This could reduce the damage caused by a blunt tool. To perform this task, real-world data were gathered, normalized, and scaled down, and additional instances were created with the use of data-augmentation techniques, a self-developed transformation, and with general adversarial networks. This approach also allowed us to achieve a slight rebalance of the dataset, by creating higher numbers of images belonging to the less-represented classes. The datasets generated were then fed into a series of convolutional neural networks, with different numbers of convolution layers used, modelled to carry out the multiclass prediction. The performance of the so-designed model was compared to predictions generated by Microsoft’s Custom Vision service, trained on the same data, which was treated as the benchmark. Several trained models obtained by adjusting the structure and hyperparameters of the model were able to provide better recognition of less-represented classes than the benchmark.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/1424-8220/21/23/8077"
+    },
+    {
+        "title": "HRP performance comparison in portfolio optimization under various codependence and distance metrics",
+        "authors": "Illya Barziy, Marcin Chlebus",
+        "year": "2020",
+        "abstract": "Problem of portfolio optimization was formulated almost 70 years ago in the works of Harry Markowitz. However, the studies of possible optimization methods are still being provided in order to obtain better results of asset allocation using the empirical approximations of codependences between assets. In this work various codependences and metrics are tested in the Hierarchical Risk Parity algorithm to determine whether the results obtained are superior to those of the standard Pearson correlation as a measure of codependence. In order to compare how HRP uses the information from alternative codependence metrics, the MV, IVP, and CLA optimization algorithms were used on the same data. Dataset used for comparison consisted of 32 ETFs representing equity of different regions and sectors as well as bonds and commodities. The time period tested was 01.01. 2007-20.12. 2019. Results show that alternative codependence metrics show worse results in terms of Sharpe ratios and maximum drawdowns in comparison to the standard Pearson correlation for each optimization method used. The added value of this work is using alternative codependence and distance metrics on real data, and including transaction costs to determine their impact on the result of each algorithm.",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/files/5915/9416/1613/WNE_WP327.pdf"
+    },
+    {
+        "title": "Predictors of in-hospital mortality in nonsurgical departments: a multivariable regression analysis of 2 855 029 hospitalizations.",
+        "authors": "Magdalena Walicka, Marcin Chlebus, Andrzej Śliwczyński, Melania Brzozowska, Daniel Rutkowski, Marcin Czech, Agnieszka Tuszyńska, Andrzej Jacyna, Monika Puzianowska-Kuźnicka, Edward Franek",
+        "year": "2020/2/11",
+        "abstract": "Objectives\nThis study aimed to identify predictors independently associated with in‑hospital mortality in nonsurgical departments.",
+        "keywords": null,
+        "url": "https://europepmc.org/article/med/32041926"
+    },
+    {
+        "title": "Matrix metalloproteinases-2,-7 and tissue metalloproteinase inhibitor-1 expression in human endometrium",
+        "authors": "Barbara Grzechocinska, Filip A Dabrowski, Anna Cyganek, Marcin Chlebus, Christopher Kobierzycki, Lukasz Michalowski, Barbara Gornicka, Miroslaw Wielgos",
+        "year": "2018",
+        "abstract": "Introduction. Endometrium undergoes regular, cyclic tissue remodeling mostly associated to the endocrine system status. It is well-known fact that steroid hormones are strongly responsible for changes in endometrium. The precise mechanism of their action is still under investigation. The aim of the study was to evaluate the expression of metalloproteinases 2 and 7 (MMP-2,-7) and tissue inhibitor of metalloproteinase 1 (TIMP-1) in human endometrium in relation to serum concentrations of estradiol and progesterone during different phases of menstrual cycle.\nMaterial and methods. The study material consisted of 52 biopsy samples; 12 obtained in the proliferative phase, 11 in the secretory phase and 29 during menstruation. Expression of MMP-2, MMP-7 and TIMP-1 was assessed by immunohistochemistry. Serum concentrations of estradiol and progesterone at time of biopsy were evaluated by immunochemistry assay. Results of the study were statistically assessed by linear regression model.\nResults. Increased serum concentration of estradiol was associated with increased MMP-2 expression in proliferative phase but decreased in secretory phase and during menstruation. No significant relationship was found between progesterone concentration and MMP-2 expression. Moreover, no difference in the expression of MMP-7 and TIMP-1 in the endometrium in relation to hormone levels and menstrual cycle phases were observed.\nConclusions. The results of the study indicate that estradiol influence MMP-2 expression in the endometrium depends on the phase of menstrual cycle. Such relationships were not found for MMP-7 and TIMP-1 and …",
+        "keywords": null,
+        "url": "https://journals.viamedica.pl/folia_histochemica_cytobiologica/article/view/55771"
+    },
+    {
+        "title": "Ridesharing in the Polish experience: A study using unified theory of acceptance and use of technology",
+        "authors": "Stefan Cylwik, Renata Gabryelczyk, Marcin Chlebus",
+        "year": "2020/12/18",
+        "abstract": "The main aim of this article is to examine the factors that influence the acceptance of ridesharing technologies in Polish society, including dynamic vanpooling on demand. The study was conducted using the UTAUT 2 model (Theory of Acceptance and Use of Technology). We have employed statistical and econometric data analyses such as factor analysis and linear regression using the Partial Least Square (PLS) method. Based on the review of the publications on ridesharing in the context of sharing economy, we have modified the UTAUT 2 model by supplementing it with the trust factor, which is a significant contribution to the development of this theory when applied to the acceptance of ridesharing technologies. Further, the outcomes allowed us to identify the factors that influence people’s attitudes in using shared-ride technology (performance expectancy, hedonistic motivation and habit) and the intention to use this technology (effort expectancy, performance expectancy, price value, habit and trust). This study has practical implications as it has helped identify the factors that affect the acceptance of ridesharing technologies in Poland and these factors are significant for the suppliers of these technologies. The findings can certainly become a starting point for further research on other communities and the application of other models of technology.",
+        "keywords": null,
+        "url": "https://sciendo.com/article/10.2478/ceej-2020-0017"
+    },
+    {
+        "title": "Comparison of semi-parametric and benchmark value-at-risk models in several time periods with different volatility levels",
+        "authors": "Mateusz Buczyński, Marcin Chlebus",
+        "year": "2018/4/1",
+        "abstract": "In the literature, there is no consensus as to which Value-at-Risk forecasting model is the best for measuring market risk in banks. In the study an analysis of Value-at-Risk forecasting model quality over varying economic stability periods for main indices from stock exchanges was conducted. The VaR forecasts from GARCH (1, 1), GARCH-t (1, 1), GARCH-st (1, 1), QML-GARCH (1, 1), CAViaR and historical simulation models in periods with contrasting volatility trends (increasing, constantly high and decreasing) for countries economically developed (the USA–S&P 500, Germany-DAX and Japan–Nikkei 225) and economically developing (China–SSE COMP, Poland–WIG20 and Turkey–XU100) were compared. The data samples used in the analysis were selected from the period 01.01. 1999–24.03. 2017. To assess the VaR forecast quality: excess ratio, Basel traffic light test, coverage tests (Kupiec test, Christoffersen test), Dynamic Quantile test, cost functions and Diebold-Marino test were used. Obtained results show that the quality of Value-at-Risk forecasts for the models varies depending on a volatility trend. However, GARCH-st (1, 1) and QML-GARCH (1, 1) were found to be the most robust models in the different volatility periods. The results show as well that the CAViaR model forecasts were less appropriate in the increasing volatility period. Moreover, no significant differences for the VaR forecast quality were found for the developed and developing countries.",
+        "keywords": null,
+        "url": "https://sciendo.com/pdf/10.2478/fiqf-2018-0013"
+    }
+]

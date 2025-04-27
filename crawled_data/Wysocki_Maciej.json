@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Structural capacitor materials made from carbon fibre epoxy composites",
+        "authors": "Tony Carlson, Daniel Ordéus, Maciej Wysocki, Leif E Asp",
+        "year": "2010/7/1",
+        "abstract": "In this paper, an approach towards realising novel multifunctional polymer composites is presented. A series of structural capacitor materials made from carbon fibre reinforced polymers have been developed, manufactured and tested. The structural capacitor materials were made from carbon fibre epoxy pre-preg woven laminae separated by a paper or polymer film dielectric separator. The structural capacitor multifunctional performance was characterised measuring capacitance, dielectric strength and interlaminar shear strength. The developed structural CFRP capacitor designs employing polymer film dielectrics (PA, PC and PET) offer remarkable multifunctional potential.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0266353810000874"
+    },
+    {
+        "title": "Structural batteries made from fibre reinforced composites",
+        "authors": "Sofia Ekstedt, Maciej Wysocki, LE Asp",
+        "year": "2010/6/1",
+        "abstract": "Structural, fibre reinforced, battery prototypes with two types of electrolyte matrix material (a gel and a solid polymer) have been manufactured. This was to confirm the concept of using carbon fibres as current collector in the anode as well as providing a mechanical load-carrying functionality. As a result, functioning batteries with gel electrolyte have been produced and their properties have been characterised.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1179/174328910X12647080902259"
+    },
+    {
+        "title": "Cure-state dependent viscoelastic Poisson’s ratio of LY5052 epoxy resin",
+        "authors": "Sibin Saseendran, Maciej Wysocki, Janis Varna",
+        "year": "2017/7/3",
+        "abstract": "It is shown, using thermodynamically consistent linear viscoelastic material model that accounts for properties dependence on test temperature and cure state parameters, that for rheologically simple materials the cure and temperature related reduced times and shift factors are the same for all viscoelastic compliances, relaxation modulus, and Poisson’s ratio as well as for the storage and loss modulus. A necessary condition for that is that the cure and temperature parameters are affecting the reduced time only. This means that the Poisson’s ratio of polymeric materials, which for simplicity is often assumed constant, in fact exhibits a small dependence on time which is affected by temperature and state of cure. In this work, the evolution of the viscoelastic Poisson’s ratio of the commercial LY5052 epoxy resin is studied in relaxation test subjecting the specimen to constant axial strain. Specimens at several cure states …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/20550340.2017.1348002"
+    },
+    {
+        "title": "CFRP structural capacitor materials for automotive applications",
+        "authors": "Tony Carlson, Daniel Ordéus, Maciej Wysocki, LE Asp",
+        "year": "2011/9",
+        "abstract": "In this paper, an approach towards realising novel multifunctional polymer composites is presented. A series of structural capacitor materials made from carbon fibre reinforced polymers have been developed, manufactured and tested. The structural capacitor materials were made from carbon fibre epoxy prepreg woven lamina separated by a polymer film dielectric separator. The structural capacitor multifunctional performance was characterised measuring capacitance, dielectric strength and tearing force. The developed structural carbon fibre reinforced polymer (CFRP) capacitor designs employing polymer film dielectrics (PA, PC and PET) offer remarkable multifunctional potential.",
+        "keywords": null,
+        "url": "https://journals.sagepub.com/doi/abs/10.1179/174328911X12948334590286"
+    },
+    {
+        "title": "Evolution of viscoelastic behavior of a curing LY5052 epoxy resin in the glassy state",
+        "authors": "Sibin Saseendran, Maciej Wysocki, Janis Varna",
+        "year": "2016/4/2",
+        "abstract": "The aim of this work is to develop a methodology to analyze the influence of the curing history on the viscoelastic storage modulus. Two different experimental approaches are presented exposing the material to various cure temperature and cure time sequences. The evolving viscoelastic properties are characterized using standard Dynamic Mechanical and Thermal Analysis (DMTA) equipment. Therefore, the present study is limited to infinitesimally small strains and linear viscoelasticity only. The methodology is demonstrated using the LY5052 epoxy resin system for its storage modulus E′ in the frequency domain. Results indicate that evolution of thermo-viscoelastic properties could be indeed assumed independent of the cure history for the investigated LY5052. We observe that the shift factor in the reduced time expression for the viscoelastic model examined in this paper is a product of two shift functions …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/20550340.2016.1236223"
+    },
+    {
+        "title": "Reuse of polymer materials and carbon fibres in novel engineering composite materials",
+        "authors": "Magdalena Szpieg, Maciej Wysocki, Leif E Asp",
+        "year": "2009/12",
+        "abstract": "The present work was devoted to the development of a technique for manufacture of a novel engineering material from carbon fibres and thermoplastic matrix recyclates. Fibre preforms were manufactured employing a papermaking technique for dispersing the carbon fibres. The polypropylene (PP) matrix recyclate was reprocessed into a film. The carbon fibre preforms and PP films were stacked and composite materials were subsequently manufactured by press forming. The mechanical behaviour of carbon fibre preforms was characterised by a compaction test and compared to the results obtained by consolidation test of the carbon fibres reinforced PP composites. The consolidation experiments were found to follow the trend from compaction tests allowing prediction of the amount of polymer material needed, fibre volume fraction as well as composites thickness. The resulting dispersion of fibres and void content …",
+        "keywords": null,
+        "url": "https://journals.sagepub.com/doi/abs/10.1179/146580109X12540995045688"
+    },
+    {
+        "title": "Process-modeling of composites using two-phase porous media theory",
+        "authors": "Ragnar Larsson, Maciej Wysocki, Staffan Toll",
+        "year": "2004/1/1",
+        "abstract": "A biphasic continuum model is proposed for the modeling of a family of forming processes for fiber composites. The processes considered involve deformation of a fiber bundle network, wetting by penetration of resin into fiber bundles, and resin flow through the fiber bundle network. The continuum model represents three (or more) actual micro constituents as two continuous phases: a solid phase being the fiber network plus any extra void within the fiber bundles and a fluid phase being the liquid matrix. The model framework thus comprises the continuum formulation of a nonlinear compressible porous solid saturated with an incompressible fluid phase. Guided by the entropy inequality, we specify constitutive relations concerning three different mechanisms pertinent to the forming process: effective stress response of the fiber bundle network, compaction of the solid phase, and Darcian interaction between the two …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0997753803000962"
+    },
+    {
+        "title": "Modeling of coupled dual-scale flow–deformation processes in composites manufacturing",
+        "authors": "Mohammad S Rouhi, Maciej Wysocki, Ragnar Larsson",
+        "year": "2013/3/1",
+        "abstract": "The present contribution is a part of the work towards a framework for holistic modeling of composites manufacturing. Here we focus our attention onto the particular problem of coupled dual-scale deformation–flow process such as the one arising in RTM, Vacuum Assisted Resin Infusion (VARI) and Vacuum Bag Only (VBO) prepregs. The formulation considers coupling effects between macro-scale preform processes and meso-scale ply processes as well as coupling effects between the solid and fluid phases. The framework comprises a nonlinear compressible fiber network saturated with incompressible fluid phase. Internal variables are introduced in terms of solid compressibility to describe the irreversible mesoscopic infiltration and reversible preform compaction processes. As a main result a coupled displacement–pressure, geometrically nonlinear, finite element simulation tool is developed. The paper is …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1359835X12003363"
+    },
+    {
+        "title": "Free surface flow and preform deformation in composites manufacturing based on porous media theory",
+        "authors": "Ragnar Larsson, Mohammad Rouhi, Maciej Wysocki",
+        "year": "2012/1/1",
+        "abstract": "In the present contribution an infusion simulation tool is developed, applicable to a quite wide range of composites manufacturing technologies. The paper focusses on isothermal, infusion like manufacturing processes involving highly deformable preforms and a free surface resin flow. There are two major issues addressed at the modelling of the infusion processes: The first one is the highly deformable preform and its shape due to the interaction between external pressure loading and the intrinsic fluid pressure. The second issue concerns the migrating free surface due to resin infiltration into the fibrous preform. To resolve these both issues simultaneously, a compressible two-phase porous media formulation is put forward involving an additional liquid mass balance relationship as compared to the standard compressible porous media formulation. As a result a governing equation for saturation degree evolution is …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0997753811001021"
+    },
+    {
+        "title": "Hydrostatic consolidation of commingled fibre composites",
+        "authors": "Maciej Wysocki, Ragnar Larsson, Staffan Toll",
+        "year": "2005/8/1",
+        "abstract": "A molten hybrid-yarn composite is modelled as a continuum. Constitutive equations governing hydrostatic consolidation are formulated, based on a two-phase continuum mechanical framework developed in a recent paper [Larsson R, Wysocki M, Toll S. Process-modelling of composites using two-phase porous media theory. European Journal of Mechanics-A 2004;23:15–36]. The fibre bundles are assumed to be completely surrounded by resin, thus subjected to hydrostatic pressure. To model the infiltration of resin into the fibre bundles, we introduce a compressible solid phase consisting of fibres plus intra-fibre void. The compression of the solid phase is caused by a combination of infiltration and elastic compression of the fibre bundles. The models are micromechanical, and all parameters have a clear physical meaning and are measurable in principle. Using parameter values out of the literature and estimated …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S026635380500031X"
+    },
+    {
+        "title": "Evolution of viscoelastic behaviour of a curing LY5052 epoxy resin in the rubbery state",
+        "authors": "Sibin Saseendran, Maciej Wysocki, Janis Varna",
+        "year": "2017/11/2",
+        "abstract": "In this work, we investigate the relationship between the rubbery modulus and the degree of cure for partially to fully cured LY5052 epoxy resin. In particular, this paper experimentally tests an existing model formulated for shear modulus by redefining for in the tensile storage modulus. Experiments to characterize viscoelastic behaviour were performed in a dynamic mechanical and thermal analysis (DMTA) instrument in the frequency domain. Master curves are then created from DMTA using general time–temperature–cure superposition. The master curves are then normalized using the model so that the master curve does not depend on the properties in the rubbery region. This results in a unique master curve that describes the viscoelastic behaviour of the LY5052 epoxy resin for the given conditions. Once the relationship between the rubbery modulus and the degree of cure has been established, the amount of …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/09243046.2017.1310076"
+    },
+    {
+        "title": "Mechanical performance and modelling of a fully recycled modified CF/PP composite",
+        "authors": "Magdalena Szpieg, Maciej Wysocki, LE Asp",
+        "year": "2012/6",
+        "abstract": "A fully recycled carbon fiber reinforced maleic anhydride grafted polypropylene (MAPP)-modified polypropylene (rCF/rPP) composite material has been developed and characterized. This new composite was manufactured employing papermaking principles, dispersing the recycled carbon fibers (rCF) in water, and forming them into mats. Two layers of the recycled polypropylene (rPP) films manufactured using press-forming were sandwiched between three rCF preform layers in a stack. The stack was heated and press-formed resulting in a composite plate with a nominal thickness of 1.20 mm and a fiber volume fraction of 40%. A series of tensile tests using rectangular specimens cut in four different directions (0°, 90°, ± 45°) in the composite plate were performed to confirm in-plane material isotropy. Models to predict stiffness and strength of the short fiber rCF/rPP composite were also employed and validated …",
+        "keywords": null,
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0021998311423860"
+    },
+    {
+        "title": "Modelling the consolidation of partially impregnated prepregs",
+        "authors": "Maciej Wysocki, Ragnar Larsson, Staffan Toll",
+        "year": "2009/7",
+        "abstract": "A finite element model is developed to solve consolidation problems for composites manufacturing. The model is developed from a generic two-phase continuum theory allowing for coupling between the solid and fluid responses. The code is applied to a case study consisting of consolidation of a hat stringer to evaluate nonlinear effects.",
+        "keywords": null,
+        "url": "https://iccm-central.org/Proceedings/ICCM17proceedings/papers/C2.15%20Wysocki.pdf"
+    },
+    {
+        "title": "Development and characteristics of a fully recycled CF/PP composite",
+        "authors": "Magdalena Szpieg",
+        "year": "2011",
+        "abstract": "The increasing industrial use of carbon fibre in eg aircraft and wind turbines as well as the tremendous amount of energy needed to be able to manufacture pristine carbon fibres calls for strategies for their recovery and possible reuse. In consequence, both environmental and economic consciousness has increased for the need to recycle carbon fibre reinforced polymer waste.\nIn this work, an engineering composite material is manufactured from recyclates, both matrix and fibres. Polypropylene processing scrap from PURE® is extensively studied in terms of its stability and process ability as a thermoplastic matrix material. Polypropylene scrap material is reprocessed into a film by press forming. The reinforcement in the form of fluffy, short carbon fibres recovered via a pyrolysis process from aircraft structures is converted into preforms employing paper making principles. The recycled polypropylene (rPP) film is then introduced into a stack of recycled carbon fibre (rCF) preforms and the composite material is manufactured by press forming.",
+        "keywords": null,
+        "url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:991102"
+    },
+    {
+        "title": "Powder-impregnated carbon fibers with lithium iron phosphate as positive electrodes in structural batteries",
+        "authors": "Yasemin Duygu Yücel, Erik Adolfsson, Henrik Dykhoff, Jocke Pettersson, Stacy Trey, Maciej Wysocki, Dan Zenkert, Rakel Wreland Lindström, Göran Lindbergh",
+        "year": "2023/8/18",
+        "abstract": "A structural battery is a multifunctional battery that can carry a load while storing energy. Structural batteries have been a cutting-edge research focus in the last decade and are mainly based on polyacrylonitrile (PAN)-carbon fibers (CFs). In this work, positive electrodes based on PAN-carbon fibers were manufactured with powder impregnation (siphon impregnation) technique using a water-based slurry containing lithium iron phosphate (LFP) as the active electrode material and the water-soluble binder polyethylene glycol (PEG). Different coating compositions, electrode-drying temperatures, and coating parameters were investigated to optimize the coating uniformity and the electrochemical performances. Scanning electron microscopy results showed that the electrode materials coat the CFs uniformly, conformably, and individually. Electrochemical characterization of pouch cells shows that the electrodes …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0266353823002464"
+    },
+    {
+        "title": "Structural polymer electrolyte for use in multifunctional energy storage devices",
+        "authors": "Maciej Wysocki, Leif E Asp, Sofia Ekstedt",
+        "year": "2010/6",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=9023112979420014284&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Experimental assessment of dual-scale resin flow-deformation in composites processing",
+        "authors": "Mohammad S Rouhi, Maciej Wysocki, Ragnar Larsson",
+        "year": "2015/9/1",
+        "abstract": "In this paper we are concerned with the assessment of sub-models within a two-phase continuum mechanical FE framework for process modeling of composites manufacturing. In particular, the framework considers the inclusion of two deformation dependent models describing resin flow related to: (1) meso-scale wetting and compaction of individual plies and (2) overall preform deformation and macroscopic Darcian flow. Using micro-mechanical modeling, we model the physics of these sub-processes in relation to the recently developed Out-Of-Autoclave (OOA) prepergs. The models are placed in context with a compression–relaxation experiment, employed to study the preform deformations considered separated from other sub-processes. Finally, calibrations and model validations are carried out against the relaxation experiment to relate the FE framework to the mechanical response of the preform. Therefore …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1359835X15001979"
+    },
+    {
+        "title": "Recycled polypropylene aimed as composites precursor material",
+        "authors": "Magdalena Szpieg, Maciej Wysocki, Leif E Asp",
+        "year": "2009/12/1",
+        "abstract": "The aim of this research is to assess the stability and processability of recycled polypropylene (PP) materials for their suitability for use as matrix material in polymer composite. The work comprises development and characterisation of matrix precursors from recycled PP. The reused PP considered comes from two sources: PP from the self-reinforced PP Pure processing scrap and an automotive grade developed to offer an even material quality. To assess the thermal stability of two PP qualities for subsequent composite manufacturing, oxidation induction time (OIT), melting point T m, decomposition temperature T d and viscosity μ were investigated. The results indicate, that Pure processing scrap is very well stabilised and therefore suitable for multiple processing, whereas the automotive grade recycled PP cannot be used for this purpose. Fibres for subsequent composite preforming were spun by melt spinning from …",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1179/146580109X12540995045525"
+    },
+    {
+        "title": "Load carrying composites for electrical energy storage",
+        "authors": "Tony Carlson, Daniel Ordéus, M Wysocki",
+        "year": "2007",
+        "abstract": "The main part of the work has been focused on capacitors, using carbon fibre fabrics as electrodes along with different dielectrics, separators. Dielectric materials tested include three plastic films (PA, PET, PC) and three types of papers (40, 80 and 150 g/m 2). Both mechanical and electrical properties have been evaluated.\nThe experimental results indicating that the 80 g/m 2 paper and the PET-film gives the best capacitance. Moreover, paper shown superior interfacial strength compared with other materials. However, plasma treatment of the PET-film has proved to increase interfacial strength that is, close to that of paper. Electrical properties, such as maximum voltage and leakage current favour the PET-film. Therefore, thin polymer films eg PET is to consider as the dielectric with most potential, for maximising both mechanical and electrical properties. This work has shown that it is possible to make a load-carrying composite capacitor, with acceptable crash worthy properties.",
+        "keywords": null,
+        "url": "https://www.researchgate.net/profile/Tony-Carlson/publication/267926973_Load_carrying_composites_for_electrical_energy_storage/links/548e80700cf214269f243e95/Load-carrying-composites-for-electrical-energy-storage.pdf"
+    },
+    {
+        "title": "Continuum modelling of composites consolidation",
+        "authors": "Maciej Wysocki",
+        "year": "2006",
+        "abstract": "This work describes the consolidation of commingled yarn-based thermoplastic composites. The consolidation operation involves deformation of the preform, wetting and compaction of fibre bundles, and resin flow through the preform. The model framework comprises a continuum formulation of a non-linear compressible porous solid saturated with an incompressible fluid. In this model, the solid phase represents the fibres plus any uninfiltrated void space within the fibre bundles, and the fluid phase represents the resin. Constitutive equations governing the forming process are developed. These are the effective stress response of the preform, compaction of the solid phase, and Darcian interaction between the phases. Particular attention is paid to the compaction of the solid phase (consisting of a fibre packing mechanism and a viscous wetting process), the volumetric response of the preform and the tension …",
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=9569522410085205336&hl=en&oi=scholarr"
+    }
+]

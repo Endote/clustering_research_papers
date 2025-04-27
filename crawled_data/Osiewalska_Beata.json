@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Childlessness and fertility by couples’ educational (in) equality in Austria, Bulgaria, and France",
+        "authors": "Beata Osiewalska",
+        "year": "2017/7/1",
+        "abstract": "BACKGROUND\nIn modern, highly developed countries the association between education and fertility seems to be equivocal: A negative influence of education mainly applies to women, while among men the correlation is often positive or negligible. Although the gender differences have been examined in depth, couples’ procreative behaviour treated as the result of a conflict between male and female characteristics is still understudied.\nOBJECTIVE\nThis study aims to investigate couples’ reproductive behaviour among contemporary European populations with regard to (in)equality between partners’ educational levels and the joint educational resources of a couple. Various measures of educational endogamy are considered.\nMETHODS\nThe hurdle zero-truncated Poisson model within the Bayesian framework is applied. The data comes from the first wave of the Generations and Gender Survey for Austria, Bulgaria …",
+        "keywords": null,
+        "url": "https://www.jstor.org/stable/26332199"
+    },
+    {
+        "title": "Partners’ empowerment and fertility in ten European countries",
+        "authors": "Beata Osiewalska",
+        "year": "2018/1/1",
+        "abstract": "OBJECTIVE\nThis study aims to investigate the relationship between couples’ reproductive behaviour and the division of power between partners in different country-specific contexts.\nMETHODS\nPower relations are measured by four types of inequality between partners: partners’ educational levels, ages, paid labour, and unpaid labour. The first wave of Generations and Gender data for ten European countries is used. Parents and childless couples are considered using the hurdle Poisson model.\nRESULTS\nMale empowerment (male power advantage induced by higher educational level, being older, and doing less housework than the female partner) correlates with early childbearing and positively influences the number of children that couples of reproductive age have across Europe. Female empowerment is associated with late childbearing, but only in Northern and Western Europe (NWE). For older couples …",
+        "keywords": null,
+        "url": "https://www.jstor.org/stable/26457083"
+    },
+    {
+        "title": "Are daughters’ childbearing intentions related to their mothers’ socio-economic status?",
+        "authors": "Maria Rita Testa, Valeria Bordone, Beata Osiewalska, Vegard Skirbekk",
+        "year": "2016/7/1",
+        "abstract": "BACKGROUND\nUnlike actual fertility, fertility intentions are often found to be positively correlated with education. The literature explaining this paradox is scarce.\nOBJECTIVE\nWe aim to fill the gap in the existing scientific literature by searching for the main factors that influence highly educated women to plan a larger family size.\nMETHODS\nUsing the first wave of the Generations and Gender Survey for four countries (Austria, Bulgaria, Italy, and Norway), we analyse the relationship between mother’s socio-economic status and daughter’s fertility intentions, controlling for daughter’s socio-economic status and sibship size. Zero-inflated Poisson regression models are employed to estimate the predictors of women’s additionally intended number of children.\nRESULTS\nWe find that the effect of family of origin is exerted mainly through sibship size among childless daughters: Daughters with more siblings intend to …",
+        "keywords": null,
+        "url": "https://www.jstor.org/stable/26332089"
+    },
+    {
+        "title": "Working from home during Covid-19 pandemic and changes to fertility intentions among parents",
+        "authors": "Anna Kurowska, Anna Matysiak, Beata Osiewalska",
+        "year": "2023/12",
+        "abstract": "The Covid-19 pandemic and related massive spread of home based work led to substantial changes in the conditions for combining work and childbearing. On the one hand, working from home helped parents to accommodate increased childcare needs during the pandemic. On the other hand, it led to acute experiences of blurred boundaries between work and family life during childcare and school closures. Therefore, the direction of the impact of working from home on fertility intentions during the pandemic is not unequivocal. In this paper, we investigate how working from home was related to change in fertility intentions of mothers and fathers during the pandemic and discuss the complex mechanisms behind these relationships. With the use of unique Familydemic Survey data from a representative sample of parents in Poland, we estimate multinomial logit regressions by gender and consider a set of potential …",
+        "keywords": null,
+        "url": "https://link.springer.com/article/10.1007/s10680-023-09678-z"
+    },
+    {
+        "title": "Transmission of Fertility Pattern in Mother-Daughter Relation. Bayesian View (a case study of Austria)",
+        "authors": "Beata Osiewalska",
+        "year": "2013",
+        "abstract": "The connection between fertility of parents and their children has been investigated many times over the past century. It seems to be insignificant among pre-transitional populations, but becomes more important over time, especially in developed countries. Following Pearson’s example, it was widely adopted to use simple correlation analyses in such studies. In this study we will present how to use more advanced statistical models and methods to determine the occurrence and strength of examined relationships. Thus, we aim to investigate the intergenerational transmission of fertility in contemporary populations (in the case of the motherdaughter relation in Austria) using the zero-inflated Poisson regression model. Using this model in fertility analysis allows us to treat childlessness as a qualitatively different state with possibly different determinants than parenthood (regardless of the number of children). Bayesian inference in this study enables us to obtain covariates’ distributions as well as distributions of covariates’ nonlinear functions (including their uncertainty) and allows us to incorporate our prior knowledge.",
+        "keywords": null,
+        "url": "https://econjournals.sgh.waw.pl/SD/article/view/1486"
+    },
+    {
+        "title": "Maternal free time: A missing element in fertility studies",
+        "authors": "Ewa Jarosz, Anna Matysiak, Beata Osiewalska",
+        "year": "2023/12",
+        "abstract": "Studies on mothers’ time allocation and fertility have predominantly accentuated the importance of paid work for fertility decisions and, in consequence, of policies that allow combining paid work and family life. In this view, work time is typically seen as the time taken away from the family and vice versa. This paradigm does not recognize that mothers may need time for rest and leisure, and that rest and leisure time should be separate from both professional and family time. This study investigates whether the amount of free time available to mothers and maternal leisure behaviors, level of tiredness, and satisfaction with the amount of leisure time are associated with second birth transitions. We use the data from the Household, Income and Labour Dynamics in Australia (HILDA) survey, waves 1–20, and model time to second birth using event history models. We find that a mother's free time, tiredness, leisure activities …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12589"
+    },
+    {
+        "title": "Couples’ socioeconomic resources and completed fertility in Poland",
+        "authors": "Beata Osiewalska",
+        "year": "2015",
+        "abstract": "A remarkable increase in the formally-achieved levels of education, preceded by an improvement in educational attainment, and followed by expansion of labour market participation, especially among women, are considered as the most important drivers of fertility decline in industrialized countries (Oppenheimer 1994, Kohler et al. 2006, van Bavel 2012). Since the most significant changes in these areas have been achieved by women, the majority of studies used to concentrate on the possible connections between fertility and female socioeconomic status, while male characteristics were commonly neglected and the perspective of couples was almost never considered. Recently, however, a growing attention has been given to the impact of educational level and educational enrolment on childbearing behaviour both for women and men, and the general conclusion of this line of research is that a higher completed level of education, and a longer enrolment in education result in postponing childbearing and lead to smaller completed family sizes (see, eg, Hoem 2000, Kohler et al. 2006, Winkler-Dworak and Toulemon 2007). However, other socioeconomic characteristics, such as employment, field of education or occupation are usually omitted or, if included, focus only on women (Hoem et al. 2006a, 2006b, Matysiak 2009, van Bavel 2010).",
+        "keywords": null,
+        "url": "https://journals.pan.pl/Content/96084/mainfile.pdf"
+    },
+    {
+        "title": "Home-based work and childbearing",
+        "authors": "Beata Osiewalska, Anna Matysiak, Anna Kurowska",
+        "year": "2024/9/1",
+        "abstract": "We examine the timely yet greatly under-researched interplay between home-based work (HBW) and women’s birth transitions. Past research has shown that HBW may facilitate and/or jeopardize work–family balance, depending on the worker’s family and work circumstances. Following that research, we develop here a theoretical framework on how HBW can facilitate or hinder fertility. Using the UK Household Longitudinal Study 2009–19 and random-effects cloglog regression, we study the link between HBW and first- and second-birth risks. We find that HBW is negatively associated with the transition to motherhood and unrelated to the progression to a second child. We also show that HBW helps to enable women to have children if they would otherwise face a long commute. All in all, our findings do not support the idea that the spread of HBW will lead to an immediate increase in fertility.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/00324728.2023.2287510"
+    },
+    {
+        "title": "When are women who work from home more likely to have children?",
+        "authors": "Beata Osiewalska, Anna Matysiak, Anna Kurowska",
+        "year": "2022/4/7",
+        "abstract": "We examine the timely yet severely under-researched interplay between the opportunity to work from home and childbearing. According to previous research, home-based work (HBW) may both facilitate and jeopardise work-family balance, depending on family and work circumstances. Following this research, we develop a theoretical framework on whether and under which conditions HBW may facilitate fertility. We perform random-effect logistic regression on UK Household Longitudinal Survey 2009-2019 data and consider a set of potential moderators related to woman’s family and work context. Our findings suggest that HBW can indeed help certain women have children, but only those who live far from their offices or want to combine paid work and care but receive little support from their partners. This is not the case for other women, likely because HBW entails higher expectations toward workers to perform more housework, leads to more multitasking and may have negative consequences for women’s work careers.",
+        "keywords": null,
+        "url": "https://www.wne.uw.edu.pl/application/files/7516/5591/1939/WNE_WP389.pdf"
+    },
+    {
+        "title": "STATUS SPOŁECZNO-EKONOMICZNY A BEZDZIETNOŚĆ I RODZICIELSTWO PAR",
+        "authors": "Beata Osiewalska",
+        "year": "2019",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=PfsR9vgAAAAJ&citation_for_view=PfsR9vgAAAAJ:QIV2ME_5wuYC"
+    },
+    {
+        "title": "Couple socioeconomic gender equality and fertility: A Bayesian analysis",
+        "authors": "Beata Osiewalska",
+        "year": "2015/5/11",
+        "abstract": "Connections between couples’ socioeconomic status and fertility have recently attracted noticeable attention, especially in the context of ongoing changes in gender roles and a growing variety of family models. Although gender differences have been examined quite deeply, couples’ procreative behaviour treated as a mutual result of male and female socioeconomic characteristics remains under-researched. Previous studies have suggested that the proper inference about procreative behaviour of a couple should be performed not only by analysing the characteristics of both parents, but also by, at the same time, considering the childless population. Therefore, the aim of this study is to investigate couples’ procreative behaviour with regard to the gender socioeconomic (in)equality between partners, taking into account that the behavioural drivers could differ among parents and childless couples. The Bayesian Zero-Inflated Poisson framework, which allows considering two states (childlessness and parenthood) within one statistical model, is applied. The empirical illustration is based on the Generations and Gender Survey (GGS) dataset. The results show that including characteristics of both partners significantly improved the ability to describe fertility behaviour. Additionally, using other couple socioeconomic characteristics besides level of education, such as educational field and occupation, provided greater detail and gave greater explanatory power to couple’s reproductive behaviour. In particular, the overall level of socioeconomic status was found to have a negative influence on fertility timing, but a U-shape relationship with completed …",
+        "keywords": null,
+        "url": "https://eprints.soton.ac.uk/376953/"
+    },
+    {
+        "title": "Two sides of a coin: The relationship between work autonomy and childbearing",
+        "authors": "Beata Osiewalska, Anna Matysiak",
+        "year": "2025",
+        "abstract": "Objective\nThis article investigates the under‐researched role of work autonomy, encompassing the control over how, when and where to work, for both the entry into parenthood and the transition to a second child across different social strata in the United Kingdom.\nBackground\nOver the past three decades, employees have gained increased work autonomy, a trend expected to persist with technological advancements. Work autonomy substantially affects the combination of paid work and family life. But its multifaceted impact on workers' fertility behavior, especially across different educational levels, has remained unclear.\nMethod\nThe study employs a sample of partnered women and men from UKHLS 2009–2019 data. Latent Class Analysis incorporates the three dimensions: job, schedule, and workplace controls to identify distinct patterns of work autonomy, which serve as key explanatory variables in event …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jomf.13066"
+    },
+    {
+        "title": "Bayesowskie porównanie modeli zachowań prokreacyjnych",
+        "authors": "Krzysztof Osiewalski, Beata Zając",
+        "year": "2011",
+        "abstract": "W pracy przeprowadzono analizę płodności małżeńskiej w Polsce w zbiorowości małżeństw, w których kobieta była w wieku zdolności rozrodczej, to znaczy nie ukończyła pięćdziesiątego roku życia. Dane, wykorzystane w modelowaniu, pochodziły z badań ankietowych Polish Fertility and Family Survey przeprowadzonych w Polsce w 1991r. Analiza objęła okres około 40 lat: od początku lat pięćdziesiątych do początku lat dziewięćdziesiątych XX w. Celem pracy było bayesowskie porównanie wybranych modeli analizy historii zdarzeń: modelu proporcjonalnego hazardu dla danych pogrupowanych, dyskretnego modelu Coxa proporcjonalnego hazardu oraz log-logistycznego modelu AFT (ang. Accelerated Failure Time), zastosowanych do oszacowania czasu, który upływa od zawarcia małżeństwa do urodzenia pierwszego dziecka ze względu na przyjęte charakterystyki demograficzne i społeczne. Analizę porównawczą przeprowadzono z wykorzystaniem formalnych metod bayesowskiego porównywania modeli, wyznaczając ich prawdopodobieństwa a posteriori. Dla modelu o najwyższym prawdopodobieństwie a posteriori przedstawiono wyniki analizy kształtowania się płodności małżeńskiej w zależności od przyjętych zmiennych demograficznych i społecznych (zmienne charakteryzujące kobietę), wśród których uwzględniono: kohortę urodzeniową (generację), miejsce zamieszkania, wykształcenie, liczbę rodzeństwa, wiek w chwili zawarcia małżeństwa oraz status na rynku pracy. Zbadano czy zmienne te mają istotny wpływ na czas urodzenia pierwszego dziecka w małżeństwie. W rezultacie określono prawidłowości obserwowane w …",
+        "keywords": null,
+        "url": "http://bazekon.icm.edu.pl/bazekon/element/bwmeta1.element.ekon-element-000171214947"
+    },
+    {
+        "title": "Mothers’ parenting behaviours, strain, enjoyment and subsequent childbearing",
+        "authors": "Ewa Jarosz, Anna Matysiak, Beata Osiewalska",
+        "year": "2024/10/31",
+        "abstract": "Modern parenting is both emotionally costly and rewarding. It is also more intensive than before and requires significant time and effort, particularly from mothers. Emotional costs and benefits of children are important to fertility decisions, and they may be linked with a mother’s parenting behaviours. Using a sample of 4402 partnered first-time mothers from the UK Household Longitudinal Study waves 1 to 9 (2009–2018), this study investigated the association between mothers’ parenting behaviours, changes in the levels of reported strain or enjoyment of everyday activities and second-birth transition. A decline in enjoyment formed a negative association with second-birth risk. The frequency of participation in dinner with the child and in leisure activities with the child formed significant associations with second-birth risk but only for selected segments of the population. We discuss the possible underlying mechanisms …",
+        "keywords": null,
+        "url": "https://journals.sagepub.com/doi/abs/10.1177/0192513X241257235"
+    },
+    {
+        "title": "The role of home-based work for return to employment after birth",
+        "authors": "Anna Matysiak, Beata Osiewalska, Anna Kurowska",
+        "year": "2022/4/7",
+        "abstract": "The role of home-based work for return to employment after birth Page 1 The role of home-based work for return to employment after birth Anna Matysiak, Beata Osiewalska & Anna Kurowska University of Warsaw European Population Conference Groningen 29.06-02.07.2022 Page 2 PAST STUDIES Women tend to use HBW to combine paid work and care (Sullivan and Lewis, 2001; Hilbrecht et al., 2008) HBW as the most preferred flexible work arrangement (Mas and Pallais 2017) Why? → Saves time: less commuting, multitasking (Hill et al., 2003, Bailey and Kurland, 2002) → More flexible time schedule (Crosbie and Moore 2004; Chung and Van der Lippe, 2020 ) → Allows for being more present in children’s lives (Callister and Singley, 2004) Page 3 Our contribution: → UK, larger sample → Accounting for timing of return → Role of work & family context Scarce evidence so far: Arntz et al. (2019): positive effects …",
+        "keywords": null,
+        "url": "https://labfam.uw.edu.pl/wp-content/uploads/2022/08/EPC2022.pdf"
+    },
+    {
+        "title": "The Access to Home-Based Work Gained During COVID-19 Pandemic and Changes in Fertility Intentions Among Men and Women",
+        "authors": "Anna Kurowska, Anna Matysiak, Beata Osiewalska",
+        "year": "2022/4/9",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://paa.confex.com/paa/2022/meetingapp.cgi/Paper/26743"
+    },
+    {
+        "title": "Does a couple’s empowerment profile shape fertility? The review of ten European countries",
+        "authors": "Beata Osiewalska",
+        "year": "2018/4/26",
+        "abstract": "This study aims to investigate the relationship between couples’ reproductive behaviour and the division of power between partners in different country-specific contexts. Power relations are measured by four types of inequality between partners: partners’ educational levels, ages, paid and unpaid labour. The first wave of Generations and Gender data for ten European countries are used. Parents and childless couples are considered under the hurdle Poisson model. The analysis has shown that male empowerment (male advantage in power induced by higher educational level, being older and doing less housework than the female partner) correlates with early childbearing and positively influences the number of children that couples at reproductive age have across Europe. Female empowerment is associated with late childbearing, but only in Northern and Western Europe. For older couples who have completed reproduction, male empowerment is associated with higher probability of parenthood in Central and Eastern Europe and France; it also correlates with higher completed fertility in selected CEE countries. Female empowerment negatively correlates with the probability of parenthood across Europe. Interestingly, in NWE, equally empowered couples have a similar number of children to traditional, male empowered unions, whereas in CEE, equality correlates with lower fertility than male empowerment. This disparity is likely connected to different levels of gender equality and various family policies in the two regions.",
+        "keywords": null,
+        "url": "https://paa.confex.com/paa/2018/mediafile/ExtendedAbstract/Paper21799/PAA_2018_paper.pdf"
+    },
+    {
+        "title": "Wykształcenie par a (bez) dzietność w Polsce",
+        "authors": "Beata Osiewalska",
+        "year": "2017/12/10",
+        "abstract": "Poziom wykształcenia jest jedną z najważniejszych determinant zachowań prokreacyjnych. Jest również jedną z najczęściej wykorzystywanych miar statusu społeczno-ekonomicznego jednostki. Osoby posiadające wykształcenie wyższe mają zazwyczaj bardziej stabilną sytuację zawodową oraz osiągają wyższe zarobki niż osoby o niższym wykształceniu, posiadają zatem lepsze warunki do zakładania i rozwoju rodziny (poprzez działanie efektu dochodowego, zob. Becker 1960). Z drugiej strony, inwestycja w pozyskanie wysokiego wykształcenia sprawia, że osoby te później decydują się na rodzicielstwo (Weeden i in. 2006, Ní Bhrolcháin i Beaujouan 2012, Berrington i in. 2015) i często ograniczają liczbę potomstwa na rzecz większych inwestycji (czasu, pieniędzy) w już posiadane dzieci (Becker i Lewis 1973). Ostatecznie, kierunek zależności pomiędzy poziomem wykształcenia a poziomem płodności w krajach rozwiniętych jest zróżnicowany. W Europie Środkowo-Wschodniej, w tym także w Polsce, obserwowany jest negatywny wpływ wysokiego wykształcenia na dzietność (Berent 1970, Kreyenfeld 2004, Koytcheva i Philipov 2008, Mureşan i Hoem 2010, Wood i in. 2014, Brzozowska 2014), zaś w Europie Zachodniej i Północnej korelacja ta jest często pozytywna (Kreyenfeld 2002, Kravdal i Rindfuss 2008, Andersson i in. 2009, Wood i in. 2014). W dotychczasowych badaniach zachowań prokreacyjnych uwaga jest najczęściej skoncentrowana na zbiorowości kobiet. W nielicznych analizach porównawczych z uwzględnieniem płci mężczyźni i kobiety są traktowani jako dwie odrębne populacje (np. Fieder i Huber 2007, Barthold i in. 2012 …",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/1827704.pdf"
+    },
+    {
+        "title": "Couple’s socioeconomic status and fertility intentions",
+        "authors": "Beata Osiewalska, Maria Rita Testa",
+        "year": "2017/4/27",
+        "abstract": "Studies addressing the link between socioeconomic characteristics and fertility intentions have found that the effect of education, permanent employment and male income is positive. However, most of previous studies have considered either only the women’s or only the men’s status and rarely include other socioeconomic characteristics besides the educational level. The aim of this study is to examine how women’s intended family size are shaped by SES of a couple, measured by educational level, educational field and occupation of both partners. The study is based on the Generations and Gender Survey (GGS) dataset for selected European countries, that represent different welfare regimes (Bulgaria, France, Norway and Poland). The Zero-Inflated Poisson model consisting of two states (zero and count) is applied. The results confirm, among others, that homogamy in high SES favours fertility intentions, but no indication of the connection between high couple’s SES and intentions to stay childless are revealed. Hypergamy predicts bipolarization, which suggests that a hypergamous couple wants to have either no child or, if any, many. Furthermore, hypogamy enhances the start of childbearing but also the limitation of complete family size.",
+        "keywords": null,
+        "url": "https://paa.confex.com/paa/2017/mediafile/ExtendedAbstract/Paper15402/Abstract_%20Osiewalska%20-%20Testa%20-%20PAA_extended.pdf"
+    },
+    {
+        "title": "The power of the spouse and fertility of a couple–a comparison of France and Poland1",
+        "authors": "Beata Osiewalska",
+        "year": "2016/4/1",
+        "abstract": "The dramatic fall in fertility level have been observed so far in many European countries. This phenomena led to the particular interest in the association between fertility and women’s educational attainment or labour market participation and the increase in female education and professional activity are one of the most common explanations of limited fertility. However, the various fertility levels observed among European countries suggest that the effect depends also on other conditions, such as the institutional support given to a family or the gender equality and power relation between partners. This study aims at investigating couples’ procreative behaviour with regard to the multidimensional partners’ power relation. To consider different country-specific contexts, the case study of France and Poland is compared. Since behavioural drivers might differ among parents and childless couples, both groups are considered under the Zero-Inflated Poisson model with Bayesian approach. The first wave GGS data are used. The analysis confirmed that the couple’s family model is driven by the gender power relation. The results differs by country. In Poland the male advantage in power relation is still positively connected to fertility. However, this relation seems to change, especially in younger age group, where sings of reverse association also appear. In France, on the other hand, the connection between power relation and fertility is more mixed. Positive effect of male as well as female empowerment on fertility occurs.",
+        "keywords": null,
+        "url": "https://paa.confex.com/paa/2016/mediafile/ExtendedAbstract/Paper7061/paper_Power_of_the_spouse_Osiewalska_PAA.pdf"
+    }
+]

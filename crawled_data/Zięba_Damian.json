@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Shock transmission in the cryptocurrency market. Is Bitcoin the most influential?",
+        "authors": "Damian Zięba, Ryszard Kokoszczyński, Katarzyna Śledziewska",
+        "year": "2019/7/1",
+        "abstract": "The growing cryptocurrency market has attracted the attention from many investors worldwide, mainly due to the ease of entering the market and its extremely volatile character. The main aim of this paper is to examine interdependencies between log-returns of cryptocurrencies, with the special focus on Bitcoin. Based on implications from the literature, we use methods dedicated for studying the stock market and apply the two-step analysis, comparing results between two subsequent periods. Results obtained using Minimum Spanning Tree (MST) method show that cryptocurrencies form hierarchical clusters, consistently over two separate periods, indicating potential topological properties of the cryptocurrency market. Then, using Vector Autoregression (VAR) model, we study the transmission of demand shocks within clusters. Results show that changes in Bitcoin price do not affect and are not affected by changes …",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1057521919300201"
+    },
+    {
+        "title": "High-frequency connectedness between Bitcoin and other top-traded crypto assets during the COVID-19 crisis",
+        "authors": "Paraskevi Katsiampa, Larisa Yarovaya, Damian Zięba",
+        "year": "2022/7/1",
+        "abstract": "In this paper, we analyse co-movements and correlations between Bitcoin and thirty-one of the most-tradable crypto assets using high-frequency data for the period from January 2019 to December 2020. We apply the Diagonal-BEKK model to data from the pre-COVID and COVID-19 periods, and identify significant changes in patterns of co-movements and correlations during the pandemic period. We also employ the Minimum Spanning Tree (MST) and Planar Maximally Filtered Graph (PMFG) methods to study the changes of the crypto asset network structure after the COVID-19 outbreak. While the influential role of Bitcoin in the digital asset ecosystem has been confirmed, our novel findings reveal that due to recent developments in the blockchain ecosystem, crypto assets that can be categorised as dApps and protocols have become more attractive to investors than pure cryptocurrencies.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1042443122000610"
+    },
+    {
+        "title": "Intraday volume-return nexus in cryptocurrency markets: Novel evidence from cryptocurrency classification",
+        "authors": "Larisa Yarovaya, Damian Zięba",
+        "year": "2022/4/1",
+        "abstract": "This paper analyses the volume-return relationships across the top 30 most traded cryptocurrencies from February 2018 to July 2019 using high-frequency intraday data. We use a novel approach for the classification of cryptocurrencies with respect to multiple qualitative factors, such as geographical location of headquarters, founder and founder’s origin, platform on which the cryptocurrency is built, and consensus algorithm, among others. We identify significant bidirectional causalities between trading volume and returns at different high-frequency intervals; however, those linkages are weakening with decreasing data frequencies. The findings confirm the leading position of the Bitcoin trading volume in the cryptocurrency price formation. This evidence will help investors to design effective trading strategies in cryptocurrency markets providing useful insights from cryptocurrency categorisation.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0275531921002130"
+    },
+    {
+        "title": "E-administracja w Polsce na tle Unii Europejskiej",
+        "authors": "Katarzyna Śledziewska, Damian Zięba",
+        "year": "2016",
+        "abstract": "Nasze życie w coraz większym stopniu oplatają technologie cyfrowe. Wykorzystujemy je do wykonywania codziennych czynności: sprawdzamy prognozę pogody i rozkłady jazdy, zamawiamy taksówkę i pizzę, słuchamy muzyki, płacimy rachunki, dokonujemy transakcji bankowych. Funkcjonowanie w Sieci dla większości z nas jest już czymś z gruntu naturalnym i intuicyjnym. Czy to spostrzeżenie odnosi się również do naszych kontaktów z administracją publiczną? Czy odbywają się one za pośrednictwem nowych technologii?\nCelem raportu jest określenie obecnego poziomu wykorzystania e-administracji w Polsce na tle innych krajów Unii Europejskiej oraz sformułowanie rekomendacji pod kątem jej rozwoju. Skupiamy się na interakcjach między e-administracją a obywatelami (G2C) oraz między e-administracją a przedsiębiorstwami (G2B). W oparciu o dane Eurostatu z lat 2013–2015 przedstawiamy kondycję e-administracji w Polsce na tle dwóch grup krajów Unii Europejskiej: EU15 (tzw. kraje „starej Unii”, które przystąpiły do niej przed 2004 rokiem) oraz NMS12 (New Member States, czyli kraje, które przystąpiły do Unii po rozszerzeniu w 2004 roku, oprócz Polski). Omawiamy również najpopularniejsze obszary interakcji między obywatelami i przedsiębiorstwami a e-administracją (składanie dokumentów w formie elektronicznej i e-przetargi). Próbujemy wyjaśnić, dlaczego akurat w tych obszarach obywatele i firmy chętniej wchodzą zapośredniczone cyfrowo kontakty z administracją. Przedstawiamy także wzorcowe rozwiązania z portalu brytyjskiego, www. gov. uk. W części końcowej raportu przedstawiamy miejsce Polski w …",
+        "keywords": null,
+        "url": "https://delab.uw.edu.pl/wp-content/uploads/2024/05/delab_e-administracja_w_pl.pdf"
+    },
+    {
+        "title": "On a road to optimal fleet routing algorithms: a gentle introduction to the state-of-the-art",
+        "authors": "Paweł Gora, Dominika Bankiewicz, Katarzyna Karnas, Wojciech Kaźmierczak, Michał Kutwin, Przemysław Perkowski, Szymon Płotka, Anna Szczurek, Damian Zięba",
+        "year": "2020/1/1",
+        "abstract": "In this chapter, we review the most important routing problems to give a concise and self-contained introduction to these research topics. We start from the Optimal Route Choice problem, then we focus on its extension, the Traveling Salesman Problem, and, finally, we describe the Vehicle Routing Problem, which can be seen as an extension of the Traveling Salesman Problem to the case of a fleet of vehicles. Thanks to such a structure, we can observe and understand how different problems and algorithms are linked, which may help researchers and experts working in the industry understand basic concepts of the fleet routing problems, apply best algorithms in practice, and develop better algorithms.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/B9780128157152000142"
+    },
+    {
+        "title": "Use of e-government in Poland in comparison to other European Union member states",
+        "authors": "Katarzyna Śledziewska, Adam Levai, Damian Zięba",
+        "year": "2016",
+        "abstract": "Adopting new technologies into the practice of national government can significantly improve the quality of public services and the government’s general performance. In this paper we present the results of our research on Poland’s performance of e-government in comparison to EU15 and NMS12. The analysis is based on data provided by Eurostat’s Information Society’s comprehensive database. We find that Poland, on average, is lagging behind other European countries from both SMEs perspective and especially from citizens perspective in implementing effective technologies in public sector. In this paper we deliver some recommendations for the polish government.",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/94905.pdf"
+    },
+    {
+        "title": "Innowacyjność polskich przedsiębiorstw",
+        "authors": "A Białek-Jaworska, M Ziembiński, D Zięba",
+        "year": "2016",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=3516484883188720979&hl=en&oi=scholarr"
+    },
+    {
+        "title": "A Machine Learning Approach for Bitcoin Forecasting",
+        "authors": "Stefano Sossi-Rojas, Gissel Velarde, Damian Zieba",
+        "year": "2023/6/29",
+        "abstract": "Bitcoin is one of the cryptocurrencies that has gained popularity in recent years. Previous studies have shown that closing price alone is not enough to forecast its future level, and other price-related features are necessary to improve forecast accuracy. We introduce a new set of time series and demonstrate that a subset is necessary to improve directional accuracy based on a machine learning ensemble. In our experiments, we study which time series and machine learning algorithms deliver the best results. We found that the most relevant time series that contribute to improving directional accuracy are open, high, and low, with the largest contribution of low in combination with an ensemble of a gated recurrent unit network and a baseline forecast. The relevance of other Bitcoin-related features that are not price-related is negligible. The proposed method delivers similar performance to the state of the art when observing directional accuracy.",
+        "keywords": null,
+        "url": "https://www.mdpi.com/2673-4591/39/1/27"
+    },
+    {
+        "title": "If GPU (time)== money: Sustainable crypto-asset market? Analysis of similarity among crypto-asset financial time series",
+        "authors": "Damian Zięba",
+        "year": "2024/1/1",
+        "abstract": "This study conducts a formal analysis of the price creation mechanisms of Proof-of-Work (PoW) and non-PoW crypto assets revealing that the long-term market trend aligns with the rising production cost of Bitcoin supply. Enabling the utilization of computational power for solving real-world problems, similar to data centers, would facilitate the sustainability of the crypto-asset market. On the other hand, Proof-of-Stake crypto assets may serve as a practical tool for managing the collaboration between startups and venture capitalists. The second part of the analysis proposes a co-movement measure, which might be more efficient than correlation metrics for analyzing the similarity between financial time series of returns.",
+        "keywords": null,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1059056023004069"
+    },
+    {
+        "title": "Are demand shocks in Bitcoin contagious?",
+        "authors": "Damian Zięba, Katarzyna Śledziewska",
+        "year": "2018",
+        "abstract": "The main aim of this paper is to examine interdependencies between prices of cryptocurrencies, with the special focus on Bitcoin. The analysis is conducted in two stages and results are compared between two consequent sub-periods. In order to analyze topological properties of cryptocurrency market, the Minimum-Spanning Tree technique is used. Results indicate that Bitcoin plays one of the most important roles in the cryptocurrency market, while other cryptocurrencies form clusters and such forming has a sensible economic interpretation. In the second stage, main cryptocurrencies from each of formed clusters are analyzed using the Vector Autoregression methodology. The results from VAR (1) indicate that demand shocks in Bitcoin price are not contagious to other cryptocurrencies, while some interdependencies within the formed clusters may be observed. Overall, results indicate that conclusions drawn from the analysis of Bitcoin shall not be generalized to the entire cryptocurrency market.",
+        "keywords": null,
+        "url": "https://www.researchgate.net/profile/Damian-Zieba/publication/327582626_Are_Demand_Shocks_in_Bitcoin_contagious/links/5ba2cfd045851574f7d7ff76/Are-Demand-Shocks-in-Bitcoin-contagious.pdf"
+    },
+    {
+        "title": "Different Aspects of Heterogeneity in the Crypto-Asset Market: A Systematic Review of Empirical Studies",
+        "authors": "Damian Zięba",
+        "year": "2024/9/4",
+        "abstract": "This study examines over 200 studies about the crypto-asset market where the words\" heterogeneity\" or\" time-varying\" appear in the title, keywords, or abstract. This way the search query captures the studies that explicitly identify a heterogeneous character of this market. The three main areas of heterogeneity identified are related to the asset-wise, time-varying, and time-frequency domain. The main topics where the heterogeneity is identified refer to the connectedness within the crypto-asset market, connectedness with the other asset classes, including a particular focus on the COVID-19 period, and sentiment analysis. Additionally, it is argued that the time-variant market behavior is related to the cyclical bubbles appearing after the Bitcoin halving period.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947445"
+    },
+    {
+        "title": "Heterogeneity of realized volatility on cryptoasset market",
+        "authors": "Damian Zięba",
+        "year": "2022/9/28",
+        "abstract": "This study presents the comprehensive analysis of the realized volatility (RV) on the cryptoasset market that examines multiple assets denominated in USD, EUR and XBT across twenty-two frequencies between 1-and 60-minute. The research focuses mainly on determining an optimal sampling frequency (OSF) for the estimation of volatility on the cryptoasset market which is hypothesized to be heterogeneous across different assets and in time. While in the case of the analysis of the noise-to-signal ratio (NSR) the level of heterogeneity does not enable to draw clear conclusions, with some implications for 15-min frequency to be optimal, the analysis of Mean Squared Errors (MSEs) obtained for forecasts using the HAR-RV model clearly suggests that 5-min frequency the forecast is not much worse than in the case of less noise-heavy lower frequencies such as 60-min. One of the contributions of this study is the proposal of HAR-RV (1, 7, 30) model for cryptoasset market which operates non-stop as an alternative for HAR-RV (1, 5, 22) used for traditional markets operating only during business hours/days. The study concludes with a brief analysis of dynamic connectedness of RV that is to be further investigated. Surprisingly, Bitcoin turned into a main receiver of volatility spillovers, being far from its instigator role from the past.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4256588"
+    },
+    {
+        "title": "Returns from Liquidity Provision in Cryptocurrency Markets.",
+        "authors": "D. Farag, H., Luo, D., Yarovaya, L., & Zieba",
+        "year": "2022",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=biKPX1QAAAAJ&citation_for_view=biKPX1QAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+        "title": "A liquidity redistribution effect in intercorporate lending: Evidence from private firms in Poland",
+        "authors": "Anna Bialek-Jaworska, Robert Faff, Damian Zieba",
+        "year": "2020",
+        "abstract": "Purpose\nWe examine the mechanism of intercorporate lending outside the business group, and a reaction of capital expenditures (CAPEX) and capital engagement in other firms to shocks in the provision of such loans. We diagnose the causes and effects of intercorporate lending outside the business group.\nDesign/Methodology/Approach\nWe use panel data from annual reports (balance sheets and income statements) of 4,600 private Polish companies that provided loans to other firms in the period 2003-2014. We apply the vector autoregression panel model for microeconomic data and analysis of Granger causality, impulse response functions, and forecast error variation decomposition to explore the mechanism of intercorporate loan provision.\nFindings\nNon-financial firms provide loans outside the business group through redistribution of their cash holdings generated from operating activity (cash flow) and long-term bank loans. The provision of loans by non-financial enterprises decreases CAPEX, as a result of the absence of free cash flows that were already used for loan provision. Shareholder loans substitute for capital engagement in other firms.\nPractical Implications\nThe findings could assist policymakers to notice that emergency borrowings from other companies are being used to defer defaults and introduce a new credit risk into the business sector.\nOriginality/Value\nThe redistribution effect of cash holdings and money borrowed from banks provided to unrelated firms outside the business group is dangerous for the stability of the financial system due to the risk that these “indirect borrowers” will default.",
+        "keywords": null,
+        "url": "https://www.um.edu.mt/library/oar/handle/123456789/56333"
+    },
+    {
+        "title": "Effect of crypto-asset market-specific technological development on the asymmetric volume-return relationship in the presence of cross-sectional dependence and heterogeneity",
+        "authors": "Damian Zięba",
+        "year": "2024/8/8",
+        "abstract": "The study investigates the asymmetric, heterogeneous, and time-variant character of the volume-return relationship in the crypto-asset market, focusing on three groups: cryptocurrencies, smart-contract platforms, and dApps. Most importantly, the results from the estimation using the PCSE and CCE-MG for the ARDL model showcase that this relationship is less (more) heterogeneous during (between) the major bubble periods. Overall, in line with the findings from the other studies, the larger impact of positive returns than negative ones and the positive impact of the institutional investors on investor confidence in the available liquidity is reflected in the data as well.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4919909"
+    },
+    {
+        "title": "Regulation of Geo-blocking: does it address the problem of low intraEU iTrade?",
+        "authors": "Joanna Mazur, Katarzyna Śledziewska, Damian Zięba",
+        "year": "2018",
+        "abstract": "Cross-border e-commerce between the member states of the European Union (hereinafter intraEU iTrade) is very low which shows that digital single market needs to be strengthened to use e-commerce potential within the EU. Additionally, in the context of the dynamic development of e-commerce in China and the USA, this fact becomes an essential challenge for shaping the economic policy in the EU. That is why the European",
+        "keywords": null,
+        "url": "https://www.delab.uw.edu.pl/wp-content/uploads/2018/07/Regulation_of_Geo-blocking_Sledziewska_Mazur_Zieba.pdf"
+    },
+    {
+        "title": "Internet infrastructure and its usage in Poland and other European Union member states",
+        "authors": "Katarzyna Śledziewska, Adam Levai, Damian Zięba",
+        "year": "2016",
+        "abstract": "One in four of all households in Poland does not have access to the Internet, while in the EU15, the same refers to only one in every six households. In this paper we analyze the Internet infrastructure from both supply (broadband coverage-speed) and demand (usage of Internet by individuals-SMEs) side, as well as the affordability aspect. In particular, we search for biggest gaps of Poland’s Internet infrastructure in comparison to other European Union Member States (EU15 and NMS12). Our empirical analysis is based on European Commission’s and ITU’s databases. Moreover, we provide some recommendations for the government and enterprises exposing the biggest gaps of Poland and emphasizing the beneficial impact of the Next Generation Access networks.",
+        "keywords": null,
+        "url": "https://bibliotekanauki.pl/articles/95083.pdf"
+    },
+    {
+        "title": "Ecological Co-Movements of Cryptoassets",
+        "authors": "Damian Zięba",
+        "year": "2022/2/22",
+        "abstract": "The study examines the co-movements between cryptoassets with regard to two groups–ecofriendly (based on non-Proof-of-Work mechanism) and non-ecofriendly (based on Proof-of-Work mechanism) ones. The analysis is conducted using the Minimum Spanning Tree (MST) method, with different specifications of a distance matrix, ie Pearson’s, Spearman’s and Kendall’s cross-correlation of log-returns and Detrended cross-correlation (DCCA) of price time series, for robustness purposes. The study covers the period between 4 October 2017–3 October 2021 and includes the sample of nineteen cryptoassets (nine non-ecofriendly and ten ecofriendly ones). The MST is analyzed not only within the entire timeframe but also within four separate one-year periods, in order to observe the evolution of topological properties, ie consistency of clusters and the hierarchical structure, of the market over time. The results indicate that cryptoassets clearly group into ecofriendly and non-ecofriendly clusters, which is consistent among four different specifications of distance matrix and four analyzed sub-periods. This implies that cryptoasset investors can be classified into two groups: a) pro-environment investors who mainly hold environmental-friendly cryptoassets in their portfolio, b) environment-ignorant ones who prefer to invest in energy-intensive Proof-of-Work-based cryptocurrencies which, at the same time, might be perceived as more secure and stable.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4040394"
+    },
+    {
+        "title": "High-Frequency Connectedness between Bitcoin and Other Top-Traded Crypto Assets during the COVID-19 Crisis (preprint)",
+        "authors": "Paraskevi Katsiampa, Larisa Yarovaya, Damian Zięba",
+        "year": "2021",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pl&user=biKPX1QAAAAJ&citation_for_view=biKPX1QAAAAJ:Se3iqnhoufwC"
+    },
+    {
+        "title": "Lévy processes in the cryptocurrency market",
+        "authors": "Damian Zięba",
+        "year": "2019/4/12",
+        "abstract": "The aim of this study was to determine which type of Lévy motion fits the data of cryptocurrencies better, namely Alpha-Stable distribution or one of distributions from the family of generalized hyperbolic motions. The log-returns of 227 cryptocurrencies, standardized by the realized volatility estimated with the GARCH (1, 1), were fitted to 11 types of distributions. The results show that the generalized hyperbolic motions fit the cryptocurrency data much more accurately than the Alpha-Stable distribution, similarly as in the case of TOP100 NASDAQ stocks. In the further stage of the analysis, it is shown how the distribution of cryptocurrency data varies over time, ie before, during, and after the'boom-period'of 2017/2018.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4900228"
+    }
+]

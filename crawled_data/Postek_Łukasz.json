@@ -1,0 +1,162 @@
+[
+    {
+        "title": "Poland's exceptional performance during the world economic crisis: new growth accounting evidence",
+        "authors": "Michal Gradzewicz, Jakub Growiec, Marcin Kolasa, Łukasz Postek, Pawel Strzelecki",
+        "year": "2014/9/10",
+        "abstract": "Using a growth accounting exercise based on new estimates of flows of capital and labor services in the Polish economy during the period 1995-2013, we study the consequences of the recent global economic crisis for the observed pace and structure of economic growth in Poland–a converging open economy which itself did not contribute to the breakout of the crisis. We thus provide a supply-side explanation why Poland fared so well during the world economic crisis. According to our results, the exceptional performance of the Polish economy in 2008-10 was an effect of several favorable circumstances. In particular, and unlike other European countries, it recorded both a marked increase in capital deepening and an improvement in workforce composition. We also find that the recent recession has not exerted any significant impact on the efficiency with which economic resources are used for production in Poland.",
+        "keywords": null,
+        "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2646562"
+    },
+    {
+        "title": "Poland’s uninterrupted growth performance: new growth accounting evidence",
+        "authors": "Michał Gradzewicz, Jakub Growiec, Marcin Kolasa, Łukasz Postek, Paweł Strzelecki",
+        "year": "2018/3/4",
+        "abstract": "Since 1992 Poland has experienced an exceptionally long spell of output growth that was not interrupted even by the global economic crisis. Using a growth accounting exercise based on new estimates of flows of capital and labour services in the Polish economy during the period 1996–2013, we study the structure of this growth, highlighting the key role of certain supply-side factors. Most notably, unlike other European countries, the Polish economy recorded both a marked increase in capital deepening, a big improvement in workforce composition (driven mostly by educational attainment), and an uninterrupted process of productivity convergence. We also comment on the supply-side factors which contributed to Poland’s relative resilience to the global economic crisis of 2007–2010.",
+        "keywords": null,
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/14631377.2017.1398519"
+    },
+    {
+        "title": "Nieliniowy model mechanizmu transmisji monetarnej w Polsce w latach 1999-2009: podejście empiryczne",
+        "authors": "Łukasz Postek",
+        "year": "2011",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=13166255750801692512&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Aktywność kredytowa sektora przedsiębiorstw niefinansowych w Polsce w okresie pandemii COVID-19",
+        "authors": "Boguszewski Piotr, Adam Głogowski, Piotr Popowski, Łukasz Postek, Katarzyna Puchalska, Agnieszka Sawicka, Izabela Tymoczko",
+        "year": "2020",
+        "abstract": null,
+        "keywords": null,
+        "url": "https://scholar.google.com/scholar?cluster=10049210353895029322&hl=en&oi=scholarr"
+    },
+    {
+        "title": "Rola czynników strukturalnych w kształtowaniu się wskaźnika płynności gotówkowej polskiego sektora przedsiębiorstw",
+        "authors": "Łukasz Postek, Katarzyna Puchalska",
+        "year": "2012",
+        "abstract": "Przedmiotem artykułu jest rola czynników strukturalnych w kształtowaniu się płynności finansowej polskiego sektora przedsiębiorstw w latach 2002− 2008. Skupiono się w nim na wyjaśnieniu źródła dodatniego i stosunkowo mało wrażliwego na wahania koniunkturalne trendu wskaźnika płynności I stopnia, a także rosnącej z upływem czasu wariancji rozkładu płynności. Badanie wskazuje, że czynniki strukturalne stanowią istotną determinantę płynności finansowej przedsiębiorstw, jednak dominują czynniki wewnętrzne, związane z kondycją ekonomiczną oraz indywidualnymi decyzjami i strategiami przedsiębiorstwa, a także czynniki losowe. Wyniki nie dają również podstaw do tego, aby to w czynnikach strukturalnych upatrywać głównego źródła wzrostowego trendu wskaźnika płynności, a także rosnącej wariancji rozkładu płynności finansowej w sektorze przedsiębiorstw. Można wręcz przypuszczać, że gdyby struktura sektora przedsiębiorstw nie podlegała ciągłej ewolucji, wskaźnik płynności sektora mógłby rosnąć szybciej. Istnieją natomiast pewne przesłanki, które pozwalają przypisać czynnikom strukturalnym istotną rolę w wygładzaniu płynności sektora przedsiębiorstw w ramach cyklu koniunkturalnego.",
+        "keywords": null,
+        "url": "http://bankikredyt.nbp.pl/content/2012/05/bik_05_2012_03_art.pdf"
+    },
+    {
+        "title": "Gated recurrent unit network: A promising approach to corporate default prediction",
+        "authors": "Michał Thor, Łukasz Postek",
+        "year": "2024/8",
+        "abstract": "This paper presents a promising approach using gated recurrent unit (GRU) network to predict bankruptcy based on the whole sequence of financial statements of the companies listed on an unregulated market. This approach contrasts with the traditional literature where default prediction is usually tackled with methods that do not fully account for a company's history. The GRU network can be used to model long‐term dependencies thanks to its update and reset gates, which prevent the vanishing gradient problem and decide how much of the past information is relevant for predicting a default. This aspect may be of utmost importance in alternative markets where the signal detection problem is particularly strong. The performance of the GRU network is compared against the performance of other standard machine learning methods including Cox proportional hazards, gradient‐boosted Cox proportional hazards …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/for.3057"
+    },
+    {
+        "title": "Supply chains shocks and inflation in Europe",
+        "authors": "Jakub Mućk, Łukasz Postek",
+        "year": "2023",
+        "abstract": "This article quantifies the effects of supply chains disruptions on inflation in European economies. We apply the local projections method in a panel framework and estimate responses of nine measures of consumer and producer inflation to shortages in materials and equipment reported by enterprises in the business surveys conducted by the European Commission. We find that supply chains disruptions are proinflationary for all considered measures of inflation, and a larger effect can be observed for inflation of prices of goods rather than services. The peak of impulse responses can be observed 4-6 quarters after shock, while the effect usually dies out after 8-12 quarters. The forecast error variance decomposition (FEVD) suggests that supply chain disruptions are much more important in explaining inflation changes at medium- rather than short-run forecast horizon. Moreover, supply chain shocks seem to matter relatively more for the variance of inflation of consumer prices of goods than for other measures of inflation. Interestingly, the positive estimates of the impact of supply chains disruptions on inflation can be related mainly to the period corresponding with the COVID-19 pandemics as well as the full-scale invasion of Ukraine and may exhibit asymmetric or regime-switching nature.",
+        "keywords": null,
+        "url": "https://cor.sgh.waw.pl/handle/20.500.12182/1180"
+    },
+    {
+        "title": "Non-linearity, state-dependency and asymmetry of the monetary transmission mechanism–some evidence from the Greenspan era",
+        "authors": "Łukasz Postek",
+        "year": "2016/3",
+        "abstract": "The thesis deals with the problems of nonlinearity and state-dependency of the monetary transmission model and asymmetric impulse responses in the Greenspan era. The main aim of the thesis is to verify whether the standard assumption of linearity and state-independency of the monetary transmission model holds in practice when a small three-equation model of monetary transmission is confronted with a broad set of data. The issue of asymmetric monetary transmission is of utmost importance from the perspective of strategic dilemmas regarding optimal scheduling of monetary policy actions. The literature overview leaves very little doubt that there are many theoretical and empirical reasons to believe that monetary transmission exhibits significant sign, size and state asymmetries no matter whether we make some general considerations or whether we focus solely on the Greenspan era. The econometric analysis performed here, based on the 𝑆𝑇𝐴𝑅 framework, delivers statistically significant sign and size asymmetries, but the obtained patterns are not robust among the estimated models. On the other hand, the adopted framework is successful at identifying sources of state-dependency of the estimated equations and state asymmetry of monetary transmission. Variables from all but one of the defined groups are found to deliver significant patterns of state asymmetry and, at the same time, the obtained patterns of state asymmetries are explicable from the theoretical point of view. We find the results to be useful from the perspective of conducting the monetary policy in practice.",
+        "keywords": null,
+        "url": "https://repozytorium.uw.edu.pl/bitstreams/7722efb3-1379-48e8-8596-814652e4ae31/download"
+    },
+    {
+        "title": "Perspektywy przyjęcia euro według polskich przedsiębiorstw niefinansowych",
+        "authors": "Łukasz Postek, Grzegorz Tchorek, Izabela D Tymoczko",
+        "year": "2015",
+        "abstract": "W ostatnich latach poparcie dla wprowadzenia euro w Polsce wśród przedsiębiorstw charakteryzowało się dużą zmiennością. Po przystąpieniu Polski do Unii Europejskiej przedsiębiorcy byli przychylni integracji walutowej, ale po wybuchu kryzysu zadłużeniowego w strefie euro, od 2010 r. poparcie dla zamiany złotego na euro spadło.\nBadanie ankietowe NBP z 2013 r. pokazało, że około 70% przedsiębiorstw niefinansowych popierało przyjęcie euro. Wśród zwolenników pełnej integracji walutowej aż 40% uzależniało jednak swoją akceptację od osiągnięcia przez Polskę wysokiego stopnia konwergencji z gospodarką strefy euro oraz przeprowadzenia reform, a kolejne 33%–od poprawy sytuacji w samej strefie euro. Warunkowe poparcie dla przyjęcia wspólnej waluty odzwierciedla ewolucję postrzegania bilansu korzyści i kosztów integracji walutowej na skutek doświadczeń kryzysowych strefy euro oraz słabości instytucjonalnych europejskiej unii walutowej. Może to jednocześnie sugerować wzrost świadomości przedsiębiorstw, że do czerpania korzyści z przyjęcia euro konieczne jest spełnienie pewnych warunków. Z jednej strony wiążą się one z zapewnieniem stabilności strefy euro, az drugiej z konwergencją realną polskiej gospodarki i koniecznością dysponowania zasobami decydującymi o międzynarodowej konkurencyjności.",
+        "keywords": null,
+        "url": "http://bankikredyt.nbp.pl/content/2015/02/bik_02_2015_02_art.pdf"
+    },
+    {
+        "title": "Sytuacja finansowa sektora przedsiębiorstw w III kw. 2014 r",
+        "authors": "Zofia Jankiewicz, Łukasz Postek, Katarzyna Puchalska, Agnieszka Sawicka, Izabela Tymoczko",
+        "year": "2014",
+        "abstract": "Sytuacja sektora przedsiębiorstw w II kw. br. wyraźnie się pogorszyła względem analogicznego okresu ub. r. oraz poprzedniego kwartału. Widać dwa główne źródła problemów: zbyt szybko rosnące koszty sprzedaży oraz spadek wyniku na operacjach finansowych. Negatywnie na poziom zysków oddziaływał również spadek tempa przychodów ze sprzedaży krajowej. W następstwie wymienionych zjawisk wynik finansowy po odprowadzeniu podatków zmalał o jedną trzecią względem poprzedniego roku. Wśród pozytywnych czynników obserwowanych w analizowanym okresie można wymienić wzrost dynamiki przychodów z eksportu, zwiększenie odsetka firm rentownych (przede wszystkim wśród eksporterów) oraz wzrost liczebności podmiotów w populacji.",
+        "keywords": null,
+        "url": "https://nbp.pl/wp-content/uploads/2023/01/raport_02_2012.pdf"
+    },
+    {
+        "title": "Cykliczne kształtowanie się inwestycji w zapasy–teoria a stylizowane fakty dotyczące Polski",
+        "authors": "Łukasz Postek",
+        "year": "2010",
+        "abstract": "Niniejszy artykuł stanowi próbę identyfikacji najważniejszych stylizowanych faktów, dotyczących cyklicznego kształtowania się poszczególnych kategorii inwestycji w zapasy w polskiej gospodarce. Dane rozpatrywane są w kontekście najważniejszych teorii zapasów za pomocą wskaźników analizy spektralnej i statystycznej. Pozwala to na jakościową ocenę relatywnej zgodności przedstawionych teorii z empirią. Ze względu na dużą heterogeniczność kształtowania się poszczególnych kategorii zapasów w przeprowadzonym badaniu wystąpiły liczne trudności związane z analizą danych zagregowanych do pozycji z rachunków narodowych. Dopiero analiza danych z formularzy F-01/I-01 GUS pozwala sformułować bardziej szczegółowe wnioski. Zapasy materiałów oraz zapasy towarów, choć ich zachowanie jest odmienne, wykazują największą zgodność z wnioskami z modelu (S, s). Zapasy produktów gotowych kształtują się zgodnie z istnieniem stockoutavoidance motive, podczas gdy zachowanie zapasów półproduktów i produkcji w toku jest zgodne z modelem wygładzania produkcji (production-smoothing). W szczególności, ostatnia obserwacja pozwala wyjaśnić fenomen niezgodnego z modelem wygładzania produkcji zachowania zapasów produktów gotowych.",
+        "keywords": null,
+        "url": "http://www.bankandcredit.nbp.pl/content/2010/03/bik_03_2010_03_art.pdf"
+    },
+    {
+        "title": "Default Prediction Models and Their Application to Poland’s NewConnect Market",
+        "authors": "Łukasz Postek, Michał Thor",
+        "year": "2020/3/31",
+        "abstract": "This paper deals with modeling the default of enterprises listed on Poland’s NewConnect market. The study covers an overview of the empirical literature on default prediction in Poland and proposes logit models to predict the default of enterprises listed on the NewConnect market over a one-year horizon. The lack of robustness of the estimates suggests there is no stable or monotonic relation between the financial indicators and default probability on the NewConnect market. Moreover, the models estimated in the study as well as those proposed in the literature suffer from a lack of out-of-sample predictive capabilities. Despite this, default prediction models seem to be potentially useful in the selection of stocks and in weighing them in the investment portfolio. Portfolios constructed on the basis of default prediction models, both those estimated in this paper and those proposed in the literature, are more profitable …",
+        "keywords": null,
+        "url": "https://gnpje.sgh.waw.pl/Modele-predykcji-bankructwa-i-ich-zastosowanie-dla-rynku-NewConnect,116656,0,2.html"
+    },
+    {
+        "title": "Modele predykcji bankructwa i ich zastosowanie dla rynku NewConnect",
+        "authors": "Łukasz Postek, Michał Thor",
+        "year": "2020/3/31",
+        "abstract": "Niniejsza praca podejmuje problematykę modelowania bankructwa spółek notowanych na rynku NewConnect. Dokonano przeglądu prac empirycznych związanych z predykcją upadłości przedsiębiorstw w Polsce i za pomocą regresji logistycznej zbudowano modele przewidujące bankructwa spółek notowanych na rynku NewConnect w rocznym horyzoncie czasowym. Brak odporności uzyskanych oszacowań podaje w wątpliwość istnienie stabilnej i monotonicznej relacji pomiędzy wskaźnikami finansowymi a prawdopodobieństwem bankructwa na NewConnect. Równocześnie zarówno oszacowane modele, jak i najpopularniejsze polskie modele predykcji bankructwa cechują się brakiem zdolności prognostycznych out-of-sample. Mimo to modele predykcji bankructwa okazują się być potencjalnie przydatne w wyborze celów inwestycyjnych i ustaleniu wag poszczególnych akcji w portfelu inwestycyjnym …",
+        "keywords": null,
+        "url": "https://www.ceeol.com/search/article-detail?id=972393"
+    },
+    {
+        "title": "Cointegration based trading strategy for soft commodities market",
+        "authors": "Piotr Arendarski, Łukasz Postek",
+        "year": "2012/10/24",
+        "abstract": "This paper explores cointegration among three of the most popular agriculture soft commodities (corn, soya and wheat) and its potential usefulness for dynamic asset allocation strategies. Johansen tests indicate that natural logarithms of weekly prices of corn, soya and wheat futures are cointegrated and two cointegrating vectors exist. Formal tests show that the estimated long-run relationship is stable even beyond the estimation sample. We use obtained results to create simple trading rules and verify their profitability. The trading strategies’ riskadjusted abnormal returns look to be significant based on the Sharpe ratio criterion and they are low correlated with the stock market.",
+        "keywords": null,
+        "url": "http://www.wne.uw.edu.pl/inf/wyd/WP/WNE_WP68.pdf"
+    },
+    {
+        "title": "Supply shortages and inflation in Europe",
+        "authors": "Jakub Mućk, Łukasz Postek",
+        "year": "2025",
+        "abstract": "This paper contributes to the literature by quantifying the effects of supply shortages on inflation in 19 European economies. In contrast to many other papers, it focuses on factual country‐specific shortages in materials and equipment reported by enterprises in the business surveys conducted by the European Commission rather than supply chain tensions that are measured only globally or for some major economies. We apply the local projections method in a panel framework, and estimate the responses of nine measures of consumer and producer inflation to supply shortages. We find that supply shortages are inflationary for all considered measures of inflation, and a larger effect can be observed for the inflation of prices of goods rather than services. The peak of impulse responses can be observed 4–6 quarters after a shock, while the effect usually dies out after 8–12 quarters. After a year, a one‐standard …",
+        "keywords": null,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ecca.12573"
+    },
+    {
+        "title": "Immigration (from Ukraine) and labour market in Poland–evidence from Bayesian VAR models",
+        "authors": "Łukasz Postek, Małgorzata Walerych",
+        "year": "2025",
+        "abstract": "This paper investigates the role of immigration shocks in shaping unemployment and wage dynamics in Poland–a country that experienced a significant influx of immigrants following Russia’s invasions of Ukraine in 2014 and 2022. To achieve this, we construct novel proxies for the size of immigration to Poland and use them to estimate structural BVAR models. Our results suggest that the impact of the 2022 refugee wave on the Polish economy differs from previous immigration inflows, primarily influencing aggregate demand and, to a lesser extent, boosting labour supply. More specifically, in recent years, immigration shocks have slightly reduced the unemployment rate and, to a greater extent, lowered the annual growth rate of real wages. At the same time, they contributed to higher growth in nominal wages, particularly after 2022, when the influx of non-working immigrants, which created significant consumption demand, was at its highest.",
+        "keywords": null,
+        "url": "https://static.nbp.pl/publikacje/materialy-i-studia/373_en.pdf"
+    },
+    {
+        "title": "Nonlinear dependencies in the Fama and French three-factor model",
+        "authors": "Jakub Bandurski, Łukasz Postek",
+        "year": "2023/4/3",
+        "abstract": "This article addresses the topic of nonlinear dependencies in the Fama and French three-factor model. Five time-series models, including nonlinear terms, are assessed using US and European data and compared with a benchmark linear model. The analysis found that nonlinear dependencies in the modified Fama and French three-factor model were statistically significant and provided additional explanatory power for the underlying return-generating process. However, these nonlinear dependencies are of secondary importance in the economic sense.",
+        "keywords": null,
+        "url": "https://journals.co.za/doi/abs/10.1080/10293523.2023.2179162"
+    },
+    {
+        "title": "Relacja między wzrostem pracownika a płacą na polskim rynku pracy–czy wyżsi zarabiają więcej?",
+        "authors": "Łukasz Postek, Weronika Poświata",
+        "year": "2021",
+        "abstract": "Autorzy podejmują problem relacji między wzrostem pracownika a jego płacą na polskim rynku pracy. W artykule dokonano przeglądu literatury uzasadniającej możliwość występowania takiej relacji na gruncie teoretycznym. Przywołano również wyniki badań empirycznych dokumentujących występowanie relacji między wzrostem pracownika a jego płacą w wielu krajach. Podobne badania nie były jak dotąd publikowane w odniesieniu do Polski. Badanie empiryczne przeprowadzone w artykule opiera się na modelach regresji oszacowanych na danych ankietowych pochodzących z „Diagnozy Społecznej” prowadzonej przez Radę Monitoringu Społecznego. Uzyskane wyniki potwierdzają występowanie pozytywnej relacji między wzrostem pracownika a jego płacą – przede wszystkim wśród mężczyzn w wybranych grupach zawodowych.",
+        "keywords": null,
+        "url": "https://ideas.repec.org/a/aoq/ekonom/y2021i3p375-396.html"
+    },
+    {
+        "title": "MATERIAŁY I STUDIA",
+        "authors": "Łukasz Postek",
+        "year": "2011",
+        "abstract": "Praca podejmuje problematykę nieliniowości i asymetrii w polskiej polityce pieniężnej w latach 1999–2009. Empiryczny model mechanizmu transmisji monetarnej wskazuje na występowanie istotnych nieliniowości i asymetrii zarówno na poziomie propagacji impulsu polityki pieniężnej, jak i reakcji władz monetarnych na otoczenie makroekonomiczne. Uzyskane wyniki można interpretować przez pryzmat niepewności transmisji monetarnej. Szczególną uwagę poświęcono skuteczności wpływu polityki pieniężnej na aktywność gospodarczą i inflację oraz efektywności szoków monetarnych w zależności od ich siły, znaku, fazy prowadzonej polityki pieniężnej oraz otoczenia makroekonomicznego. Przeprowadzone analizy wskazują, że moment podjęcia decyzji monetarnej istotnie wpływa na jej skuteczność i efektywność.",
+        "keywords": null,
+        "url": "https://nbp.pl/wp-content/uploads/2023/01/Nieliniowy_model_mechanizmu_transmisji_monetarnej.pdf"
+    },
+    {
+        "title": "ey Text sp. z oo",
+        "authors": "ŁUKASZ POSTEK, WERONIKA POŚWIATA",
+        "year": null,
+        "abstract": "Literatura dotycząca determinant poziomu płac jest niezwykle bogata. Do czynników najczęściej uwzględnianych w badaniach można zaliczyć: płeć, wykształcenie, stan cywilny, wiek, staż pracy czy miejsce zamieszkania. Wyłączając kolor skóry–uwzględniany w badaniach w przypadku niektórych krajów–relatywnie rzadko rozpatruje się natomiast wpływ czynników związanych z wyglądem zewnętrznym pracownika, choć ten również może mieć istotny wpływ na poziom wynagrodzenia. Społeczno-psychologicznym uzasadnieniem różnicowania płac ze względu na wygląd zewnętrzny może być choćby postrzeganie osoby atrakcyjnej fizycznie jako osoby zdrowej, pracowitej i ambitnej, co może być powodem do oferowania takiemu pracownikowi wyższej płacy (Hamermesh i Biddle 1994, 1998). Bardzo silnie skorelowany z ocenami atrakcyjności fizycznej człowieka jest wzrost. Ludzi wysokich postrzega się jako osoby zdrowe, dbające o prawidłowe odżywianie, inteligentne oraz takie, które mogą odnieść sukces (np. Judge i Cable 2004). Badania empiryczne przywołane w dalszej części pracy wskazują na istnienie dodatniej zależności między wzrostem a wysokością zarobków w wielu krajach. Mimo że artykuły podejmujące problematykę relacji między wzrostem ciała a wynagrodzeniem były publikowane w najlepszych zagranicznych czasopismach ekonomicznych1, zależność ta nie była jak dotąd–wedle wiedzy autorów–przedmiotem badań w przypadku polskiego rynku pracy.",
+        "keywords": null,
+        "url": "https://www.pte.pl/pliki/1/8905/Ekonomista-3_2021-ref.3.pdf"
+    }
+]
